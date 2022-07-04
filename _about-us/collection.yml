@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Management Committee.md
       - Principal's Foreword/2022 Foreword.md
       - Principal's Foreword/2021 Foreword.md
       - Principal's Foreword/2020 Foreword.md
