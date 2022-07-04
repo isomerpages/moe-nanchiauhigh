@@ -2,5 +2,4 @@ collections:
   about-us:
     output: true
     order:
-      - Corporate Directory.md
       - Contact Us.md
