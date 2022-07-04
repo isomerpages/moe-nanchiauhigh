@@ -28,7 +28,7 @@ third_nav_title: Corporate Directory
 
 
 
-|Ms Jane Hoe | Mrs Cheryl Lo|  Mdm Anna Yap|
+| Mdm Tan Pek Cheng | Mr John Mak|  Mdm Khaw Hwee Mung|
 | -------- | -------- | -------- |
-| Head Of Department - Aesthetics  <br>Art Teacher   | Head Of Department - Character Education (CCE)     | Head Of Department - English      |
-|**Email:**[hoe\_jane@moe.edu.sg](mailto:hoe_jane@moe.edu.sg)<br>**Ext:** 210|**Email:**   [ng\_ai\_tee\_cheryl@moe.edu.sg](mailto:ng_ai_tee_cheryl@moe.edu.sg)<br>**Ext:** 207|**Email:** [yap\_teck\_lay\_anna@moe.edu.sg](mailto:yap_teck_lay_anna@moe.edu.sg)<br>**Ext:** 204
+|Head Of Department - Humanities | Head Of Department - ICT & Data Management| Head Of Department - Maths   |
+|**Email:**   [tan\_pek\_cheng@moe.edu.sg](mailto:tan_pek_cheng@moe.edu.sg)<br>**Ext:** 206|**Email:**   [admin\_nchs@moe.edu.sg](mailto:admin_nchs@moe.edu.sg) <br>**Ext:** 201|**Email:**   [khaw\_hwee\_mung@moe.edu.sg](mailto:khaw_hwee_mung@moe.edu.sg)<br>**Ext:** 203
