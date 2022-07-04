@@ -73,4 +73,4 @@ third_nav_title: Corporate Directory
 |Mr Goh Giam Hwee|Ms Rama (Renuka)| Ms Chen Xiao Wei|
 | -------- | -------- | -------- |
 |Year Head - Lower Secondary | Year Head - Upper Secondary| Assistant Year Head - Secondary 2  <br> _CCA : English Drama_  |
-|**Email:**   [ng\_mui\_hoon@moe.edu.sg](mailto:ng_mui_hoon@moe.edu.sg)<br>**Ext:** 202|**Email:**   [neewyn\_neo\_sin\_yee@moe.edu.sg](mailto:neewyn_neo_sin_yee@moe.edu.sg)  <br>**Ext:** 208|**Email:**   [neo\_choong\_wei\_dalvey@moe.edu.sg](mailto:neo_choong_wei_dalvey@moe.edu.sg) <br>**Ext:** 211
+|**Email:**  [goh\_giam\_hwee@moe.edu.sg](mailto:goh_giam_hwee@moe.edu.sg) <br>**Ext:** 318|**Email:**  [renuka\_ramakrishnan@moe.edu.sg](mailto:renuka_ramakrishnan@moe.edu.sg)<br>**Ext:** 209|**Email:**   [chen\_xiaowei\_a@moe.edu.sg](mailto:chen_xiaowei_a@moe.edu.sg)<br>**Ext:** 322
