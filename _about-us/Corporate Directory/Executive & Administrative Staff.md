@@ -52,7 +52,7 @@ third_nav_title: Corporate Directory
 
 
 <img src="/images/Mr%20Muhamad%20Kamel.jpeg" 
-     style="width:30%">
+     style="width:30%;align:right">
 		 
 
 | Mdm Lim Zhenyi   |Mr Hairwan bin Bajuri| Mr Muhamad Kamel |
