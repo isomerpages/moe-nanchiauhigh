@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Principal's Foreword
 ---
 <img src="/images/imageedit_6_92289466612019.png" 
-     style="width:25%;float:left">
+     style="width:40%;float:left">
 		 
 今年的3月8日，我们南侨中学在72周年创校纪念日当天举行校庆。72年前我们是南侨师范学校，今天，我们是昂然屹立的南侨中学。在今年开学的周会上，我跟全校老师和同学说，新年复始，万象更新，最大的改变就是我们南侨中学换了校长；大家得适应我，我也得适应大家。大家辛苦了。这话犹如在耳，也就过了近一年。  
 
