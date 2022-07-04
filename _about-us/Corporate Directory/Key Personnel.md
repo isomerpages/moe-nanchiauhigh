@@ -32,3 +32,18 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 |Head Of Department - Humanities | Head Of Department - ICT & Data Management| Head Of Department - Maths   |
 |**Email:**   [tan\_pek\_cheng@moe.edu.sg](mailto:tan_pek_cheng@moe.edu.sg)<br>**Ext:** 206|**Email:**   [admin\_nchs@moe.edu.sg](mailto:admin_nchs@moe.edu.sg) <br>**Ext:** 201|**Email:**   [khaw\_hwee\_mung@moe.edu.sg](mailto:khaw_hwee_mung@moe.edu.sg)<br>**Ext:** 203
+
+<img src="/images/Mr%20Oh%20Keng%20Ann.jpeg" 
+     style="width:30%;float:left">
+		 <img src="/images/Arthur.jpg" 
+     style="width:30%;float:left">
+<img src="/images/Mr%20Goh%20Lam%20Chye.png" 
+     style="width:30%;">
+
+
+
+
+|  Mr Oh Keng Ann| Mr Lim Heng Boon Arthur|  Mr Goh Lam Chye|
+| -------- | -------- | -------- |
+|Head Of Department - MTL  | Head Of Department - Physical Education| Head Of Department - SAP  |
+|**Email:**   [tan\_pek\_cheng@moe.edu.sg](mailto:tan_pek_cheng@moe.edu.sg)<br>**Ext:** 206|**Email:**   [admin\_nchs@moe.edu.sg](mailto:admin_nchs@moe.edu.sg) <br>**Ext:** 201|**Email:**   [khaw\_hwee\_mung@moe.edu.sg](mailto:khaw_hwee_mung@moe.edu.sg)<br>**Ext:** 203
