@@ -76,7 +76,16 @@ third_nav_title: Corporate Directory
 |**Email:**[nchs@moe.edu.sg](mailto:nchs@moe.edu.sg)<br>**Ext:** 107|**Email:**   [teo\_swee\_ling\_elizabeth@moe.edu.sg](mailto:teo_swee_ling_elizabeth@moe.edu.sg)  <br>**Ext:** 107|**Email:**[nchs@moe.edu.sg](mailto:nchs@moe.edu.sg)  <br>**Ext:** 226
 
 
+<img src="/images/Mr%20Choo%20Swee%20Lock.jpeg" 
+     style="width:30%;float:left">
+		 <img src="/images/Mdm%20Teo%20Swee%20Ling%20Elizabeth.jpeg" 
+     style="width:30%;float:left">
+<img src="/images/Mdm%20Gong%20Li%20Ping.jpeg" 
+     style="width:30%">
+		 
+		 
 
-
-
-
+| Mr Choo Swee Lock |Mdm Elizabeth| Mdm Gong Li Ping |
+| -------- | -------- | -------- |
+| Operations Support Officer   | Operations Support Officer|Operations Support Officer  |
+|**Email:**[nchs@moe.edu.sg](mailto:nchs@moe.edu.sg)<br>**Ext:** 107|**Email:**   [teo\_swee\_ling\_elizabeth@moe.edu.sg](mailto:teo_swee_ling_elizabeth@moe.edu.sg)  <br>**Ext:** 107|**Email:**[nchs@moe.edu.sg](mailto:nchs@moe.edu.sg)  <br>**Ext:** 226
