@@ -11,8 +11,19 @@ third_nav_title: Corporate Directory
 <img src="/images/Mdm%20Yap%20Teck%20Lay%20Anna.jpeg" 
      style="width:30%;">
 
-#### 
 
+
+|Ms Jane Hoe | Mrs Cheryl Lo|  Mdm Anna Yap|
+| -------- | -------- | -------- |
+| Head Of Department - Aesthetics  <br>Art Teacher   | Head Of Department - Character Education (CCE)     | Head Of Department - English      |
+|**Email:**[hoe\_jane@moe.edu.sg](mailto:hoe_jane@moe.edu.sg)<br>**Ext:** 210|**Email:**   [ng\_ai\_tee\_cheryl@moe.edu.sg](mailto:ng_ai_tee_cheryl@moe.edu.sg)<br>**Ext:** 207|**Email:** [yap\_teck\_lay\_anna@moe.edu.sg](mailto:yap_teck_lay_anna@moe.edu.sg)<br>**Ext:** 204
+
+<img src="/images/Mdm%20Tan%20Pek%20Cheng.jpeg" 
+     style="width:30%;float:left">
+		 <img src="/images/Mr%20John%20Mak.png" 
+     style="width:30%;float:left">
+<img src="/images/Mdm%20Khaw%20Hwee%20Mung.png" 
+     style="width:30%;">
 
 
 
