@@ -19,8 +19,7 @@ Mr Chua Kee Seng Thomas
 <br>蔡其生
 </center>
 
-| Honorary Secretary | Honorary Treasurer | Supervisor | Deputy Supervisor|
-| -------- | -------- | -------- |-------- |
+
 
 <img src="/images/02%20Lee%20Cheng%20Chye%20William.jpeg" 
      style="width:25%;float:left">
@@ -32,6 +31,6 @@ Mr Chua Kee Seng Thomas
      style="width:25%">
 
 
-|||||
+| Honorary Secretary | Honorary Treasurer | Supervisor | Deputy Supervisor|
 | -------- | -------- | -------- |-------- |
 | **Mr Lee Cheng Chye William**<br>李清财    | **Mr Ang Bock Cheng Derrick**<br>洪木清    | **Mr Tan Kang Uei Anthony**<br>陈康威     | **Mr Ong Chuon Yi** <br>王忠毅
