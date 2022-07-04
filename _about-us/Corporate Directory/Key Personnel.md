@@ -74,3 +74,16 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 |Year Head - Lower Secondary | Year Head - Upper Secondary| Assistant Year Head - Secondary 2  <br> _CCA : English Drama_  |
 |**Email:**  [goh\_giam\_hwee@moe.edu.sg](mailto:goh_giam_hwee@moe.edu.sg) <br>**Ext:** 318|**Email:**  [renuka\_ramakrishnan@moe.edu.sg](mailto:renuka_ramakrishnan@moe.edu.sg)<br>**Ext:** 209|**Email:**   [chen\_xiaowei\_a@moe.edu.sg](mailto:chen_xiaowei_a@moe.edu.sg)<br>**Ext:** 322
+
+<img src="/images/Ms%20Chong%20Ka%20Wuei.png" 
+     style="width:30%;float:left">
+		 <img src="/images/Ms%20Agnes%20Cheong.png" 
+     style="width:30%;float:left">
+<img src="/images/Ms%20Chay%20Chia%20Ling.png" 
+     style="width:30%;">
+
+
+|Ms Chong Ka Wuei| Ms Agnes Cheong| Ms Chay Chia Ling|
+| -------- | -------- | -------- |
+|Subject Head - SAP  <br>_CCA : Wind Orchestra_ <br> Form Teacher - 3 Sincerity | Subject Head - CCE| Subject Head - Chinese Language <br> _CCA : String Orchestra_  <br>Form Teacher - 3 Innovation |
+|**Email:**  [chong\_ka\_wuei@moe.edu.sg](mailto:chong_ka_wuei@moe.edu.sg)<br>**Ext:** 212|**Email:**   [cheong\_zheng\_yin\_agnes@moe.edu.sg](mailto:cheong_zheng_yin_agnes@moe.edu.sg)  <br>**Ext:** 212|**Email:**  [chay\_chia\_ling@moe.edu.sg](mailto:chay_chia_ling@moe.edu.sg) <br>**Ext:** 220
