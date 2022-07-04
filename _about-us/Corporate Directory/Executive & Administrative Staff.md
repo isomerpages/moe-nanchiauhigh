@@ -88,3 +88,11 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 | Operations Support Officer   | Operations Support Officer|Desktop Engineer   |
 |**Email:**[nchs@moe.edu.sg](mailto:nchs@moe.edu.sg)<br>**Ext:** 226|**Email:** [nchs@moe.edu.sg](mailto:nchs@moe.edu.sg)  <br>**Ext:** 226|**Email:** -  <br>**Ext:** 225
+
+<img src="/images/Shan.jpeg" 
+     style="width:30%">
+		 
+| Mdm Shanmugavadivu|
+|---|
+|Operations Support Officer|
+|**Email:**[nchs@moe.edu.sg](mailto:nchs@moe.edu.sg)<br>**Ext:** 107
