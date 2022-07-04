@@ -26,8 +26,9 @@ third_nav_title: Corporate Directory
 		 <img src="/images/Ms%20Norwadiana%20Binte%20Ahmad.jpeg" 
      style="width:30%;float:left">
 <img src="/images/Ms%20Woon%20Ai%20Gee%20photo.jpeg" 
-     style="width:30%;height:210px">
-		 
+     style="width:30%">
+
+<br>
 
 | Mdm Annie Jones | Ms Norwadiana Ahmad | Ms Woon Ai Gee |
 | -------- | -------- | -------- |
