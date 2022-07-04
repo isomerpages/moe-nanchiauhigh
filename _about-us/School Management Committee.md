@@ -49,6 +49,7 @@ Mr Chua Kee Seng Thomas
 
 | **Mr Chan Hock Keng**<br>曾福庆 | **Mr Loo Lip Giam Paul**<br>吕立岩 | **Mr Lee Sze Leong**<br>李思亮 | **Ms Ng Hsueh Ling**<br>黄雪铃|
 | -------- | -------- | -------- |-------- |
+||||
 
 <img src="/images/10%20Lim%20Eng%20Koo%20Nelson.jpeg" 
      style="width:25%;float:left">
@@ -63,3 +64,4 @@ Mr Chua Kee Seng Thomas
 
 | **Mr Lim Eng Koo Nelson**<br>林永车 |**Mr Neo Kah Kiat**<br>梁佳吉 | **Mr Lee Swee Keng**<br>李瑞庆| **Mr Teo Chin Meng Jimmy**<br>张振铭
 | -------- | -------- | -------- |-------- |
+||||
