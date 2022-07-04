@@ -16,5 +16,5 @@ SHHK Affiliated Schools 44th SMC
 		 
 <center>
 Mr Chua Kee Seng Thomas 
-蔡其生
+<br>蔡其生
 </center>
