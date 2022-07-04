@@ -47,3 +47,16 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 |Head Of Department - MTL  | Head Of Department - Physical Education| Head Of Department - SAP  |
 |**Email:**   [oh\_keng\_ann@moe.edu.sg](mailto:oh_keng_ann@moe.edu.sg)<br>**Ext:** 205|**Email:**   [lim\_heng\_boon@moe.edu.sg](mailto:yeo_yew_yong@moe.edu.sg)<br>**Ext:** 200|**Email:**   [goh\_lam\_chye@moe.edu.sg](mailto:goh_lam_chye@moe.edu.sg)  <br>**Ext:** 221
+
+<img src="/images/Mdm%20Ng%20Mui%20Hoon.jpeg" 
+     style="width:30%;float:left">
+		 <img src="/images/Mdm%20Neewyn%20Neo%20Sin%20Yee.jpeg" 
+     style="width:30%;float:left">
+<img src="/images/Mr%20Neo%20Choong%20Wei%20Dalvey.jpeg" 
+     style="width:30%;">
+
+
+| Mdm Ng Mui Hoon| Mdm Neewyn Neo|  #### Mr Dalvey Neo|
+| -------- | -------- | -------- |
+|Head Of Department - Science | School Staff Developer| Head Of Department - Student Management  |
+|**Email:**   [oh\_keng\_ann@moe.edu.sg](mailto:oh_keng_ann@moe.edu.sg)<br>**Ext:** 205|**Email:**   [lim\_heng\_boon@moe.edu.sg](mailto:yeo_yew_yong@moe.edu.sg)<br>**Ext:** 200|**Email:**   [goh\_lam\_chye@moe.edu.sg](mailto:goh_lam_chye@moe.edu.sg)  <br>**Ext:** 221
