@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Principal's Foreword/2020 Foreword.md
       - Principal's Foreword/2019 Foreword.md
       - Principal's Foreword/.keep
       - Corporate Directory/Executive & Administrative Staff.md
