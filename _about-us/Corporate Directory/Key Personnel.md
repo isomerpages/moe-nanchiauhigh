@@ -60,3 +60,17 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 |Head Of Department - Science | School Staff Developer| Head Of Department - Student Management  |
 |**Email:**   [ng\_mui\_hoon@moe.edu.sg](mailto:ng_mui_hoon@moe.edu.sg)<br>**Ext:** 202|**Email:**   [neewyn\_neo\_sin\_yee@moe.edu.sg](mailto:neewyn_neo_sin_yee@moe.edu.sg)  <br>**Ext:** 208|**Email:**   [neo\_choong\_wei\_dalvey@moe.edu.sg](mailto:neo_choong_wei_dalvey@moe.edu.sg) <br>**Ext:** 211
+
+<img src="/images/Jimmy%20Goh%20Giam%20Hwee%202020.jpeg" 
+     style="width:30%;float:left">
+		 <img src="/images/Ms%20Rama%20Renuka.png" 
+     style="width:30%;float:left">
+<img src="/images/Ms%20Chen%20Xiaowei%20Chney.jpeg" 
+     style="width:30%;">
+
+
+
+| Mdm Ng Mui Hoon| Mdm Neewyn Neo|  Mr Dalvey Neo|
+| -------- | -------- | -------- |
+|Head Of Department - Science | School Staff Developer| Head Of Department - Student Management  |
+|**Email:**   [ng\_mui\_hoon@moe.edu.sg](mailto:ng_mui_hoon@moe.edu.sg)<br>**Ext:** 202|**Email:**   [neewyn\_neo\_sin\_yee@moe.edu.sg](mailto:neewyn_neo_sin_yee@moe.edu.sg)  <br>**Ext:** 208|**Email:**   [neo\_choong\_wei\_dalvey@moe.edu.sg](mailto:neo_choong_wei_dalvey@moe.edu.sg) <br>**Ext:** 211
