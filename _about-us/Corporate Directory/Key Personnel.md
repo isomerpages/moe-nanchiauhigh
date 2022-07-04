@@ -99,4 +99,4 @@ third_nav_title: Corporate Directory
 | Mr Fu Kaidi| Mr Goh Khan Sen|   Mr Aw Si Kuan|
 | -------- | -------- | -------- |
 |Subject Head - English  <br>_CCA : Scouts_ |Subject Head - Science Research  <br>_CCA : Robotics Club_|Subject Head - Student Leadership & Outdoor Education<br>_CCA : Basketball_  <br>_Student Council (Advisor)_<br>Form Teacher - 3 Integrity|
-|**Email:**       [lee\_heng\_leong@moe.edu.sg](mailto:lee_heng_leong@moe.edu.sg)  <br>**Ext:** 302|**Email:**  [tang\_pui\_lin@moe.edu.sg](mailto:tang_pui_lin@moe.edu.sg) <br>**Ext:** 323|**Email:**[raffi\_buang@moe.edu.sg](mailto:raffi_buang@moe.edu.sg)  <br>**Ext:** 303
+|**Email:**  [](mailto:tai_chaw_keng@moe.edu.sg) [fu\_kaidi@moe.edu.sg](mailto:fu_kai_di@moe.edu.sg)<br>**Ext:** 352|**Email:**  [goh\_khan\_sen@moe.edu.sg](mailto:goh_khan_sen@moe.edu.sg) <br>**Ext:** 328|**Email:**[aw\_si\_kuan@moe.edu.sg](mailto:aw_si_kuan@moe.edu.sg) <br>**Ext:** 311
