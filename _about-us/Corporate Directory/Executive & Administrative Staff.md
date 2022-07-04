@@ -40,7 +40,7 @@ third_nav_title: Corporate Directory
 		 <img src="/images/Mdm%20Yee%20May%20May.jpeg" 
      style="width:30%;float:left">
 <img src="/images/Mdm%20Lee%20Gek%20Neo%20Rina.jpeg" 
-     style="width:30%;">
+     style="width:30%">
 		 
 
 | Mdm  Alice Chua |Mdm Yee May May | Ms Rina Lee |
