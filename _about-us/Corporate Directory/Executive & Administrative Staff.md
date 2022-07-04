@@ -94,6 +94,6 @@ third_nav_title: Corporate Directory
 		 
 <center>
 	
-Mdm Shanmugavadivu<br>Operations Support Officer<br> **Email:**[nchs@moe.edu.sg](mailto:nchs@moe.edu.sg) <br> **Ext:** 107
+Mdm Shanmugavadivu<br>Operations Support Officer<br> Email:[nchs@moe.edu.sg](mailto:nchs@moe.edu.sg) <br> Ext: 107
 
 </center>
