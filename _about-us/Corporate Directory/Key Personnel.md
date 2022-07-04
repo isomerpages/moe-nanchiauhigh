@@ -88,15 +88,15 @@ third_nav_title: Corporate Directory
 |Subject Head - SAP  <br>_CCA : Wind Orchestra_ <br> Form Teacher - 3 Sincerity | Subject Head - CCE| Subject Head - Chinese Language <br> _CCA : String Orchestra_  <br>Form Teacher - 3 Innovation |
 |**Email:**  [chong\_ka\_wuei@moe.edu.sg](mailto:chong_ka_wuei@moe.edu.sg)<br>**Ext:** 212|**Email:**   [cheong\_zheng\_yin\_agnes@moe.edu.sg](mailto:cheong_zheng_yin_agnes@moe.edu.sg)  <br>**Ext:** 212|**Email:**  [chay\_chia\_ling@moe.edu.sg](mailto:chay_chia_ling@moe.edu.sg) <br>**Ext:** 220
 
-<img src="/images/Mr%20Lee%20Heng%20Leong.png" 
+<img src="/images/Mr%20Fu%20Kaidi.jpg" 
      style="width:30%;float:left">
-		 <img src="/images/Mdm%20Tang%20Pui%20Lin.png" 
+		 <img src="/images/Mr%20Goh%20Khan%20Sen.jpeg" 
      style="width:30%;float:left">
-<img src="/images/Mr%20Raffi%20Bin%20Buang.jpeg" 
+<img src="/images/Mr%20Aw%20Si%20Kuan.jpeg" 
      style="width:30%;">
 
 
-|Mr Lee Heng Leong| Mdm Tang Pui Lin| Mr Raffi Buang|
+| Mr Fu Kaidi| Mr Goh Khan Sen|   Mr Aw Si Kuan|
 | -------- | -------- | -------- |
-|Subject Head - ICT  <br> _CCA : Infocomm Club_  <br> Form Teacher - 4 Innovation | Subject Head - Maths  <br>_CCA : Chinese Orchestra_| Subject Head - Physical Education  <br>_CCA : Track and Field_  <br>_National Cadet Corps (Advisor)_ |
+|Subject Head - English  <br>_CCA : Scouts_ |Subject Head - Science Research  <br>_CCA : Robotics Club_|Subject Head - Student Leadership & Outdoor Education<br>_CCA : Basketball_  <br>_Student Council (Advisor)_<br>Form Teacher - 3 Integrity|
 |**Email:**       [lee\_heng\_leong@moe.edu.sg](mailto:lee_heng_leong@moe.edu.sg)  <br>**Ext:** 302|**Email:**  [tang\_pui\_lin@moe.edu.sg](mailto:tang_pui_lin@moe.edu.sg) <br>**Ext:** 323|**Email:**[raffi\_buang@moe.edu.sg](mailto:raffi_buang@moe.edu.sg)  <br>**Ext:** 303
