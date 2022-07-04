@@ -48,15 +48,15 @@ third_nav_title: Corporate Directory
 |**Email:**   [chua\_siam\_tiang@moe.edu.sg](mailto:chua_siam_tiang@moe.edu.sg)<br>**Ext:** 105|**Email:** [yee\_may\_may@moe.edu.sg](mailto:yee_may_may@moe.edu.sg)<br>**Ext:** 226|**Email:** [lee\_gek\_neo\_rina@moe.edu.sg](mailto:lee_gek_neo_rina@moe.edu.sg)<br>**Ext:** 107
 
 
-<img src="/images/Mdm%20Chua%20Siam%20Tiang%20Alice.jpeg" 
-     style="width:30%;float:left">
-		 <img src="/images/Mdm%20Yee%20May%20May.jpeg" 
-     style="width:30%;float:left">
-<img src="/images/Mdm%20Lee%20Gek%20Neo%20Rina.jpeg" 
-     style="width:30%;">
+
+<img src="/images/Mr%20Muhamad%20Kamel.jpeg" 
+     style="width:30%;float:right">
 		 
 
-| Mdm  Alice Chua |Mdm Yee May May | Ms Rina Lee |
+| Mdm Lim Zhenyi   |Mr Hairwan bin Bajuri| Mr Muhamad Kamel |
 | -------- | -------- | -------- |
-| Management Support Officer    | Technical Support Officer  <br>(Science Labs)  | Receptionist   |
-|**Email:**   [chua\_siam\_tiang@moe.edu.sg](mailto:chua_siam_tiang@moe.edu.sg)<br>**Ext:** 105|**Email:** [yee\_may\_may@moe.edu.sg](mailto:yee_may_may@moe.edu.sg)<br>**Ext:** 226|**Email:** [lee\_gek\_neo\_rina@moe.edu.sg](mailto:lee_gek_neo_rina@moe.edu.sg)<br>**Ext:** 107
+| Technical Support Officer  <br>(Science Labs)   | ICT (Associate) | Technical Support Officer  <br>(D&T)  |
+|**Email:** [lim\_zhenyi\_lin\_zhenyi@moe.edu.sg](mailto:lim_zhenyi_lin_zhenyi@moe.edu.sg)  <br>**Ext:** 226|**Email:**  [hairwan\_bin\_bajuri@moe.com.sg](mailto:hairwan_bin_bajuri@moe.com.sg)<br>**Ext:** 225|**Email:**[muhamad\_kamel\_hussein@moe.edu.sg](mailto:muhamad_kamel_hussein@moe.edu.sg)<br>**Ext:** 107
+
+
+
