@@ -76,16 +76,15 @@ third_nav_title: Corporate Directory
 |**Email:**[nchs@moe.edu.sg](mailto:nchs@moe.edu.sg)<br>**Ext:** 107|**Email:**   [teo\_swee\_ling\_elizabeth@moe.edu.sg](mailto:teo_swee_ling_elizabeth@moe.edu.sg)  <br>**Ext:** 107|**Email:**[nchs@moe.edu.sg](mailto:nchs@moe.edu.sg)  <br>**Ext:** 226
 
 
-<img src="/images/Mr%20Choo%20Swee%20Lock.jpeg" 
+<img src="/images/Mdm%20Lee%20Hong%20Choo.jpeg" 
      style="width:30%;float:left">
-		 <img src="/images/Mdm%20Teo%20Swee%20Ling%20Elizabeth.jpeg" 
+		 <img src="/images/Mdm%20Chua%20Chen%20Nai.jpeg" 
      style="width:30%;float:left">
-<img src="/images/Mdm%20Gong%20Li%20Ping.jpeg" 
+<img src="/images/Derrick%20Teo%20Kian%20How.jpeg" 
      style="width:30%">
-		 
-		 
 
-| Mr Choo Swee Lock |Mdm Elizabeth| Mdm Gong Li Ping |
+
+| Mdm Lee Hong Choo |Mdm  Chua Chen Nai| Mr Derek Teo Kian How|
 | -------- | -------- | -------- |
-| Operations Support Officer   | Operations Support Officer|Operations Support Officer  |
-|**Email:**[nchs@moe.edu.sg](mailto:nchs@moe.edu.sg)<br>**Ext:** 107|**Email:**   [teo\_swee\_ling\_elizabeth@moe.edu.sg](mailto:teo_swee_ling_elizabeth@moe.edu.sg)  <br>**Ext:** 107|**Email:**[nchs@moe.edu.sg](mailto:nchs@moe.edu.sg)  <br>**Ext:** 226
+| Operations Support Officer   | Operations Support Officer|Desktop Engineer   |
+|**Email:**[nchs@moe.edu.sg](mailto:nchs@moe.edu.sg)<br>**Ext:** 226|**Email:** [nchs@moe.edu.sg](mailto:nchs@moe.edu.sg)  <br>**Ext:** 226|**Email:** -  <br>**Ext:** 225
