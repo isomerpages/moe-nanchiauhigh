@@ -10,3 +10,16 @@ third_nav_title: Corporate Directory
      style="width:30%;float:left">
 <img src="/images/image%202.jpeg" 
      style="width:30%;">
+		 
+
+
+
+
+|Mr Teo Nguan Wee | Mdm Joana Leong | Mr Steven Liew |
+| -------- | -------- | -------- |
+| Admin Manager     | Senior School Counsellor     | Operations Manager     |
+
+
+
+
+
