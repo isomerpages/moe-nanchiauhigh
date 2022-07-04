@@ -70,7 +70,7 @@ third_nav_title: Corporate Directory
 
 
 
-| Mdm Ng Mui Hoon| Mdm Neewyn Neo|  Mr Dalvey Neo|
+|Mr Goh Giam Hwee|Ms Rama (Renuka)| Ms Chen Xiao Wei|
 | -------- | -------- | -------- |
-|Head Of Department - Science | School Staff Developer| Head Of Department - Student Management  |
+|Year Head - Lower Secondary | Year Head - Upper Secondary| Assistant Year Head - Secondary 2  <br> _CCA : English Drama_  |
 |**Email:**   [ng\_mui\_hoon@moe.edu.sg](mailto:ng_mui_hoon@moe.edu.sg)<br>**Ext:** 202|**Email:**   [neewyn\_neo\_sin\_yee@moe.edu.sg](mailto:neewyn_neo_sin_yee@moe.edu.sg)  <br>**Ext:** 208|**Email:**   [neo\_choong\_wei\_dalvey@moe.edu.sg](mailto:neo_choong_wei_dalvey@moe.edu.sg) <br>**Ext:** 211
