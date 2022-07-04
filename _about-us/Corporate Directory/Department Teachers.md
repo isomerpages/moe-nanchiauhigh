@@ -4,8 +4,6 @@ permalink: /about-us/Corporate-Directory/department-teachers
 description: ""
 third_nav_title: Corporate Directory
 ---
-**
-
 <ul class="jekyllcodex\_accordion">
 
   <li>
@@ -103,5 +101,3 @@ third_nav_title: Corporate Directory
   </li>
 
 </ul>
-
-**
