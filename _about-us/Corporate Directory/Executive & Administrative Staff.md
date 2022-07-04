@@ -57,6 +57,3 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 | Technical Support Officer  <br>(Science Labs)   | ICT (Associate) | Technical Support Officer  <br>(D&T)  |
 |**Email:** [lim\_zhenyi\_lin\_zhenyi@moe.edu.sg](mailto:lim_zhenyi_lin_zhenyi@moe.edu.sg)  <br>**Ext:** 226|**Email:**  [hairwan\_bin\_bajuri@moe.com.sg](mailto:hairwan_bin_bajuri@moe.com.sg)<br>**Ext:** 225|**Email:**[muhamad\_kamel\_hussein@moe.edu.sg](mailto:muhamad_kamel_hussein@moe.edu.sg)<br>**Ext:** 107
-
-
-
