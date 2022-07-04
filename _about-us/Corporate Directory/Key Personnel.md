@@ -46,4 +46,4 @@ third_nav_title: Corporate Directory
 |  Mr Oh Keng Ann| Mr Lim Heng Boon Arthur|  Mr Goh Lam Chye|
 | -------- | -------- | -------- |
 |Head Of Department - MTL  | Head Of Department - Physical Education| Head Of Department - SAP  |
-|**Email:**   [tan\_pek\_cheng@moe.edu.sg](mailto:tan_pek_cheng@moe.edu.sg)<br>**Ext:** 206|**Email:**   [admin\_nchs@moe.edu.sg](mailto:admin_nchs@moe.edu.sg) <br>**Ext:** 201|**Email:**   [khaw\_hwee\_mung@moe.edu.sg](mailto:khaw_hwee_mung@moe.edu.sg)<br>**Ext:** 203
+|**Email:**   [oh\_keng\_ann@moe.edu.sg](mailto:oh_keng_ann@moe.edu.sg)<br>**Ext:** 205|**Email:**   [lim\_heng\_boon@moe.edu.sg](mailto:yeo_yew_yong@moe.edu.sg)<br>**Ext:** 200|**Email:**   [goh\_lam\_chye@moe.edu.sg](mailto:goh_lam_chye@moe.edu.sg)  <br>**Ext:** 221
