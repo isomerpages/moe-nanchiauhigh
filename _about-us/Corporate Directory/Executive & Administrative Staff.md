@@ -59,3 +59,24 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 | Technical Support Officer  <br>(Science Labs)   | ICT (Associate) | Technical Support Officer  <br>(D&T)  |
 |**Email:** [lim\_zhenyi\_lin\_zhenyi@moe.edu.sg](mailto:lim_zhenyi_lin_zhenyi@moe.edu.sg)  <br>**Ext:** 226|**Email:**  [hairwan\_bin\_bajuri@moe.com.sg](mailto:hairwan_bin_bajuri@moe.com.sg)<br>**Ext:** 225|**Email:**[muhamad\_kamel\_hussein@moe.edu.sg](mailto:muhamad_kamel_hussein@moe.edu.sg)<br>**Ext:** 107
+
+
+<img src="/images/Mr%20Choo%20Swee%20Lock.jpeg" 
+     style="width:30%;float:left">
+		 <img src="/images/Mdm%20Teo%20Swee%20Ling%20Elizabeth.jpeg" 
+     style="width:30%;float:left">
+<img src="/images/Mdm%20Gong%20Li%20Ping.jpeg" 
+     style="width:30%">
+		 
+		 
+
+| Mr Choo Swee Lock |Mdm Elizabeth| Mdm Gong Li Ping |
+| -------- | -------- | -------- |
+| Operations Support Officer   | Operations Support Officer|Operations Support Officer  |
+|**Email:**[nchs@moe.edu.sg](mailto:nchs@moe.edu.sg)<br>**Ext:** 107|**Email:**   [teo\_swee\_ling\_elizabeth@moe.edu.sg](mailto:teo_swee_ling_elizabeth@moe.edu.sg)  <br>**Ext:** 107|**Email:**[nchs@moe.edu.sg](mailto:nchs@moe.edu.sg)  <br>**Ext:** 226
+
+
+
+
+
+
