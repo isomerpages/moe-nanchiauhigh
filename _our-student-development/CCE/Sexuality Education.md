@@ -145,4 +145,3 @@ UNIT: Respectful Relationships & Safety
   
 
 14\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
-
