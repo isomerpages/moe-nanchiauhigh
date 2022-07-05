@@ -2,6 +2,7 @@ collections:
   our-academic-curriculum:
     output: true
     order:
+      - Departments/Aesthetics.md
       - Departments/English Language and Literature.md
       - Departments/Humanities.md
       - Departments/Mathematics.md
