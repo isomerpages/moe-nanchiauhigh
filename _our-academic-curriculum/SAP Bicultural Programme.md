@@ -53,3 +53,13 @@ Being accorded the status of Bicultural Ambassador of the school;
   
 
 Please note that the renewal of the scholarship in the following year will be subjected to the students’ conduct, participation in our programmes and academic results in his/her Secondary 2.
+
+**Major Activities for Bicultural Ambassadors in Year 2020**
+
+
+
+| | Date | Activities | Remarks
+| -------- | -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
