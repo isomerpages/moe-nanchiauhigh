@@ -41,88 +41,46 @@ Achievement:
 **Sports @ NCHS**
 <br>PE department seeks to ignite the students’ passion for sports and the outdoors. Beyond just sports, programmes planned enable students to lead a healthy lifestyle, and develop positive values and strength of character.
 
-  
-
-Sports @NCHS
-
-1\. Sports Clinics
-
-2\. Mass Wushu Workout
-
-3\. Inter-Class Games
-
-4\. Outdoor Education
-
-5\. Annual Cross Country Championships
-
-6\. Annual Track and Field
-
-7\. Sec 3 Leadership Camp
-
-8\. National Youth Achievement Award (NYAA) / Silver
-
-9\. StayFit programme
-
-10\. Sports Leaders Programme
-
-11\. Sports Safety Programme
-
-12\. Sports Education Programme (SEP)
-
-13\. Modular Sports (Taekwondo, Golf, Swimming, etc.)
-
-14\. ActiveSG@NCHS
-
-15\. Students and Staff Bonding games
+<br>1\. Sports Clinics
+<br>2\. Mass Wushu Workout
+<br>3\. Inter-Class Games
+<br>4\. Outdoor Education
+<br>5\. Annual Cross Country Championships
+<br>6\. Annual Track and Field
+<br>7\. Sec 3 Leadership Camp
+<br>8\. National Youth Achievement Award (NYAA) / Silver
+<br>9\. StayFit programme
+<br>10\. Sports Leaders Programme
+<br>11\. Sports Safety Programme
+<br>12\. Sports Education Programme (SEP)
+<br>13\. Modular Sports (Taekwondo, Golf, Swimming, etc.)
+<br>14\. ActiveSG@NCHS
+<br>15\. Students and Staff Bonding games
 
 **CCA @ NCHS**
 
 1\. Badminton
-
-2\. Basketball
-
-3\. Table Tennis
-
-4\. Wushu
-
-5\. Chinese Dance
-
-6\. Chinese Orchestra
-
-7\. Choir
-
-8\. English Drama
-
-9\. Chinese Drama
-
-10\. Contemporary Dance
-
-11\. Wind Orchestra
-
-12\. String Orchestra
-
-13\. Green Club
-
-14\. Infocomm Club
-
-15\. Robotics Club
-
-16\. Multimedia Club
-
-17\. Library
-
-18\. Debate Club
-
-19\. Chinese Calligraphy
-
-20\. Mind Games (Chinese Chess & Weiqi)
-
-21\. Visual Arts Club
-
-22\. NPCC
-
-23\. NCC
-
-24\. Scouts
-
-25\. Red Cross
+<br>2\. Basketball
+<br>3\. Table Tennis
+<br>4\. Wushu
+<br>5\. Chinese Dance
+<br>6\. Chinese Orchestra
+<br>7\. Choir
+<br>8\. English Drama
+<br>9\. Chinese Drama
+<br>10\. Contemporary Dance
+<br>11\. Wind Orchestra
+<br>12\. String Orchestra
+<br>13\. Green Club
+<br>14\. Infocomm Club
+<br>15\. Robotics Club
+<br>16\. Multimedia Club
+<br>17\. Library
+<br>18\. Debate Club
+<br>19\. Chinese Calligraphy
+<br>20\. Mind Games (Chinese Chess & Weiqi)
+<br>21\. Visual Arts Club
+<br>22\. NPCC
+<br>23\. NCC
+<br>24\. Scouts
+<br>25\. Red Cross
