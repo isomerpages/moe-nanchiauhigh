@@ -57,3 +57,10 @@ Sec 1 Service-Learning Experiential Journey: Heritage Cares with National Herita
 <br>
 
 Annual Sec 2 S-L project showing appreciation to School
+
+<img src="/images/image17-1.jpeg" 
+     style="width:50%;float:left">
+<img src="/images/sl.jpeg" 
+     style="width:50%;float:left">
+<img src="/images/image18.jpeg" 
+     style="width:50%">
