@@ -33,3 +33,17 @@ Nan Chiau Waves is a twice a year publication which showcases the various activi
 | |  |  | | 
 | -------- | -------- | -------- |-------- |
 | 2019 - Waves 1.pdf  | 2018 - Waves 2.pdf  | 2017 - Waves 2.pdf    | 2017 - Waves 1.pdf|
+
+<img src="/images/2019%20-%20Waves%201-1_page-0001.jpeg" 
+     style="width:25%;float:left">
+<img src="/images/2018%20-%20Waves%202-1_page-0001.jpeg" 
+     style="width:25%;float:left">
+<img src="/images/2017%20-%20Waves%202-1_page-0001.jpeg" 
+     style="width:25%;float:left">
+<img src="/images/2017%20-%20Waves%201-1_page-0001.jpeg" 
+     style="width:25%">
+		 
+
+| |  |  | | 
+| -------- | -------- | -------- |-------- |
+| 2016 - Waves 2.pdf  | 2016 - Waves 1.pdf  | 2015 - Waves 2.pdf | 2015 - Waves 1.pdf|
