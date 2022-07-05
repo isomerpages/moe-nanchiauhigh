@@ -2,4 +2,5 @@ collections:
   our-academic-curriculum:
     output: true
     order:
+      - Departments/Information and Communications Technology.md
       - Departments/.keep
