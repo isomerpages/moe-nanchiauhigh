@@ -2,6 +2,7 @@ collections:
   our-academic-curriculum:
     output: true
     order:
+      - Total Curriculum.md
       - SAP Bicultural Programme.md
       - Departments/Aesthetics.md
       - Departments/English Language and Literature.md
