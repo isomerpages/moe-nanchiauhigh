@@ -44,3 +44,26 @@ Mdm Tan Pek Cheng – Head of Department
 1\. Sec 1 NE-Humanities Virtual Overseas trip
 <br>2\. Sec 2 Johor Bahru National Education-Humanities Learning Journey
 <br>3\. Overseas Humanities Learning Journey (Asia)
+
+**DEPARTMENT PROGRAMMES**
+
+**Contemporary Singaporean Issues Forum**
+
+The Contemporary Singaporean Issues or CSI Forum is held annually for Upper secondary students in NCHS to understand the interconnectedness of Singapore and the world they live in. The forum aims to:
+
+(i) raise students’ awareness of societal issues in a contemporary world,
+
+(ii) motivate them to become concerned citizens who appreciate the complex and
+
+multifaceted nature of our challenges, and
+
+(iii) challenge students to think critically so as to propose innovative solutions to today’s problems.
+
+**Historical Investigations**
+
+
+The Humanities Talent Programme seeks to identify students who display keen interest and passion in Humanities. Through deeper studies of the Humanities subjects – Geography, History and Literature, students learn to better appreciate complex societal issues from a multi-disciplinary perspective. Students in this programme will have many learning opportunities to broaden their exposure in the Humanities.
+
+  
+
+Click [here](https://www.nanchiauhigh.moe.edu.sg/our-talent-development/department-based-talent-programmes/humanities-talent-programme) for more information.
