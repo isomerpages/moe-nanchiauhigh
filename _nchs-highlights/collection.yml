@@ -2,5 +2,6 @@ collections:
   nchs-highlights:
     output: true
     order:
+      - e Open House 2021.md
       - Celebrating 75 Years of Belonging.md
       - WAVES Newsletter.md
