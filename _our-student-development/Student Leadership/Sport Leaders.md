@@ -65,3 +65,17 @@ To establish a strong NCHS sporting culture by empowering all NCzens with knowle
      style="width:50%;float:left">
 		 <img src="/images/sports2.png" 
      style="width:50%">
+		 
+**INSTAGRAM INITIATIVES**
+
+<img src="/images/image7.png" 
+     style="width:30%;float:left">
+<img src="/images/image17.png" 
+     style="width:30%;float:left">
+		 <img src="/images/image16.png" 
+     style="width:30%">
+		 
+Instagram **@nchs.sportsleaders**
+
+ <img src="/images/image24.png" 
+     style="width:30%;float:left">
