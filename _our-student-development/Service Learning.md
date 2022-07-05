@@ -98,3 +98,12 @@ Sec 3 S-L projects, collaboration with Citi-YMCA
      style="width:50%;float:left">
 <img src="/images/image29.jpeg" 
      style="width:50%">
+		 
+Service-Learning Overseas Trip 2018 and 2019
+
+<img src="/images/image31.jpeg" 
+     style="width:50%;float:left">
+<img src="/images/image10.jpeg" 
+     style="width:50%;float:left">
+<img src="/images/image44.png" 
+     style="width:50%">
