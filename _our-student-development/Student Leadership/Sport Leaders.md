@@ -30,3 +30,15 @@ To establish a strong NCHS sporting culture by empowering all NCzens with knowle
      style="width:50%;float:left">
 		 <img src="/images/image14.png" 
      style="width:50%">
+		 
+**NC Lets’ Play**
+
+<img src="/images/sports.jpeg" 
+     style="width:50%;float:left">
+		 <img src="/images/image22.jpeg" 
+     style="width:50%">
+		 
+<img src="/images/image11.jpeg" 
+     style="width:50%;float:left">
+		 <img src="/images/sports2.jpeg" 
+     style="width:50%">
