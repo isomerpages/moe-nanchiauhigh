@@ -18,6 +18,4 @@ Nan Chiau Waves is a twice a year publication which showcases the various activi
 
 | |  |  | | 
 | -------- | -------- | -------- |-------- |
-| [2021 - Waves 1.pdf](/files/2021%20-%20Waves%201-1.pdf)     | [2020 - Waves 2.pdf](/files/2020%20-%20Waves%202-1.pdf)   | Text     | |
-
-
+| [2021 - Waves 1.pdf](/files/2021%20-%20Waves%201-1.pdf)     | [2020 - Waves 2.pdf](/files/2020%20-%20Waves%202-1.pdf)   | [2020 - Waves 1.pdf](/files/2020%20-%20Waves%201.pdf)     | 2019- Waves 2.pdf|
