@@ -36,3 +36,27 @@ To prepare them for the role, the student councillors will have the following tr
 | -------- | -------- | -------- |
 | Sec 1 – Sec 2     | Junior Councillor     | -   Event planning skills training.     |
 |Sec 3 – Sec 4|Senior Councillor|-   Planning and executing school events;<br>-   Mentorship.
+
+**Our Voices**
+
+**Photo Gallery**
+
+<img src="/images/image2%20(2).png" 
+     style="width:50%;float:left">
+		 <img src="/images/sc2.jpeg" 
+     style="width:50%">
+
+<br>
+		 
+<img src="/images/sc3.jpeg" 
+     style="width:50%;float:left">
+		 <img src="/images/sc4.png" 
+     style="width:50%">
+
+**Contact us**
+
+
+If you would like to find out more about what we do or want to propose a collaboration with us, feel free to contact us at our Instagram page [@nchsstudentcouncil](https://www.instagram.com/nchsstudentcouncil/?hl=en).
+
+<img src="/images/qrcode.png" 
+     style="width:50%">
