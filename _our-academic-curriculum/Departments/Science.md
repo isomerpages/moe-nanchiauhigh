@@ -36,3 +36,25 @@ Staff List:
 <br>Mr Jimmy Goh Giam Hwee (Physics, YH)  
 <br>Mdm Yee May May (TSO)
 <br>Mdm Lim Zhenyi Crystal (TSO)
+
+**Our Goals**
+
+1.  Nurture the student as an inquirer when s/he is curious about and want to explore the things around her/him.
+2.  Allow students to have joyful learning in science and value science as an important tool in helping them to explore their natural and physical world.
+3.  Cultivate scientific literacy in students where they are equipped with skills to use scientific knowledge to understand and make decisions about the natural world.
+
+**DEPARTMENT PROGRAMMES**
+
+_Applied Learning Programme (ALP)_
+
+Lower Secondary ALP is a platform which provides real-life applications learning. In sec 1, students are taught Arduino Coding & Electronics, 3D-printing & 3D pens, and Design Thinking. They are to understand and apply the Design Thinking Protocols throughout the whole duration of the programme. In Sec 2 next year, the students will embark on projects by applying Design thinking protocols and what they have learnt this year.
+
+In Sec 2, students will advance their ALP learning in the field of Emerging Technologies. It is an extension of the Sec 1 ALP, students will use the protocols of Design Thinking to work on projects or solve problems based on one of the Emerging Technologies themes.
+
+_Science Talent Programme_
+
+The students are encouraged to participate in the Olympiads in the different disciplines, i.e. Biology, Chemistry and Physics. The annual Olympiads encourage the study and appreciation of science beyond the school curriculum by providing opportunities for student to solve novel questions that require critical and inventive thinking. These platforms are very useful for students to challenge themselves in the scientific knowledge and skills and it also seeks to promote the excitement of learning and doing the different experiments in science.
+
+  
+
+Click [here](https://www.nanchiauhigh.moe.edu.sg/our-talent-development/department-based-talent-programmes/science-talent-programme) for more information.
