@@ -2,6 +2,7 @@ collections:
   our-student-development:
     output: true
     order:
+      - CCE/Sexuality Education.md
       - CCE/Education and Career Guidance.md
       - CCE/.keep
       - Student Leadership/FALCONS.md
