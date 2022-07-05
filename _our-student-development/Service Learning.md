@@ -34,3 +34,19 @@ NCzens guiding senior citizens to use NETs(Flashpay) to buy food from Macdonald 
      style="width:50%;float:left">
 <img src="/images/image6.jpeg" 
      style="width:50%">
+		 
+Sec 1 Service-Learning Experiential Journey: Heritage Cares with National Heritage Board
+
+<img src="/images/image13.jpeg" 
+     style="width:50%;float:left">
+<img src="/images/image14.jpeg" 
+     style="width:50%">
+		 
+<br>
+		 
+<img src="/images/image15.jpeg" 
+     style="width:50%;float:left">
+<img src="/images/image33.jpeg" 
+     style="width:50%;float:left">
+<img src="/images/image16.jpeg" 
+     style="width:50%;float:left">
