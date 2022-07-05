@@ -59,4 +59,9 @@ Please note that the renewal of the scholarship in the following year will be su
 |4|22 April|Participation in Mediacorp Filming on a new edutainment programme
 |5|27 May|NC Active 2021 (in collaboration with Sports Leaders)
 |6|22-23 July|-   Chung Ling Online International Exchange Programme 2021<br>-  Asian Youth Chinese Forum 2021
-
+|7|24 July|Bilingual dialogue on the Chinese community's role in Singapore's multiculturalism
+|8|6 September|Graduation (for Sec 4s) and Investiture (for Sec 2s) Ceremony (virtual)
+|9|15 September|East Meets West Bicultural Competition (in conjunction with Mid-autumn Festival Celebration)
+|10|20 October–13 November|Reading Programme with Mingdao High School, Taiwan (virtual)
+|11|November|Bicultural Ambassadors Day Camp
+|12|November|Virtual Bicultural Study Trip (Korea)
