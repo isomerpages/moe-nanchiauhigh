@@ -2,5 +2,6 @@ collections:
   our-student-development:
     output: true
     order:
+      - Student Leadership.md
       - Service Learning.md
       - National Education.md
