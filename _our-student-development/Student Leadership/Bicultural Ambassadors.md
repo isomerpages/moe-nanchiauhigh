@@ -10,19 +10,19 @@ Promising bicultural talents who are not only deep-rooted in their own cultural 
 
   
 
-**Recruitment process:** 
+**Recruitment process:**&nbsp;
 
-Briefing →  Application by candidate → Teachers’ Comments → Interview for shortlisted candidates
+Briefing →&nbsp; Application by candidate → Teachers’ Comments → Interview for shortlisted candidates
 
   
 
-**Brief selection criteria:** 
+**Brief selection criteria:**&nbsp;
 
 Good learning attitude, responsible, willing to step out from comfort zone, good mastery of Chinese and English
 
   
 
-**Contact person(s):** 
+**Contact person(s):**&nbsp;
 
 Mr Goh Lam Chye / Ms Chong Ka Wuei
 
@@ -65,3 +65,9 @@ Please note that the renewal of the scholarship in the following year will be su
 |10|20 October–13 November|Reading Programme with Mingdao High School, Taiwan (virtual)
 |11|November|Bicultural Ambassadors Day Camp
 |12|November|Virtual Bicultural Study Trip (Korea)
+
+
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-p9gPQefPgY6qu3Ibkc0fLfe1saZQ5SKofmjq_iLQmhQPbd4K9EvZYTk7so5DO8YoSBtVlIhTR9_J/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+Other than the abovementioned major activities, the Bicultural Ambassadors will have opportunities to be trained as student emcees in the school major events, participate in the internal and external competitions etc.
