@@ -23,3 +23,15 @@ Mdm Yap Teck Lay Anna – Head of Department
 <br>Ms Wan Nur Riny Binte Ridzuan
 <br>Mdm S Chandraghantha
 <br>Ms Priscilla Tan Bishi
+
+**Enrichment Activities:**
+
+1.  Theater experiences, literature and overseas learning journeys.
+
+**DEPARTMENT PROGRAMMES**
+
+**Talent Development**
+
+– National Schools Literature Festival
+<br>– Creative Writing and Public Speaking competitions
+<br>– Chrysalis Publication
