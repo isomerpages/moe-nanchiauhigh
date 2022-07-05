@@ -4,8 +4,8 @@ permalink: /our-student-development/Student-Leadership/FALCONS
 description: ""
 third_nav_title: Student Leadership
 ---
-<img style="width:50%;float:left" src="/images/falcons.jpeg">
-		 <img style="width:50%" src="/images/image20.png">
+<img src="/images/falcons.jpeg" style="width:50%;float:left">
+		 <img src="/images/image20.png" style="width:50%">
 		 
 <br>
 <br>
@@ -25,24 +25,26 @@ The FALCONS Leadership Development Programme aims to develop student leaders to 
 
 **FALCONS XII 3-Day Online Camp 2021**
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSXDbqxNjhX6xZNskr9bEPrWBF36t6F5Jq_yTwWs9a_cCcKlMvElLbtESogfOl_DapHjlxzIMAjYMXJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
 **FALCONS Cultural Immersion and Leadership Training Programme 2018 – Hong Kong**
 
-<img style="width:50%;float:left" src="/images/falcon1.jpeg">
-		 <img style="width:50%" src="/images/falcon2.jpeg">
+<img src="/images/falcon1.jpeg" style="width:50%;float:left">
+		 <img src="/images/falcon2.jpeg" style="width:50%">
 		 
 **FALCONS Cultural Immersion and Leadership Training Programme 2019 - Taiwan**
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQUvVM5g9NAL-I68fZWRRriGwnEfN-0_8mFQCTTZVt0IL34Y11IgjpF79qfdrxSCVJ9kaJyH5bmM9-H/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQUvVM5g9NAL-I68fZWRRriGwnEfN-0_8mFQCTTZVt0IL34Y11IgjpF79qfdrxSCVJ9kaJyH5bmM9-H/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 **Asia-Pacific Young Leaders Convention**
 
-<img style="width:50%;float:left" src="/images/falcon3.jpeg">
-		 <img style="width:50%" src="/images/falcon4.jpeg">
+<img src="/images/falcon3.jpeg" style="width:50%;float:left">
+		 <img src="/images/falcon4.jpeg" style="width:50%">
 		 
-<img style="width:50%;float:left" src="/images/falcon5.jpeg">
-		 <img style="width:50%" src="/images/falcon6.jpeg">
+<img src="/images/falcon5.jpeg" style="width:50%;float:left">
+		 <img src="/images/falcon6.jpeg" style="width:50%">
 
-<img style="width:50%" src="/images/falcon7.jpeg">
+<img src="/images/falcon7.jpeg" style="width:50%">
 		 
 **Testimonies**
 
