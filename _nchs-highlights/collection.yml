@@ -1,0 +1,4 @@
+collections:
+  nchs-highlights:
+    output: true
+    order: []
