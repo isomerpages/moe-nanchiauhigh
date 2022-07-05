@@ -7,16 +7,16 @@ description: ""
 	
 愿景 Vision 
 
-洞悉未来 ● 荟萃中西 ● 心系祖国
+<br>洞悉未来 ● 荟萃中西 ● 心系祖国
 
-Future-Ready Thinkers ● Bicultural Leaders ● Caring Citizens
+<br>Future-Ready Thinkers ● Bicultural Leaders ● Caring Citizens
 	
 <br>
 使命  Mission
 
-培育好学不倦、勇于人先、同心共济的双语精英
+<br>培育好学不倦、勇于人先、同心共济的双语精英
 
-To nurture bilingual NCzens who learn with zest, lead with confidence, and serve with empathy
+<br>To nurture bilingual NCzens who learn with zest, lead with confidence, and serve with empathy
 	
 <br>
 校训与价值观 Motto and Values
