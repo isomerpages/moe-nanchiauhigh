@@ -60,6 +60,31 @@ Please note that the renewal of the scholarship in the following year will be su
 
 | | Date | Activities | Remarks
 | -------- | -------- | -------- | -------- |
-| Text     | Text     | Text     |
+| 1     | 20-21 January     | 4th City Forum – “ Big Cities, Small Stories”     | | 
+|2| 29 January| River Hongbao 2020 – Student Learning Journey Guided Tour|Cancelled due to COVID-19  situation
+|3|March – May|School-wide Reading Programme||
+|4|12 August|East Meets West Bicultural Competition|The competition took place in the hall and live-streamed to the whole school.|
+|5|18 September|Graduation Ceremony for Sec 4 Bicultural Ambassador cum Overseas Study Trip Group Presentation||
+|6|15 October|Bicultural Talk (Speaker: Shawn Choh, assistant curator from Singapore Chinese Cultural Centre )|Conducted using Google Meet
+|7|November|10-Day Bicultural Study Trip to Taiwan|Cancelled due to COVID-19  situation
+|8|18 November| Bicultural Ambassadors Day Camp| | 
+
+Other than the abovementioned major activities, the Bicultural Ambassadors will have opportunities to be trained as student emcees in the school major events, participate in the internal and external competitions etc.
 
 
+**Major Activities for Bicultural Ambassadors in Year 2021**
+
+| | Date | Activities |
+| -------- | -------- | -------- | 
+| 1     | January – October    |Sharing on 24 Solar Terms (in collaboration with Aesthetic Department) | 
+|2|7 February| Participation in shifting the old gateposts of NCHS
+|3|26 March|Participation in the launch of an exhibition “Sikhs in Singapore – A Story Untold” at Indian Heritage Centre|
+|4|22 April|Participation in Mediacorp Filming on a new edutainment programme|
+|5|24 May|Graduation Ceremony for Sec 4 Bicultural Ambassador|
+|6|27 May|NC Active 2021 (in collaboration with Sports Leaders)|
+|7|August|East Meets West Bicultural Competition
+|8|October| Bicultural Talk | 
+|9|November|Bicultural Ambassadors Day Camp|
+|10|November|Virtual Bicultural Study Trip
+
+Other than the abovementioned major activities, the Bicultural Ambassadors will have opportunities to be trained as student emcees in the school major events, participate in the internal and external competitions etc.
