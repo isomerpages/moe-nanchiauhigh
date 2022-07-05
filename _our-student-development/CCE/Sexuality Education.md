@@ -70,3 +70,15 @@ UNIT: Respectful Relationships & Safety
 |2<br>(45 mins)|-   Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept|Term 3 Week 10
 |3<br>(45 mins)|-   Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences <br>-   Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)|Term 4 Week 1
 
+
+<center>
+Secondary 2
+</center>
+
+UNIT: Respectful Relationships & Safety
+
+| LESSONS / DURATION | LESSON OBJECTIVES<BR>At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2)
+| -------- | -------- | -------- |
+| 1<br>(45 mins)     | -   Know that one’s understanding of gender roles should not be limited by gender stereotypes<br>-  Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>-   Understand what sexual orientation entails | Term 3 Week 9   |
+|2A<br>(45 mins)|-   Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline|Term 3 Week 10
+|2B<br>(45 mins)|-   Recognise the importance of self-respect and respect for others in relating to members of the opposite gender <br>-   Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online|Term 4 Week 1
