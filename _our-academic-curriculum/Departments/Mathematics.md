@@ -37,3 +37,16 @@ Mdm Khaw Hwee Mung (HOD/Maths)
 <br>4\. Cultivate a sense of responsibility in learning through self-directed learning and reflection;
 <br>5\. Nurture and maximize potential and passion in Mathematics through a differentiated programme;
 <br>6\. Appreciate values of Mathematics in daily lives and making decisions using Mathematical knowledge.
+
+**DEPARTMENT PROGRAMMES**
+
+**Participation in Mathematics Competitions**
+
+Participation in Mathematics Competitions
+<br>Singapore Mathematical Olympiad (SMO)
+<br>Singapore and Asian Schools Math Olympiad (SASMO)
+<br>Hua Xia Cup Mathematical Olympiad
+<br>Designing with TI Graphing Calculator Competition
+<br>– 2021: 1st in School Position
+<br>– 2020: 3rd in School Position
+<br>– 2019: 2nd in School Position
