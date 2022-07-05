@@ -73,9 +73,8 @@ Our NCHS-NE programme aims to prepare our NCzens for an increasingly complex wor
 <img src="/images/ne1.jpeg" 
      style="width:50%;float:left">
 <img src="/images/ne2.jpeg" 
-     style="width:50%;float:left">
+     style="width:50%">
 		 
 <img src="/images/ne3.jpeg" 
      style="width:50%;float:left"><img src="/images/ne4.jpeg" 
      style="width:50%">
-		 
