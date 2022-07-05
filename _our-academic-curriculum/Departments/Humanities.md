@@ -27,3 +27,20 @@ Mdm Tan Pek Cheng – Head of Department
 <br>Ms Charlene Chen Ying – Teacher (Geography)
 <br>Ms Hung Xue Er Christabel – Teacher (History/Social Studies)
 <br>Ms Lee Zhen Yi Cheryl – Teacher (History/Social Studies)
+
+**Achievements:**
+
+1\. NUS Geography Challenge 2021 – 2 Silvers and 2 Bronze
+<br>2\. Model UN (SCMUN) and National Youth Environment Conference (NYEC) – Best Position Paper award
+<br>3\. NUS Geography Challenge 2020 – Top 5 for Creative component (poster design), 2 Gold and 2 Silver for Individual component
+<br>4\. NJC – E International Humanities Symposium (EIHS) 2020 – Students’ Choice Award
+<br>5\. National Stamp Competition 2019 – 2 Silver, 3 Bronzes
+<br>6\. NUS Geography Challenge 2019 – Honourable Mention for Creative component
+
+  
+
+**Enrichment:**
+
+1\. Sec 1 NE-Humanities Virtual Overseas trip
+<br>2\. Sec 2 Johor Bahru National Education-Humanities Learning Journey
+<br>3\. Overseas Humanities Learning Journey (Asia)
