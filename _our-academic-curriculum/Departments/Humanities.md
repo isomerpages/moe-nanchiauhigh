@@ -4,6 +4,8 @@ permalink: /our-academic-curriculum/Departments/Humanities
 description: ""
 third_nav_title: Departments
 ---
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRgmXWqZt57UOTajBByACQ56TIuivm_-CM4vYjuiLFy38a0q1UAEHXYD30cq0wg7LCngrccSOVPLBFb/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
 **Vision**
 
 Every NCzens possesses an analytical and inquisitive mind to appreciate the world and be a responsible global citizen.
@@ -66,4 +68,4 @@ The Humanities Talent Programme seeks to identify students who display keen inte
 
   
 
-Click [here](https://www.nanchiauhigh.moe.edu.sg/our-talent-development/department-based-talent-programmes/humanities-talent-programme) for more information.
+Click&nbsp;[here](https://www.nanchiauhigh.moe.edu.sg/our-talent-development/department-based-talent-programmes/humanities-talent-programme)&nbsp;for more information.
