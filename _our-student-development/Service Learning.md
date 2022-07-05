@@ -64,3 +64,23 @@ Annual Sec 2 S-L project showing appreciation to School
      style="width:50%;float:left">
 <img src="/images/image18.jpeg" 
      style="width:50%">
+		 
+Sec 2 S-L projects: Organizing mini games for various groups of communities
+
+<img src="/images/sl4.jpeg" 
+     style="width:50%;float:left">
+<img src="/images/image7.jpeg" 
+     style="width:50%">
+		 
+<img src="/images/image30.jpeg" 
+     style="width:50%;float:left">
+<img src="/images/image52.jpeg" 
+     style="width:50%">
+		 
+<img src="/images/sl1.jpeg" 
+     style="width:50%;float:left">
+<img src="/images/SL3.jpeg" 
+     style="width:50%">
+		 
+Sec 3 S-L projects, collaboration with Citi-YMCA
+
