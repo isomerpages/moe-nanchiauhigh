@@ -1,4 +1,5 @@
 collections:
   our-academic-curriculum:
     output: true
-    order: []
+    order:
+      - Departments/.keep
