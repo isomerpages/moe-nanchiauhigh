@@ -84,3 +84,17 @@ Sec 2 S-L projects: Organizing mini games for various groups of communities
 		 
 Sec 3 S-L projects, collaboration with Citi-YMCA
 
+<img src="/images/image9.jpeg" 
+     style="width:50%;float:left">
+<img src="/images/image21.jpeg" 
+     style="width:50%">
+		 
+<img src="/images/image49.jpeg" 
+     style="width:50%;float:left">
+<img src="/images/image47.jpeg" 
+     style="width:50%">
+		 
+<img src="/images/sl1.jpeg" 
+     style="width:50%;float:left">
+<img src="/images/SL3.jpeg" 
+     style="width:50%">
