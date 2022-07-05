@@ -1,0 +1,4 @@
+collections:
+  our-academic-curriculum:
+    output: true
+    order: []
