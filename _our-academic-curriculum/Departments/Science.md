@@ -33,8 +33,7 @@ Staff List:
 <br>Mr Esmond Tay(Physics)
 <br>Mr Liow Kwok Bin (Physics)
 <br>Mr Gan Sze Fong (Physics)
-<br>Mr Jimmy Goh Giam Hwee (Physics, YH)  
-<br>Mdm Yee May May (TSO)
+<br>Mr Jimmy Goh Giam Hwee (Physics, YH)  <br>Mdm Yee May May (TSO)
 <br>Mdm Lim Zhenyi Crystal (TSO)
 
 **Our Goals**
