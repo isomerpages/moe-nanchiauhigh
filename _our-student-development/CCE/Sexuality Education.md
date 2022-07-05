@@ -82,3 +82,15 @@ UNIT: Respectful Relationships & Safety
 | 1<br>(45 mins)     | -   Know that one’s understanding of gender roles should not be limited by gender stereotypes<br>-  Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>-   Understand what sexual orientation entails | Term 3 Week 9   |
 |2A<br>(45 mins)|-   Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline|Term 3 Week 10
 |2B<br>(45 mins)|-   Recognise the importance of self-respect and respect for others in relating to members of the opposite gender <br>-   Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online|Term 4 Week 1
+
+
+<center>
+Secondary 3
+</center>
+
+UNIT: Respectful Relationships & Safety
+
+| LESSONS / DURATION | LESSON OBJECTIVES<BR>At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2)
+| -------- | -------- | -------- |
+|1A<br>(45 mins)|-   Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br>-   Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.   <br>-   Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.| Term 3 Week 9|
+|1B<br>(45 mins)|-   Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<br>-   Know that a decision to end a relationship will have consequences on oneself and others.   <br>-   Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.   <br>-   Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.
