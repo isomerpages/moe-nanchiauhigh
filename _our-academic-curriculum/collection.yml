@@ -2,6 +2,7 @@ collections:
   our-academic-curriculum:
     output: true
     order:
+      - Departments/Physical Education.md
       - Departments/Science.md
       - Departments/Information and Communications Technology.md
       - Departments/.keep
