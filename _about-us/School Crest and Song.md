@@ -19,3 +19,7 @@ The red colour of the rings depicts a persevering spirit in the pursuit of a bri
 The heart shape in the centre of the overlapping rings symbolizes care and concern for the total welfare of our pupils in a student-oriented system.
 	
 </center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RlKweap39Fc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![](/images/image2.png)
