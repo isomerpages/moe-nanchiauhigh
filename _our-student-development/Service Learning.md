@@ -6,3 +6,31 @@ description: ""
 **NCHS Service-Learning Framework**
 <img src="/images/image27.png" 
      style="width:70%">
+		 
+NCHS Service-Learning (S-L) programme focuses on inculcating in students an awareness of issues surrounding them and exercising social responsibility in their spheres of influence. Through the Service-Learning project cycle (Ready, Render, Reflect) and using Design Thinking approach, students will learn to investigate areas of concerns, empathise with others, implement their plans to create value in the community they live in and play their part through meaningful contributions to the community. 
+
+Overall mission: 
+
+*   Engage NCzen’s head, heart and hands to develop them into socially responsible citizens who contribute meaningfully to the community.
+    
+*   Enable NCzens to acquire and deepen knowledge, skills, values and attitudes that empowers them to lead, serve and inspire.
+    
+
+  
+
+**Photographs of S-L projects**
+
+
+Sec 1 Service-Learning Experiential Journey: Loving Hands, Smart Nation
+
+NCzens guiding senior citizens to use NETs(Flashpay) to buy food from Macdonald or groceries from NTUC
+
+<img src="/images/image20.jpeg" 
+     style="width:50%;float:left">
+<img src="/images/image23.jpeg" 
+     style="width:50%">
+		 
+<img src="/images/image28.jpeg" 
+     style="width:50%;float:left">
+<img src="/images/image6.jpeg" 
+     style="width:50%">
