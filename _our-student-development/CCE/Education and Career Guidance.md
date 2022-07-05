@@ -44,3 +44,38 @@ NCzens may also book an ECG Counselling Session (assessments, analysis of RIASEC
 [](https://moeecg.appointeze.com/onlinelink/PanMiaohua)[](https://moeecg.appointeze.com/onlinelink/PanMiaohua)
 
 [https://moeecg.appointeze.com/onlinelink/PanMiaohua](https://moeecg.appointeze.com/onlinelink/PanMiaohua)
+
+![](/images/NCHS%20ECG%20Poster.jpeg)
+
+1.  Admission Exercises for O-Level Students  
+    [https://www.moe.gov.sg/post-secondary/admissions/jae  
+    ](https://www.moe.gov.sg/post-secondary/admissions/jae)[https://www.moe.gov.sg/post-secondary/admissions/dsa  
+    ](https://www.moe.gov.sg/post-secondary/admissions/dsa)[https://www.moe.gov.sg/post-secondary/admissions/poly-eae/](https://www.moe.gov.sg/post-secondary/admissions/poly-eae/)
+    
+
+2.  JAE Booklet 2022   
+    [https://www.moe.gov.sg/2022jaebooklet](https://www.moe.gov.sg/2022jaebooklet)
+    
+
+3.  MOE Course Finder (Consolidated portal for the 5 Polytechnics and ITE courses in Singapore – entry requirements, course modules and education & career prospects)  
+    [https://www.moe.gov.sg/coursefinder](https://www.moe.gov.sg/coursefinder)
+    
+
+4.  My SkillsFuture Portal (Secondary – assessment tests, Singapore Industry Landscape, Job role videos etc)  
+    [https://www.myskillsfuture.gov.sg/content/student/en/secondary.html](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
+    
+
+5.  Scholarship links  
+    [https://www.moe.gov.sg/financial-matters/awards-scholarships/moe-pre-u-scholarship](https://www.moe.gov.sg/financial-matters/awards-scholarships/moe-pre-u-scholarship) [https://brightsparks.com.sg/](https://brightsparks.com.sg/)
+		
+**MOE Resources**
+
+
+What’s Next  
+[https://www.moe.gov.sg/microsites/whats-next/for-gce-o-level-students/index.html](https://www.moe.gov.sg/microsites/whats-next/for-gce-o-level-students/index.html)
+
+The Next Step Forward  
+[https://www.moe.gov.sg/microsites/next-step-forward/index.html](https://www.moe.gov.sg/microsites/next-step-forward/index.html)
+
+Journeying With Our Children, Achieving Their Aspirations  
+[https://www.moe.gov.sg/microsites/ecg-parent-guide/](https://www.moe.gov.sg/microsites/ecg-parent-guide/)
