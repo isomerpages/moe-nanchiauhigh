@@ -2,6 +2,7 @@ collections:
   our-student-development:
     output: true
     order:
+      - Student Leadership/FALCONS.md
       - Student Leadership/Student Council.md
       - Student Leadership/Class Council.md
       - Student Leadership/Peer Support Leaders.md
