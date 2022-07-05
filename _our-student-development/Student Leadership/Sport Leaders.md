@@ -54,3 +54,14 @@ To establish a strong NCHS sporting culture by empowering all NCzens with knowle
      style="width:50%;float:left">
 		 <img src="/images/sports6.jpeg" 
      style="width:50%">
+		 
+**Online Initiatives**
+
+  
+
+**ALPHABET CHALLENGE**
+
+<img src="/images/image9.png" 
+     style="width:50%;float:left">
+		 <img src="/images/sports2.png" 
+     style="width:50%">
