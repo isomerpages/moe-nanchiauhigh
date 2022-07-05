@@ -24,6 +24,7 @@ To support quality teaching and learning anytime and anywhere undergirded by fut
 
 **Department ICT Champions:**
 
+Staff List:
 Ms Angeline Yar Rumin (PE Department)
 <br>Ms Claire Low (Aesthetics Department)
 <br>Mdm Doris Toh (Math Department)
