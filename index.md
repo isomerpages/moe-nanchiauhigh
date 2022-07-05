@@ -2,7 +2,7 @@
 layout: homepage
 title: Nan Chiau High School
 description: Brief site description here
-image: /images/image1.png
+image: /images/logo (2).png
 permalink: /
 notification: ""
 sections:
@@ -13,5 +13,6 @@ sections:
           description: ""
           url: /announcements
 ---
+
 
 
