@@ -94,7 +94,7 @@ Sec 3 S-L projects, collaboration with Citi-YMCA
 <img src="/images/image47.jpeg" 
      style="width:50%">
 		 
-<img src="/images/sl1.jpeg" 
+<img src="/images/image55.jpeg" 
      style="width:50%;float:left">
-<img src="/images/SL3.jpeg" 
+<img src="/images/image29.jpeg" 
      style="width:50%">
