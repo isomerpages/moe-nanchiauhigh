@@ -28,3 +28,17 @@ Mdm Khaw Hwee Mung (HOD/Maths)
 <br>Ms Tan Yi Chiann
 <br>Mr Zhang Boyuan, Eric
 <br>Mr Ranon Mak Enhao
+
+**Our Goals:**
+
+1\. Sustain Value-added results in National Examinations;
+
+2\. Equip with 21st CC Skills (Critical & Creative Thinking, Collaborating and Communicating) and Literacy Skills (Information Literacy, Media Literacy and Technology Literacy);
+
+3\. Achieve deep understanding of Mathematical concepts through lesson designed based on Concept-Based Approach;
+
+4\. Cultivate a sense of responsibility in learning through self-directed learning and reflection;
+
+5\. Nurture and maximize potential and passion in Mathematics through a differentiated programme;
+
+6\. Appreciate values of Mathematics in daily lives and making decisions using Mathematical knowledge.
