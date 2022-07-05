@@ -4,6 +4,8 @@ permalink: /our-academic-curriculum/Departments/Physical-Education
 description: ""
 third_nav_title: Departments
 ---
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS0HJop2NE0WI8lbnSGfhKLcZDhMnBtO7XMsj5_qXGXvpJk3q05julF_wrviR_viOIBx-B6-QZr1Cr0/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
 **Vision**
 
 Finding joy in sports and pursuing healthy living.
@@ -24,14 +26,14 @@ Staff List:
 
 | Name | Position | Professional Qualification | Areas of Specialisation|
 | -------- | -------- | -------- |-------- |
-| Mr Arthur Lim     | HOD PE/CCA     | B Bus in Business Administration (1994) & PDGE (Physical Education 1998)     |Basketball, Table Tennis, Badminton, Volleyball, Football
-|Mr Raffi Buang|Subject Head PE/CCA|BEng (Hons) in Electrical & Electronic Engineering (1998)   <br>PGDE (Physical Education 2002)|Football, Badminton, Sepak Takraw, Track & Field
+| Mr Arthur Lim     | HOD PE/CCA     | B Bus in Business Administration (1994) &amp; PDGE (Physical Education 1998)     |Basketball, Table Tennis, Badminton, Volleyball, Football
+|Mr Raffi Buang|Subject Head PE/CCA|BEng (Hons) in Electrical &amp; Electronic Engineering (1998)   <br>PGDE (Physical Education 2002)|Football, Badminton, Sepak Takraw, Track &amp; Field
 |Mr Clarence Choo|PE Teacher/Safety Officer|B Engrg (Hons) in Communication Engineering (1995)   <br>PGDE (Physical Education 2005)|Badminton, Tchoukball, Volleyball, Handball
-|Ms Angeline Yar|PE Teacher|BEng (Hons) in Electrical & Electronic Engineering (2004)   <br>PGDE (Physical Education) (2012)|Outdoor Education, Track & Field, Dance
+|Ms Angeline Yar|PE Teacher|BEng (Hons) in Electrical &amp; Electronic Engineering (2004)   <br>PGDE (Physical Education) (2012)|Outdoor Education, Track &amp; Field, Dance
 |Mr Aw Si Kuan|PE Teacher/Student Leadership Chairperson|Bachelor of Aerospace Engineering (2011)  <br>PGDE (Physical Education 2016)|Outdoor Education, Basketball, Touch Rugby, Softball, Football
 |Ms Tan Yibing|PE Teacher|Bachelor of Science in Applied Mathematics (Hons)|Floorball|
 |Ms Cheam Kai Xian Annette|PE Teacher|Bachelor of Science in Education|Basketball, Softball, Hockey|
-|Mr Andrew Fong|PE Teacher|Cert-in-Education (Technical) – 1970  <br>Dip in Physical Education (1987)|Track & Field, Table-Tennis
+|Mr Andrew Fong|PE Teacher|Cert-in-Education (Technical) – 1970  <br>Dip in Physical Education (1987)|Track &amp; Field, Table-Tennis
 
 Achievement:
 <br>Coming Soon...
@@ -78,7 +80,7 @@ Achievement:
 <br>17\. Library
 <br>18\. Debate Club
 <br>19\. Chinese Calligraphy
-<br>20\. Mind Games (Chinese Chess & Weiqi)
+<br>20\. Mind Games (Chinese Chess &amp; Weiqi)
 <br>21\. Visual Arts Club
 <br>22\. NPCC
 <br>23\. NCC
