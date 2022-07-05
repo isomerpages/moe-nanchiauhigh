@@ -2,6 +2,7 @@ collections:
   our-student-development:
     output: true
     order:
+      - Student Leadership/Class Council.md
       - Student Leadership/Peer Support Leaders.md
       - Student Leadership/Bicultural Ambassadors.md
       - Student Leadership/Service Learning Champions.md
