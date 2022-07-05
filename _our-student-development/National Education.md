@@ -69,3 +69,6 @@ Our NCHS-NE programme aims to prepare our NCzens for an increasingly complex wor
 *   Learning Journeys
     
 *   Cohort experiences
+
+<img src="/images/ne1.jpeg" 
+     style="width:50%;float:left">
