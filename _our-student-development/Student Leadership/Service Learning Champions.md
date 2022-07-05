@@ -36,3 +36,14 @@ The Service-Learning Champions are recruited in Secondary Two and will embark on
      style="width:50%;float:left">
 <img src="/images/image9 (1).png" 
      style="width:50%">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+		 
+**(ii) Shines-in-Harmony** 
+
+Shines-in-Harmony is organised annually to provide a platform for students to raise funds and awareness for beneficiaries. The Service-Learning Champions lead in the planning for NChasTalent performance to provide an opportunity to showcase their talent and to express their appreciation and gratitude. Furthermore, the student leaders also lead in the lucky draw segment to encourage the school population to donate pre-loved items as well as to encourage them to donate for the beneficiaries.
+
