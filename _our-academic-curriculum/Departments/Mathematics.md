@@ -50,3 +50,20 @@ Participation in Mathematics Competitions
 <br>– 2021: 1st in School Position
 <br>– 2020: 3rd in School Position
 <br>– 2019: 2nd in School Position
+
+**Mathematics Talent Programme**
+
+Mathematics Talent Programme is a 3 years programme that aims to stretch the potential of high ability learners in Mathematics.
+
+Selected students are invited to the programme in Secondary One if they have:
+
+*   a strong PSLE grade for Mathematics and/or
+    
+*   relevant past achievements in Math Olympiad Competitions or trainings in their primary schools.
+    
+
+Students may also be invited to join the programme in Secondary Two or Three upon recommendations by their mathematics teachers. 
+
+  
+
+Click [here](https://www.nanchiauhigh.moe.edu.sg/our-talent-development/department-based-talent-programmes/mathematics-talent-programme) for more information.
