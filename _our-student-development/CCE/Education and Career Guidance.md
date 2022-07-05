@@ -32,5 +32,15 @@ Ex-NCzen volunteered to share with juniors on her decision to become an entrepre
 <br>
 Sec 4 ECG Learning Journey to various industries to gain a better insight on the needs and experiences of different jobs.
 
+**ECG Resources**
 
 
+The [MySkillsFuture](https://www.moe.gov.sg/-/media/files/programmes/myskillsfuture-student-portal-brochure-digital.pdf?la=en&hash=CD3B2E8DED37E7B383339007D960CF161F03F789) portal is a one-stop portal with information and tools to explore various education and career pathways for NCzens. 
+
+Parents may also explore [MySkillsFuture](https://www.moe.gov.sg/-/media/files/programmes/myskillsfuture-student-portal-brochure-digital.pdf?la=en&hash=CD3B2E8DED37E7B383339007D960CF161F03F789)  portal with NCzens, to learn how to support their children in their education and career journey.
+
+NCzens may also book an ECG Counselling Session (assessments, analysis of RIASEC, exploration of subject combinations and future education & career pathways)
+
+[](https://moeecg.appointeze.com/onlinelink/PanMiaohua)[](https://moeecg.appointeze.com/onlinelink/PanMiaohua)
+
+[https://moeecg.appointeze.com/onlinelink/PanMiaohua](https://moeecg.appointeze.com/onlinelink/PanMiaohua)
