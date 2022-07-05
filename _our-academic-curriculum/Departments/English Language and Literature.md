@@ -4,6 +4,8 @@ permalink: /our-academic-curriculum/Departments/English-Language-and-Literature
 description: ""
 third_nav_title: Departments
 ---
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT4hatJzH3isZUAHBeWJ7f_xsRp3u3neYSA6qkMDJNTmVcqDPT2Yq5HM9D7kNrtq50PdKikmgTdQymY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
 **Mission**
 
 For students to: read, understand, and appreciate, a variety of texts; think critically; and to communicate responsibly their thoughts and feelings as informed and active citizens.
@@ -35,3 +37,8 @@ Mdm Yap Teck Lay Anna – Head of Department
 – National Schools Literature Festival
 <br>– Creative Writing and Public Speaking competitions
 <br>– Chrysalis Publication
+
+**Collaborations**
+
+– Bilingual DSA
+<br>– Contemporary Singaporean Issues Forum (CSI)
