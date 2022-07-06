@@ -4,13 +4,15 @@ permalink: /co-curricular-activities/Performing-Arts/Chinese-Drama
 description: ""
 third_nav_title: Performing Arts
 ---
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTSvM3KEKUQqN1sHUuAckUyGyJ_l7zc_JYPBoYvZzOhXec_iuEerIDjSlM2jrx_cEN4Ao5LePiyLkYc/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
 *   Wednesday,  
     4.00pm – 6.00pm  
     Friday,  
     4.00pm – 6.00pm  
     
 
-*   I&E Room (Level 3)  
+*   I&amp;E Room (Level 3)  
 
 *   Mr Tan Jia Hao (OIC)  
     Ms Shao Linjuan
@@ -52,5 +54,5 @@ Members are also selected and trained to take part in various school functions a
 2009 – Singapore Youth Festival Central Judging (Sliver)  
 11th National Drama Writing and Performing Competition for Schools (Bronze)  
 4th International Chinese Recital Competition for Schools (Merit)  
-20th International Secondary & Primary Group Story Telling Competition (Merit)  
-18th International Secondary & Primary Group Story Telling Competition(Bronze)
+20th International Secondary &amp; Primary Group Story Telling Competition (Merit)  
+18th International Secondary &amp; Primary Group Story Telling Competition(Bronze)
