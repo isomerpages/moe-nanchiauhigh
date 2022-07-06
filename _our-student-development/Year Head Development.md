@@ -43,3 +43,7 @@ In line with the school’s Positive Education journey, Zentangle, an activity t
 ![](/images/image009.jpeg)
 ![](/images/image010.jpeg)
 ![](/images/image011.jpeg)
+
+**Letter to my Junior**
+
+Another Positive Education activity where all students were asked to pen a letter, journeying their experiences of the year (personal and academic), the ups and downs, how they celebrated and rejoiced as well as coped and overcame significant episodes of the year. These letters will then be sent to their juniors (ie. current Sec. 4 to current Sec. 3; current Sec. 3 to current Sec. 2 etc) during the first lesson of the new academic year where the juniors will then read, learn and reflect, in preparation for their new year.
