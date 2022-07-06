@@ -50,3 +50,14 @@ Wushu is gaining popularity nationwide as more parents and students are coming t
   
 
 Our Team Singapore has also done the nation proud by constantly achieving excellent results in the SEA Games. Wushu is truly an emerging sport to be enjoyed by all Singaporeans, especially the youths.
+
+
+**Highlight(s) of Activities**
+
+1.  Annual National Interschool Wushu Championships
+2.  Annual National Wushu Open Championships
+3.  School & Public Performances – e.g. Chinese New Year Concert, Performance for visiting guests & at cultural events etc.
+4.  Wushu Exchanges with Other Schools
+5.  Annual Wushu Camp & Clinic
+6.  Sports Enrichment Programme – e.g. Archery, Bowling, Canoeing, Kayaking, Dragon Boating, Rockclimbing etc.
+7.  Student-initiated Teambuilding Activities & Outings.
