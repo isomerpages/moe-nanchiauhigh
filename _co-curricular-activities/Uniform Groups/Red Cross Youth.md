@@ -4,6 +4,8 @@ permalink: /co-curricular-activities/Uniform-Groups/Red-Cross-Youth
 description: ""
 third_nav_title: Uniform Groups
 ---
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSfABSwdiTXxZan70rEQNYyJ6GYFUmR4pBbQng-9ichJqlshSYS0oFAXLd-4VoJtiZM2-jE1zd4r-JO/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
 *   Friday,  
     2.30pm – 6.15pm
 
@@ -46,7 +48,7 @@ The Singapore Red Cross Youth (RCY) is part of the largest humanitarian network 
 
 3\. Interesting and useful life skills courses, such as Outdoor Activities Course. First Aid Workshop, School Camps and Community Service
 
-4\. A wide range of community service projects, such as Red Cross Charity Draw & Flag Day and Home Visits
+4\. A wide range of community service projects, such as Red Cross Charity Draw &amp; Flag Day and Home Visits
 
 5\. Enrichment Activity: Dragon Boating, Rock Climbing
 
