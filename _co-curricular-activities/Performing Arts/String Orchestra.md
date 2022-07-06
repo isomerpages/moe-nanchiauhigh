@@ -4,6 +4,8 @@ permalink: /co-curricular-activities/Performing-Arts/String-Orchestra
 description: ""
 third_nav_title: Performing Arts
 ---
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWYqIFtxoek6OMnqis-0Tn06khl2fUXVN4ew8yiKNIKRiEUwE3MGfr658Mn1jA8bNKcf1oGFNskhhh/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
 *   Thursday,  
     3.15pm – 6.15pm  
     Friday,  
@@ -19,10 +21,10 @@ third_nav_title: Performing Arts
 **CCA Objectives**
 
 
-1\. To promote classical and contemporary music appreciation in school. <br>
-2\. To expose students of Nan Chiau High School to different cultures. <br>
-3\. To inspire and enhance artistic skills in the realm of classical music. <br>
-4\. To encourage teamwork, perseverance and nuture a sense of belonging to Nan Chiau High School. <br>
+1\. To promote classical and contemporary music appreciation in school.&nbsp;<br>
+2\. To expose students of Nan Chiau High School to different cultures.&nbsp;<br>
+3\. To inspire and enhance artistic skills in the realm of classical music.&nbsp;<br>
+4\. To encourage teamwork, perseverance and nuture a sense of belonging to Nan Chiau High School.&nbsp;<br>
 5\. To reach out to members of the public via community involvement programme (CIP) and public performances.
 
 **CCA Description**
