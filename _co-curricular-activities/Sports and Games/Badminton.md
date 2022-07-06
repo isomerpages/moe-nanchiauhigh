@@ -4,8 +4,6 @@ permalink: /co-curricular-activities/Sports-and-Games/Badminton
 description: ""
 third_nav_title: Sports and Games
 ---
-
-
 **Odd Week**
 
 *   Monday: Boys & Girls,  
@@ -42,4 +40,8 @@ third_nav_title: Sports and Games
 4\. To enable students to learn attacking, defensive strategies, space awareness and umpiring at some stage.<br>
 5\. To enable students to learn sportsmanship and values of fair play, teamwork and discipline.
 
+**CCA Description**
 
+Empower pupils with the knowledge and skills for their own healthy lifestyle, infuse values and passion during training.<br>
+To promote active participation, prepare pupils for recreational activities and inculcate a culture of respect and trust.<br>
+Study & train hard persistently to give the best.
