@@ -4,8 +4,6 @@ permalink: /co-curricular-activities/Sports-and-Games/Basketball
 description: ""
 third_nav_title: Sports and Games
 ---
-
-
 *   Mon: Girls,  
     3.30pm – 6.30pm  
     Wed: Boys,  
@@ -46,3 +44,15 @@ U14 T-Net Basketball Tournament – June<br>
 North Zone C Division Basketball Championship – July<br>
 U16 T-Net Basketball Tournament – October<br>
 Annual Basketball Camp – November
+
+Achievements
+------------
+
+2022 National Schools Games Basketball ‘B’ Div Girls – Top 4  
+2020-21 Competitions were suspended due to COVID-19 <br>
+2019 U14 T-Net Basketball Tournament (L3) Girls – Champions  
+2019 North Zone B’Division Basketball Championship Boys and Girls – 2nd round  
+2018 U16 T-Net Basketball Tournament (L3) Boys – 1st Runner Up  
+2018 U16 T-Net Basketball Tournament (L3) Girls – 3rd Runner Up  
+2018 North Zone C’Division Basketball Championship Boys and Girls – 2nd round  
+2018 North Zone B’Division Basketball Championship Boys and Girls – 2nd round
