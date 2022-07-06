@@ -3,6 +3,8 @@ title: Student Management
 permalink: /our-student-development/Student-Management
 description: ""
 ---
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSt9cnP0NbNzPsgZTOkqc8fOeeibiLycrgpZAL3i_OZGVnDrzupaYPkyGMtckcMr0VlJCBAy8y40yYt/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
 **Vision**
 
 Caring Leaders with Values and Character  
@@ -22,7 +24,7 @@ Mr. Ting Shi Yun (Sec. 4 Discipline Level Coordinator)
 
 **KEY POINTERS**
 
-**School Rules & Regulations**
+**School Rules &amp; Regulations**
 
 
 **1\. NATION AND SCHOOL**
@@ -41,7 +43,7 @@ Mr. Ting Shi Yun (Sec. 4 Discipline Level Coordinator)
 
   
 
-1.2.1     Weekly Assembly
+1.2.1&nbsp; &nbsp; &nbsp;Weekly Assembly
 
   
 
@@ -51,7 +53,7 @@ Mr. Ting Shi Yun (Sec. 4 Discipline Level Coordinator)
 
   
 
-1.2.2     Cleanliness
+1.2.2&nbsp; &nbsp; &nbsp;Cleanliness
 
   
 
@@ -68,27 +70,27 @@ Mr. Ting Shi Yun (Sec. 4 Discipline Level Coordinator)
 
 *   **Personal Conduct**
 
-2.1.1     Every student is an ambassador of the School; everyone is expected to project a dignified image and be proud of the school.
+2.1.1&nbsp; &nbsp; &nbsp;Every student is an ambassador of the School; everyone is expected to project a dignified image and be proud of the school.
 
   
 
-2.1.2     Be courteous, disciplined and respectful at all times, in and out of school.
+2.1.2&nbsp; &nbsp; &nbsp;Be courteous, disciplined and respectful at all times, in and out of school.
 
   
 
-2.1.3     Be attentive during lesson and conscientious in completing assigned work
+2.1.3&nbsp; &nbsp; &nbsp;Be attentive during lesson and conscientious in completing assigned work
 
   
 
-2.1.4     Greet all teachers, non-teaching staff and visitors to the school with a bow.
+2.1.4&nbsp; &nbsp; &nbsp;Greet all teachers, non-teaching staff and visitors to the school with a bow.
 
   
 
   
 
-**2.2        Personal Grooming**
+**2.2&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Personal Grooming**
 
-2.2.1     Boys:
+2.2.1&nbsp; &nbsp; &nbsp;Boys:
 
   
 
@@ -98,7 +100,7 @@ Mr. Ting Shi Yun (Sec. 4 Discipline Level Coordinator)
 
   
 
-2.2.2     Girls:
+2.2.2&nbsp; &nbsp; &nbsp;Girls:
 
   
 
@@ -109,7 +111,7 @@ Mr. Ting Shi Yun (Sec. 4 Discipline Level Coordinator)
 
   
 
-2.2.3     Boys and Girls:
+2.2.3&nbsp; &nbsp; &nbsp;Boys and Girls:
 
   
 
@@ -129,7 +131,7 @@ Mr. Ting Shi Yun (Sec. 4 Discipline Level Coordinator)
 
   
 
-2.3.2     Boys:
+2.3.2&nbsp; &nbsp; &nbsp;Boys:
 
   
 
@@ -141,7 +143,7 @@ Mr. Ting Shi Yun (Sec. 4 Discipline Level Coordinator)
 
   
 
-2.3.3     Girls:
+2.3.3&nbsp; &nbsp; &nbsp;Girls:
 
   
 
@@ -152,27 +154,27 @@ Mr. Ting Shi Yun (Sec. 4 Discipline Level Coordinator)
 
   
 
-2.3.4     Students are only allowed to wear either the prescribed school shoes or shoes that are completely black in colour.
+2.3.4&nbsp; &nbsp; &nbsp;Students are only allowed to wear either the prescribed school shoes or shoes that are completely black in colour.
 
   
 
-2.3.5     Socks must be worn in a way that the ‘NC’ logo is visibly 3 fingers above the back cut of the shoe.
+2.3.5&nbsp; &nbsp; &nbsp;Socks must be worn in a way that the ‘NC’ logo is visibly 3 fingers above the back cut of the shoe.
 
   
 
-2.3.6     Slippers and sandals are allowed to be worn only on medical grounds; in such cases, a letter from a medical doctor must be produced.
+2.3.6&nbsp; &nbsp; &nbsp;Slippers and sandals are allowed to be worn only on medical grounds; in such cases, a letter from a medical doctor must be produced.
 
   
 
-2.3.7     Girls are only allowed to wear simple white/ beige bras (including sports bra). Halter-neck bras or other outlandish bras are not allowed to be worn. Girls who do not adhere strictly to this requirement will be sent home to change.
+2.3.7&nbsp; &nbsp; &nbsp;Girls are only allowed to wear simple white/ beige bras (including sports bra). Halter-neck bras or other outlandish bras are not allowed to be worn. Girls who do not adhere strictly to this requirement will be sent home to change.
 
   
 
-2.3.8     PE attire (school T-shirt and PE shorts) must be worn for PE lessons. T-shirts must be tucked in at all times. When PE attire is worn underneath the school uniform, it must be tucked in and the length of the sleeves must not be longer than that of the school shirt or blouse. The PE shorts must also not be longer than the school shorts if it is worn inside. All students must be in their uniform during lessons that are after recess time.
+2.3.8&nbsp; &nbsp; &nbsp;PE attire (school T-shirt and PE shorts) must be worn for PE lessons. T-shirts must be tucked in at all times. When PE attire is worn underneath the school uniform, it must be tucked in and the length of the sleeves must not be longer than that of the school shirt or blouse. The PE shorts must also not be longer than the school shorts if it is worn inside. All students must be in their uniform during lessons that are after recess time.
 
   
 
-2.3.9     When students return to school outside normal school hours and during school vacation, they are expected to be in full uniform or the accepted attire of the CCA group. Students participating in non-uniformed CCAs are to wear the school T-shirts and school shorts/pants/skirts.
+2.3.9&nbsp; &nbsp; &nbsp;When students return to school outside normal school hours and during school vacation, they are expected to be in full uniform or the accepted attire of the CCA group. Students participating in non-uniformed CCAs are to wear the school T-shirts and school shorts/pants/skirts.
 
   
 
@@ -182,59 +184,59 @@ Mr. Ting Shi Yun (Sec. 4 Discipline Level Coordinator)
 
   
 
-**3.1        Late-coming Policy**   
+**3.1&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Late-coming Policy**&nbsp; &nbsp;
 
   
 
-3.1.1     The School regards punctuality as a reflection of a student’s respect for school, teachers and learning. Attending lesson is, therefore, a privilege extended to students with the correct attitude and not an entitlement for all.
+3.1.1&nbsp; &nbsp; &nbsp;The School regards punctuality as a reflection of a student’s respect for school, teachers and learning. Attending lesson is, therefore, a privilege extended to students with the correct attitude and not an entitlement for all.
 
   
 
-3.1.2     All students are expected to be seated at the quadrangle no later than 7.30 am (Mondays to Fridays) for the flag-raising ceremony which commence at 7.35 am. Students who are not with their class during flag-raising ceremony will be considered late.
+3.1.2&nbsp; &nbsp; &nbsp;All students are expected to be seated at the quadrangle no later than 7.30 am (Mondays to Fridays) for the flag-raising ceremony which commence at 7.35 am. Students who are not with their class during flag-raising ceremony will be considered late.
 
   
 
-3.1.3     As singing the national anthem and reciting the pledge is a form of respect to the Nation, all late-comers will be required to stand in front of the state flag to sing the national anthem and recite the pledge. Non-Singaporeans are to observe solemnity.
+3.1.3&nbsp; &nbsp; &nbsp;As singing the national anthem and reciting the pledge is a form of respect to the Nation, all late-comers will be required to stand in front of the state flag to sing the national anthem and recite the pledge. Non-Singaporeans are to observe solemnity.
 
   
 
-3.1.4     Late-comers are also required to serve afternoon detention on the same day they are late for school. They are required to find time to make up for the lessons or training that they might miss that afternoon. In addition, late-coming will also have a direct bearing on the student’s termly conduct grade.
+3.1.4&nbsp; &nbsp; &nbsp;Late-comers are also required to serve afternoon detention on the same day they are late for school. They are required to find time to make up for the lessons or training that they might miss that afternoon. In addition, late-coming will also have a direct bearing on the student’s termly conduct grade.
 
   
 
-3.1.5     Persistent late-comers will not be allowed to return to their classrooms for lesson. They will either be kept outside the General Office or outside their classrooms depending on the severity. They will also be required to serve afternoon detention on the same day.
+3.1.5&nbsp; &nbsp; &nbsp;Persistent late-comers will not be allowed to return to their classrooms for lesson. They will either be kept outside the General Office or outside their classrooms depending on the severity. They will also be required to serve afternoon detention on the same day.
 
   
 
-3.1.6     Students are expected to be punctual in attending classes, CCAs and other school activities; persistent late-comers will be referred to the Disciplinary Committee and dealt with accordingly.
+3.1.6&nbsp; &nbsp; &nbsp;Students are expected to be punctual in attending classes, CCAs and other school activities; persistent late-comers will be referred to the Disciplinary Committee and dealt with accordingly.
 
   
 
-3.1.7     Teachers’ permission must be obtained for visits to the toilet or when leaving the classroom. Leaving the classroom / learning venues during the change-over of periods, without the teachers’ permission, is strictly not allowed and disciplinary consequences will be meted out for such errant behavior.
-
-  
-
-  
-
-**3.2        Absence** 
-
-  
-
-3.2.1     Students who are absent from school must produce a medical certificate on the day they return.
-
-  
-
-3.2.2     Parents’ letters of excuse will be considered and accepted at the sole discretion of the Principal or Vice-Principal strictly under special circumstances only.
+3.1.7&nbsp; &nbsp; &nbsp;Teachers’ permission must be obtained for visits to the toilet or when leaving the classroom. Leaving the classroom / learning venues during the change-over of periods, without the teachers’ permission, is strictly not allowed and disciplinary consequences will be meted out for such errant behavior.
 
   
 
   
 
-**3.3        Early Leave** 
+**3.2&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Absence**&nbsp;
 
   
 
-3.3.1     Students who need to leave the school premises during school hours need to seek permission from the Form Teacher, fill up the relevant form and subsequently get approval from the Principal, Vice-Principal or a Head of Department.
+3.2.1&nbsp; &nbsp; &nbsp;Students who are absent from school must produce a medical certificate on the day they return.
+
+  
+
+3.2.2&nbsp; &nbsp; &nbsp;Parents’ letters of excuse will be considered and accepted at the sole discretion of the Principal or Vice-Principal strictly under special circumstances only.
+
+  
+
+  
+
+**3.3&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Early Leave**&nbsp;
+
+  
+
+3.3.1&nbsp; &nbsp; &nbsp;Students who need to leave the school premises during school hours need to seek permission from the Form Teacher, fill up the relevant form and subsequently get approval from the Principal, Vice-Principal or a Head of Department.
 
   
 
@@ -244,27 +246,27 @@ At all times, students leaving school premises during school hours must be accom
 
 **4\. PERSONAL BELONGINGS**
 
-4.1        Electronic gadgets of an entertainment/gaming nature are strictly not allowed to be brought to school.
+4.1&nbsp; &nbsp; &nbsp; &nbsp; Electronic gadgets of an entertainment/gaming nature are strictly not allowed to be brought to school.
 
   
 
-4.2        Mobile phones are strongly discouraged to be brought to School.
+4.2&nbsp; &nbsp; &nbsp; &nbsp; Mobile phones are strongly discouraged to be brought to School.
 
   
 
-4.3        The use of mobile phone is strictly not allowed during curriculum time (including remedial lessons) unless permission is given by the teacher for teaching and learning purposes. Errant students may have their mobile phone confiscated for up to one term depending on the severity of the misuse.
+4.3&nbsp; &nbsp; &nbsp; &nbsp; The use of mobile phone is strictly not allowed during curriculum time (including remedial lessons) unless permission is given by the teacher for teaching and learning purposes. Errant students may have their mobile phone confiscated for up to one term depending on the severity of the misuse.
 
   
 
-4.4        Security and safety of all personal belongings, including mobile phones, is the sole responsibility of the student who makes the decision to bring them to School.
+4.4&nbsp; &nbsp; &nbsp; &nbsp; Security and safety of all personal belongings, including mobile phones, is the sole responsibility of the student who makes the decision to bring them to School.
 
   
 
-4.5        All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item(s) which is used or intended to be used to cause harm to others.
+4.5&nbsp; &nbsp; &nbsp; &nbsp; All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item(s) which is used or intended to be used to cause harm to others.
 
   
 
-4.6        Banned items will be confiscated and kept for up to one term or more by the school depending on the severity of the misuse.
+4.6&nbsp; &nbsp; &nbsp; &nbsp; Banned items will be confiscated and kept for up to one term or more by the school depending on the severity of the misuse.
 
   
 
@@ -273,17 +275,17 @@ At all times, students leaving school premises during school hours must be accom
   
 **5\. VISITORS IN SCHOOL**
 
-5.1        All visitors, including parents, guardians and relatives of students, have to proceed to the General Office for further assistance.
+5.1&nbsp; &nbsp; &nbsp; &nbsp; All visitors, including parents, guardians and relatives of students, have to proceed to the General Office for further assistance.
 
   
 
-5.2        Friends of students are not allowed to be brought into school without prior permission from the school.
+5.2&nbsp; &nbsp; &nbsp; &nbsp; Friends of students are not allowed to be brought into school without prior permission from the school.
 
   
 
-5.3        Photograph(s) or video image(s) of students and their parents may be captured during school activities and events (egs. classroom lessons, CCA training, school camps, school concerts, Meet-the-Parents Session etc.). The school may use and publish such photographs and/or video recordings in school publications, website, social media channels, and other communication channel.
+5.3&nbsp; &nbsp; &nbsp; &nbsp; Photograph(s) or video image(s) of students and their parents may be captured during school activities and events (egs. classroom lessons, CCA training, school camps, school concerts, Meet-the-Parents Session etc.). The school may use and publish such photographs and/or video recordings in school publications, website, social media channels, and other communication channel.
 
-**Offences & Consequences**
+**Offences &amp; Consequences**
 
 **Level 1**
 
