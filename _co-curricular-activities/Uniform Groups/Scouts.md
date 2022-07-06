@@ -4,7 +4,6 @@ permalink: /co-curricular-activities/Uniform-Groups/Scouts
 description: ""
 third_nav_title: Uniform Groups
 ---
-
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ3mlGKxC9O6CDUzTcURj4chmcOnpV8iA-Ij-PV2euHOfIXvlr6NFQxK-xOlzt_p_MKHcGH5dxdSlKd/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 *   Friday,  
@@ -21,6 +20,8 @@ third_nav_title: Uniform Groups
     Mr Esmond Tay
 		
 		
+**KEY INFORMATION**
+
 **CCA Objectives**
 
 Scouting is a movement of self-education for young people. All over the world, Scouts are united by a common, active commitment to Scouting’s purpose, which is to help young people develop their full physical, intellectual, emotional, spiritual and social capacities as individuals and members of the society, therefore contributing to the development of a better world.
