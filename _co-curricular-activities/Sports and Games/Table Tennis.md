@@ -4,6 +4,7 @@ permalink: /co-curricular-activities/Sports-and-Games/Table-Tennis
 description: ""
 third_nav_title: Sports and Games
 ---
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQusCStJhG0v3VBijKJ4o5H3O-ydJ9yal1JZF17ZTLtNHSWPIuKSldLBygNsM1tsfxGdk9UmSL8hG60/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 *   Tuesday:  
     3.30pm – 6.00pm  
