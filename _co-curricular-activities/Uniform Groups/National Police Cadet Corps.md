@@ -57,3 +57,28 @@ As part of a culture that encourages us to treat fellow cadets with respect, cou
 
 Facing Challenges & Achieving Excellence:<br>
 As a result of our identification with the Singapore Police Force, TEACH us to adopt its tradition of high standards of performance, commitment, duty and service, to seek to excel and to face up to challenge.
+
+**Highlight(s) of Activities**
+
+Parades:<br>
+NPCC Annual Parade, School Anniversary Parade, National Day Observance Ceremony @ Sengkang West
+
+  
+
+Inter-unit Competitions:<br>
+Campcraft Competition, 0.22 Revolver Shooting Competition, Area 7 Games Day, Drills Competition
+
+  
+
+Exciting Camps:<br>
+Unit-based cames: All Level Training Camp (march), Basic of Leadership Training Camp (november), Adventure Training Camp, Survival Training Camp at Pulau Ubin
+
+  
+
+Interesting HQ courses:<br>
+Anti- Narcotics Course, Anti-Corruption Course, Civil Defence, Leadership and Mentoring Skills Course, Police Knowledge and Home Front Security, Crime Scene Investigation, Community Safety and Security Programme, Police Youth Ambassador
+
+  
+
+Enrichment programs over and above normal training:<br>
+Kayaking, Dragonboating, Rock-climbing, Hiking, Air pistol shooting, Outdoor Orienteering, etc!
