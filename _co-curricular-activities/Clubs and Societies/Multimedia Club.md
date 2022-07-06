@@ -4,8 +4,6 @@ permalink: /co-curricular-activities/Clubs-and-Societies/Multimedia-Club
 description: ""
 third_nav_title: Clubs and Societies
 ---
-
-
 *   Monday,  
     7.10am – 7.55am  
     Monday,  
