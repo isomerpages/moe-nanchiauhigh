@@ -4,6 +4,8 @@ permalink: /co-curricular-activities/Uniform-Groups/National-Cadet-Corps
 description: ""
 third_nav_title: Uniform Groups
 ---
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSCeAM9tGUPkJk7OaZS4KICg8SlE-J0HxxgHcr4UQGE98nN-quHOuAwV1AeJTfKY8elPJTBrk4pJ2t9/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
 *   Friday,  
     2.45pm – 6.00pm
 
@@ -47,7 +49,7 @@ Proficiency Badge Test<br>
 Total Defence Badge (Silver)<br>
 Camp STEEL<br>
 Orienteering Badge Test<br>
-Technical Handling & Individual Marksmanship Training (SAR21)<br>
+Technical Handling &amp; Individual Marksmanship Training (SAR21)<br>
 Precision Drills Course<br>
 Freestyle Drills Course<br>
 Basic First Aid Course<br>
