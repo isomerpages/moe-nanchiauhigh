@@ -52,3 +52,11 @@ Annual CCA Camp<br>
 Umpiring workshop<br>
 Friendly matches<br>
 Fitness Conditioning
+
+**Achievements**
+
+National School Games<br>
+2021 – Participated in NSG (NZ) only B Div Boys & Girls<br>
+2020 – Participated in North Zone (NZ)<br>
+2019 – B Boys & C Girls – NZ Q-Finals<br>
+2018 – C Boys – NZ Q-Finals
