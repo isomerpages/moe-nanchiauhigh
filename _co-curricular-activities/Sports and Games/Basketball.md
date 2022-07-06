@@ -45,8 +45,7 @@ North Zone C Division Basketball Championship – July<br>
 U16 T-Net Basketball Tournament – October<br>
 Annual Basketball Camp – November
 
-Achievements
-------------
+**Achievements**
 
 2022 National Schools Games Basketball ‘B’ Div Girls – Top 4  
 2020-21 Competitions were suspended due to COVID-19 <br>
