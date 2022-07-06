@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs and Societies/.keep
       - Performing Arts/Chinese Dance.md
       - Performing Arts/Chinese Drama.md
       - Performing Arts/Chinese Orchestra.md
