@@ -82,3 +82,12 @@ Anti- Narcotics Course, Anti-Corruption Course, Civil Defence, Leadership and Me
 
 Enrichment programs over and above normal training:<br>
 Kayaking, Dragonboating, Rock-climbing, Hiking, Air pistol shooting, Outdoor Orienteering, etc!
+
+**Achievements**
+
+Unit Overall Proficiency Award 2020 – GOLD (since 2007)<br>
+SPF-NPCC Badge Awardees 2020 – SI (NPCC) Koh Rui En (4 Innovation) and SSgt (NPCC) Javier Phua Shun Zhe (4 Innovation)<br>
+Best Unit Cadet Awardees 2020 – Bryan Hoe (3 Integrity) , Ines Kim (3 Excellence)<br>
+Campcraft Inter-unit competition 2018 – Boys – overall 9th position ; Girls – overall 12th position<br>
+2019 Area 7 Games Day – Overall champions<br>
+2019 Inter-unit Shooting Competition – Girls overall 4th position, Individual shooter , SSgt (NPCC) Teong Yuan Yi, Sherrie (3C) – 9th position
