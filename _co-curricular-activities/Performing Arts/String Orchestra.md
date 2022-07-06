@@ -35,3 +35,10 @@ The String Orchestra comprises of about fifty students who have the passion for 
 2\. Exchange Programme With Other Schools<br>
 3\. Aesthetics Week<br>
 4\. NCHS CCA Open House
+
+**Achievements**
+
+1\. Certificate of Accomplishment (2015)<br>
+2\. Certificate of Accomplishment (2017)<br>
+3\. Certificate of Accomplishment (2019)<br>
+4\. Certificate of Accomplishment (2021)
