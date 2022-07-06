@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Performing-Arts/Contemporary-Dance
 description: ""
 third_nav_title: Performing Arts
 ---
-
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTuJP4Eg0wG49h4jn2wAOWYg0sZqv43JKjR__Jh9aupkFPPktMfrGWfkbTkuMgSoImKWAlWHc2RDz68/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 *   Monday,  
     3.30pm – 6.00pm  
@@ -27,7 +27,7 @@ third_nav_title: Performing Arts
 
 **CCA Description**
 
-Contemporary dance is a style of expressive dance that combines elements of several dance genres. We are a team of disciplined and passionate dancers who live by our slogan - Music. Moves. Soul. We are proudly known as "INPULSE" - to showcase our team unity and how the dancers are in sync not only in our dance moves but in beating of our hearts as well. Besides the weekly dance trainings, our CCA also conducts annual bonding activities and mentorship sessions for our dancers to further develop their character and values.
+Contemporary dance is a style of expressive dance that combines elements of several dance genres.&nbsp;We are a team of disciplined and passionate dancers who live by our slogan - Music. Moves. Soul. We are proudly known as "INPULSE" - to showcase our team unity and how the dancers are in sync not only in our dance moves but in beating of our hearts as well. Besides the weekly dance trainings, our CCA also conducts annual bonding activities and mentorship sessions for our dancers to further develop their character and values.
 
 **Highlight(s) of Activities**
 
