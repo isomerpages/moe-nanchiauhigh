@@ -45,3 +45,10 @@ third_nav_title: Sports and Games
 Empower pupils with the knowledge and skills for their own healthy lifestyle, infuse values and passion during training.<br>
 To promote active participation, prepare pupils for recreational activities and inculcate a culture of respect and trust.<br>
 Study & train hard persistently to give the best.
+
+**Highlight(s) of Activities**
+
+Annual CCA Camp<br>
+Umpiring workshop<br>
+Friendly matches<br>
+Fitness Conditioning
