@@ -4,8 +4,6 @@ permalink: /co-curricular-activities/Uniform-Groups/National-Cadet-Corps
 description: ""
 third_nav_title: Uniform Groups
 ---
-
-
 *   Friday,  
     2.45pm – 6.00pm
 
@@ -70,3 +68,12 @@ Shooting Competition (Live Range)<br>
 National Day Parade<br>
 Cadet Officer Course<br>
 International Cadet Exchange Program (ICEP)
+
+
+**Achievements**
+
+Unit Recognition Competition Achievements 2018-2019 (Distinction)<br>
+Best Unit Competition (BUC) Achievements 2010 – 2017 (Gold)<br>
+NCC National Fitness Challenge 2019 (1ST RUNNER UP)<br>
+NCC National Fitness Challenge 2018 (National Champion)<br>
+PRECISION DRILLS COMPETITION 2019 (CENTRAL FINALIST)
