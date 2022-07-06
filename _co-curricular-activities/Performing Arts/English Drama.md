@@ -4,14 +4,14 @@ permalink: /co-curricular-activities/Performing-Arts/English-Drama
 description: ""
 third_nav_title: Performing Arts
 ---
-
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQuNQsSH_MA9A8UKzVekB2abpLUX5MudpnSTNqHQytHOOTkwSIwbeHtNVRVxfsy1tOOtBUcVZxpNOt6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 *   Monday,  
     3.30pm – 5.30pm  
     Thursday,  
     3.30pm – 5.30pm
 
-*   Innovation & Enterprise Room (Level 3)
+*   Innovation &amp; Enterprise Room (Level 3)
 *   Mdm Chen Xiaowei Chney (OIC)  
     Mr Tan Han Xiong
 		
