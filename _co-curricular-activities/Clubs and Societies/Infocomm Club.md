@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Clubs-and-Societies/Infocomm-Club
 description: ""
 third_nav_title: Clubs and Societies
 ---
-
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSXOBGP-s3tA_BKcu3bqA9YWiqkw9j4_ytDwJ9fCtdxQ8yBu1P0m9H3dORzD04Reco0lNwrzgIhPSJa/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 *   Friday,  
     2.30pm – 5.30pm  
@@ -62,4 +62,4 @@ Highlight(s) of Activities
 2019: POSB \[i.code\] Challenge 2019 – Top 10 Finalists<br>
 2020: Youth Cyber Exploration Programme – Top 10 Finalists<br>
 2020: N.E.mation! 2021 – Top 10 Student Team<br>
-2021: e-Science & Technology Challenge 2021, Category 2 - 1st Runner Up.
+2021: e-Science &amp; Technology Challenge 2021, Category 2 - 1st Runner Up.
