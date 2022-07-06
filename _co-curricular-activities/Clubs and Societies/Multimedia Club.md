@@ -4,6 +4,8 @@ permalink: /co-curricular-activities/Clubs-and-Societies/Multimedia-Club
 description: ""
 third_nav_title: Clubs and Societies
 ---
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSsCfdwICmcBLLdzgPs9nL_9tplMXlyR9rHjAcWVVjNY8sg12pneWFJNM7lpkITxmbdlhEhXSq69l77/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
 *   Monday,  
     7.10am – 7.55am  
     Monday,  
@@ -34,8 +36,8 @@ third_nav_title: Clubs and Societies
 Overall:<br>
 To empower students with lifelong skills:<br>
 • Sense of responsibility and ownership.<br>
-• Organizational & Leadership skills.<br>
-• Character Building: Teamwork, Discipline & Independence.
+• Organizational &amp; Leadership skills.<br>
+• Character Building: Teamwork, Discipline &amp; Independence.
 
   
 
@@ -71,7 +73,7 @@ Students can choose to participate in a wide range of diverse and meaningful act
 2\. Events handled<br>
 • Annual School Anniversary concert and Live Video Telecast<br>
 • Chinese New Year Celebrations<br>
-• National Day Parade & Celebration<br>
+• National Day Parade &amp; Celebration<br>
 • Teachers’ Day Celebration<br>
 • Student Leaders’ Investiture<br>
 • City Forum<br>
