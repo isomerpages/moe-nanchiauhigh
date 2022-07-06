@@ -28,3 +28,18 @@ The school celebrates the beginning of the year by having a bowl of Tau Huey wit
 ![](/images/image003.jpeg)
 ![](/images/image004.jpeg)
 ![](/images/image005.jpeg)
+
+**A Kind Exchange - Friendship Day**
+
+The school celebrates the beginning of the year by having a bowl of Tau Huey with Glutinous Rice balls together. Leveraging on Valentine's Day, the school uses this day to celebrate and appreciate friendship and camaraderie among students, teachers, non-teaching staff and school leaders. Both staff and students write gratitude messages for each other.
+
+![](/images/image006.jpeg)
+
+**Zentangle**
+
+In line with the school’s Positive Education journey, Zentangle, an activity that requires one to be mindfully focussed and engaged (ie. fully present) while drawing patterns and designs of his/her choice, was carried out for all 4 levels of students so that they can sharpen mindfulness skills in order to help them reduce their stress, anxiety and negative emotions.
+
+![](/images/image008.jpeg)
+![](/images/image009.jpeg)
+![](/images/image010.jpeg)
+![](/images/image011.jpeg)
