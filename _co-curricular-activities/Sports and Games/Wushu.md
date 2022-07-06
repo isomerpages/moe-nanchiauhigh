@@ -4,6 +4,8 @@ permalink: /co-curricular-activities/Sports-and-Games/Wushu
 description: ""
 third_nav_title: Sports and Games
 ---
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMsMhKJJ0oia3q2F4SySJSsQ-clU4CEsJPjSPvkVUhWCZGwf1mzlOwzkICE_eeFcdtzvqrsRPNKR2B/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
 *   Monday,  
     3.30pm – 6.00pm  
     Friday,  
@@ -11,7 +13,7 @@ third_nav_title: Sports and Games
 [CCA Schedule](https://drive.google.com/drive/folders/144U8xPQCm4oY06dXSjfz7PRYYTxjcfOT)
 
 
-*   Indoor Sports Hall 1 & 2  
+*   Indoor Sports Hall 1 &amp; 2  
    
 *   Mdm Angeline Yar  
     Mdm Siak Chock Kwun
@@ -56,27 +58,27 @@ Our Team Singapore has also done the nation proud by constantly achieving excell
 
 1.  Annual National Interschool Wushu Championships
 2.  Annual National Wushu Open Championships
-3.  School & Public Performances – e.g. Chinese New Year Concert, Performance for visiting guests & at cultural events etc.
+3.  School &amp; Public Performances – e.g. Chinese New Year Concert, Performance for visiting guests &amp; at cultural events etc.
 4.  Wushu Exchanges with Other Schools
-5.  Annual Wushu Camp & Clinic
+5.  Annual Wushu Camp &amp; Clinic
 6.  Sports Enrichment Programme – e.g. Archery, Bowling, Canoeing, Kayaking, Dragon Boating, Rockclimbing etc.
-7.  Student-initiated Teambuilding Activities & Outings.
+7.  Student-initiated Teambuilding Activities &amp; Outings.
 
 
 Achievements
 ------------
 
-**2022 National Schools Games Wushu Championships** <br>
+**2022 National Schools Games Wushu Championships**&nbsp;<br>
 *   ‘B’ Div Boys – 2nd International Sword, 3rd Position
 *   ‘B’ Girls – 1st International Nandao, 2nd Position
 *   ‘B’ Girls – 1st International Nanquan, 4th Position
 *   ‘B’ Girls – 1st International Spear, 4th Position
 *   ‘B’ Girls – 2nd International Cudgel, 4th Position
 *   ‘C’ Boys – 1st International Changquan,1st Position
-*   ‘C’ Boys  – 1st  International Sword, 1st Position
-*   ‘C’ Girls –  Formulated 5 Duan Nanquan, 2nd position
-*   ‘C’ Girls –  Formulated 5 Duan Nanquan, 4th Position
-*   ‘C’ Girls –  Formulated 5 Duan Sword, 4th Position
+*   ‘C’ Boys &nbsp;– 1st&nbsp; International Sword, 1st Position
+*   ‘C’ Girls –&nbsp; Formulated 5 Duan Nanquan, 2nd position
+*   ‘C’ Girls –&nbsp; Formulated 5 Duan Nanquan, 4th Position
+*   ‘C’ Girls –&nbsp; Formulated 5 Duan Sword, 4th Position
 
   
 
@@ -96,8 +98,8 @@ Achievements
 • 4B Trina Toh Pei Jie, National Interschool Wushu Championships, 7th, ‘B’ Div Girls, Sword (2nd International).<br>
 • 2H Xylon Chan Yi Chong, National Interschool Wushu Championships, 5th, ‘C’ Div Boys, Spear (1st International).<br>
 • 1A Nicole Lin Zi Lu, National Interschool Wushu Championships, 7th, ‘C’ Div Girls, Sword (1st International).<br>
-• 2B Goh Yi Xian, National Wushu & Sanda Championships, 2nd, ‘Under 14’ Girls, Cudgel (2nd International).<br>
-• 2B Gwen Ku Jia Ye, National Wushu & Sanda Championships, 2nd, ‘Under 14’ Girls, Sword (1st International)<br>
-• 1A Nicole Lin Zi Lu, National Wushu & Sanda Championships, 3rd, ‘Under 14’ Girls, Sword (1st International).<br>
-• 1H Clarabelle Chua Jia Yi, National Wushu & Sanda Championships, 2nd, ‘Under 14’ Girls, Broadsword (1st International)<br>
-• 1H Gareth Teo Yi Xi, National Wushu & Sanda Championships, 2nd, ‘Under 14’ Boys, Spear (1st International).
+• 2B Goh Yi Xian, National Wushu &amp; Sanda Championships, 2nd, ‘Under 14’ Girls, Cudgel (2nd International).<br>
+• 2B Gwen Ku Jia Ye, National Wushu &amp; Sanda Championships, 2nd, ‘Under 14’ Girls, Sword (1st International)<br>
+• 1A Nicole Lin Zi Lu, National Wushu &amp; Sanda Championships, 3rd, ‘Under 14’ Girls, Sword (1st International).<br>
+• 1H Clarabelle Chua Jia Yi, National Wushu &amp; Sanda Championships, 2nd, ‘Under 14’ Girls, Broadsword (1st International)<br>
+• 1H Gareth Teo Yi Xi, National Wushu &amp; Sanda Championships, 2nd, ‘Under 14’ Boys, Spear (1st International).
