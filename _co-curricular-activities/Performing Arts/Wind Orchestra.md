@@ -37,3 +37,15 @@ Wind Orchestra is a big family of musicians who pride themselves in their passio
 4\. National Day Performance (8 August 2019)<br>
 5\. Con Fuoco VI @ Singapore Chinese Cultural Centre (24 March 2018)<br>
 6\. Annual Band Camp (22-24 Nov 2018)
+
+**Achievements**
+
+1\. Virtual Solo Recital Performance (September, 2021)   <br>
+2\. E-bonding Session (22 June 2021)  <br>
+3\. Band Exchange with Bedok Green Secondary School via Zoom (16 March 2021)  <br>
+4\. Band Exchange with Damai Secondary School (19 Jan 2019 & 2 March 2019)  <br>
+5\. School Anniversary Parade (8 March 2019)  <br>
+6\. Band Exchange with 12 other Secondary Schools in Raffles Institution (20 March 2019)  <br>
+7\. National Day Performance (8 August 2019)  <br>
+8\. Con Fuoco VI @ Singapore Chinese Cultural Centre (24 March 2018)  <br>
+9\. Annual Band Camp (22-24 Nov 2018)
