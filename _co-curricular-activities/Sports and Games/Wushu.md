@@ -61,3 +61,43 @@ Our Team Singapore has also done the nation proud by constantly achieving excell
 5.  Annual Wushu Camp & Clinic
 6.  Sports Enrichment Programme – e.g. Archery, Bowling, Canoeing, Kayaking, Dragon Boating, Rockclimbing etc.
 7.  Student-initiated Teambuilding Activities & Outings.
+
+
+Achievements
+------------
+
+**2022 National Schools Games Wushu Championships** <br>
+*   ‘B’ Div Boys – 2nd International Sword, 3rd Position
+*   ‘B’ Girls – 1st International Nandao, 2nd Position
+*   ‘B’ Girls – 1st International Nanquan, 4th Position
+*   ‘B’ Girls – 1st International Spear, 4th Position
+*   ‘B’ Girls – 2nd International Cudgel, 4th Position
+*   ‘C’ Boys – 1st International Changquan,1st Position
+*   ‘C’ Boys  – 1st  International Sword, 1st Position
+*   ‘C’ Girls –  Formulated 5 Duan Nanquan, 2nd position
+*   ‘C’ Girls –  Formulated 5 Duan Nanquan, 4th Position
+*   ‘C’ Girls –  Formulated 5 Duan Sword, 4th Position
+
+  
+
+**2019**<br>
+• B Division Girls 1st International Changquan, NICOLE LIN ZI LU, class: 3E, position 8/20<br>
+• B Division Girls 1st International Sword, NICOLE LIN ZI LU, class: 3E, position 7/24<br>
+• B Division Boys 1st International Spear, GARETH TEO YI XI, class: 3G, position 7/25<br>
+• B Division Girls Group Weapon, position 7/17, TAN CHING YEE, class: 3F, GOH YI XIAN, class: 4C, ELYSE NG QIAN YING, class: 3F, CHUA JIA YI CLARABELLE, class: 3F, GWEN KU JIA YE, class: 4F. NICOLE LIN ZI LU, class: 3E
+
+  
+
+**2018**<br>
+• 3E Xylon Chan Yi Chong, National Interschool Wushu Championships, 8th, ‘B’ Div Boys, Spear (1st International).
+
+**2017**<br>
+• 4B Trina Toh Pei Jie, Singapore School Sports Council Sportsmanship Award.<br>
+• 4B Trina Toh Pei Jie, National Interschool Wushu Championships, 7th, ‘B’ Div Girls, Sword (2nd International).<br>
+• 2H Xylon Chan Yi Chong, National Interschool Wushu Championships, 5th, ‘C’ Div Boys, Spear (1st International).<br>
+• 1A Nicole Lin Zi Lu, National Interschool Wushu Championships, 7th, ‘C’ Div Girls, Sword (1st International).<br>
+• 2B Goh Yi Xian, National Wushu & Sanda Championships, 2nd, ‘Under 14’ Girls, Cudgel (2nd International).<br>
+• 2B Gwen Ku Jia Ye, National Wushu & Sanda Championships, 2nd, ‘Under 14’ Girls, Sword (1st International)<br>
+• 1A Nicole Lin Zi Lu, National Wushu & Sanda Championships, 3rd, ‘Under 14’ Girls, Sword (1st International).<br>
+• 1H Clarabelle Chua Jia Yi, National Wushu & Sanda Championships, 2nd, ‘Under 14’ Girls, Broadsword (1st International)<br>
+• 1H Gareth Teo Yi Xi, National Wushu & Sanda Championships, 2nd, ‘Under 14’ Boys, Spear (1st International).
