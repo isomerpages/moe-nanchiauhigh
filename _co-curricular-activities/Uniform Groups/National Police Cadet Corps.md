@@ -4,12 +4,14 @@ permalink: /co-curricular-activities/Uniform-Groups/National-Police-Cadet-Corps
 description: ""
 third_nav_title: Uniform Groups
 ---
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTskrgwBcfWWLMttuevkfVB3xUjA3leb5emgsTgtxvhTbBu_CPvqb2z7M7QeC6oQiEn0XCcyfeCmf9c/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
 *   Friday,  
     2.30pm – 6.00pm
 
   
 
-*   Quadrangle & Field
+*   Quadrangle &amp; Field
 
   
 
@@ -46,16 +48,16 @@ Achieve Excellence with Integrity.
 
 **CCA Description**
 
-Developing Leaders with Character & Values:<br>
+Developing Leaders with Character &amp; Values:<br>
 ENSURE our growth by exposing us to a challenging environment, which, in turn will equip us with leadership qualities, strong character and civic, social and moral values.
 
 Building Bonds with SPF:<br>
 ENLIGHTEN us on the role of the Singapore Police Force, help to build a stronger bond of friendship with them, and so lead to a safer place for all in the country.
 
-Showing Care & Concern to Others:<br>
+Showing Care &amp; Concern to Others:<br>
 As part of a culture that encourages us to treat fellow cadets with respect, courtesy and tact, TEACH us to extend the same care and concern to others.
 
-Facing Challenges & Achieving Excellence:<br>
+Facing Challenges &amp; Achieving Excellence:<br>
 As a result of our identification with the Singapore Police Force, TEACH us to adopt its tradition of high standards of performance, commitment, duty and service, to seek to excel and to face up to challenge.
 
 **Highlight(s) of Activities**
