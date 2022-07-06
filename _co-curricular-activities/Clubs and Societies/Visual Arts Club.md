@@ -4,6 +4,7 @@ permalink: /co-curricular-activities/Clubs-and-Societies/Visual-Arts-Club
 description: ""
 third_nav_title: Clubs and Societies
 ---
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRmk0QzTpUIzK3Wla-OS_JSwrNrGOI3Gmlo3_q6B6nmHGUJa3bQWuGXl65kQiX-9UxHMvGODrcY2a_D/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 *   Monday,  
     3.00pm – 6.00pm
@@ -23,7 +24,7 @@ third_nav_title: Clubs and Societies
 
 **CCA Description**
 
- – The Visual Arts Club offers students with interest in visual arts to come together and learn about art.<br>
+&nbsp;– The Visual Arts Club offers students with interest in visual arts to come together and learn about art.<br>
 – The Visual Arts Club creates a platform for students to showcase their talent and expand their knowledge in art and art-making through different mediums, including ceramics, painting, illustration, digital art, charcoal and chalk, sculpture, printmaking and etc.<br>
 – Students also partake on field trips to museums to look at art exhibitions which help them to build appreciation and awareness of art around them.
 
@@ -42,7 +43,7 @@ third_nav_title: Clubs and Societies
 – Cyanotype Workshop<br>
 – Charcoal and Chalk Workshop<br>
 – Animation Workshop<br>
-– Art & Science of Artwork Conservation talks by National Gallery of Singapore<br>
+– Art &amp; Science of Artwork Conservation talks by National Gallery of Singapore<br>
 – Art Exhibition at Sengkang West 12th Anniversary and Fernvale CC Ground Breaking Ceremony<br>
 – Art Learning Journeys<br>
 – Art Competitions<br>
@@ -61,5 +62,5 @@ third_nav_title: Clubs and Societies
 – 2020 LIVE On Art Competition – 4th position and Higher Distinction award<br>
 – 2020 SYF Stronger Together<br>
 – 2020 SYF Art Competition – Certificate of Achievement<br>
-– 2019 East Zone Centre of Excellence for Creative Arts Young Illustrator Awards – Top 6 Finalist<br>
-– 2019 ‘Pink Dolphin Refresh the Label’ Competition – 3 Designs shortlisted in Top 20 (Junior category)
+– 2019 East Zone Centre of Excellence for Creative Arts Young Illustrator Awards – Top&nbsp;6 Finalist<br>
+– 2019 ‘Pink Dolphin Refresh the Label’ Competition – 3 Designs shortlisted in Top 20&nbsp;(Junior category)
