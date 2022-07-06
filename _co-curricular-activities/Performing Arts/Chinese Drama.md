@@ -4,8 +4,6 @@ permalink: /co-curricular-activities/Performing-Arts/Chinese-Drama
 description: ""
 third_nav_title: Performing Arts
 ---
-
-
 *   Wednesday,  
     4.00pm – 6.00pm  
     Friday,  
@@ -39,3 +37,20 @@ Members are also selected and trained to take part in various school functions a
 3.  Inter-School Group Story Telling Competition<br>
 4.  Annual Leadership Camp<br>
 5.  Drama Appreciation
+
+**Achievements**
+
+2021 – The Certificate of Accomplishment for the SYF Arts Presentations for Drama  
+2019 – The Certificate of Distinction for the SYF Arts Presentations for Drama  
+2018 – Merit Award in the “Best Script Award” Category and The Most Potential Award for Script It Right Radio Drama Writing Competition  
+2017 – The Certificate of Accomplishment for the SYF Arts Presentations for Drama  
+2015 – The Certificate of Accomplishment for the SYF Arts Presentations for Drama  
+2014 – Most Creative Award and Merit award for the 23rd National Creative Group Story Telling Competition  
+2013 – The Certificate of Accomplishment for the for the SYF Arts Presentations for Drama  
+2012 – 1st Prize and Most Creative Award for The 21st National Creative Group Story Telling Competition  
+2011- Singapore Youth Festival Central Judging (Silver)  
+2009 – Singapore Youth Festival Central Judging (Sliver)  
+11th National Drama Writing and Performing Competition for Schools (Bronze)  
+4th International Chinese Recital Competition for Schools (Merit)  
+20th International Secondary & Primary Group Story Telling Competition (Merit)  
+18th International Secondary & Primary Group Story Telling Competition(Bronze)
