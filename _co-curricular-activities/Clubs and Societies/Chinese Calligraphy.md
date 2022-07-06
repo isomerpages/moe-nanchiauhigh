@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Clubs-and-Societies/Chinese-Calligraphy
 description: ""
 third_nav_title: Clubs and Societies
 ---
-
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR8dVkBFQIXJiv2xiaB2X3sCjIacaz5L_26AnRHS8ew-mhU0_4LZg9X5HqNLRE4MAWf-BV4R3Z19YuZ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 *   Friday,  
     2.30pm – 5.30pm
@@ -12,7 +12,7 @@ third_nav_title: Clubs and Societies
 *   Consultation Room 3
 
 
-*   Mdm Zhang Chunyu
+*   Mdm Zhang&nbsp;Chunyu
 
 
 **KEY INFORMATION**
@@ -36,90 +36,90 @@ third_nav_title: Clubs and Societies
 硬笔组<br>
 中一<br>
 优胜奖<br>
-•        吴彦葇（1 Resilience）GOH YAN ROU SHANNON<br>
-•        符芯睿（1 Integrity）FOO XIN RUI  <br>
-•        陈雯（1 Integrity）TAN WEN, JOAND<br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 吴彦葇（1 Resilience）GOH YAN ROU SHANNON<br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 符芯睿（1 Integrity）FOO XIN RUI&nbsp;&nbsp;<br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 陈雯（1 Integrity）TAN WEN, JOAND<br>
 第三名<br>
-•        黄意璇（1 Resilience）NG YEE SUEN REANNE  <br>
-•        魏嘉伶（ 1Excellence）WEE JIA LING ETHEL　<br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 黄意璇（1 Resilience）NG YEE SUEN REANNE&nbsp;&nbsp;<br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 魏嘉伶（ 1Excellence）WEE JIA LING ETHEL　<br>
 第二名<br>
-•        翁子晴（1 Integrity）YUNG TSZ CHING, CLARIS<br>
-•        黄齐宽（1 Resilience）NG QI KUAN                  <br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 翁子晴（1 Integrity）YUNG TSZ CHING, CLARIS<br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 黄齐宽（1 Resilience）NG QI KUAN&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>
 第一名<br>
-•        叶敏洁（1Innovation）ANGEL YAP MIN JIE        
+•&nbsp; &nbsp; &nbsp; &nbsp; 叶敏洁（1Innovation）ANGEL YAP MIN JIE&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
 
 
 中二<br>
 优胜奖<br>
-•        林可悦（2 Innovation）LIN KEYUE<br>
-•        陳弈婷（2 Integrity）TAN YI TING, RICHELLE<br>
-•        谢欣恩（2 Integrity）SHARMAINE CHIA XIN ERN<br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 林可悦（2 Innovation）LIN KEYUE<br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 陳弈婷（2 Integrity）TAN YI TING, RICHELLE<br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 谢欣恩（2 Integrity）SHARMAINE CHIA XIN ERN<br>
 第三名<br>
-•        林诗萤（2 Innovation）LIM SER YING, MANDY  <br>
-•        張静颖（2 Innovation）TEO CHING YIN, CLARIC　<br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 林诗萤（2 Innovation）LIM SER YING, MANDY&nbsp;&nbsp;<br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 張静颖（2 Innovation）TEO CHING YIN, CLARIC　<br>
 第二名<br>
-•        李娅贤（2 Integrity）LI YAXIAN<br>
-•        刘恬宇（2 Excellence）LAU TIAN YU                  <br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 李娅贤（2 Integrity）LI YAXIAN<br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 刘恬宇（2 Excellence）LAU TIAN YU&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>
 第一名<br>
-•        云靖婷（2 Humility）WAN JING TING        
+•&nbsp; &nbsp; &nbsp; &nbsp; 云靖婷（2 Humility）WAN JING TING&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
 
   
 
 中三<br>
 优胜奖<br>
-•        连艺琦（3 Gratitude）LIAN YI QI, BERNICE       <br> 
-•        李佳恩（3 Resilience）LEE JIA EN<br>
-•        林恩绮（3 Perseverance）LUVLYN LIM ENQI        <br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 连艺琦（3 Gratitude）LIAN YI QI, BERNICE&nbsp; &nbsp; &nbsp; &nbsp;<br>&nbsp;
+•&nbsp; &nbsp; &nbsp; &nbsp; 李佳恩（3 Resilience）LEE JIA EN<br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 林恩绮（3 Perseverance）LUVLYN LIM ENQI&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>
 第三名<br>
-•        卓恩绮（3 Sincerity）TOH EN QI CHLORIS<br>
-•        林宛萱（3 Innovation）LUM YIUN SHYN　<br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 卓恩绮（3 Sincerity）TOH EN QI CHLORIS<br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 林宛萱（3 Innovation）LUM YIUN SHYN　<br>
 第二名<br>
-•        余劭维（3 Sincerity）ER SEAN WEE <br>
-•        林妤恩（3 Gratitude）KAYLA LIM YU EN                  <br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 余劭维（3 Sincerity）ER SEAN WEE&nbsp;<br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 林妤恩（3 Gratitude）KAYLA LIM YU EN&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>
 第一名<br>
-•        简亦萱（3 Excellence）JIAN YIXUAN                        　
+•&nbsp; &nbsp; &nbsp; &nbsp; 简亦萱（3 Excellence）JIAN YIXUAN&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 　
 
   
 
 中四<br>
 优胜奖<br>
-•        吴家毓（4 Sincerity）JASMINE GOH JIA YU        <br>
-•        李芯羽（4 Integrity）JERLYN LEE<br>
-•        蔡嫙娗（4 Humility）CHUA XUAN TING        <br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 吴家毓（4 Sincerity）JASMINE GOH JIA YU&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 李芯羽（4 Integrity）JERLYN LEE<br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 蔡嫙娗（4 Humility）CHUA XUAN TING&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>
 第三名<br>
-•        刘佳（4 Sincerity）EDITH LOW KIA<br>
-•        郭怡萱（4 Humility）KWEK YI XUAN　<br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 刘佳（4 Sincerity）EDITH LOW KIA<br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 郭怡萱（4 Humility）KWEK YI XUAN　<br>
 第二名<br>
-•        屈斯宇（4 Excellence）QU SIYU <br>
-•        张宁静（4 Integrity）ZHANG NINGJING                  <br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 屈斯宇（4 Excellence）QU SIYU&nbsp;<br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 张宁静（4 Integrity）ZHANG NINGJING&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>
 第一名<br>
-•        周致（4 Excellence）ZHOU ZHI
+•&nbsp; &nbsp; &nbsp; &nbsp; 周致（4 Excellence）ZHOU ZHI
 
   
 
 毛笔组<br>
 优胜奖<br>
-•        胡恺恩（2 Gratitude）OH KAI EN        <br>
-•        李芊颖（2 Sincerity）LEE QIAN YING,CHARLOTTE<br>
-•        李思妤（2 Innovation）LI SIYU<br>
-•        陈嘉贻（4 Gratitude）CIARA TAN JIA YI        <br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 胡恺恩（2 Gratitude）OH KAI EN&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 李芊颖（2 Sincerity）LEE QIAN YING,CHARLOTTE<br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 李思妤（2 Innovation）LI SIYU<br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 陈嘉贻（4 Gratitude）CIARA TAN JIA YI&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>
 第三名<br>
-•        华函（3 Integrity）HUA HAN　<br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 华函（3 Integrity）HUA HAN　<br>
 第二名<br>
-•        周致（4 Excellence）ZHOU ZHI                  <br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 周致（4 Excellence）ZHOU ZHI&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>
 第一名<br>
-•        张宁静（4 Integrity）ZHANG NINGJING
+•&nbsp; &nbsp; &nbsp; &nbsp; 张宁静（4 Integrity）ZHANG NINGJING
 
   
 
 二、2021年威德智海全国硬笔书法比赛<br>
 中学组优胜奖：<br>
-•        周致（S4 Excellence）  ZHOU ZHI<br>
-•        屈斯宇 (S4 Excellence)  QU SIYU
+•&nbsp; &nbsp; &nbsp; &nbsp; 周致（S4 Excellence）&nbsp; ZHOU ZHI<br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 屈斯宇 (S4 Excellence)&nbsp; QU SIYU
 
   
 
 三、第32届全国学生书法比赛<br>
 中学组毛笔优胜奖<br>
-•        华函 (S3 Integrity) Hua Han  <br>
-•        吴坤桦 (S3 Resilience)WU KUNHUA
+•&nbsp; &nbsp; &nbsp; &nbsp; 华函 (S3 Integrity) Hua Han&nbsp;&nbsp;<br>
+•&nbsp; &nbsp; &nbsp; &nbsp; 吴坤桦 (S3 Resilience)WU KUNHUA
