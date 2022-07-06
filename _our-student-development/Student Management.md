@@ -282,3 +282,80 @@ At all times, students leaving school premises during school hours must be accom
   
 
 5.3        Photograph(s) or video image(s) of students and their parents may be captured during school activities and events (egs. classroom lessons, CCA training, school camps, school concerts, Meet-the-Parents Session etc.). The school may use and publish such photographs and/or video recordings in school publications, website, social media channels, and other communication channel.
+
+**Offences & Consequences**
+
+**Level 1**
+
+*   Late-coming
+*   Littering
+*   Improper Attire
+*   Improper Appearance
+*   Rudeness to teachers
+*   Disruptive Behavior
+*   Consumption of food outside canteen
+*   Bringing banned electronic gadgets
+*   Incompletion of assignments
+*   Use of rude / vulgar / abusive language
+*   Verbal warning
+*   Detention
+*   Offence form issued
+*   Warning letter issued
+*   1 demerit point given
+*   Recorded in MOE Cockpit System
+*   Corrective Work Order
+*   Confiscation of items related to appearance such as, additional ear studs, coloured hair-clips, wrist bands etc. (non-returnable).
+*   Confiscation of banned electronic gadgets (for one term)
+*   Any other appropriate follow-up actions     | 
+
+**Level 2**
+*   Persistent late-coming
+*   Skipping class
+*   Truancy
+*   Disruptive Behavior
+*   Defiance
+*   Leaving school without permission
+*   Body Piercing
+*  Offence form issued
+*   Warning letter issued
+*   2 – 3 demerit point(s) given
+*   Recorded in MOE Cockpit System
+*   Corrective Work Order
+*   Counselling (in-house / external agency)
+*   Parent Involvement
+*   Detention
+*   Caning
+*   Suspension (in school)
+*   Contract Signing
+*   Any other appropriate follow-up actions
+
+**Level 3**
+*   Persistent truancy
+*   Forging of Signature
+*   Cheating during tests / exams
+*   Outright Defiance
+*   Vandalism
+*   Arson
+*   Stealing (in and out of school)
+*   Gangsterism
+*   Extortion
+*   Use of threat / bullying
+*   Assaulting / fighting
+*   Tattoo
+*   Possession and/or distribution of pornographic or objectionable materials
+*   Possession / consumption of drugs, alcohol or cigarettes
+*   Possession of dangerous objects
+*   Involved in immoral / illegal activities
+*   Offence form issued
+*   Warning letter issued
+*   4 – 7 demerit point(s) given
+*   Recorded in MOE Cockpit System
+*   Corrective Work Order
+*   Counselling (in-house / external agency)
+*   Detention
+*   Caning
+*   Parents Involvement
+*   Police Assistance
+*   Contract Signing
+*   Suspension (in / out of school)
+*   Expulsion
