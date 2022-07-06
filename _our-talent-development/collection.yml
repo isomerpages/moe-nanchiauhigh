@@ -1,4 +1,5 @@
 collections:
   our-talent-development:
     output: true
-    order: []
+    order:
+      - Enhanced Art Programme (EAP).md
