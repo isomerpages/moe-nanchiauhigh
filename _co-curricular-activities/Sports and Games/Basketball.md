@@ -16,5 +16,3 @@ To develop student leaders with the passion to lead, serve and inspire.</p>
 <p>More information on JAE can be found on MOE's website here (insert valid link here).</p>  
     </div>  
 	</li>
-
-</ul>
