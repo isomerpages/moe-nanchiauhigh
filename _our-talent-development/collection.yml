@@ -2,4 +2,5 @@ collections:
   our-talent-development:
     output: true
     order:
+      - Chinese Language Elective Programme (CLEP).md
       - Enhanced Art Programme (EAP).md
