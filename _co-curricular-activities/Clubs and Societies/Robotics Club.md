@@ -4,6 +4,7 @@ permalink: /co-curricular-activities/Clubs-and-Societies/Robotics-Club
 description: ""
 third_nav_title: Clubs and Societies
 ---
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vROXby8y_I7fKB74LvTKXuewIKjmHKlqjw_2_kbKq4sT9jUOZ9YdWAyp14v3FIW-bZTwAb7UXhsXo6F/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 *   Friday,  
     3.00pm – 5.00pm
