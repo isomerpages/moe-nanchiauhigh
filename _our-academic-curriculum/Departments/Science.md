@@ -56,4 +56,4 @@ The students are encouraged to participate in the Olympiads in the different dis
 
   
 
-Click [here](https://www.nanchiauhigh.moe.edu.sg/our-talent-development/department-based-talent-programmes/science-talent-programme) for more information.
+Click [here](/our-talent-development/Department-Talent-Programmes/Science-Talent-Programme) for more information.
