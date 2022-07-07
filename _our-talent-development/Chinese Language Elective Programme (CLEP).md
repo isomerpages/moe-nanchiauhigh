@@ -157,3 +157,7 @@ A certificate of recognition will be presented to students upon completion of th
 2021年中四语特活动（第一学段）
 
 ![](/images/clep9.png)
+
+2021年中四语特活动（第二学段）
+
+![](/images/clep10.png)
