@@ -2,9 +2,9 @@ logo: /images/logo (2).png
 links:
   - title: About Us
     collection: about-us
-  - title: Our Academic Curriculum
+  - title: Academic Curriculum
     collection: our-academic-curriculum
-  - title: Our Student Development
+  - title: Student Development
     url: /our-student-development/power-of-positivity
     sublinks:
       - title: Power of Positivity
@@ -23,7 +23,7 @@ links:
         url: /our-student-development/Service-Learning
       - title: National Education
         url: /our-student-development/National-Education
-  - title: Our Talent Development
+  - title: Talent Development
     collection: our-talent-development
   - title: Partners
     collection: our-partners
