@@ -2,6 +2,7 @@ collections:
   our-talent-development:
     output: true
     order:
+      - Department Talent Programmes/Mathematics Talent Programme.md
       - Department Talent Programmes/Science Talent Programme.md
       - Department Talent Programmes/Humanities Talent Programme.md
       - Department Talent Programmes/.keep
