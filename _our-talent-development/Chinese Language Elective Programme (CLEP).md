@@ -117,6 +117,43 @@ A certificate of recognition will be presented to students upon completion of th
 
 **Sec 3 CLEP Programme 2020**
 
-**2020年语特活动（第一学段）**
+2020年语特活动（第一学段）
 
 ![](/images/clep.png)
+
+2020年语特活动（三月假期）
+
+![](/images/clep2.png)
+
+2020年语特活动（第二学段）
+
+![](/images/clep3.png)
+
+2020年语特活动（第三学段）
+
+![](/images/clep4.png)
+
+2020年语特活动（第四学段）
+
+![](/images/clep5.png)
+
+
+**Sec 3 CLEP Programme 2021**
+
+2021年中三语特活动（第一学段）
+
+![](/images/clep6.png)
+
+2021年中三语特活动（第二学段）
+
+![](/images/clep7.png)
+
+2021年中三语特活动（第三学段）
+
+![](/images/clep8.png)
+
+**Sec 4 CLEP Programme 2021**
+
+2021年中四语特活动（第一学段）
+
+![](/images/clep9.png)
