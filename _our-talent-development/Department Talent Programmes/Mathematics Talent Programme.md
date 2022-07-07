@@ -56,3 +56,17 @@ Each year, students from the Mathematics Talent Programme achieved good results 
     
 
 The Mathematics Talent Programme has a broader aim to start students on a trail to understanding mathematics and its application at higher institutional levels, so that they can take that understanding and use them in their future. Students in the programme get the opportunity to participate in seminars held in universities to deepen their interest for mathematics.
+
+<img src="/images/mtp6.jpeg" 
+     style="width:35%;float:left">
+<img src="/images/mtp7.jpeg" 
+     style="width:32%;float:left">
+<img src="/images/mtp8.jpeg" 
+     style="width:33%">
+
+<br>
+
+4\.  **Mathematics related school events** 
+    
+
+The Mathematics Talent Programme also provide opportunities for students to pick up leadership and teamwork skills, which are essential life skills in the globalized economy of today. Students in the programme assist teachers in planning and facilitating Mathematics game booths at school events.
