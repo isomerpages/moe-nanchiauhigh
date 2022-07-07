@@ -78,7 +78,7 @@ CLEP-Sec students who are Singapore citizens and achieved outstanding performanc
 
   
 
-2) CLEP-Sec certificate<br>
+2\) CLEP-Sec certificate<br>
 A certificate of recognition will be presented to students upon completion of the 2-year programme.
 
   
@@ -87,7 +87,7 @@ A certificate of recognition will be presented to students upon completion of th
 
   
 
-1) 华文语文特选课程奖学金<br>
+1\) 华文语文特选课程奖学金<br>
 参加中学语特课程，并且校内成绩优异的新加坡公民可申请教育部语特奖学金。  
 
   
@@ -110,13 +110,12 @@ A certificate of recognition will be presented to students upon completion of th
 
   
 
-2) 语特证书<br>
+2\) 语特证书<br>
 完成两年的语特课程后，学生将获颁证书以资肯定。
 
-SIGNATURE PROGRAMME
--------------------
+**SIGNATURE PROGRAMME**
 
-Sec 3 CLEP Programme 2020
--------------------------
+**Sec 3 CLEP Programme 2020**
 
-2020年语特活动（第一学段）
+**2020年语特活动（第一学段）**
+
