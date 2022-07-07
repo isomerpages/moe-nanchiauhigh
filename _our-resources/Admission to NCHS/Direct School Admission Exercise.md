@@ -103,3 +103,15 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
 Prospective students who are enrolled via DSA Visual Arts will have Visual Arts Club as their CCA. They will be offered Enhanced Art Programme (EAP) at Upper Sec, taking Art as an O-Level subject.
 
 **[For more information on Visual Arts click here.](/co-curricular-activities/clubs-and-societies/visual-arts-club)**
+
+**DSA Bilingualism**
+
+| DSA Domain| Talent Area | Criteria |
+| -------- | -------- | -------- |
+| **DSA/  Bilingualism**     |Bilingualism | -   Consistent academic performance for P5 overall and P6 Mid-Year Examination, or its equivalent.<br>-   Applicants should have interest and passion for the Chinese and English languages.|
+
+biculturalism. They will be given opportunities to participate in various language and cultural-related programmes, such as external seminars, workshops, competitions, learning journeys, docent training. They will also help to organise bicultural activities in the school.
+
+In addition, DSA-Bilingualism students will have to take the Chinese Language Elective Programme – Secondary (CLEP-Sec) in Secondary 3 (i.e. they will have to take Chinese Literature, either as a full or elective subject.)
+
+**[For more information on CLEP-Sec click here.](/our-talent-development/chinese-language-elective-programme-clep)**
