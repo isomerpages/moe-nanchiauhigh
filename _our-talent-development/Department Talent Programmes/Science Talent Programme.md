@@ -44,3 +44,41 @@ These platforms are very useful for students to challenge themselves in the scie
 
 Students will be able to broaden their knowledge, deepen their learning and engage in meaningful exchanges through participation in Competitions, Forums and Conferences for example, International Elementz Fair, East Zone A\*STAR Science Fair, International Science Youth Forum, Abbott Young Scientist Programme and National Science Challenge.
 
+![](/images/image4%20(2).png)
+
+
+East Zone A\*STAR Science Fair
+
+![](/images/image8.jpeg)
+
+SJChO\_formal
+
+<img src="/images/image11.png" 
+     style="width:50%;float:left">
+		 <img src="/images/stp.jpeg" 
+     style="width:50%">
+		 
+<br>
+
+SJPO\_1
+
+<img src="/images/stp2.jpeg" 
+     style="width:50%;float:left">
+		 <img src="/images/stp3.jpeg" 
+     style="width:50%">
+		 
+<br>
+
+SJPO\_2
+
+![](/images/stp4.jpeg)
+
+Abbott Young Scientist\_1
+
+![](/images/image12.jpeg)
+
+Figure 1Abbott Young Scientist\_2
+
+![](/images/stp5.jpeg)
+
+![](/images/stp6.jpeg)
