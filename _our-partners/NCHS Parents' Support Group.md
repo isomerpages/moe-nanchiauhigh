@@ -3,15 +3,15 @@ title: NCHS Parents' Support Group
 permalink: /our-partners/NCHS-Parents-Support-Group
 description: ""
 ---
-<img src="/images/Picture2-215x300.jpeg" 
-     style="width:30%">
+<img style="width:30%" src="/images/Picture2-215x300.jpeg">
 		 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRek9ft8EsHDHgHhm-qYy_2LnEswL63ItqVkToMWbII2_vedmKtNfZPTfwNANruCJiel49tlc9xacjQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 		 
 **NCHS EXCO**
 
 **Key Personnel**
 
-Mr Yeo Yew Yong (HOD PE/CCA & Advisor PSG)<br>
+Mr Yeo Yew Yong (HOD PE/CCA &amp; Advisor PSG)<br>
 Willy (Chairperson)<br>
 Becky (Vice-Chairperson)<br>
 Benji (Vice-Chairperson)
@@ -47,7 +47,7 @@ Jia Ling (Advisor)
 
 *   Alignment to objective of NCHS
 *   Complement programme of NCHS
-*   Improve well being & learning of our children
+*   Improve well being &amp; learning of our children
 
 **Bridging Communication**
 
@@ -99,4 +99,3 @@ Competing in NCHS Sports Day (cancelled due COVID-19)
 **Email**
 
 [PSG@nchs.edu.sg](mailto:PSG@nchs.edu.sg)
-
