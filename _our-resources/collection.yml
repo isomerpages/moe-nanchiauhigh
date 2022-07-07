@@ -2,6 +2,7 @@ collections:
   our-resources:
     output: true
     order:
+      - Admission to NCHS/Returning Singaporeans and International Students.md
       - Admission to NCHS/PSLE Appeals.md
       - Admission to NCHS/School Transfer.md
       - Admission to NCHS/.keep
