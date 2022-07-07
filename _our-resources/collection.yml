@@ -2,6 +2,7 @@ collections:
   our-resources:
     output: true
     order:
+      - School Counselling Services.md
       - Student's Resources.md
       - Teacher's Resources.md
       - Parents' Resources.md
