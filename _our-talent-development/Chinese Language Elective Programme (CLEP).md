@@ -119,3 +119,4 @@ A certificate of recognition will be presented to students upon completion of th
 
 **2020年语特活动（第一学段）**
 
+![](/images/clep.png)
