@@ -3,7 +3,7 @@ title: Applied Learning Programme (ALP)
 permalink: /our-talent-development/Applied-Learning-Programme-ALP
 description: ""
 ---
-
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR5G2U1okCWgISb8GpOQGuR0m4b9UQv10Ph0p0uy9QksOE2T0dwLxd9ED3li08n29wrWtyQBIAD_ygU/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 **Programme Title**  
 
@@ -13,16 +13,16 @@ Emerging Technologies
 
 **Programme Objectives**
 
-The programme provides the students the opportunity and platform to connect academic knowledge, scientific and engineering skills with the real world, to link knowledge across various skill-based subject disciplines (in particular, subjects such as Maths, Sciences and Design & Technology), to stretch the imagination and apply the skills in authentic settings of scientific research and industries and to appreciate the relevance and values of STEAM learning in class and develop Science Disciplined Mind and 21CC skills ( Critical thinking,  Collaboration, Communication) and to achieve stronger motivation and purpose to acquire knowledge and skills in Science and Technology.
+The programme provides the students the opportunity and platform to connect academic knowledge, scientific and engineering skills with the real world, to link knowledge across various skill-based subject disciplines (in particular, subjects such as Maths, Sciences and Design &amp; Technology), to stretch the imagination and apply the skills in authentic settings of scientific research and industries and to appreciate the relevance and values of STEAM learning in class and develop Science Disciplined Mind and 21CC skills ( Critical thinking,&nbsp; Collaboration, Communication) and to achieve stronger motivation and purpose to acquire knowledge and skills in Science and Technology.
 
-**Tier 1: Secondary One Applied Learning Programme (basic) (Electronics) Module in Semester One**
+**Tier 1: Secondary One&nbsp;Applied Learning Programme (basic) (Electronics) Module in Semester One**
 
 
 In Semester 1, Secondary 1 students are exposed to the basics of electronics components related to health sciences and health care technology using Arduino microprocessors. They have the fortnightly, 90-minutes lessons over the course of one semester. In each lesson, students work in groups of 2 to complete a series of components construction and circuits building tasks as well as programming assignments in class.
 
   
 
-In Secondary One, students are taught Arduino Coding & Electronics, 3D-printing & 3D pens, and Design Thinking. They are to understand and apply the Design Thinking Concepts throughout the whole duration of the programme.  
+In Secondary One, students are taught Arduino Coding &amp; Electronics, 3D-printing &amp; 3D pens, and Design Thinking. They are to understand and apply the Design Thinking Concepts throughout the whole duration of the programme.  
 
   
 
@@ -41,13 +41,13 @@ Light Dependent Resistor (LDR) and the “CONVERT” command.<br>
 Servo motor and the “SERVO” command.<br>
 Liquid Crystal Display (LCD) and the “LIBRARY” command.
 
-**Tier 1: Secondary One Applied Learning Programme (basic) (Health Science) Module in Semester Two**
+**Tier 1: Secondary One&nbsp;Applied Learning Programme (basic) (Health Science) Module in Semester Two**
 
 The students will undergo 6 lessons of Forensic Science. The lessons consists of Introduction to DNA, Identification of blood types, Agarose Gel Electrophoresis, Glass and Plastic Analysis, Finger-printing Analysis and solve the “murder”.
 
-**Tier 1: Secondary Two Applied Learning Programme (advanced) (Emerging Technologies) Module (whole year)**
+**Tier 1: Secondary Two&nbsp;Applied Learning Programme (advanced) (Emerging Technologies) Module (whole year)**
 
-Secondary 2 students delve deeper into Arduino programming and aim to fabricate devices focusing on healthcare problems. Students form teams of 4 and do research projects. They have to conduct research projects to investigate how the bacteria growth is affected by the external physical conditions such as the frequency and intensity of sound and light as well as temperature. In doing the projects, the students need to make use of what they have learnt in secondary 1, for example electronics circuits construction and Arduino Programming as well as microbiology techniques fabricate devices. They will complete their project by writing the  reports and presenting their project findings clearly using PowerPoint slides to their classmates.
+Secondary 2 students delve deeper into Arduino programming and aim to fabricate devices focusing on healthcare problems. Students form teams of 4 and do research projects. They have to conduct research projects to investigate how the bacteria growth is affected by the external physical conditions such as the frequency and intensity of sound and light as well as temperature. In doing the projects, the students need to make use of what they have learnt in secondary 1, for example electronics circuits construction and Arduino Programming as well as microbiology techniques fabricate devices.&nbsp;They will complete their project by writing the&nbsp; reports and presenting their project findings clearly using PowerPoint slides to their classmates.
 
   
 
@@ -83,7 +83,7 @@ Science and Technology Challenge organised by Nanyang Polytechnic.
 
 **2019**
 
-**Science and Technology Challenge 2019** – Champion : Take Flight & Soar
+**Science and Technology Challenge 2019**&nbsp;– Champion : Take Flight &amp; Soar
 
   
 
@@ -105,7 +105,7 @@ Science and Technology Challenge organised by Nanyang Polytechnic.
 
   
 
-**Science and Technology Challenge 2019** – Second runner-up : ArchiTower
+**Science and Technology Challenge 2019**&nbsp;– Second runner-up : ArchiTower
 
   
 
