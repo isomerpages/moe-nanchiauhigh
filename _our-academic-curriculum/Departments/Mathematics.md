@@ -68,4 +68,4 @@ Students may also be invited to join the programme in Secondary Two or Three upo
 
   
 
-Click&nbsp;[here](https://www.nanchiauhigh.moe.edu.sg/our-talent-development/department-based-talent-programmes/mathematics-talent-programme)&nbsp;for more information.
+Click&nbsp;[here](/our-talent-development/Department-Talent-Programmes/Mathematics-Talent-Programme)&nbsp;for more information.
