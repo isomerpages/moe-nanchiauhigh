@@ -42,3 +42,17 @@ For more information, please refer to the MOE website.
 **FOR ASSISTANCE**
 
 **Ministry Of Education - Customer Service Center**
+
+|  |  |
+| -------- | -------- | 
+| **Address**     | Customer Service Centre <br>Ministry of Education, Singapore  <br>1 North Buona Vista Drive  <br>Singapore 138675  | 
+|**Contact Numbers**|Telephone :+65 68722220|
+|**Operating Hours**|Monday to Friday: 8.30am to 5.30pm  <br>Saturday: 8.30am to 12.30pm  <br>Sunday and Public Holidays: Closed
+
+**Nan Chiau High School General Office**
+
+|  |  |
+| -------- | -------- | 
+| **Address**     | Nan Chiau High School  <br>20 Anchorvale Link  <br>Singapore 545079     | 
+|**Contact Numbers**|Telephone : +65 6489 7971  <br>Fax : +65 6489 7970|
+|**Operating Hours**|Monday to Friday: 9.00am to 5.00pm  <br>Saturday: Closed  <br>Sunday and Public Holidays: Closed
