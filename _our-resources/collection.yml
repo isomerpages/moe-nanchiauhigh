@@ -2,4 +2,5 @@ collections:
   our-resources:
     output: true
     order:
+      - Admission to NCHS/School Transfer.md
       - Admission to NCHS/.keep
