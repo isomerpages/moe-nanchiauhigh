@@ -15,4 +15,7 @@ sections:
         - title: NCHS Highlights
           description: ""
           url: /nchs-highlights/NCHS-Direct-School-Admission-Exercise-2022
+        - title: Resources
+          description: ""
+          url: /our-resources/School-Counselling-Services
 ---
