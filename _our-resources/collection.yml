@@ -2,6 +2,7 @@ collections:
   our-resources:
     output: true
     order:
+      - Student's Resources.md
       - Teacher's Resources.md
       - Parents' Resources.md
       - Admission to NCHS/MOE S1 Posting Exercise.md
