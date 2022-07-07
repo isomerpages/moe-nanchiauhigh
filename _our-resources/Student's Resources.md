@@ -18,7 +18,7 @@ description: ""
 [NCHS Password Reset Portal](https://www.google.com/accounts/Logout?continue=https://appengine.google.com/_ah/logout?continue=https://onestop.nchs.edu.sg)    
 [Booklist](https://drive.google.com/drive/folders/0B0NLoi7jhnNmc2RKRTF2bjVLTHM?usp=sharing)[  
 ](http://support.nchs.edu.sg/)[Uniform List](https://drive.google.com/drive/folders/0B0NLoi7jhnNmZm1ROUZZZUVnUGM?usp=sharing)  
-[Financial Assistance / Bursaries](/financial-assistance-bursaries)
+[Financial Assistance / Bursaries](/financial-assistance-and-bursaries)
 
 **Timetables**
 
