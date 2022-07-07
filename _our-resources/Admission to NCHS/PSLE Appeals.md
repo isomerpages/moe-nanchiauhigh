@@ -66,3 +66,9 @@ The decision of the school’s Admissions Committee is final and the school will
 **FOR ASSISTANCE**
 
 **Nan Chiau High School General Office**
+
+|  |  |
+| -------- | -------- | 
+| **Address**     | Nan Chiau High School  <br>20 Anchorvale Link  <br>Singapore 545079     | 
+|**Contact Numbers**|Telephone : +65 6489 7971  <br>Fax : +65 6489 7970|
+|**Operating Hours**|Monday to Friday: 9.00am to 5.00pm  <br>Saturday: Closed  <br>Sunday and Public Holidays: Closed
