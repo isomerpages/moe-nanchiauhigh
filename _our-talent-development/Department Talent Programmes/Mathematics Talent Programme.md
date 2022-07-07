@@ -29,3 +29,16 @@ For each academic year, students in the programme undergo approximately 10 train
      style="width:50%;float:left">
 <img src="/images/mtp2.jpeg" 
      style="width:50%">
+		 
+		 
+2\.  **Competitions**
+    
+
+Having mastered the skills to tackle Mathematical Olympiad problems, students in the Talent Programme will represent the school in two Mathematical Olympiad competitions:
+
+*   Singapore and Asian Schools Mathematical Olympiad (SASMO)
+    
+*   Singapore Mathematical Olympiad (SMO) 
+    
+
+Each year, students from the Mathematics Talent Programme achieved good results in these competitions.
