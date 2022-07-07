@@ -3,10 +3,12 @@ title: NCHS Parents' Support Group
 permalink: /our-partners/NCHS-Parents-Support-Group
 description: ""
 ---
-<img style="width:30%" src="/images/Picture2-215x300.jpeg">
+<img style="width:30%;float:left" src="/images/Picture2-215x300.jpeg">
 		 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRek9ft8EsHDHgHhm-qYy_2LnEswL63ItqVkToMWbII2_vedmKtNfZPTfwNANruCJiel49tlc9xacjQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" width="70%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRek9ft8EsHDHgHhm-qYy_2LnEswL63ItqVkToMWbII2_vedmKtNfZPTfwNANruCJiel49tlc9xacjQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 		 
+<br>
+
 **NCHS EXCO**
 
 **Key Personnel**
