@@ -2,6 +2,7 @@ collections:
   our-resources:
     output: true
     order:
+      - Parents' Resources.md
       - Admission to NCHS/MOE S1 Posting Exercise.md
       - Admission to NCHS/Direct School Admission Exercise.md
       - Admission to NCHS/Returning Singaporeans and International Students.md
