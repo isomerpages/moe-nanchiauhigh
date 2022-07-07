@@ -68,4 +68,4 @@ The Humanities Talent Programme seeks to identify students who display keen inte
 
   
 
-Click&nbsp;[here](https://www.nanchiauhigh.moe.edu.sg/our-talent-development/department-based-talent-programmes/humanities-talent-programme)&nbsp;for more information.
+Click&nbsp;[here](/our-talent-development/Department-Talent-Programmes/Humanities-Talent-Programme)&nbsp;for more information.
