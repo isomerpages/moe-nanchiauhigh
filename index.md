@@ -14,5 +14,5 @@ sections:
           url: /announcements
         - title: NCHS Highlights
           description: ""
-          url: /nchs-highlights/
+          url: /nchs-highlights/NCHS-Direct-School-Admission-Exercise-2022
 ---
