@@ -53,8 +53,12 @@ To prepare them for the role, the student councillors will have the following tr
 | -------- | -------- | 
 |**Chong Chin Hui Zoe**<br>**Valedictorian for Class of 2020**<br>**Senior Councillor of the 17th** **Student Council**<br>**President of Red Cross**|Being part of the Student Council has allowed me to develop my character and leadership ability. Under the guidance of the Student Council teachers and seniors, I had many opportunities to magnify and hone my planning, communication and management skills. Thanks to my valuable experience, I was able to apply the skills learnt and become increasingly confident in executing my leadership roles in JC. <br><br>身为学生领袖，我感受到我的性格和领导能力的成长。在领袖会的老师和学长的指导下，我获得许多机会来发展我的规划、沟通和管理技能。由于我的宝贵经验，在JC当任领导职务时，我更能善于发挥我学到的技能和更有信心地执行任务。|
 
+<img src="/images/image12.png" 
+     style="width:30%">
 
-**Photo Gallery**
+| | | 
+| -------- | -------- | 
+|**Dickson Lee Yue Jun**<br>**Class of 2019**<br>**President of the 16th** **Student Council**<br>**Photo Gallery**|南侨学生理事会给予我一个机会在安全的环境下成长与学习。在老师与学长的教导下，我收益不浅。The teachings of my teachers and seniors have helped me truly understand many important lessons: the importance of confidence, the ability to look ahead, and the power of teamwork. <br><br>踏进初级学院时，这些宝贵的教诲和经验帮助我得到同伴们的认可与信任以及让我能在繁忙的课业中达到平衡。
 
 <img src="/images/image2%20(2).png" 
      style="width:50%;float:left">
