@@ -70,3 +70,5 @@ The Mathematics Talent Programme has a broader aim to start students on a trail 
     
 
 The Mathematics Talent Programme also provide opportunities for students to pick up leadership and teamwork skills, which are essential life skills in the globalized economy of today. Students in the programme assist teachers in planning and facilitating Mathematics game booths at school events.
+
+![](/images/mtp9.jpeg)
