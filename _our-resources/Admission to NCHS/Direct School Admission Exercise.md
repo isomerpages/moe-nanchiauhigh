@@ -62,3 +62,34 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
 
 **[For more information on Basketball click here.](/co-curricular-activities/sports-and-games/basketball)**
 
+**DSA Sports - Table Tennis**
+
+| DSA Domain| Talent Area | Criteria |
+| -------- | -------- | -------- |
+| **DSA/ Sports**     | Table Tennis     | -   Participation and achievements in the sport, including zonal, national and/or international level competitions.  <br>-   Consistent academic performance for P5 overall and P6 Mid-Year Examination or its equivalent.     |
+
+**[For more information on Table Tennis click here.](/co-curricular-activities/sports-and-games/table-tennis)**
+
+**DSA Sports - Wushu**
+
+| DSA Domain| Talent Area | Criteria |
+| -------- | -------- | -------- |
+| **DSA/ Sports**     | Wushu    | -   Participation and achievements in the sport, national and/or international level competitions.  <br>-   Consistent academic performance for P5 overall and P6 Mid-Year Examination or its equivalent.     |
+
+**[For more information on Wushu click here.](/co-curricular-activities/sports-and-games/wushu)**
+
+**DSA Performing Arts - Chinese Dance**
+
+| DSA Domain| Talent Area | Criteria |
+| -------- | -------- | -------- |
+| **DSA/ Performing Arts**     |Chinese Dance (girls)  | -    Participation and achievements in related dance competitions and performances<br>-   Consistent academic performance for P5 overall and P6 Mid-Year Examination, or its equivalent,<br>and<br>_Preferably_<br>-   Represented their primary schools in Singapore Youth Festival (SYF) Arts Presentation.<br>-   Attained RAD/ CSTD or equivalent accreditation for dance.   |
+
+**[For more information on Chinese Dance click here.](/co-curricular-activities/performing-arts/chinese-dance)**
+
+**DSA Performing Arts - Chinese Orchestra**
+
+| DSA Domain| Talent Area | Criteria |
+| -------- | -------- | -------- |
+| **DSA/ Performing Arts**     |Chinese Orchestra  | -       Participation and achievements in related music competitions and performances.<br>-   Consistent academic performance for P5 overall and P6 Mid-Year Examination, or its equivalent,<br>   A video submission may be requested from all applicants for shortlisting purpose with enough notice given. The 3-5 minutes video can be filmed during the applicant's CCA session or own practice session.<br>and<br>_Preferably_<br>-  Represented their primary schools in Singapore Youth Festival (SYF) Arts Presentation.<br>-   Attained ABRSM or equivalent accreditation for music/ Chinese Instruments.  |
+
+**[For more information on Chinese Dance click here.](/co-curricular-activities/performing-arts/chinese-dance)**
