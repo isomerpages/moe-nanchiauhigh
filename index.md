@@ -12,7 +12,7 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements
+        - title: NCHS Highlights
+          description: ""
+          url: /nchs-highlights/
 ---
-
-
-
