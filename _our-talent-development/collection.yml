@@ -2,6 +2,7 @@ collections:
   our-talent-development:
     output: true
     order:
+      - General Information.md
       - Global Classroom Programme.md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
