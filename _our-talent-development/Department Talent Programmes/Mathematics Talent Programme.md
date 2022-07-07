@@ -41,3 +41,18 @@ Having mastered the skills to tackle Mathematical Olympiad problems, students in
 *   Singapore Mathematical Olympiad (SMO) 
 
 Each year, students from the Mathematics Talent Programme achieved good results in these competitions.
+
+
+<img src="/images/mtp3.png" 
+     style="width:20%;float:left">
+<img src="/images/mtp4.png" 
+     style="width:50%;float:left">
+<img src="/images/mtp5.png" 
+     style="width:30%">
+
+<br>
+		 
+3\.  **Invitation to seminars** 
+    
+
+The Mathematics Talent Programme has a broader aim to start students on a trail to understanding mathematics and its application at higher institutional levels, so that they can take that understanding and use them in their future. Students in the programme get the opportunity to participate in seminars held in universities to deepen their interest for mathematics.
