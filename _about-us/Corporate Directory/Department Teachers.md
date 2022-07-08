@@ -313,8 +313,6 @@ third_nav_title: Corporate Directory
 
 <br>
 
-<br>
-
 
 
 |Ms Ting Shi Yun| Mdm Ng Su Peng|Ms Tan Yan Yan|
@@ -374,8 +372,6 @@ third_nav_title: Corporate Directory
 <br>
 
 <br>
-
-
 
 
 |Mr Clarence Choo|Mr Andrew Fong| |
