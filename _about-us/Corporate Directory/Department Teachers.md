@@ -63,3 +63,17 @@ third_nav_title: Corporate Directory
 |**Email:**     [truman\_see\_qi\_heng@moe.edu.sg](mailto:truman_see_qi_heng@moe.edu.sg)  <br>**Ext:** 370|**Email:** [xie\_zhizhong@moe.edu.sg](mailto:xie_zhizhong@moe.edu.sg)<br>**Ext:** 370|**Email:**  -<br>**Ext:** 113
 
 **English Language and Literature**
+
+<img src="/images/Mdm%20Yap%20Teck%20Lay%20Anna.jpeg" 
+     style="width:30%;float:left">
+<img src="/images/Mr%20Fu%20Kaidi.jpg" 
+     style="width:30%;float:left">
+<img src="/images/Mdm%20Shahnaaz%20B%20Sidik.jpeg" 
+     style="width:30%;">
+
+
+
+| Mdm Anna Yap| Mr Fu Kaidi|Mdm Shahnaaz Sidik|
+| -------- | -------- | -------- |
+| Head Of Department - English|Subject Head - English  <br>_CCA : Scouts_ |Senior Teacher - Literature  <br>Form Teacher - 4 Resilience  <br>_CCA : Debate_|
+|**Email:** [yap\_teck\_lay\_anna@moe.edu.sg](mailto:yap_teck_lay_anna@moe.edu.sg)<br>**Ext:** 2040|**Email:** [fu\_kaidi@moe.edu.sg](mailto:fu_kai_di@moe.edu.sg)<br>**Ext:** 352|**Email:**  [shahnaaz\_sidik@moe.edu.sg](mailto:shahnaaz_sidik@moe.edu.sg) <br>**Ext:** 356
