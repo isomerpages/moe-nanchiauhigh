@@ -287,7 +287,7 @@ third_nav_title: Corporate Directory
 
 
 <img src="/images/Ms%20Tan%20Yi%20Chiann.png"  style="width:30%;float:left">
-<img src="/images/Siak%20Photo.jpeg"  style="width:30%;float:left;height:360px">
+<img src="/images/Siak%20Photo.jpeg"  style="width:30%;float:left;height:380px">
 <img src="/images/Mdm%20Doris%20Toh.png" 
      style="width:30%">
 
