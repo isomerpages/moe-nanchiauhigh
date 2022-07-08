@@ -36,9 +36,10 @@ third_nav_title: Corporate Directory
 
 <img src="/images/Mdm%20Rafiqah%20Dewi.png" 
      style="width:30%;float:left">
-		 
+<img src="/images/Ms%20Claire%20Loh.png" 
+     style="width:30%;float:left">
 <img src="/images/Mdm%20Tan%20Jia%20Ling%20Sharlene.jpeg" 
-     style="width:30%;float:right">
+     style="width:30%;">
 
 
 
