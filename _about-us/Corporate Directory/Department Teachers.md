@@ -165,7 +165,7 @@ third_nav_title: Corporate Directory
 | Teacher  <br>Form Teacher - 2 Resilience  <br>_CCA : Choir_ |Teacher  <br>Form Teacher - 4 Integrity  <br>_CCA : Basketball_  | Teacher  <br>Form Teacher - 4 Resilience  <br>_CCA : English Drama_
 |**Email:**   [periya\_sundaram@moe.edu.sg](mailto:periya_sundaram@moe.edu.sg%20g)<br>**Ext:** 320|**Email:**   [lim\_jian\_ming\_gary@moe.edu.sg](mailto:lim_jian_ming_gary@moe.edu.sg)  <br>**Ext:** 314|**Email:**  [tan\_han\_xiong@moe.edu.sg](mailto:tan_han_xiong@moe.edu.sg) <br>**Ext:** 306
 
-<img src="/images/ms%20cheryl.jpeg"  style="width:30%;float:left">
+<img src="/images/ms%20cheryl.jpeg"  style="width:30%;float:left;height:200px">
 <img src="/images/mr%20seah.jpg" 
      style="width:30%">
 		 
@@ -235,3 +235,15 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 |MSP Teacher<br>Form Teacher - 2 Excellence<br>_CCA : Contemporary Dance_|MSP Teacher  <br>Form Teacher - 1 Excellence<br>_CCA : MMC_| MSP Teacher
 |**Email:**   [nor\_hayati\_bt\_abdullah@moe.edu.sg](http://nor_hayati_bt_abdullah@moe.edu.sg/)<br>**Ext:**|**Email:**   [nur\_maizurah\_rosle@moe.edu.sg](http://nur_maizurah_rosle@moe.edu.sg/)  <br>**Ext:**|**Email:** [zainun\_hasmim@moe.edu.sg](mailto:zainun_hasmim@moe.edu.sg) <br>**Ext:** 218
+
+**Mathematics**
+
+<img src="/images/Mdm%20Khaw%20Hwee%20Mung.png"  style="width:30%;float:left">
+<img src="/images/Mr%20John%20Mak.png"  style="width:30%;float:left">
+<img src="/images/Mdm%20Tang%20Pui%20Lin.png" 
+     style="width:30%">
+
+|Mdm Khaw Hwee Mung|Mr John Mak| Mdm Tang Pui Lin|
+| -------- | -------- | -------- |
+|Head Of Department - Maths|Head Of Department - ICT & Data Management| Subject Head - Maths  <br>_CCA : Chinese Orchestra_
+|**Email:**   [khaw\_hwee\_mung@moe.edu.sg](mailto:khaw_hwee_mung@moe.edu.sg)<br>**Ext:** 203|**Email:**   [nur\_maizurah\_rosle@moe.edu.sg](http://nur_maizurah_rosle@moe.edu.sg/)  <br>**Ext:**|**Email:** [zainun\_hasmim@moe.edu.sg](mailto:zainun_hasmim@moe.edu.sg) <br>**Ext:** 218
