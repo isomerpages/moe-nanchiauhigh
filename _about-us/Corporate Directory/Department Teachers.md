@@ -97,3 +97,15 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 | Teacher  <br>Form Teacher - 2 Perseverance  <br>_CCA : Red Cross_ |Teacher  <br>Form Teacher - 2 Resilience  <br>_CCA : Library Club_| Teacher  <br>Form Teacher - 4 Humility  <br>_CCA : String Orchestra_
 |**Email:**[su\_mei\_lenden-hitchcock@moe.edu.sg](mailto:su_mei_lenden-hitchcock@moe.edu.sg)<br>**Ext:** 353|**Email:**   [pey\_siew\_mei@moe.edu.sg](mailto:pey_siew_mei@moe.edu.sg)  <br>**Ext:** 358|**Email:**  [chiang\_wan\_lin\_angel@moe.edu.sg](mailto:chiang_wan_lin_angel@moe.edu.sg) <br>**Ext:** 354
+
+<img src="/images/Miss%20Wan%20Nur.jpg"  style="width:30%;float:left">
+<img src="/images/Ms%20Michelle%20Yeong.jpg" 
+     style="width:30%;float:left">
+<img src="/images/Mrs%20Tan%20Jie%20Ying.jpg" 
+     style="width:30%;">
+
+
+| Ms Riny| Ms Michelle Yeong|Ms Tan Jie Ying|
+| -------- | -------- | -------- |
+| Teacher  <br>Form Teacher - 3 Sincerity   <br>_CCA : Red Cross_|Teacher  <br>Form Teacher - 4 Excellence  <br>_CCA : Table Tennis_| Teacher  <br>Form Teacher - 3 Excellence
+|**Email:**[wan\_nur\_riny\_ridzuan@moe.edu.sg](mailto:su_mei_lenden-hitchcock@moe.edu.sg)<br>**Ext:** 359|**Email:**[yeong\_xin\_yi\_michelle@moe.edu.sg](mailto:su_mei_lenden-hitchcock@moe.edu.sg)<br>**Ext:** 356|**Email:**  [tan\_jie\_ying\_a@moe.edu.sg](mailto:tan_jie_ying_a@moe.edu.sg) <br>**Ext:** 352
