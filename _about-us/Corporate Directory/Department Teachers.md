@@ -132,3 +132,15 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 | Teacher|Teacher ||
 |**Email:**   [sim\_kian\_ming@moe.edu.sg](mailto:sim_kian_ming@moe.edu.sg)<br>**Ext:** 357|**Email:**   [chong\_hui\_yin\_elaine@moe.edu.sg](mailto:chong_hui_yin_elaine@moe.edu.sg)  <br>**Ext:** 360|
+
+**Humanities**
+
+<img src="/images/Mdm%20Tan%20Pek%20Cheng.jpeg"  style="width:30%;float:left">
+<img src="/images/Mr%20Dalvey.jpeg"  style="width:30%;float:left">
+<img src="/images/Mr%20Abdul%20Rahim.jpeg" 
+     style="width:30%">
+
+|Mdm Tan Pek Cheng|Mr Dalvey Neo|Mr Abdul Rahim|
+| -------- | -------- | -------- |
+| Head Of Department - Humanities|Head Of Department - Student Management |Senior Teacher - History  <br>Form Teacher - 3 Innovation  <br>_CCA : Red Cross_ |
+|**Email:**   [tan\_pek\_cheng@moe.edu.sg](mailto:tan_pek_cheng@moe.edu.sg)<br>**Ext:** 206|**Email:**   [neo\_choong\_wei\_dalvey@moe.edu.sg](mailto:neo_choong_wei_dalvey@moe.edu.sg)<br>**Ext:** 211|**Email:**  [abdul\_rahim\_ahmad@moe.edu.sg](mailto:abdul_rahim_ahmad@moe.edu.sg) <br>**Ext:** 332
