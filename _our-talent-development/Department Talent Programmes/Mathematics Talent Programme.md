@@ -15,8 +15,7 @@ Selected students are invited to the programme in Secondary One if they have:
 
 Students may also be invited to join the programme in Secondary Two or Three upon recommendations by their mathematics teachers. 
 
-Mathematics Talent Programme Overview
--------------------------------------
+**Mathematics Talent Programme Overview**
 
 Students in the Mathematics Talent Programme can look forward to participation in the following activities: 
 
