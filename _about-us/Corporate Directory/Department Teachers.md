@@ -265,6 +265,20 @@ third_nav_title: Corporate Directory
 <img src="/images/Ms%20Rama.png"  style="width:30%;float:left">
 <img src="/images/Mrs%20Chia%20Kate.png" 
      style="width:30%">
+		 
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
 
 |Mrs Cheryl Lo|Ms Rama (Renuka)| Mrs Chia (Kate)|
 | -------- | -------- | -------- |
