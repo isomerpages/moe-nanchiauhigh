@@ -432,3 +432,24 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 |Teacher  <br>Form Teacher - 4 Perseverance  <br>_CCA : National Cadet Corps_|Teacher  <br>Form Teacher - 4 Perseverance  <br>_CCA : National Police Cadet Corps_| Teacher  <br>Form Teacher - 4 Integrity  <br>_CCA : Chinese Orchestra_
 |**Email:** [liow\_kwok\_bin@moe.edu.sg](mailto:liow_kwok_bin@moe.edu.sg)<br>**Ext:** 327|**Email:**   [ainul\_hani\_indra\_faisal@moe.edu.sg](mailto:ainul_hani_indra_faisal@moe.edu.sg)<br>**Ext:** 321|**Email:**  [chen\_yingjie\_jason@moe.edu.sg](mailto:chen_yingjie_jason@moe.edu.sg) <br>**Ext:** \-
+
+
+<img src="/images/Mr%20Gan%20Sze%20Fong.png" 
+     style="width:30%">
+		 
+<center>
+
+Mr Gan Sze Fong
+
+
+Teacher  
+Form Teacher - 3 Humility  
+_CCA : National Cadet Corps_
+
+  
+
+Email:  [gan\_sze\_fong@moe.edu.sg](mailto:gan_sze_fong@moe.edu.sg)
+
+Ext: 310
+
+	</center>
