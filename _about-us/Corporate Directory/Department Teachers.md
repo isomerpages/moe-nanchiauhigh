@@ -37,12 +37,12 @@ third_nav_title: Corporate Directory
 <img src="/images/Mdm%20Rafiqah%20Dewi.png" 
      style="width:30%;float:left">
 		 
-<img src="/images/Mr%20Teo%20Boon%20Heng.png" 
+<img src="/images/Mdm%20Tan%20Jia%20Ling%20Sharlene.jpeg" 
      style="width:30%;float:right">
 
 
 
-|Mdm Rafiqah Dewi| Ms Claire Loh|Mr Teo Boon Heng|
+|Mdm Rafiqah Dewi| Ms Claire Loh|Mdm Sharlene Koh|
 | -------- | -------- | -------- |
-| Art Teacher  <br>Form Teacher - 3 Excellence  <br>_CCA : Visual Arts Club_|FCE Teacher  <br>Form Teacher - 2 Integrity  <br>_CCA : National Police Cadet Corps_| Design & Technology Teacher  <br>Form Teacher - 1 Innovation  <br>_CCA : National Police Cadet Corps_|
-|**Email:**[hoe\_jane@moe.edu.sg](mailto:hoe_jane@moe.edu.sg)<br>**Ext:** 210|**Email:**[lee\_heng\_leong@moe.edu.sg](mailto:lee_heng_leong@moe.edu.sg)<br>**Ext:** 302|**Email:**  [ngo\_ming\_kee\_angie@moe.edu.sg](mailto:ngo_ming_kee_angie@moe.edu.sg)  <br>**Ext:** 370
+| Art Teacher  <br>Form Teacher - 3 Excellence  <br>_CCA : Visual Arts Club_|FCE Teacher  <br>Form Teacher - 2 Integrity  <br>_CCA : National Police Cadet Corps_| FCE Teacher  <br>_CCA : Chinese Dance_|
+|***Email:**      [rafiqah\_dewi\_aziz@moe.edu.sg](mailto:%20rafiqah_dewi_aziz@moe.edu.sg)<br>**Ext:** 370|**Email:**  [low\_zhen\_yan\_claire@moe.edu.sg](mailto:low_zhen_yan_claire@moe.edu.sg)[](mailto:song_song_i@moe.edu.sg)<Br>**Ext:** 113|**Email:**  [tan\_jia\_ling\_sharlene@moe.edu.sg](mailto:tan_jia_ling_sharlene@moe.edu.sg) <br>**Ext:** 113
