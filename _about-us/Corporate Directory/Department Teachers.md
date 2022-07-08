@@ -185,3 +185,13 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 | Head Of Department - MTL |Head Of Department - SAP | Subject Head - Chinese Language
 |**Email:**   [oh\_keng\_ann@moe.edu.sg](mailto:oh_keng_ann@moe.edu.sg)<br>**Ext:** 205|**Email:**   [goh\_lam\_chye@moe.edu.sg](mailto:goh_lam_chye@moe.edu.sg) <br>**Ext:** 221|**Email:**  [chay\_chia\_ling@moe.edu.sg](mailto:chay_chia_ling@moe.edu.sg) <br>**Ext:** 220
+
+<img src="/images/Ms%20Chong%20Ka%20Wuei.png"  style="width:30%;float:left">
+<img src="/images/Ms%20Agnes%20Cheong.png"  style="width:30%;float:left">
+<img src="/images/Mdm%20Qi%20Yan%20Ping.png" 
+     style="width:30%">
+
+|Ms Chong Ka Wuei|Ms Agnes Cheong| Mdm Qi Yan Ping|
+| -------- | -------- | -------- |
+|Subject Head - SAP  <br>Form Teacher - 4 Resilience  <br>_CCA : Wind Orchestra_ |Subject Head - CCE| Lead Teacher - Chinese  <br>_CCA : Library Club_
+|**Email:**   [chong\_ka\_wuei@moe.edu.sg](mailto:chong_ka_wuei@moe.edu.sg)<br>**Ext:** 212|**Email:**   [cheong\_zheng\_yin\_agnes@moe.edu.sg](mailto:cheong_zheng_yin_agnes@moe.edu.sg)  <br>**Ext:** 212|**Email:**[qi\_yan\_ping@moe.edu.sg](mailto:qi_yan_ping@moe.edu.sg) <br>**Ext:** 213
