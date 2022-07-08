@@ -369,8 +369,6 @@ third_nav_title: Corporate Directory
 <img src="/images/Mr%20Andrew%20Fong.png" 
      style="width:30%">
 		 
-<br>
-
 
 |Mr Clarence Choo|Mr Andrew Fong| |
 | -------- | -------- | -------- |
