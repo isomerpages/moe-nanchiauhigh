@@ -363,7 +363,7 @@ third_nav_title: Corporate Directory
 <img src="/images/Ms%20Kai%20Xian%20Annette%20Chean.png" 
      style="width:30%">
 
-|Mdm Yar Rumin (Angeline)|Ms Tan Yibing Alison|#### Ms Kai Xian Annette Chean|
+|Mdm Yar Rumin (Angeline)|Ms Tan Yibing Alison| Ms Kai Xian Annette Chean|
 | -------- | -------- | -------- |
 |Teacher  <br>Form Teacher - 4 Sincerity  <br>_CCA : Wushu_| Teacher  <br>Form Teacher - 2 Excellence  <br>_CCA : Basketball_|Teacher  <br>Form Teacher - 4 Innovation  <br>_CCA : Table Tennis_
 |**Email:**[yar\_rumin@moe.edu.sg](mailto:yar_rumin@moe.edu.sg)<br>**Ext:** 304|**Email:**   [tan\_yibing\_alison@moe.edu.sg](mailto:tan_yibing_alison@moe.edu.sg) <br>**Ext:** 303|**Email:**  [chean\_kai\_xian\_annette@moe.edu.sg](mailto:chean_kai_xian_annette@moe.edu.sg) <br>**Ext:** 312
