@@ -225,3 +225,13 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 |Teacher  <br>Form Teacher - 1 Perseverance  <br>_CCA : Chinese Dance_|Teacher  <br>Form Teacher - 3 Humility|Teacher  
 |**Email:**[ting\_hann\_sy@moe.edu.sg](mailto:ting_hann_sy@moe.edu.sg)<br>**Ext:**|**Email:**[tay\_jing\_ying\_winnie@moe.edu.sg](mailto:ye_bijiao@moe.edu.sg)  <br>**Ext:**|**Email:**[@moe.edu.sg](mailto:ye_bijiao@moe.edu.sg)  <br>**Ext:**
+
+<img src="/images/Mdm%20Hayati.jpeg"  style="width:30%;float:left">
+<img src="/images/Mdm%20Maizurah.jpg"  style="width:30%;float:left">
+<img src="/images/Mdm%20Zainun.jpeg" 
+     style="width:30%">
+
+|Mdm Nor Hayati Bt Abdullah  | Mdm Nur Maizurah Binte |Mdm Zainun Binte Hashim  |
+| -------- | -------- | -------- |
+|MSP Teacher<br>Form Teacher - 2 Excellence<br>_CCA : Contemporary Dance_|MSP Teacher  <br>Form Teacher - 1 Excellence<br>_CCA : MMC_| MSP Teacher
+|**Email:**   [nor\_hayati\_bt\_abdullah@moe.edu.sg](http://nor_hayati_bt_abdullah@moe.edu.sg/)<br>**Ext:**|**Email:**   [nur\_maizurah\_rosle@moe.edu.sg](http://nur_maizurah_rosle@moe.edu.sg/)  <br>**Ext:**|**Email:** [zainun\_hasmim@moe.edu.sg](mailto:zainun_hasmim@moe.edu.sg) <br>**Ext:** 218
