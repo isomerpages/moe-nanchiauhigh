@@ -458,5 +458,4 @@ _CCA : National Cadet Corps_
 Email:  [gan\_sze\_fong@moe.edu.sg](mailto:gan_sze_fong@moe.edu.sg)
 
 Ext: 310
-
-	</center>
+</center>
