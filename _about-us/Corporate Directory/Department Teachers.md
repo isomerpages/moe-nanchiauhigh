@@ -345,3 +345,15 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 |Teacher  <br>Form Teacher - 3 Perseverance|Teacher  <br>Form Teacher - 1 Innovation||
 |**Email:**   [zhang\_boyuan\_eric@moe.edu.sg](mailto:zhang_boyuan_eric@moe.edu.sg)<br>**Ext: 336**|**Email:**  [ranon\_mak\_enhao@moe.edu.sg](mailto:ranon_mak_enhao@moe.edu.sg)<br>**Ext: 331**||
+
+**Physical Education**
+
+<img src="/images/Arthur.jpeg"  style="width:30%;float:left">
+<img src="/images/Mr%20Raffi%20Bin%20Buang.jpeg"  style="width:30%;float:left">
+<img src="/images/Mr%20Aw%20Si%20Kuan.jpeg" 
+     style="width:30%">
+
+|Mr Arthur Lim Heng Boon|Mr Raffi Buang|Mr Aw Si Kuan|
+| -------- | -------- | -------- |
+|Head Of Department - Physical Education| Subject Head - Physical Education  <br>_CCA : National Cadet Corps (Advisor)_|Subject Head - Student Leadership & Outdoor Education<br>Form Teacher - 3 Integrity<br>_CCA : Basketball_ 
+|**Email:**   [lim\_heng\_boon@moe.edu.sg](mailto:lim_heng_boon@moe.edu.sg)  <br>**Ext:** 200|**Email:**[raffi\_buang@moe.edu.sg](mailto:raffi_buang@moe.edu.sg)<br>**Ext:** 303|**Email:**[aw\_si\_kuan@moe.edu.sg](mailto:aw_si_kuan@moe.edu.sg) <br>**Ext:** 311
