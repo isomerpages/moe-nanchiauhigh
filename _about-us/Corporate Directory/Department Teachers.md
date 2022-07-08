@@ -204,4 +204,14 @@ third_nav_title: Corporate Directory
 |Mr Tan Jia Hao|Ms Shao Linjuan  | Ms Kim Lay Tin|
 | -------- | -------- | -------- |
 |Acting AYH1  <br>Form Teacher - 1 Integrity  <br>_CCA : Chinese Drama_ |Teacher  <br>Form Teacher - 2 Innovation  <br>_CCA : Chinese Drama_|Teacher  <br>Form Teacher - 1 Humility  <br>_CCA : Mind Games Club_
+|**Email:**[tan\_jia\_hao@moe.edu.sg](mailto:tan_jia_hao@moe.edu.sg)<br>**Ext:** 216|**Email:**  [shao\_linjuan@moe.edu.sg](mailto:shao_linjuan@moe.edu.sg)<br>**Ext:** 215|**Email:** [kim\_lay\_tin@moe.edu.sg](mailto:kim_lay_tin@moe.edu.sg) <br>**Ext:** 216
+
+<img src="/images/Mdm%20Zhang%20Chunyu.png"  style="width:30%;float:left">
+<img src="/images/Mdm%20Ye%20Bijiao.png"  style="width:30%;float:left">
+<img src="/images/Mdm%20Xuan%20Xuan.png" 
+     style="width:30%">
+
+|Mdm Zhang Chunyu|Mdm Ye Bijiao | Mdm Xuan Xuan|
+| -------- | -------- | -------- |
+|Teacher  <br>Form Teacher - 1 Integrity  <br>_CCA : Chinese Calligraphy_ |Teacher  <br>Form Teacher - 2 Innovation  <br>_CCA : Library Club_ |Teacher  <br>Form Teacher - 1 Humility  <br>_CCA : Mind Games Club_
 |**Email:**   [chong\_ka\_wuei@moe.edu.sg](mailto:chong_ka_wuei@moe.edu.sg)<br>**Ext:** 212|**Email:**   [cheong\_zheng\_yin\_agnes@moe.edu.sg](mailto:cheong_zheng_yin_agnes@moe.edu.sg)  <br>**Ext:** 212|**Email:**[qi\_yan\_ping@moe.edu.sg](mailto:qi_yan_ping@moe.edu.sg) <br>**Ext:** 213
