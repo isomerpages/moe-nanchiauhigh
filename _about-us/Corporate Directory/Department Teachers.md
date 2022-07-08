@@ -53,9 +53,13 @@ third_nav_title: Corporate Directory
 <img src="/images/Mr%20Xie%20Zhi%20Zhong.jpeg" 
      style="width:30%;float:left">
 <img src="/images/Ms%20Tan%20Wern%20Li.jpeg" 
-     style="width:30%;">
+     style="width:30%">
 
+<br>
 
+<br>
+
+<br>
 
 | Mr Truman See Qi Heng| Mr Xie Zhi Zhong  |Ms Tan Wern Li Rowena Mary|
 | -------- | -------- | -------- |
@@ -64,8 +68,7 @@ third_nav_title: Corporate Directory
 
 **English Language and Literature**
 
-<img src="/images/Mdm%20Yap%20Teck%20Lay%20Anna.jpeg" 
-     style="width:30%;float:left">
+<img src="/images/Mdm%20Yap%20Teck%20Lay%20Anna.jpeg"  style="width:30%;float:left">
 <img src="/images/Mr%20Fu%20Kaidi.jpg" 
      style="width:30%;float:left">
 <img src="/images/Mdm%20Shahnaaz%20B%20Sidik.jpeg" 
