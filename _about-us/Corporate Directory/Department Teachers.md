@@ -280,11 +280,6 @@ third_nav_title: Corporate Directory
 
 <br>
 
-<br>
-
-<br>
-
-<br>
 
 |Mrs Cheryl Lo|Ms Rama (Renuka)| Mrs Chia (Kate)|
 | -------- | -------- | -------- |
