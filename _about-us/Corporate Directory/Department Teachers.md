@@ -294,4 +294,4 @@ third_nav_title: Corporate Directory
 |Ms Tan Yi Chiann|Mdm Siak Chock Kwan| Mdm Doris Toh |
 | -------- | -------- | -------- |
 |Teacher  <br>Form Teacher - 4 Sincerity  <br>_CCA : Student Council_| Teacher  <br>Form Teacher - 4 Excellence  <br>_CCA : Wushu_|Teacher  <br>Form Teacher - 2 Gratitude  <br>_CCA : Red Cross_
-|**Email:**   [khaw\_hwee\_mung@moe.edu.sg](mailto:khaw_hwee_mung@moe.edu.sg)<br>**Ext:** 203|**Email:**   [nur\_maizurah\_rosle@moe.edu.sg](http://nur_maizurah_rosle@moe.edu.sg/)  <br>**Ext:**|**Email:** [zainun\_hasmim@moe.edu.sg](mailto:zainun_hasmim@moe.edu.sg) <br>**Ext:** 218
+|**Email:**   [tan\_yi\_chiann@moe.edu.sg](mailto:tan_yi_chiann@moe.edu.sg)<br>**Ext:** 330|**Email:**   [siak\_chock\_kwun@moe.edu.sg](mailto:siak_chock_kwun@moe.edu.sg) <br>**Ext:** 331|**Email:**  [doris\_toh\_ming\_li@moe.edu.sg](mailto:doris_toh_ming_li@moe.edu.sg)   <br>**Ext:**  312
