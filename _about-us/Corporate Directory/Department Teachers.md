@@ -109,3 +109,15 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 | Teacher  <br>Form Teacher - 3 Sincerity   <br>_CCA : Red Cross_|Teacher  <br>Form Teacher - 4 Excellence  <br>_CCA : Table Tennis_| Teacher  <br>Form Teacher - 3 Excellence
 |**Email:**[wan\_nur\_riny\_ridzuan@moe.edu.sg](mailto:su_mei_lenden-hitchcock@moe.edu.sg)<br>**Ext:** 359|**Email:**[yeong\_xin\_yi\_michelle@moe.edu.sg](mailto:su_mei_lenden-hitchcock@moe.edu.sg)<br>**Ext:** 356|**Email:**  [tan\_jie\_ying\_a@moe.edu.sg](mailto:tan_jie_ying_a@moe.edu.sg) <br>**Ext:** 352
+
+<img src="/images/Mrs%20Chandra%20Ravi.jpeg"  style="width:30%;float:left">
+<img src="/images/Mdm%20Wendy.jpg" 
+     style="width:30%;float:left">
+<img src="/images/Mdm%20Priscilla%20Tan.png" 
+     style="width:30%;">
+
+
+|Ms Chandra Ravi|Mdm Wendy Low| Mdm Priscilla Tan|
+| -------- | -------- | -------- |
+| Teacher|Teacher | Teacher 
+|**Email:**   [shanmugam\_chandraghantha@moe.edu.sg](mailto:shanmugam_chandraghantha@moe.edu.sg)<br>**Ext:** 360|**Email:**  [low\_gek\_meng\_wendy@moe.edu.sg](mailto:low_gek_meng_wendy@moe.edu.sg) <br>**Ext:** 354|**Email:**  [tan\_bishi\_priscilla@moe.edu.sg](mailto:tan_bishi_priscilla@moe.edu.sg) <br>**Ext:** 358
