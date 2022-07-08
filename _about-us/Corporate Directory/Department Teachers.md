@@ -85,3 +85,15 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 | Head Of Department - English|Subject Head - English  <br>_CCA : Scouts_ |Senior Teacher - Literature  <br>Form Teacher - 4 Resilience  <br>_CCA : Debate_|
 |**Email:** [yap\_teck\_lay\_anna@moe.edu.sg](mailto:yap_teck_lay_anna@moe.edu.sg)<br>**Ext:** 2040|**Email:** [fu\_kaidi@moe.edu.sg](mailto:fu_kai_di@moe.edu.sg)<br>**Ext:** 352|**Email:**  [shahnaaz\_sidik@moe.edu.sg](mailto:shahnaaz_sidik@moe.edu.sg) <br>**Ext:** 356
+
+<img src="/images/Ms%20Lenden-Hitchcock%20Su%20Mei.jpeg"  style="width:30%;float:left">
+<img src="/images/Mdm%20Pey%20Siew%20Mei.jpeg" 
+     style="width:30%;float:left">
+<img src="/images/Mdm%20Chiang%20Wan%20Lin%20Angel.jpeg" 
+     style="width:30%;">
+
+
+| Ms Lenden|Mdm Pey Siew Mei|Ms Angel Chiang|
+| -------- | -------- | -------- |
+| Teacher  <br>Form Teacher - 2 Perseverance  <br>_CCA : Red Cross_ |Teacher  <br>Form Teacher - 2 Resilience  <br>_CCA : Library Club_| Teacher  <br>Form Teacher - 4 Humility  <br>_CCA : String Orchestra_
+|**Email:**[su\_mei\_lenden-hitchcock@moe.edu.sg](mailto:su_mei_lenden-hitchcock@moe.edu.sg)<br>**Ext:** 353|**Email:**   [pey\_siew\_mei@moe.edu.sg](mailto:pey_siew_mei@moe.edu.sg)  <br>**Ext:** 358|**Email:**  [chiang\_wan\_lin\_angel@moe.edu.sg](mailto:chiang_wan_lin_angel@moe.edu.sg) <br>**Ext:** 354
