@@ -130,5 +130,5 @@ third_nav_title: Corporate Directory
 
 |Mr Sim Kian Ming|Mdm Elaine Chong| |
 | -------- | -------- | -------- |
-| Teacher|Teacher | Teacher 
+| Teacher|Teacher ||
 |**Email:**   [sim\_kian\_ming@moe.edu.sg](mailto:sim_kian_ming@moe.edu.sg)<br>**Ext:** 357|**Email:**   [chong\_hui\_yin\_elaine@moe.edu.sg](mailto:chong_hui_yin_elaine@moe.edu.sg)  <br>**Ext:** 360|
