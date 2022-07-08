@@ -390,3 +390,15 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 |Teacher  <br>Form Teacher - 3 Gratitude  <br>_CCA : Badminton_| Teacher  ||
 |**Email:**   [nclarence\_choo\_seng\_yong@moe.edu.sg](mailto:clarence_choo_seng_yong@moe.edu.sg)<br>**Ext:** 304|**Email:**   [andrew\_fong\_kok\_seng@moe.edu.sg](mailto:andrew_fong_kok_seng@moe.edu.sg)  <br>**Ext:** 312||
+
+**Science**
+
+<img src="/images/Mdm%20Ng%20Mui%20Hoon.jpeg"  style="width:30%;float:left">
+<img src="/images/Mdm%20Neewyn%20Neo%20Sin%20Yee.jpeg"  style="width:30%;float:left">
+<img src="/images/Mr%20Goh%20Khan%20Sen.jpeg" 
+     style="width:30%">
+
+|Mdm Ng Mui Hoon|Mdm Neewyn Neo|Mr Goh Khan Sen|
+| -------- | -------- | -------- |
+|Head Of Department - Science|School Staff Developer|Subject Head - Science Research  <br>_CCA : Robotics Club_|
+|**Email:**   [ng\_mui\_hoon@moe.edu.sg](mailto:ng_mui_hoon@moe.edu.sg)<br>**Ext:** 202|**Email:**  [neewyn\_neo\_sin\_yee@moe.edu.sg](mailto:neewyn_neo_sin_yee@moe.edu.sg)  <br>**Ext:** 208|**Email:**  [goh\_khan\_sen@moe.edu.sg](mailto:goh_khan_sen@moe.edu.sg) <br>**Ext:** 328
