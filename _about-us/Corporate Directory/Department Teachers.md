@@ -226,8 +226,8 @@ third_nav_title: Corporate Directory
 |Teacher  <br>Form Teacher - 1 Perseverance  <br>_CCA : Chinese Dance_|Teacher  <br>Form Teacher - 3 Humility|Teacher  
 |**Email:**[ting\_hann\_sy@moe.edu.sg](mailto:ting_hann_sy@moe.edu.sg)<br>**Ext:**|**Email:**[tay\_jing\_ying\_winnie@moe.edu.sg](mailto:ye_bijiao@moe.edu.sg)  <br>**Ext:**|**Email:**[@moe.edu.sg](mailto:ye_bijiao@moe.edu.sg)  <br>**Ext:**
 
-<img src="/images/Mdm%20Hayati.jpeg"  style="width:30%;float:left;height:380px">
-<img src="/images/Mdm%20Maizurah.jpg"  style="width:30%;float:left;height:380px">
+<img src="/images/Mdm%20Hayati.jpeg"  style="width:30%;float:left;height:360px">
+<img src="/images/Mdm%20Maizurah.jpg"  style="width:30%;float:left;height:360px">
 <img src="/images/Mdm%20Zainun.jpeg" 
      style="width:30%">
 
