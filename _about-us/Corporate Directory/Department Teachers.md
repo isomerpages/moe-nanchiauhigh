@@ -219,7 +219,7 @@ third_nav_title: Corporate Directory
 <img src="/images/Ms%20Ting.jpeg"  style="width:30%;float:left">
 <img src="/images/Ms%20Winnie%20Tay.jpeg"  style="width:30%;float:left">
 <img src="/images/Mdm%20Tan%20Bee%20Lian.jpeg" 
-     style="width:30%">
+     style="width:30%;height:380px">
 
 |Ms Ting Hann Sy| Ms Tay Jing Ying Winnie| Mdm Tan Bee Lian|
 | -------- | -------- | -------- |
