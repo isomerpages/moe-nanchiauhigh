@@ -415,10 +415,10 @@ third_nav_title: Corporate Directory
 
 <img src="/images/Ms%20Nurhaida%20Ramli.png"  style="width:30%;float:left">
 <img src="/images/Mdm%20Leow%20Shie%20Hui.jpeg"  style="width:30%;float:left">
-<img src="/images/Mdm%20Foo%20Su%20Lyn.png" 
+<img src="/images/Mr%20Esmond%20Tay.png" 
      style="width:30%">
 
-|Mr Goh Giam Hwee| Ms Chen Xiao Wei|Ms Foo Su Lyn|
+|Ms Nurhaida Ramli|Mdm Leow Shie Hui| Mr Esmond Tay|
 | -------- | -------- | -------- |
-|Year Head 1 & 2|Teacher  <br>Assistant Year Head - Secondary 2  <br>_CCA : English Drama_| Teacher  <br>Form Teacher - 4 Humility  <br>_CCA : Scouts_
-|**Email:**   [goh\_giam\_hwee@moe.edu.sg](mailto:goh_giam_hwee@moe.edu.sg)<br>**Ext:** 316|**Email:** [chen\_xiaowei\_a@moe.edu.sg](mailto:chen_xiaowei_a@moe.edu.sg)<br>**Ext:** 322|**Email:**   [foo\_su\_lyn\_a@moe.edu.sg](mailto:foo_su_lyn_a@moe.edu.sg)<br>**Ext:** 317
+|Teacher  <br>Form Teacher - 4 Gratitude  <br>_CCA : Green Club_|Teacher  <br>Form Teacher - 2 Excellence| Teacher  <br>Form Teacher - 3 Resilience  <br>_CCA : Scouts_
+|**Email:** [nurhaida\_ramli@moe.edu.sg](mailto:nurhaida_ramli@moe.edu.sg)<br>**Ext:** 327|**Email:**   [leow\_shie\_hui@moe.edu.sg](mailto:leow_shie_hui@moe.edu.sg)<br>**Ext:** 321|**Email:**  [tay\_rong\_yao\_esmond@moe.edu.sg](mailto:tay_rong_yao_esmond@moe.edu.sg) <br>**Ext:** 328
