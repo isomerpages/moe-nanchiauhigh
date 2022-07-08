@@ -173,3 +173,15 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 |Teacher<br>Form Teacher - 3 Integrity  <br>_CCA : Red Cross_|Teacher ||
 |**Email:**[lee\_zhen\_yi\_cheryl@moe.edu.sg](mailto:lee_zhen_yi_cheryl@moe.edu.sg)<br>**Ext:** 308|**Email:**[seah\_kim\_chye@moe.edu.sg](mailto:seah_kim_chye@moe.edu.sg)<br>**Ext:** 306
+
+**Mother Tongue Languages**
+
+<img src="/images/Mr%20Oh%20Keng%20Ann.jpeg"  style="width:30%;float:left">
+<img src="/images/Mr%20Goh%20Lam%20Chye.png"  style="width:30%;float:left">
+<img src="/images/Ms%20Chay%20Chia%20Ling.png" 
+     style="width:30%">
+
+| Mr Oh Keng Ann| Mr Goh Lam Chye|Ms Chay Chia Ling|
+| -------- | -------- | -------- |
+| Head Of Department - MTL |Head Of Department - SAP | Subject Head - Chinese Language
+|**Email:**   [oh\_keng\_ann@moe.edu.sg](mailto:oh_keng_ann@moe.edu.sg)<br>**Ext:** 205|**Email:**   [goh\_lam\_chye@moe.edu.sg](mailto:goh_lam_chye@moe.edu.sg) <br>**Ext:** 221|**Email:**  [chay\_chia\_ling@moe.edu.sg](mailto:chay_chia_ling@moe.edu.sg) <br>**Ext:** 220
