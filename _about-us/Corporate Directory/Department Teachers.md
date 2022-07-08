@@ -357,3 +357,13 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 |Head Of Department - Physical Education| Subject Head - Physical Education  <br>_CCA : National Cadet Corps (Advisor)_|Subject Head - Student Leadership & Outdoor Education<br>Form Teacher - 3 Integrity<br>_CCA : Basketball_ 
 |**Email:**   [lim\_heng\_boon@moe.edu.sg](mailto:lim_heng_boon@moe.edu.sg)  <br>**Ext:** 200|**Email:**[raffi\_buang@moe.edu.sg](mailto:raffi_buang@moe.edu.sg)<br>**Ext:** 303|**Email:**[aw\_si\_kuan@moe.edu.sg](mailto:aw_si_kuan@moe.edu.sg) <br>**Ext:** 311
+
+<img src="/images/Mdm%20Yar%20Rumin%20Angeline.png"  style="width:30%;float:left">
+<img src="/images/Ms%20Tan%20Yibing%20Alison.png"  style="width:30%;float:left">
+<img src="/images/Ms%20Kai%20Xian%20Annette%20Chean.png" 
+     style="width:30%">
+
+|Mdm Yar Rumin (Angeline)|Ms Tan Yibing Alison|#### Ms Kai Xian Annette Chean|
+| -------- | -------- | -------- |
+|Teacher  <br>Form Teacher - 4 Sincerity  <br>_CCA : Wushu_| Teacher  <br>Form Teacher - 2 Excellence  <br>_CCA : Basketball_|Teacher  <br>Form Teacher - 4 Innovation  <br>_CCA : Table Tennis_
+|**Email:**[yar\_rumin@moe.edu.sg](mailto:yar_rumin@moe.edu.sg)<br>**Ext:** 304|**Email:**   [tan\_yibing\_alison@moe.edu.sg](mailto:tan_yibing_alison@moe.edu.sg) <br>**Ext:** 303|**Email:**  [chean\_kai\_xian\_annette@moe.edu.sg](mailto:chean_kai_xian_annette@moe.edu.sg) <br>**Ext:** 312
