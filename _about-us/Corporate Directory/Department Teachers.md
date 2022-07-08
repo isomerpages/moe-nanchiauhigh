@@ -402,3 +402,13 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 |Head Of Department - Science|School Staff Developer|Subject Head - Science Research  <br>_CCA : Robotics Club_|
 |**Email:**   [ng\_mui\_hoon@moe.edu.sg](mailto:ng_mui_hoon@moe.edu.sg)<br>**Ext:** 202|**Email:**  [neewyn\_neo\_sin\_yee@moe.edu.sg](mailto:neewyn_neo_sin_yee@moe.edu.sg)  <br>**Ext:** 208|**Email:**  [goh\_khan\_sen@moe.edu.sg](mailto:goh_khan_sen@moe.edu.sg) <br>**Ext:** 328
+
+<img src="/images/Jimmy%20Goh%20Giam%20Hwee%202020.jpeg"  style="width:30%;float:left">
+<img src="/images/Ms%20Chen%20Xiaowei%20Chney.jpeg"  style="width:30%;float:left">
+<img src="/images/Mdm%20Foo%20Su%20Lyn.png" 
+     style="width:30%">
+
+|Mr Goh Giam Hwee| Ms Chen Xiao Wei|Ms Foo Su Lyn|
+| -------- | -------- | -------- |
+|Year Head 1 & 2|Teacher  <br>Assistant Year Head - Secondary 2  <br>_CCA : English Drama_| Teacher  <br>Form Teacher - 4 Humility  <br>_CCA : Scouts_
+|**Email:**   [goh\_giam\_hwee@moe.edu.sg](mailto:goh_giam_hwee@moe.edu.sg)<br>**Ext:** 316|**Email:** [chen\_xiaowei\_a@moe.edu.sg](mailto:chen_xiaowei_a@moe.edu.sg)<br>**Ext:** 322|**Email:**   [foo\_su\_lyn\_a@moe.edu.sg](mailto:foo_su_lyn_a@moe.edu.sg)<br>**Ext:** 317
