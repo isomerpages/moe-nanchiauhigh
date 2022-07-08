@@ -300,6 +300,14 @@ third_nav_title: Corporate Directory
 <img src="/images/Mdm%20Ng%20Su%20Peng.png"  style="width:30%;float:left">
 <img src="/images/Ms%20Tan%20Yan%20Yan.png" 
      style="width:30%">
+		 
+<br>
+
+<br>
+
+<br>
+
+<br>
 
 |Ms Ting Shi Yun| Mdm Ng Su Peng|Ms Tan Yan Yan|
 | -------- | -------- | -------- |
@@ -309,6 +317,23 @@ third_nav_title: Corporate Directory
 <img src="/images/Mr%20Zhang%20Boyuan%20Eric.png"  style="width:30%;float:left">
 <img src="/images/Mr%20Ranon%20Mak%20Enhao.png" 
      style="width:30%">
+		 
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
 
 |Mr Zhang Boyuan, Eric|  Mr Ranon Mak Enhao||
 | -------- | -------- | -------- |
