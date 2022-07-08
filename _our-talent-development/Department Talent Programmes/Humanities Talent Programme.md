@@ -8,6 +8,8 @@ third_nav_title: Department Talent Programmes
      style="width:40%;float:left">
 The Humanities Talent Programme seeks to identify students who display keen interest and passion in Humanities. Through deeper studies of the Humanities subjects – Geography, History and Literature, students learn to better appreciate complex societal issues from a multi-disciplinary perspective.
 
+<br>
+<br>
 
 **Vision:**
 
@@ -29,4 +31,3 @@ To confidently lead and inspire NCzens in the exploration of the humanities with
      style="width:30%;float:left">
 <img src="/images/image5%20(3).png" 
      style="width:30%;float:left">
-		 
