@@ -61,3 +61,5 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 | Music Teacher<br>Form Teacher - 2 Perseverance  <br>_CCA : Choir_|Music Teacher| FCE Teacher|
 |**Email:**     [truman\_see\_qi\_heng@moe.edu.sg](mailto:truman_see_qi_heng@moe.edu.sg)  <br>**Ext:** 370|**Email:** [xie\_zhizhong@moe.edu.sg](mailto:xie_zhizhong@moe.edu.sg)<br>**Ext:** 370|**Email:**  -<br>**Ext:** 113
+
+**English Language and Literature**
