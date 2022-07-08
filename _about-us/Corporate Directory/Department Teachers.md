@@ -367,3 +367,26 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 |Teacher  <br>Form Teacher - 4 Sincerity  <br>_CCA : Wushu_| Teacher  <br>Form Teacher - 2 Excellence  <br>_CCA : Basketball_|Teacher  <br>Form Teacher - 4 Innovation  <br>_CCA : Table Tennis_
 |**Email:**[yar\_rumin@moe.edu.sg](mailto:yar_rumin@moe.edu.sg)<br>**Ext:** 304|**Email:**   [tan\_yibing\_alison@moe.edu.sg](mailto:tan_yibing_alison@moe.edu.sg) <br>**Ext:** 303|**Email:**  [chean\_kai\_xian\_annette@moe.edu.sg](mailto:chean_kai_xian_annette@moe.edu.sg) <br>**Ext:** 312
+
+<img src="/images/Mr%20Clarence%20Choo.png"  style="width:30%;float:left">
+<img src="/images/Mr%20Andrew%20Fong.png" 
+     style="width:30%">
+		 
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+|Mr Clarence Choo|Mr Andrew Fong| |
+| -------- | -------- | -------- |
+|Teacher  <br>Form Teacher - 3 Gratitude  <br>_CCA : Badminton_| Teacher  ||
+|**Email:**   [nclarence\_choo\_seng\_yong@moe.edu.sg](mailto:clarence_choo_seng_yong@moe.edu.sg)<br>**Ext:** 304|**Email:**   [andrew\_fong\_kok\_seng@moe.edu.sg](mailto:andrew_fong_kok_seng@moe.edu.sg)  <br>**Ext:** 312||
