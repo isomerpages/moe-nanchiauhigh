@@ -444,18 +444,10 @@ third_nav_title: Corporate Directory
 <img src="/images/Mr%20Gan%20Sze%20Fong.png" 
      style="width:30%">
 		 
-<center>
 
 Mr Gan Sze Fong
 
-
-Teacher  
-Form Teacher - 3 Humility  
-_CCA : National Cadet Corps_
-
-  
-
-Email:  [gan\_sze\_fong@moe.edu.sg](mailto:gan_sze_fong@moe.edu.sg)
+<br>Teacher  <br>Form Teacher - 3 Humility  <br>_CCA : National Cadet Corps_
+<br>Email:  [gan\_sze\_fong@moe.edu.sg](mailto:gan_sze_fong@moe.edu.sg)
 
 Ext: 310
-</center>
