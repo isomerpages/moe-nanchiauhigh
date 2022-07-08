@@ -165,7 +165,7 @@ third_nav_title: Corporate Directory
 | Teacher  <br>Form Teacher - 2 Resilience  <br>_CCA : Choir_ |Teacher  <br>Form Teacher - 4 Integrity  <br>_CCA : Basketball_  | Teacher  <br>Form Teacher - 4 Resilience  <br>_CCA : English Drama_
 |**Email:**   [periya\_sundaram@moe.edu.sg](mailto:periya_sundaram@moe.edu.sg%20g)<br>**Ext:** 320|**Email:**   [lim\_jian\_ming\_gary@moe.edu.sg](mailto:lim_jian_ming_gary@moe.edu.sg)  <br>**Ext:** 314|**Email:**  [tan\_han\_xiong@moe.edu.sg](mailto:tan_han_xiong@moe.edu.sg) <br>**Ext:** 306
 
-<img src="/images/ms%20cheryl.jpeg"  style="width:30%;float:left;height:200px">
+<img src="/images/ms%20cheryl.jpeg"  style="width:30%;float:left;height:400px">
 <img src="/images/mr%20seah.jpg" 
      style="width:30%">
 		 
