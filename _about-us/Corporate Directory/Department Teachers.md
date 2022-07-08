@@ -280,6 +280,12 @@ third_nav_title: Corporate Directory
 
 <br>
 
+<br>
+
+<br>
+
+<br>
+
 |Mrs Cheryl Lo|Ms Rama (Renuka)| Mrs Chia (Kate)|
 | -------- | -------- | -------- |
 |Head Of Department - Character Education (CCE)|Year Head - Secondary 3 & 4|Teacher  <br>Form Teacher - 2 Sincerity
