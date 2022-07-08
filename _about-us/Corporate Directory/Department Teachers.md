@@ -144,3 +144,13 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 | Head Of Department - Humanities|Head Of Department - Student Management |Senior Teacher - History  <br>Form Teacher - 3 Innovation  <br>_CCA : Red Cross_ |
 |**Email:**   [tan\_pek\_cheng@moe.edu.sg](mailto:tan_pek_cheng@moe.edu.sg)<br>**Ext:** 206|**Email:**   [neo\_choong\_wei\_dalvey@moe.edu.sg](mailto:neo_choong_wei_dalvey@moe.edu.sg)<br>**Ext:** 211|**Email:**  [abdul\_rahim\_ahmad@moe.edu.sg](mailto:abdul_rahim_ahmad@moe.edu.sg) <br>**Ext:** 332
+
+<img src="/images/Ms%20Ng%20Bi%20Ru.png"  style="width:30%;float:left">
+<img src="/images/Ms%20Christabel%20Hung.png"  style="width:30%;float:left">
+<img src="/images/Ms%20Mak%20Xue%20Wei.png" 
+     style="width:30%">
+
+|Ms Ng Bi Ru|Ms Christabel Hung  |Ms Mak Xue Wei|
+| -------- | -------- | -------- |
+| Teacher  <br>Form Teacher - 3 Perseverance  <br>_CCA : Chinese Dance_ |Teacher  <br>Form Teacher - 2 Innovation  <br>_CCA : Student Council_| Teacher  <br>Form Teacher - 2 Humility  <br>_CCA : National Police Cadet Corps_
+|**Email:**  [ng\_bi\_ru@moe.edu.sg](mailto:ng_bi_ru@moe.edu.sg)<br>**Ext:** 309|**Email:** [xue\_er\_christabel\_hung@moe.edu.sg](mailto:xue_er_christabel_hung@moe.edu.sg)  <br>**Ext:** 333|**Email:**  [mak\_xue\_wei@moe.edu.sg](mailto:mak_xue_wei@moe.edu.sg)  <br>**Ext:** 306
