@@ -305,3 +305,12 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 |Teacher  <br>Form Teacher - 3 Resilience  <br>_CCA : Chinese Dance_|Teacher  <br>Form Teacher - 4 Perseverance  <br>_CCA : Wind Orchestra_|Teacher  <br>Form Teacher - 1 Resilience  <br>_CCA : Wind Orchestra_
 |**Email:**   [ting\_shi\_yun@moe.edu.sg](mailto:ting_shi_yun@moe.edu.sg)<br>**Ext:** 323|**Email:**   [ng\_su\_peng@moe.edu.sg](mailto:ng_su_peng@moe.edu.sg)  <br>**Ext:** 329|**Email:** [tan\_yan\_yan@moe.edu.sg](mailto:tan_yan_yan@moe.edu.sg)<br>**Ext: 325**
+
+<img src="/images/Mr%20Zhang%20Boyuan%20Eric.png"  style="width:30%;float:left">
+<img src="/images/Mr%20Ranon%20Mak%20Enhao.png" 
+     style="width:30%">
+
+|Mr Zhang Boyuan, Eric|  Mr Ranon Mak Enhao||
+| -------- | -------- | -------- |
+|Teacher  <br>Form Teacher - 3 Perseverance|Teacher  <br>Form Teacher - 1 Innovation||
+|**Email:**   [zhang\_boyuan\_eric@moe.edu.sg](mailto:zhang_boyuan_eric@moe.edu.sg)<br>**Ext: 336**|**Email:**  [ranon\_mak\_enhao@moe.edu.sg](mailto:ranon_mak_enhao@moe.edu.sg)<br>**Ext: 331**||
