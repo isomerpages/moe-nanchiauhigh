@@ -121,3 +121,14 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 | Teacher|Teacher | Teacher 
 |**Email:**   [shanmugam\_chandraghantha@moe.edu.sg](mailto:shanmugam_chandraghantha@moe.edu.sg)<br>**Ext:** 360|**Email:**  [low\_gek\_meng\_wendy@moe.edu.sg](mailto:low_gek_meng_wendy@moe.edu.sg) <br>**Ext:** 354|**Email:**  [tan\_bishi\_priscilla@moe.edu.sg](mailto:tan_bishi_priscilla@moe.edu.sg) <br>**Ext:** 358
+
+<img src="/images/Mr%20Sim%20Kian%20Ming.jpeg"  style="width:30%;float:left">
+<img src="/images/Mdm%20Chong%20Hui%20Yin%20Elaine.jpeg" 
+     style="width:30%">
+
+
+
+|Mr Sim Kian Ming|Mdm Elaine Chong| |
+| -------- | -------- | -------- |
+| Teacher|Teacher | Teacher 
+|**Email:**   [sim\_kian\_ming@moe.edu.sg](mailto:sim_kian_ming@moe.edu.sg)<br>**Ext:** 357|**Email:**   [chong\_hui\_yin\_elaine@moe.edu.sg](mailto:chong_hui_yin_elaine@moe.edu.sg)  <br>**Ext:** 360|
