@@ -422,3 +422,13 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 |Teacher  <br>Form Teacher - 4 Gratitude  <br>_CCA : Green Club_|Teacher  <br>Form Teacher - 2 Excellence| Teacher  <br>Form Teacher - 3 Resilience  <br>_CCA : Scouts_
 |**Email:** [nurhaida\_ramli@moe.edu.sg](mailto:nurhaida_ramli@moe.edu.sg)<br>**Ext:** 327|**Email:**   [leow\_shie\_hui@moe.edu.sg](mailto:leow_shie_hui@moe.edu.sg)<br>**Ext:** 321|**Email:**  [tay\_rong\_yao\_esmond@moe.edu.sg](mailto:tay_rong_yao_esmond@moe.edu.sg) <br>**Ext:** 328
+
+<img src="/images/Mr%20Liow%20Kwok%20Bin.png"  style="width:30%;float:left">
+<img src="/images/Mdm%20Ainul%20Hani.png"  style="width:30%;float:left">
+<img src="/images/Mr%20Jason%20Chen.png" 
+     style="width:30%">
+
+|Mr Liow Kwok Bin|Mdm Ainul Hani| Mr Jason  Chen|
+| -------- | -------- | -------- |
+|Teacher  <br>Form Teacher - 4 Perseverance  <br>_CCA : National Cadet Corps_|Teacher  <br>Form Teacher - 4 Perseverance  <br>_CCA : National Police Cadet Corps_| Teacher  <br>Form Teacher - 4 Integrity  <br>_CCA : Chinese Orchestra_
+|**Email:** [liow\_kwok\_bin@moe.edu.sg](mailto:liow_kwok_bin@moe.edu.sg)<br>**Ext:** 327|**Email:**   [ainul\_hani\_indra\_faisal@moe.edu.sg](mailto:ainul_hani_indra_faisal@moe.edu.sg)<br>**Ext:** 321|**Email:**  [chen\_yingjie\_jason@moe.edu.sg](mailto:chen_yingjie_jason@moe.edu.sg) <br>**Ext:** \-
