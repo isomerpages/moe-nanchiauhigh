@@ -195,3 +195,13 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 |Subject Head - SAP  <br>Form Teacher - 4 Resilience  <br>_CCA : Wind Orchestra_ |Subject Head - CCE| Lead Teacher - Chinese  <br>_CCA : Library Club_
 |**Email:**   [chong\_ka\_wuei@moe.edu.sg](mailto:chong_ka_wuei@moe.edu.sg)<br>**Ext:** 212|**Email:**   [cheong\_zheng\_yin\_agnes@moe.edu.sg](mailto:cheong_zheng_yin_agnes@moe.edu.sg)  <br>**Ext:** 212|**Email:**[qi\_yan\_ping@moe.edu.sg](mailto:qi_yan_ping@moe.edu.sg) <br>**Ext:** 213
+
+<img src="/images/Mr%20Tan%20Jia%20Hao.png"  style="width:30%;float:left">
+<img src="/images/Ms%20Shao%20Linjuan.png"  style="width:30%;float:left">
+<img src="/images/Ms%20Kim%20Lay%20Tin.png" 
+     style="width:30%">
+
+|Mr Tan Jia Hao|Ms Shao Linjuan  | Ms Kim Lay Tin|
+| -------- | -------- | -------- |
+|Acting AYH1  <br>Form Teacher - 1 Integrity  <br>_CCA : Chinese Drama_ |Teacher  <br>Form Teacher - 2 Innovation  <br>_CCA : Chinese Drama_|Teacher  <br>Form Teacher - 1 Humility  <br>_CCA : Mind Games Club_
+|**Email:**   [chong\_ka\_wuei@moe.edu.sg](mailto:chong_ka_wuei@moe.edu.sg)<br>**Ext:** 212|**Email:**   [cheong\_zheng\_yin\_agnes@moe.edu.sg](mailto:cheong_zheng_yin_agnes@moe.edu.sg)  <br>**Ext:** 212|**Email:**[qi\_yan\_ping@moe.edu.sg](mailto:qi_yan_ping@moe.edu.sg) <br>**Ext:** 213
