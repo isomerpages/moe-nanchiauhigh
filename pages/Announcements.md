@@ -15,6 +15,6 @@ Dear Parents of Secondary 2 NCzens, Thank you for joining us for the E-Engagemen
 
 Dear NCzens, Click on the URL to receive your 2022 Term 2 Timetable. Have a restful March Holidays and see you in Term 2! :)
 
-[**\[IMPORTANT\] 2022 Secondary 4 MYE Schedule and Secondary 3 PA1 HCL Schedule**](https://www.nanchiauhigh.moe.edu.sg/our-resources/students-resources)
+[**\[IMPORTANT\] 2022 Secondary 4 MYE Schedule and Secondary 3 PA1 HCL Schedule**](/our-resources/students-resources)
 
 Dear students, The 2022 Secondary 4 MYE Schedule and Secondary 3 PA1 HCL Schedule is ready for your viewing. Start planning today and prepare early!
