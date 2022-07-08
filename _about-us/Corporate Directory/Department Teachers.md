@@ -47,3 +47,17 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 | Art Teacher  <br>Form Teacher - 3 Excellence  <br>_CCA : Visual Arts Club_|FCE Teacher  <br>Form Teacher - 2 Integrity  <br>_CCA : National Police Cadet Corps_| FCE Teacher  <br>_CCA : Chinese Dance_|
 |**Email:**      [rafiqah\_dewi\_aziz@moe.edu.sg](mailto:%20rafiqah_dewi_aziz@moe.edu.sg)<br>**Ext:** 370|**Email:**  [low\_zhen\_yan\_claire@moe.edu.sg](mailto:low_zhen_yan_claire@moe.edu.sg)[](mailto:song_song_i@moe.edu.sg)<Br>**Ext:** 113|**Email:**  [tan\_jia\_ling\_sharlene@moe.edu.sg](mailto:tan_jia_ling_sharlene@moe.edu.sg) <br>**Ext:** 113
+
+<img src="/images/Mr%20Truman%20See.png" 
+     style="width:30%;float:left">
+<img src="/images/Mr%20Xie%20Zhi%20Zhong.jpeg" 
+     style="width:30%;float:left">
+<img src="/images/Ms%20Tan%20Wern%20Li.jpeg" 
+     style="width:30%;">
+
+
+
+| Mr Truman See Qi Heng| Mr Xie Zhi Zhong  |Ms Tan Wern Li Rowena Mary|
+| -------- | -------- | -------- |
+| Music Teacher<br>Form Teacher - 2 Perseverance  <br>_CCA : Choir_|Music Teacher| FCE Teacher|
+|**Email:**     [truman\_see\_qi\_heng@moe.edu.sg](mailto:truman_see_qi_heng@moe.edu.sg)  <br>**Ext:** 370|**Email:** [xie\_zhizhong@moe.edu.sg](mailto:xie_zhizhong@moe.edu.sg)<br>**Ext:** 370|**Email:**  -<br>**Ext:** 113
