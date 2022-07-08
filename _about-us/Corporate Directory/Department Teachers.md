@@ -295,3 +295,13 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 |Teacher  <br>Form Teacher - 4 Sincerity  <br>_CCA : Student Council_| Teacher  <br>Form Teacher - 4 Excellence  <br>_CCA : Wushu_|Teacher  <br>Form Teacher - 2 Gratitude  <br>_CCA : Red Cross_
 |**Email:**   [tan\_yi\_chiann@moe.edu.sg](mailto:tan_yi_chiann@moe.edu.sg)<br>**Ext:** 330|**Email:**   [siak\_chock\_kwun@moe.edu.sg](mailto:siak_chock_kwun@moe.edu.sg) <br>**Ext:** 331|**Email:**  [doris\_toh\_ming\_li@moe.edu.sg](mailto:doris_toh_ming_li@moe.edu.sg)   <br>**Ext:**  312
+
+<img src="/images/Ms%20Ting%20Shi%20Yun.png"  style="width:30%;float:left">
+<img src="/images/Mdm%20Ng%20Su%20Peng.png"  style="width:30%;float:left">
+<img src="/images/Ms%20Tan%20Yan%20Yan.png" 
+     style="width:30%">
+
+|Ms Ting Shi Yun| Mdm Ng Su Peng|Ms Tan Yan Yan|
+| -------- | -------- | -------- |
+|Teacher  <br>Form Teacher - 3 Resilience  <br>_CCA : Chinese Dance_|Teacher  <br>Form Teacher - 4 Perseverance  <br>_CCA : Wind Orchestra_|Teacher  <br>Form Teacher - 1 Resilience  <br>_CCA : Wind Orchestra_
+|**Email:**   [ting\_shi\_yun@moe.edu.sg](mailto:ting_shi_yun@moe.edu.sg)<br>**Ext:** 323|**Email:**   [ng\_su\_peng@moe.edu.sg](mailto:ng_su_peng@moe.edu.sg)  <br>**Ext:** 329|**Email:** [tan\_yan\_yan@moe.edu.sg](mailto:tan_yan_yan@moe.edu.sg)<br>**Ext: 325**
