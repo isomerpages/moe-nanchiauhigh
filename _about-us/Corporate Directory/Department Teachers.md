@@ -260,3 +260,13 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 |Head Of Department - Maths|Head Of Department - ICT & Data Management| Subject Head - Maths  <br>_CCA : Chinese Orchestra_
 |**Email:**   [khaw\_hwee\_mung@moe.edu.sg](mailto:khaw_hwee_mung@moe.edu.sg)<br>**Ext:** 203|**Email:**   [nur\_maizurah\_rosle@moe.edu.sg](http://nur_maizurah_rosle@moe.edu.sg/)  <br>**Ext:**|**Email:** [zainun\_hasmim@moe.edu.sg](mailto:zainun_hasmim@moe.edu.sg) <br>**Ext:** 218
+
+<img src="/images/Mrs%20Cheryl%20Loh.png"  style="width:30%;float:left">
+<img src="/images/Ms%20Rama.png"  style="width:30%;float:left">
+<img src="/images/Mrs%20Chia%20Kate.png" 
+     style="width:30%">
+
+|Mrs Cheryl Lo|Ms Rama (Renuka)| Mrs Chia (Kate)|
+| -------- | -------- | -------- |
+|Head Of Department - Character Education (CCE)|Year Head - Secondary 3 & 4|Teacher  <br>Form Teacher - 2 Sincerity
+|**Email:**   [ng\_ai\_tee\_cheryl@moe.edu.sg](mailto:ng_ai_tee_cheryl@moe.edu.sg)<br>**Ext:** 207|**Email:**  [renuka\_ramakrishnan@moe.edu.sg](mailto:renuka_ramakrishnan@moe.edu.sg)<br>**Ext:** 209|**Email:**  [lee\_ying\_yan@moe.edu.sg](mailto:lee_ying_yan@moe.edu.sg) <br>**Ext:** 329
