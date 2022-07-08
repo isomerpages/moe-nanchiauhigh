@@ -284,3 +284,14 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 |Head Of Department - Character Education (CCE)|Year Head - Secondary 3 & 4|Teacher  <br>Form Teacher - 2 Sincerity
 |**Email:**   [ng\_ai\_tee\_cheryl@moe.edu.sg](mailto:ng_ai_tee_cheryl@moe.edu.sg)<br>**Ext:** 207|**Email:**  [renuka\_ramakrishnan@moe.edu.sg](mailto:renuka_ramakrishnan@moe.edu.sg)<br>**Ext:** 209|**Email:**  [lee\_ying\_yan@moe.edu.sg](mailto:lee_ying_yan@moe.edu.sg) <br>**Ext:** 329
+
+
+<img src="/images/Ms%20Tan%20Yi%20Chiann.png"  style="width:30%;float:left">
+<img src="/images/Siak%20Photo.jpeg"  style="width:30%;float:left;height:360px">
+<img src="/images/Mdm%20Doris%20Toh.png" 
+     style="width:30%">
+
+|Ms Tan Yi Chiann|Mdm Siak Chock Kwan| Mdm Doris Toh |
+| -------- | -------- | -------- |
+|Teacher  <br>Form Teacher - 4 Sincerity  <br>_CCA : Student Council_| Teacher  <br>Form Teacher - 4 Excellence  <br>_CCA : Wushu_|Teacher  <br>Form Teacher - 2 Gratitude  <br>_CCA : Red Cross_
+|**Email:**   [khaw\_hwee\_mung@moe.edu.sg](mailto:khaw_hwee_mung@moe.edu.sg)<br>**Ext:** 203|**Email:**   [nur\_maizurah\_rosle@moe.edu.sg](http://nur_maizurah_rosle@moe.edu.sg/)  <br>**Ext:**|**Email:** [zainun\_hasmim@moe.edu.sg](mailto:zainun_hasmim@moe.edu.sg) <br>**Ext:** 218
