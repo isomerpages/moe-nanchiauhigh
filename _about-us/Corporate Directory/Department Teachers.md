@@ -215,3 +215,13 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 |Teacher  <br>Form Teacher - 1 Integrity  <br>_CCA : Chinese Calligraphy_ |Teacher  <br>Form Teacher - 2 Innovation  <br>_CCA : Library Club_ |Teacher  <br>Form Teacher - 1 Humility  <br>_CCA : Mind Games Club_
 |**Email:**   [chong\_ka\_wuei@moe.edu.sg](mailto:chong_ka_wuei@moe.edu.sg)<br>**Ext:** 212|**Email:**   [cheong\_zheng\_yin\_agnes@moe.edu.sg](mailto:cheong_zheng_yin_agnes@moe.edu.sg)  <br>**Ext:** 212|**Email:**[qi\_yan\_ping@moe.edu.sg](mailto:qi_yan_ping@moe.edu.sg) <br>**Ext:** 213
+
+<img src="/images/Ms%20Ting.jpeg"  style="width:30%;float:left">
+<img src="/images/Ms%20Winnie%20Tay.jpeg"  style="width:30%;float:left">
+<img src="/images/Mdm%20Tan%20Bee%20Lian.jpeg" 
+     style="width:30%">
+
+|Ms Ting Hann Sy| Ms Tay Jing Ying Winnie| Mdm Tan Bee Lian|
+| -------- | -------- | -------- |
+|Teacher  <br>Form Teacher - 1 Perseverance  <br>_CCA : Chinese Dance_|Teacher  <br>Form Teacher - 3 Humility|Teacher  
+|**Email:**[ting\_hann\_sy@moe.edu.sg](mailto:ting_hann_sy@moe.edu.sg)<br>**Ext:**|**Email:**[tay\_jing\_ying\_winnie@moe.edu.sg](mailto:ye_bijiao@moe.edu.sg)  <br>**Ext:**|**Email:**[@moe.edu.sg](mailto:ye_bijiao@moe.edu.sg)  <br>**Ext:**
