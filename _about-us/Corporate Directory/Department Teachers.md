@@ -388,11 +388,7 @@ third_nav_title: Corporate Directory
 
 <br>
 
-<br>
 
-<br>
-
-<br>
 
 |Mr Clarence Choo|Mr Andrew Fong| |
 | -------- | -------- | -------- |
