@@ -133,7 +133,6 @@ third_nav_title: Corporate Directory
 
   </li>
 
-</ul>
 
 <li>
 
@@ -276,3 +275,5 @@ third_nav_title: Corporate Directory
     </div>
 
   </li>
+	
+</ul>
