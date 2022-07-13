@@ -63,3 +63,4 @@ Bonded by teamwork, self- discipline and resilience, we aspire to take NCHS Choi
 2015: Singapore Youth Festival Art Presentation – Certificate of Distinction<br>
 2017: Singapore Youth Festival Art Presentation – Certificate of Distinction<br>
 2019: Singapore Youth Festival Art Presentation – Certificate of Distinction<br>
+2021: SYF
