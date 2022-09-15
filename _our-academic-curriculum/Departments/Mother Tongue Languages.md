@@ -146,3 +146,39 @@ Malay Unit<br>
 
 3\. Ikan Oh Ikan<br>
 (Malay Vocabulary Competition)
+
+**DEPARTMENT PROGRAMMES**
+
+Chinese Units
+
+1、全校阅读计划——“牵手同阅，共享书香” (Level-wide CL Reading Programme)  
+
+  
+
+学生在中学四年当中，将循序渐进地培养阅读华文书籍的素养。在指定的时段，学生将阅读指定文本或精选篇章，并通过导读活动，提高阅读华文书籍的兴趣。
+
+In the 4 years with Nan Chiau High School, students will embark on the level-wide CL reading programme, which seeks to develop their reading interest and literacy. During reading period, students will read assigned Chinese book or selected chapters. This is complemented with guided reading activities and post-reading activities.
+
+  
+
+2、文学讲座 (Chinese Literature Talk)
+
+  
+
+为了配合教育部华文文学课程的教学，并提高学生对文学作品的理解和鉴赏水平，南侨中学每年举办文学讲座，邀请作家、诗人给学生进行分享。
+
+To complement the teaching of the revised Literature in Chinese syllabus and to improve students’ understanding and appreciation of contemporary Chinese literary work, Nan Chiau High School invites author or poet annually to conduct a literature talk. Students will get the opportunity to learn from and interact with the author or poet.
+
+  
+
+3、其他活动 (Other activities)
+
+  
+
+新谣音乐分享会 (Xinyao Music Appreciation Session)
+
+文化随意门活动 (Cultural Performance Exposure Scheme)
+
+驻校作家计划 (Author-in-Residence Programme)
+
+中学文学营 (Literature in Chinese Camp)
