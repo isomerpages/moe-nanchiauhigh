@@ -149,8 +149,7 @@ Malay Unit<br>
 
 **DEPARTMENT PROGRAMMES**
 
-Chinese Units
-
+Chinese Units<br>
 1、全校阅读计划——“牵手同阅，共享书香” (Level-wide CL Reading Programme)  
 
   
@@ -171,14 +170,8 @@ To complement the teaching of the revised Literature in Chinese syllabus and to 
 
   
 
-3、其他活动 (Other activities)
-
-  
-
-新谣音乐分享会 (Xinyao Music Appreciation Session)
-
-文化随意门活动 (Cultural Performance Exposure Scheme)
-
-驻校作家计划 (Author-in-Residence Programme)
-
+3、其他活动 (Other activities)<br>
+新谣音乐分享会 (Xinyao Music Appreciation Session)<br>
+文化随意门活动 (Cultural Performance Exposure Scheme)<br>
+驻校作家计划 (Author-in-Residence Programme)<br>
 中学文学营 (Literature in Chinese Camp)
