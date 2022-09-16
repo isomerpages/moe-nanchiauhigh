@@ -175,3 +175,26 @@ To complement the teaching of the revised Literature in Chinese syllabus and to 
 文化随意门活动 (Cultural Performance Exposure Scheme)<br>
 驻校作家计划 (Author-in-Residence Programme)<br>
 中学文学营 (Literature in Chinese Camp)
+
+**Malay Unit**
+
+
+Malay (Special Program) – MSP
+
+  
+
+*   **Engaging learning activities** – In the classroom, our MSP students actively learn and converse the Malay Language through various presentations such as show and tell, charades, friendly debates and skits.  [Click here to watch an interview by Boey](https://drive.google.com/file/d/1x6-l-utZ1dFLKF79macaIR9ShvCwdWCH/view).
+*   MSP students also perform **authentic learning tasks** to make learning more relevant and meaningful.  This includes
+*   drawing their own family tree in Malay language and making Hari Raya cards
+*   writing and producing songs in Malay as their MSP project.  [Click here to hear Shawn’s original song](https://drive.google.com/file/d/1nm_txjueXwIP2gpFACyeAsY94ol1JVgm/view?usp=sharing).
+*   reading recipe in Malay to make their own traditional onde-onde kuih and its fusion version onde-onde cupcake in groups
+*   **Experiencing the Malay culture** – our MSP students participates in hands-on cultural activities such as Wayang Kulit and Jawi Calligraphy.
+*   Students are brought closer to the Malay community and have opportunities to use the language in the real-world and have a first-hand experience of the Malay culture.  In Singapore, students help with iftar preparation at the nearby mosque.  [Click here to look at the VIA (iftar at the mosque)](https://drive.google.com/drive/folders/15Cm7wqg7CX1QA-mw_VpsQU4HPIi5Aw6Q). Overseas, students interact with the locals and students in Malay while experiencing new cultures.  [Click here to look at our students’ stint at Jogjakarta](https://drive.google.com/drive/folders/1sQy_J-nbTcDgta0bbuekpmSI8WRccRHM).
+
+  
+
+Malay Cultural Program
+
+  
+
+Secondary 2 students get to have hands-on experience with Silat, Kompang and Angklung.  Students learn basic Silat moves and self-defence techniques.  Also, students get to play traditional Malay songs using the Kompang and Angklung.  These activities complement the MSP curriculum for the MSP students as it allows them to have hands-on experience before learning the themes in the Textbooks.  Click here to view our students in action
