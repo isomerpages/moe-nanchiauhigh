@@ -1,6 +1,6 @@
 ---
 title: e Open House 2021
-permalink: /nchs-highlights/e-Open-House-2021
+permalink: /nchs-highlights/e-Open-House-2021/
 description: ""
 ---
 **1) NCHS e-Open House Poster**

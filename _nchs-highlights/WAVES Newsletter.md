@@ -1,6 +1,6 @@
 ---
 title: WAVES Newsletter
-permalink: /nchs-highlights/WAVES-Newsletter
+permalink: /nchs-highlights/WAVES-Newsletter/
 description: ""
 ---
 Nan Chiau Waves is a twice a year publication which showcases the various activities and events organised by the school.

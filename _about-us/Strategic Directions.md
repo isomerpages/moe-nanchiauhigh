@@ -1,6 +1,6 @@
 ---
 title: Strategic Directions
-permalink: /about-us/Strategic-Directions
+permalink: /about-us/Strategic-Directions/
 description: ""
 ---
 **NCHS Strategic Plan 2021- 2025**

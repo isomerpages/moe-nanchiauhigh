@@ -1,6 +1,6 @@
 ---
 title: Student's Resources
-permalink: /our-resources/Students-Resources
+permalink: /our-resources/Students-Resources/
 description: ""
 ---
 **One Stop ICT Portal for NCzens**

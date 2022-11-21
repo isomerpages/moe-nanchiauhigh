@@ -1,6 +1,6 @@
 ---
 title: School History
-permalink: /about-us/School-History
+permalink: /about-us/School-History/
 description: ""
 ---
 **1941**

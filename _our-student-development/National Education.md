@@ -1,6 +1,6 @@
 ---
 title: National Education
-permalink: /our-student-development/National-Education
+permalink: /our-student-development/National-Education/
 description: ""
 ---
 National Education (NE) is part of a holistic education. It aims to develop national cohesion, cultivate the instinct for survival as a nation and boost students' confidence in our nation's future. It also emphasises on cultivating a sense of belonging and emotional rootedness to Singapore.

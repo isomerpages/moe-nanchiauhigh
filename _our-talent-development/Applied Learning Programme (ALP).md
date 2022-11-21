@@ -1,6 +1,6 @@
 ---
 title: Applied Learning Programme (ALP)
-permalink: /our-talent-development/Applied-Learning-Programme-ALP
+permalink: /our-talent-development/Applied-Learning-Programme-ALP/
 description: ""
 ---
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR5G2U1okCWgISb8GpOQGuR0m4b9UQv10Ph0p0uy9QksOE2T0dwLxd9ED3li08n29wrWtyQBIAD_ygU/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

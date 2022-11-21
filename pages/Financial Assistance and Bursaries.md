@@ -1,6 +1,6 @@
 ---
 title: Financial Assistance and Bursaries
-permalink: /Financial-Assistance-and-Bursaries
+permalink: /Financial-Assistance-and-Bursaries/
 description: ""
 ---
 **Singapore Buddhist Lodge Bursary 2022**

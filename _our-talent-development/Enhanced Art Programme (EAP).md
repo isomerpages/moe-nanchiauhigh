@@ -1,6 +1,6 @@
 ---
 title: Enhanced Art Programme (EAP)
-permalink: /our-talent-development/Enhanced-Art-Programme-EAP
+permalink: /our-talent-development/Enhanced-Art-Programme-EAP/
 description: ""
 ---
 NCHS EAP exposes talented and interested art students to different art media, creative processes, professions and practices in the arts and creative industries.

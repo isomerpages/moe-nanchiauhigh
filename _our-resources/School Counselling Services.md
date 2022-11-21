@@ -1,6 +1,6 @@
 ---
 title: School Counselling Services
-permalink: /our-resources/School-Counselling-Services
+permalink: /our-resources/School-Counselling-Services/
 description: ""
 ---
 <img src="/images/scs.png" 

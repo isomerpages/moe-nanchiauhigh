@@ -1,6 +1,6 @@
 ---
 title: SAP Bicultural Programme
-permalink: /our-academic-curriculum/SAP-Bicultural-Programme
+permalink: /our-academic-curriculum/SAP-Bicultural-Programme/
 description: ""
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8InHo4PVCYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
