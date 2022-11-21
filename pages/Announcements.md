@@ -1,6 +1,6 @@
 ---
 title: Announcements
-permalink: /Announcements
+permalink: /Announcements/
 description: ""
 ---
 [**Secondary 2 Parent E-Engagement Q&A resources**](https://drive.google.com/drive/folders/1tCQWVeImVf-iC71x0MIs_7Uys9btX51t)

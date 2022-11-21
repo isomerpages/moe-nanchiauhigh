@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /about-us/Contact-Us
+permalink: /about-us/Contact-Us/
 description: ""
 ---
 **Nan Chiau High School**

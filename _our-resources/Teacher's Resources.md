@@ -1,6 +1,6 @@
 ---
 title: Teacher's Resources
-permalink: /our-resources/Teachers-Resources
+permalink: /our-resources/Teachers-Resources/
 description: ""
 ---
 **Electronic Resources / Calendar**

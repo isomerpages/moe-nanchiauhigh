@@ -1,6 +1,6 @@
 ---
 title: Student Management
-permalink: /our-student-development/Student-Management
+permalink: /our-student-development/Student-Management/
 description: ""
 ---
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSt9cnP0NbNzPsgZTOkqc8fOeeibiLycrgpZAL3i_OZGVnDrzupaYPkyGMtckcMr0VlJCBAy8y40yYt/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

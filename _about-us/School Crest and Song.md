@@ -1,6 +1,6 @@
 ---
 title: School Crest and Song
-permalink: /about-us/School-Crest-and-Song
+permalink: /about-us/School-Crest-and-Song/
 description: ""
 ---
 <img src="/images/image1.png" 

@@ -1,6 +1,6 @@
 ---
 title: Chinese Language Elective Programme (CLEP)
-permalink: /our-talent-development/Chinese-Language-Elective-Programme-CLEP
+permalink: /our-talent-development/Chinese-Language-Elective-Programme-CLEP/
 description: ""
 ---
 The Chinese Language Elective Programme at Secondary Level (CLEP-Sec) is introduced by the Ministry of Education to be implemented from 2020. It aims to nurture promising students to attain a high level of language proficiency in Chinese, and enhance their understanding of Chinese literature. The programme also aims to develop these students to become effectively bilingual so as to better serve the needs of our nation.

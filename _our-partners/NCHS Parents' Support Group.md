@@ -1,6 +1,6 @@
 ---
 title: NCHS Parents' Support Group
-permalink: /our-partners/NCHS-Parents-Support-Group
+permalink: /our-partners/NCHS-Parents-Support-Group/
 description: ""
 ---
 <img style="width:30%;float:left" src="/images/Picture2-215x300.jpeg">

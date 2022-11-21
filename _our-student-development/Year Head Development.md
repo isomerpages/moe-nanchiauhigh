@@ -1,6 +1,6 @@
 ---
 title: Year Head Development
-permalink: /our-student-development/Year-Head-Development
+permalink: /our-student-development/Year-Head-Development/
 description: ""
 ---
 The Year Head department provides a horizontal integration of both the academic curriculum and student development curriculum in each of the levels to ensure the students' holistic development. The Year Head team builds a culture of care by advocating for students’ needs and overall well-being.

@@ -1,6 +1,6 @@
 ---
 title: National Cadet Corps
-permalink: /co-curricular-activities/Uniformed-Groups/National-Cadet-Corps
+permalink: /co-curricular-activities/Uniformed-Groups/National-Cadet-Corps/
 description: ""
 third_nav_title: Uniformed Groups
 ---

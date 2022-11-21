@@ -1,6 +1,6 @@
 ---
 title: Total Curriculum
-permalink: /our-academic-curriculum/Total-Curriculum
+permalink: /our-academic-curriculum/Total-Curriculum/
 description: ""
 ---
 ![](/images/Total%20Curriculum%20Pic.png)
