@@ -6,16 +6,14 @@ third_nav_title: Performing Arts
 ---
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTuJP4Eg0wG49h4jn2wAOWYg0sZqv43JKjR__Jh9aupkFPPktMfrGWfkbTkuMgSoImKWAlWHc2RDz68/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-*   Monday,  
-    3.30pm – 6.00pm  
-    Tuesday,  
-    3.30pm – 6.00pm
+*   **Training Time:** <br>Monday,  3.30pm – 6.00pm  <br>Tuesday, 3.30pm – 6.00pm
 
-*   Dance Studio
+*   **Venue:** Dance Studio
 
-*   Ms Ng Bi Ru (OIC)  
-    Ms Hayati  
-    Mdm Tan Pek Cheng (Advisor)
+*   **Teachers-In-Charge:** 
+<br>Ms Ng Bi Ru (OIC)
+<br>Ms Hayati
+<br>Mdm Tan Pek Cheng (Advisor)
 		
 **KEY INFORMATION**
 
