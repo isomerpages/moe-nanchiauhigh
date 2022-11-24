@@ -4,8 +4,6 @@ permalink: /co-curricular-activities/Uniformed-Groups/National-Cadet-Corps/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSCeAM9tGUPkJk7OaZS4KICg8SlE-J0HxxgHcr4UQGE98nN-quHOuAwV1AeJTfKY8elPJTBrk4pJ2t9/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 *   Friday,  
@@ -75,7 +73,8 @@ International Cadet Exchange Program (ICEP)
 
 
 **Achievements**
-
+Precision Drills National Finalists 2022<br> 
+Unit Recognition 2021<br>
 Unit Recognition Competition Achievements 2018-2019 (Distinction)<br>
 Best Unit Competition (BUC) Achievements 2010 – 2017 (Gold)<br>
 NCC National Fitness Challenge 2019 (1ST RUNNER UP)<br>
