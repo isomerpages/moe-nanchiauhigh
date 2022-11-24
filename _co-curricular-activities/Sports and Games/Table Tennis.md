@@ -48,8 +48,8 @@ Students can choose to participate in a wide range of diverse and meaningful act
 **Achievements**
 
 **NATIONAL SCHOOL GAMES 2022**<br>
-B Boys North Zone Top 4<br>
-B Girls North Zone Top 4
+'B' Div Boys & Girls Top 4<br>
+'C' Div Boys & Girls Top 4
 
   
 
