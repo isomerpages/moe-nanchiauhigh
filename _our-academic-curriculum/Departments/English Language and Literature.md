@@ -28,7 +28,8 @@ Mdm Yap Teck Lay Anna – Head of Department
 
 **Enrichment Activities:**
 
-1.  Theater experiences, literature and overseas learning journeys.
+1.  Theater experiences
+2.  Literature and overseas learning journeys
 
 **DEPARTMENT PROGRAMMES**
 
