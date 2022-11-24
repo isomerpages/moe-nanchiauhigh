@@ -4,6 +4,8 @@ permalink: /our-academic-curriculum/Departments/Information-and-Communications-T
 description: ""
 third_nav_title: Departments
 ---
+![ICT Department](/images/2023%20ICT%20Department%20-%203%20Pillars.png)
+
 **Vision**
 
 To propel NCHS towards an agile ICT learning ecosystem that is secure, inclusive and innovative.
@@ -51,6 +53,9 @@ To support quality teaching and learning anytime and anywhere undergirded by fut
 2.  To develop NCZens to be a self-directed learner and active contributor through ICT.
 3.  To develop NCZens to be a digital creator who are passionate in embracing a culture of innovation and co-creation to solve real-world problems.
 4.  To promote the infusion of ICT to enhance classroom experience.
+
+**Our Programme**
+![NCHS ICT Department Data Digital Literacy](/images/NCHS%20ICT%20Digital%20n%20Data%20Literacy%20Programme.png)
 
 **ICT In-House Systems**
 
