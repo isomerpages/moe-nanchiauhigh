@@ -6,16 +6,15 @@ third_nav_title: Performing Arts
 ---
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vROTMzIgjqbJxyMsn-sTeouAKJ29k2EZ6JYPC8RzvcpgjkTUsAQqgdT5qR_u-wA7tPubBddWk8XvoDv/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-*   Monday,  
-    3.00pm – 6.00pm  
-    Wednesday,  
-    3.30pm – 6.30pm  
+*   **Training Time:**<br> Monday,  3.00pm – 6.00pm  
+    Wednesday,  3.30pm – 6.30pm  
     
-*   Music Room,  
-    IT Resource Room 3, Hall, Classroom
+*  **Venue:**<br> Music Room,  IT Resource Room 3, Hall, Classroom
 
-*   Mdm Tang Pui Lin (OIC)  
-    Mr Jason Chen
+*  **Teachers-In-Charge:**<br> 
+Mdm Tang Pui Lin (OIC)  
+    Mr Jason Chen<br>
+		Ms Sharlene Koh
 		
 **KEY INFORMATION**
 
