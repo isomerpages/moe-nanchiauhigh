@@ -11,7 +11,7 @@ third_nav_title: Clubs and Societies
 
 *   ART Rooms
 
-*   Mdm Angie Ngo Ming Kee  
+*   Mdm Angie Ngo (OIC)  
     Mdm Rafiqah Dewi Aziz
 		
 **KEY INFORMATION**
@@ -53,7 +53,8 @@ third_nav_title: Clubs and Societies
   
 
 **Achievements**
-
+— 2022 Live On Festival Design Competition - 5th Place and Merit Award<br> 
+— 2022 SYF Art Competition - Certificate of Recognition<br>
 — 2022 “Feed My Trashemon” School Competition - 3rd Place and Finalist<br>
 — 2021 Draw My Stamp Story Art Competition – Gold, 3 Silver, 3 Bronze award<br>
 — 2021 NC 75th Anniversary Logo Design Competition – 2 Designs awarded Top 3<br>
