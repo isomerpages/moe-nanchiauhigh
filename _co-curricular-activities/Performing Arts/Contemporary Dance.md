@@ -30,7 +30,9 @@ Contemporary dance is a style of expressive dance that combines elements of seve
 **Highlight(s) of Activities**
 
 1\. Internal and external dance performances<br>
-2\. Nan Chiau High School and Meridian Secondary School SYF Inter-School Mass Dance Choreography Project (2019)
+2\. Nan Chiau High School and Meridian Secondary School SYF Inter-School Mass Dance Choreography Project (2019)<br>
+3\. School Exchange with Jurong West Secondary School<br>
+4\. Annual CCA bonding camp
 
 **Achievements**
 
