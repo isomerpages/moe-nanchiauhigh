@@ -23,14 +23,15 @@ Staff List (2023):
 Mdm Khaw Hwee Mung (HOD/Maths)
 <br>Mdm Tang Pui Lin (SH/Maths)
 <br>Mdm Cheryl Ng Ai Tee (HOD/CCE)
-<br>Mr John Mak (HOD/ICT)   
+<br>Mr John Mak (HOD/ICT)
 <br>Mdm Doris Sofea Toh Ming Li
 <br>Mr Kham Ming Fatt
 <br>Mdm Lee Ying Yan Kate 
 <br>Ms Lim Chiew Her
 <br>Mdm Ng Su Peng
 <br>Ms Tan Wan Ting
-<br>Mdm Tan Yan Yan <br>Mdm Siak Chock Kwun  
+<br>Mdm Tan Yan Yan 
+<br>Mdm Siak Chock Kwun 
 <br>Ms Tan Yi Chiann
 <br>Mr Zhang Boyuan, Eric
 
