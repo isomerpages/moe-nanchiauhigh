@@ -22,8 +22,11 @@ To support quality teaching and learning anytime and anywhere undergirded by fut
 
 **DEPARTMENT DETAILS**
 
-**Head of Department:** Mr John Mak
-**Subject Head / ICT:** Mr Lee Heng Leong
+**Head of Department:** 
+<br>Mr John Mak
+
+**Subject Head / ICT:** 
+<br>Mr Lee Heng Leong
 
 **Department ICT Champions (2023):**
 <br>Ms Angeline Yar Rumin (PE Department)
