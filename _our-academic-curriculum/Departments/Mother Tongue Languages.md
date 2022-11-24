@@ -45,8 +45,7 @@ Mr Goh Lam Chye (HOD/SAP)<br>
 Ms Cheong Zheng Yin Agnes (SH/CCE)<br>
 Ms Chong Ka Wuei (SH/SAP)<br>
 Mdm Qi Yan Ping (LT/CL)<br>
-Mr Tan Jia Hao (Acting AYH1)  <br>
-Mdm Xuan Xuan<br>
+Mr Tan Jia Hao (AYH)  <br>
 Miss Kim Lay Tin<br>
 Mdm Ye Bijiao<br>
 Mdm Zhang Chunyu<br>
