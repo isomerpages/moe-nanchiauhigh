@@ -4,7 +4,6 @@ permalink: /our-academic-curriculum/Departments/Information-and-Communications-T
 description: ""
 third_nav_title: Departments
 ---
-
 **Vision**
 
 To propel NCHS towards an agile ICT learning ecosystem that is secure, inclusive and innovative.
@@ -23,16 +22,25 @@ To support quality teaching and learning anytime and anywhere undergirded by fut
 
 **DEPARTMENT DETAILS**
 
-**Department ICT Champions:**
+**Head of Department:** Mr John Mak
+**Subject Head / ICT:** Mr Lee Heng Leong
 
-Staff List:
+**Department ICT Champions (2023):**
 <br>Ms Angeline Yar Rumin (PE Department)
+<br>Ms Charlene Chen Ying (Humanities Department)
 <br>Ms Claire Low (Aesthetics Department)
-<br>Mdm Doris Toh (Math Department)
+<br>Ms Doris Toh (Math Department)
 <br>Mr Esmond Tay Rong Yao (Science Department)
-<br>Ms Kathy Tay Kai Yi (Humanities Department)
-<br>Ms Lenden Hitchcock (ELL Department)
-<br>Ms Shao Linjuan (MTL Department)
+<br>Mdm Hani (Science Department)
+<br>Ms Ting Hann Sy (MTL Department)
+<br>Ms Wan Riny Bte Ridzuan (ELL Department)
+
+**Data Committee (2023):**
+<br>Mdm Siak Chock Kwun
+<br>Ms Doris Toh
+<br>Mr Tay Rong Yao Esmond
+<br>Ms Nur Maizurah
+
 
 **Our Goals**
 
