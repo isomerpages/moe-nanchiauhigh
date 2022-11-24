@@ -4,7 +4,6 @@ permalink: /co-curricular-activities/Clubs-and-Societies/Debate-Club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTXLxlQcB2jPujbvDZuaPNWeNiHxcXB6aU_LCiHPLKXvxdAyYPEgCcyLmharJCjfmbevwWCjySkJpgX/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 *   Friday,  
@@ -40,5 +39,7 @@ Debate Association Singapore (DAS) Championship
 
 **Achievements**
 
-1\.  Best School Delegation in the International Model United Nations 2021<br>
-2.  Prequarterfinalists in the Hua Yi Debating Championships Gold Division
+1\. Quarterfinalists Division II, Singapore Secondary Schools Debating Championships 2022<br> 
+2. Runner-Up Silver Division, Raffles Debate Academy Under-14 2022<br> 
+3. Best School Delegation, International Model United Nations 2021<br> 
+4. Top 8 Gold Division, Hua Yi Secondary School Debating Championships 2021
