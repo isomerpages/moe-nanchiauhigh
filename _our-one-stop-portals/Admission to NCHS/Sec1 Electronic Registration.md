@@ -66,7 +66,7 @@ A Personal Learning Device (PLD) is a laptop used by every student for their lea
 
 # **Section F: POSB Smart Buddy (Optional)**
 <br>[Click here](/files/POSB%20Smart%20Buddy_Intro%20Deck%20for%20Parents.pdf) for the introduction deck to POSB Smart Buddy.
-<br>[Click here](/files/Smart%20Buddy%20Registration%20Letter%20(Secondary-Online).pdf)[Click here] for the application form for POSB Smart Buddy.
+<br>[Click here](/files/Smart%20Buddy%20Registration%20Letter%20(Secondary-Online).pdf)for the application form for POSB Smart Buddy.
 
 
 # FURTHER Enquiries
