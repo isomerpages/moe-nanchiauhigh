@@ -12,10 +12,24 @@ description: ""
 **School Resources**<br>
 [Student Learning Space (SLS)](https://learning.moe.edu.sg/)  
 [Student Icon](https://workspace.google.com/dashboard)  
-[Nan Chiau High Library Catalog](https://nanchiauhigh.spydus.com.sg/)  
-[NCHS Password Reset Portal](https://www.google.com/accounts/Logout?continue=https://appengine.google.com/_ah/logout?continue=https://onestop.nchs.edu.sg)    
 [Booklist and Uniform List](https://drive.google.com/drive/folders/0B0NLoi7jhnNmc2RKRTF2bjVLTHM?usp=sharing)<br>
 [Financial Assistance / Bursaries](/financial-assistance-and-bursaries)
+
+[NCHS TechPOP Newsletters](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-create-curate-connect%2Ftechpop&sa=D&sntz=1&usg=AOvVaw2Obot5AyPr9eJW12G_XD7s)
+
+*   TechPOP hopes to deliver to both colleagues and students just-in-time updates and provides access to a one-stop portal for ICT help. So let us also POP away your ICT frustrations when any arises!
+    
+[NCHS Online Public Access Catalogue (OPAC)](https://www.google.com/url?q=https%3A%2F%2Fschoolibrary.moe.edu.sg%2Fnanchiauhigh%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FWPAC%2FHOME&sa=D&sntz=1&usg=AOvVaw0rI74OclwQ5RVSxfT5t-xL)
+*   Use this online catalogue to perform a search of the books and resources available in our school library.
+    
+[School eResource Repository (SERR)](https://www.google.com/url?q=https%3A%2F%2Fschoolibrary.moe.edu.sg%2Feresourcessec%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FWPAC%2FHOME&sa=D&sntz=1&usg=AOvVaw0ymmJ06Cj8ZjuhPM4cilk1)
+
+*   The School eResource Repository (SERR) is a virtual school library. It aims to promote recreational reading as well as support learning for students across various subject areas. In addition, the repository provides easy access to online resources such as eBooks, audiobooks, videos and web resources. SERR can be accessed without a login ID and password.
+
+[My SkillsFuture Portal](https://www.google.com/url?q=https%3A%2F%2Fwww.myskillsfuture.gov.sg%2Fcontent%2Fstudent%2Fen%2Fsecondary.html&sa=D&sntz=1&usg=AOvVaw0WuL8c2C26ICwnoaEUyV39)
+
+
+[Make an appointment with School ECG Counsellor (Ms Pan)](https://www.google.com/url?q=https%3A%2F%2Fmoeecg.appointeze.com%2Fonlinelink%2FPanMiaohua&sa=D&sntz=1&usg=AOvVaw10brvgJQspCmKM7MFwAS6R)
 
 
 **School Bill Payment**<br>
@@ -36,6 +50,8 @@ _You are required to use your iCON account to access the below documents:_
 *   [How and Where do I get help for my PLD? (Download PDF Summary)](https://drive.google.com/file/d/1yANuvv4JYaYgYIi_wzPrXD8P6ptTPZkb/view?usp=sharing) or click [HERE](https://sites.google.com/moe.edu.sg/nchs-onestop/summary-of-pld-help?authuser=0) to view the summary.
     
 *   [How to Onboard Zoom on my PLD (Download PDF)](https://drive.google.com/file/d/1ugGQhIL1A87jyjjLyD-Ta83h1hX7lfp6/view?usp=sharing)
+
+![Technical Account Issues Chart](/images/Technical%20and%20Account%20Issues%20Chart%20for%20NCzens.png)
 
 **Create-Curate-Connect**<br> 
 *   [Level up my](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-create-curate-connect%2Fpld-matters%2Flevel-up-my-pld-skills&sa=D&sntz=1&usg=AOvVaw3zPGp58OLs1YHmQmbjJQh_) [PLD](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-create-curate-connect%2Fpld-matters%2Flevel-up-my-pld-skills&sa=D&sntz=1&usg=AOvVaw3zPGp58OLs1YHmQmbjJQh_) [Skills!](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-create-curate-connect%2Fpld-matters%2Flevel-up-my-pld-skills&sa=D&sntz=1&usg=AOvVaw3zPGp58OLs1YHmQmbjJQh_)
@@ -87,19 +103,3 @@ You may exercise your option at [https://go.gov.sg/nchs-dma-option](https://www.
     
 [Mental Health Matters](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-parents%2Fuseful-websites-and-helplines&sa=D&sntz=1&usg=AOvVaw0fU8x2VefCNtp9lyKjQJ3V)
 
-**ICT Publication**<br>
-[NCHS TechPOP Newsletters](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-create-curate-connect%2Ftechpop&sa=D&sntz=1&usg=AOvVaw2Obot5AyPr9eJW12G_XD7s)
-
-*   TechPOP hopes to deliver to both colleagues and students just-in-time updates and provides access to a one-stop portal for ICT help. So let us also POP away your ICT frustrations when any arises!
-    
-[NCHS Online Public Access Catalogue (OPAC)](https://www.google.com/url?q=https%3A%2F%2Fschoolibrary.moe.edu.sg%2Fnanchiauhigh%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FWPAC%2FHOME&sa=D&sntz=1&usg=AOvVaw0rI74OclwQ5RVSxfT5t-xL)
-*   Use this online catalogue to perform a search of the books and resources available in our school library.
-    
-[School eResource Repository (SERR)](https://www.google.com/url?q=https%3A%2F%2Fschoolibrary.moe.edu.sg%2Feresourcessec%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FWPAC%2FHOME&sa=D&sntz=1&usg=AOvVaw0ymmJ06Cj8ZjuhPM4cilk1)
-
-*   The School eResource Repository (SERR) is a virtual school library. It aims to promote recreational reading as well as support learning for students across various subject areas. In addition, the repository provides easy access to online resources such as eBooks, audiobooks, videos and web resources. SERR can be accessed without a login ID and password.
-
-[My SkillsFuture Portal](https://www.google.com/url?q=https%3A%2F%2Fwww.myskillsfuture.gov.sg%2Fcontent%2Fstudent%2Fen%2Fsecondary.html&sa=D&sntz=1&usg=AOvVaw0WuL8c2C26ICwnoaEUyV39)
-
-
-[Make an appointment with School ECG Counsellor (Ms Pan)](https://www.google.com/url?q=https%3A%2F%2Fmoeecg.appointeze.com%2Fonlinelink%2FPanMiaohua&sa=D&sntz=1&usg=AOvVaw10brvgJQspCmKM7MFwAS6R)
