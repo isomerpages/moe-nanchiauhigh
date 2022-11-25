@@ -69,13 +69,11 @@ Email : nch@popularworld.com
 
 
 **Section C: Purchase of Uniform and PE attire for Sec 1**
+Refer to the graphic below on how to make your online purchase at [https://finestuniform.com/collections/nan-chiau-high-school](https://finestuniform.com/collections/nan-chiau-high-school).
 
 **Section D: Rental of Lockers**
 <br>Lockers are not compulsory. 
 <br>[Click here](https://docs.google.com/forms/d/e/1FAIpQLScQSBOtCXphFMbTBaz5jHnFkSgjSeklzHA2yR-cMLQ_-8RNjQ/closedform) to apply for the rental of lockers.
 
-**Method 1: Online Purchase**  
+**Section E: POSB Smart Buddy**
 
-You may purchase the school uniform from the school uniform vendor, Jeep Sing Fashion via their [**website**](https://jeepsinguniform.com/collections/serangoon-gardens-secondary) or their retail store.
-
-Cut-off time for online uniform purchase is **Sunday, 26 Dec, 12 pm**. There is a delivery charge of $5 for online purchase.
