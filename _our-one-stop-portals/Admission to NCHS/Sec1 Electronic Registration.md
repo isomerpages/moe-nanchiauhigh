@@ -74,7 +74,9 @@ FURTHER Enquiries
 
 You may check out our "FAQs for Parents" section and briefing resources [here](https://sites.google.com/moe.edu.sg/sec1admissionsfaqs/faqs-for-parents).
 
-For any further enquiries, you may email us at [nchs@moe.edu.sg](mailto:nchs@moe.edu.sg) (from 22 to 30 Dec 2022). You may use the format provided below:
+
+
+For any further enquiries (not related to appeal matters), you may email us at [nchs@moe.edu.sg](mailto:nchs@moe.edu.sg) (from 22 to 30 Dec 2022). You may use the format provided below:
 
   
 
@@ -90,3 +92,19 @@ d) Special Educational Needs support<br>
 e) Others: (Please specify)
 
 Please provide details on your inquiry:
+
+
+FOR APPEAL TO NCHS
+------------------
+(This link is only active from the day of release of posting results to 27 December 2022, 12pm.)
+
+  
+
+Please submit your appeal form via the following link:  [NCHS - Sec1 Appeal (for 2023 intake) | FormSG](https://form.gov.sg/admin/form/637b469241fdcf00125d8cd7/preview).
+
+  
+Notes: <br>1.  The personal information provided in this form will be solely used for the purpose of appealing for secondary school transfer based on non-medical reasons.  For appeals based on medical reasons (serious medical conditions or severe physical impairments), please request through the posted school by 12pm on the following working day after the release of posting results.  
+<br>2.  The deadline for the submission of appeals is on 27 December 2022, 12pm.  Late submission will not be allowed. 
+ <br>3.  Schools will not disclose reasons for selection / non-selection of students.  
+ <br>4.  Students should still report to the posted secondary school on 3 January 2023. 
+ <br>5.  The application is deemed to be unsuccessful if you do not hear from the school by 3 January 2023.
