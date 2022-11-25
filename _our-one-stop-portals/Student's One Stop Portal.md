@@ -79,4 +79,22 @@ You may exercise your option at [https://go.gov.sg/nchs-dma-option](https://www.
     
 *   Self-Service site to reset your iCON password (coming soon).
 
+**Cyber Wellness and Mental Health**<br>
+[Cyber Wellness](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-create-curate-connect%2Fcyber-wellness&sa=D&sntz=1&usg=AOvVaw2g7BnwmK2_mxKZ7V7XUfij) [Resources](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-create-curate-connect%2Fcyber-wellness&sa=D&sntz=1&usg=AOvVaw2g7BnwmK2_mxKZ7V7XUfij)
 
+*   The aim of our NCHS CW programme is to develop NCzens into discerning and responsible ICT users who are able to protect themselves and be responsible for their well-being and actions in the cyberspace. Our Cyber Wellness efforts sit in our larger Create-Curate-Connect Programme for greater consistency across IP Programme, Innovation efforts, and Digital Literacy efforts.
+    
+    
+[Mental Health Matters](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-parents%2Fuseful-websites-and-helplines&sa=D&sntz=1&usg=AOvVaw0fU8x2VefCNtp9lyKjQJ3V)
+
+**ICT Publication**<br>
+[NCHS TechPOP Newsletters](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-create-curate-connect%2Ftechpop&sa=D&sntz=1&usg=AOvVaw2Obot5AyPr9eJW12G_XD7s)
+
+*   TechPOP hopes to deliver to both colleagues and students just-in-time updates and provides access to a one-stop portal for ICT help. So let us also POP away your ICT frustrations when any arises!
+    
+[NCHS Online Public Access Catalogue (OPAC)](https://www.google.com/url?q=https%3A%2F%2Fschoolibrary.moe.edu.sg%2Fnanchiauhigh%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FWPAC%2FHOME&sa=D&sntz=1&usg=AOvVaw0rI74OclwQ5RVSxfT5t-xL)
+*   Use this online catalogue to perform a search of the books and resources available in our school library.
+    
+[School eResource Repository (SERR)](https://www.google.com/url?q=https%3A%2F%2Fschoolibrary.moe.edu.sg%2Feresourcessec%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FWPAC%2FHOME&sa=D&sntz=1&usg=AOvVaw0ymmJ06Cj8ZjuhPM4cilk1)
+
+*   The School eResource Repository (SERR) is a virtual school library. It aims to promote recreational reading as well as support learning for students across various subject areas. In addition, the repository provides easy access to online resources such as eBooks, audiobooks, videos and web resources. SERR can be accessed without a login ID and password.
