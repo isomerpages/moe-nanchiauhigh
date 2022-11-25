@@ -69,7 +69,7 @@ A Personal Learning Device (PLD) is a laptop used by every student for their lea
 <br>[Click here](/files/POSB%20Smart%20Buddy_Intro%20Deck%20for%20Parents.pdf) for the application form for POSB Smart Buddy.
 
 
-FURTHER Enquiries
+# FURTHER Enquiries
 ----------------------------------
 
 You may check out our "FAQs for Parents" section and briefing resources [here](https://sites.google.com/moe.edu.sg/sec1admissionsfaqs/faqs-for-parents).
@@ -94,7 +94,7 @@ e) Others: (Please specify)
 Please provide details on your inquiry:
 
 
-FOR APPEAL TO NCHS
+# FOR APPEAL TO NCHS
 ------------------
 (This link is only active from the day of release of posting results to 27 December 2022, 12pm.)
 
