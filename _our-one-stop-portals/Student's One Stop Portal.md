@@ -98,3 +98,8 @@ You may exercise your option at [https://go.gov.sg/nchs-dma-option](https://www.
 [School eResource Repository (SERR)](https://www.google.com/url?q=https%3A%2F%2Fschoolibrary.moe.edu.sg%2Feresourcessec%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FWPAC%2FHOME&sa=D&sntz=1&usg=AOvVaw0ymmJ06Cj8ZjuhPM4cilk1)
 
 *   The School eResource Repository (SERR) is a virtual school library. It aims to promote recreational reading as well as support learning for students across various subject areas. In addition, the repository provides easy access to online resources such as eBooks, audiobooks, videos and web resources. SERR can be accessed without a login ID and password.
+
+[My SkillsFuture Portal](https://www.google.com/url?q=https%3A%2F%2Fwww.myskillsfuture.gov.sg%2Fcontent%2Fstudent%2Fen%2Fsecondary.html&sa=D&sntz=1&usg=AOvVaw0WuL8c2C26ICwnoaEUyV39)
+
+
+[Make an appointment with School ECG Counsellor (Ms Pan)](https://www.google.com/url?q=https%3A%2F%2Fmoeecg.appointeze.com%2Fonlinelink%2FPanMiaohua&sa=D&sntz=1&usg=AOvVaw10brvgJQspCmKM7MFwAS6R)
