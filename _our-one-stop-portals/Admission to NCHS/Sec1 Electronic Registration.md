@@ -74,7 +74,7 @@ Email : nch@popularworld.com
 Refer to the graphic below on how to make your online purchase at [https://finestuniform.com/collections/nan-chiau-high-school](https://finestuniform.com/collections/nan-chiau-high-school).
 
 
-# **Section D: Purchase of Personal Learning Device ( PLD/laptop)**
+# **Section D: Purchase of Personal Learning Device (PLD/laptop)**
 Refer to the graphic below on how to make your online 
 
 # **Section E: Rental of Lockers (Optional)**
@@ -83,4 +83,4 @@ Refer to the graphic below on how to make your online
 
 # **Section F: POSB Smart Buddy (Optional)**
 <br>[Click here](/files/POSB%20Smart%20Buddy_Intro%20Deck%20for%20Parents.pdf) for the introduction deck to POSB Smart Buddy.
-<br>[[Click here]()](/files/POSB%20Smart%20Buddy_Intro%20Deck%20for%20Parents.pdf) for the application form for POSB Smart Buddy.
+<br>[Click here](/files/POSB%20Smart%20Buddy_Intro%20Deck%20for%20Parents.pdf) for the application form for POSB Smart Buddy.
