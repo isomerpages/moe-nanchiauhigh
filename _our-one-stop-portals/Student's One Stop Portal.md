@@ -51,8 +51,6 @@ _You are required to use your iCON account to access the below documents:_
 *   [DMA Parent Guide v2.0 - Option](https://drive.google.com/file/d/19Qsa0cDNdc41o4wlfFjDtUT_KxjDE9T0/view?usp=sharing) [B](https://drive.google.com/file/d/19Qsa0cDNdc41o4wlfFjDtUT_KxjDE9T0/view?usp=sharing) [(Chrome OS)](https://drive.google.com/file/d/19Qsa0cDNdc41o4wlfFjDtUT_KxjDE9T0/view?usp=sharing)
     
 
-  
-
 *   For Parents/Guardians who prefer alternative DMA settings, you may choose from the following options for use of your child/ward’s PLD after school hours:
     
     *   Option A: Parents/Guardians can modify DMA settings after school hours; or
@@ -61,3 +59,24 @@ _You are required to use your iCON account to access the below documents:_
         
 
 You may exercise your option at [https://go.gov.sg/nchs-dma-option](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fnchs-dma-option&sa=D&sntz=1&usg=AOvVaw0e-0N4eGJC6Fh6XsFS9-CA).
+
+**SLS Matters**
+*   [**Guide to SLS Account Management (Download pdf: Require your iCON account)**](https://drive.google.com/file/d/1mm9NwRYwP_kHWWugcJe8nA8ilfWwdv7E/view?usp=sharing):  
+    **Answers to the following questions can be found in this above guide:  
+    Q1) I have forgotten my password. What should I do?  
+    Q2) I have forgotten my username. What should I do?  
+    Q3) My account has been locked. What should I do?  
+    Q4) I chose to reset my password through email but I cannot find the password reset email. What can I do?  
+    Q5) Can I change my security questions?  
+    
+*   You may also refer to the following [online guide](https://www.google.com/url?q=https%3A%2F%2Fdocs.learning.moe.edu.sg%2Fsls-user-guide%2Fvle%2Flogintroubleshooting%2Findex.html&sa=D&sntz=1&usg=AOvVaw2p1EwoqVmOxqr50UrQHCeI) to troubleshooting of login issues and technical issues.
+    
+*   If all above guides do not answer your queries, please approach your Form Teachers or Subject Teachers.
+
+**iCON Account Matters**
+
+*   [Onboarding of student iCON (Download PDF: Your iCON account is required)](https://drive.google.com/file/d/1aMilU9ae-KJ-CZ8nsToHyPi2wBGBgA61/view?usp=sharing)
+    
+*   Self-Service site to reset your iCON password (coming soon).
+
+
