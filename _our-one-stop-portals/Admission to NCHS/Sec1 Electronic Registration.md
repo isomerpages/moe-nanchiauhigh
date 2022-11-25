@@ -10,7 +10,7 @@ On behalf of all staff and students, we welcome you and your child to our Nan Ch
 
 _________________________________________________________________
 # **Section A: Online Registration Form**
-# 
+ 
 As part of Sec 1 Registration, we would appreciate very much for parents/guardians to take some time to complete this [form](https://forms.gle/V2Tf26oNuEBXo9Qr8) by 1 p.m., Friday, 23 December 2022. This is to allow us to get to know your child/ward better.
 
 _________________________________________________________________
