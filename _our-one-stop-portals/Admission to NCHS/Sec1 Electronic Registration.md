@@ -100,7 +100,7 @@ Please provide details on your inquiry:
 
   
 
-Please submit your appeal form via the following link:  [NCHS - Sec1 Appeal (for 2023 intake) | FormSG](https://form.gov.sg/admin/form/637b469241fdcf00125d8cd7/preview).
+Please submit your appeal form via the following link: [Sec 1 Appeal (for 2023 intake)](https://form.gov.sg/admin/form/637b469241fdcf00125d8cd7/preview) 
 
   
 Notes: <br>1.  The personal information provided in this form will be solely used for the purpose of appealing for secondary school transfer based on non-medical reasons.  For appeals based on medical reasons (serious medical conditions or severe physical impairments), please request through the posted school by 12pm on the following working day after the release of posting results.  
