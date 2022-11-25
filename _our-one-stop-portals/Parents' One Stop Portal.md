@@ -10,7 +10,7 @@ description: ""
 [Nan Chiau High Library Catalog](https://nanchiauhigh.spydus.com.sg/)  
 [National Digital Literacy Programme @ NCHS](http://go.gov.sg/nchs-ndlp)
 
-**Forms & Bookings**<br>
+**Forms**<br>
 [Application for LOA](https://go.gov.sg/nchs-loa)
 
 **Parent Engagement Resources**<br>
