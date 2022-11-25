@@ -21,6 +21,63 @@ description: ""
     
 *   [Singapore Teaching Practice (STP)](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fstp&sa=D&sntz=1&usg=AOvVaw0za6S4gXutm8DakRqiDx7w) \[Requires OPAL Login\]
 
+**School Forms for Staff**
+*   [Data Request Form](https://www.google.com/url?q=https%3A%2F%2Fbit.ly%2F3guGbvO&sa=D&sntz=1&usg=AOvVaw046gkbXUfM1oiSQs9RJnmx)
+    
+*   [For student appointment with ECG Counsellor](https://www.google.com/url?q=https%3A%2F%2Fmoeecg.appointeze.com%2Fonlinelink%2FPanMiaohua&sa=D&sntz=1&usg=AOvVaw10brvgJQspCmKM7MFwAS6R) _**\*New\***_
+    
+*  [AV/ICT Equipment Defect and Support](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Ficthelpccc&sa=D&sntz=1&usg=AOvVaw3YAma3bWkRvpHvgKSwHL44)
+    
+*  [NCHS Defect Reporting](https://www.google.com/url?q=https%3A%2F%2Fform.gov.sg%2F6279c4d743b1c300128b5088&sa=D&sntz=1&usg=AOvVaw0TlArOOu9EtRHoOk5mWN3T)
+    
+*   [NCHS Operations Support Request](https://www.google.com/url?q=https%3A%2F%2Fform.gov.sg%2F626a03e613531800145617a7&sa=D&sntz=1&usg=AOvVaw2PEWT1Zr46GWwncgd3fQzK)
+    
+*   [NCHS Visitor Arrangement Request](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fvisitorarrangementrequest&sa=D&sntz=1&usg=AOvVaw3mOLw7AerhVZRJEOBKfRRU)
+    
+*   [MMC Support Request Form](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fmmcrequest&sa=D&sntz=1&usg=AOvVaw3eH_wlOXftisNXHw58I6VI)
+    
+*   [Resource Booking System (RBS)](https://www.google.com/url?q=https%3A%2F%2Frbs.avero-tech.com&sa=D&sntz=1&usg=AOvVaw3DTJqTqrPRWNiNrNRKw4fY)
+    
+*   [Staff Digital Movement Form](http://www.google.com/url?q=http%3A%2F%2Fgo.gov.sg%2Fonleave&sa=D&sntz=1&usg=AOvVaw1I1Y5PjygOP0tYdmGiL92m)
+    
+*   [Staff Travel Declaration Form](https://www.google.com/url?q=https%3A%2F%2Fform.gov.sg%2F6180b5c0cc1dfd001357805b&sa=D&sntz=1&usg=AOvVaw0RwUEQC35SbZ11G3DbiOYo)
+    
+*   [Uploading Facebook/Instagram Post Form](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fnchsfbinsta&sa=D&sntz=1&usg=AOvVaw0JUj167010-eW7Dy47f6Z2)
+
+**MOE Link for Staffs**<br>
+*   [All Ears Forms Builders](https://forms.moe.edu.sg/)
+    
+*   [DMA Login](https://www.mobileguardian.com/)
+    
+*   [ECG Buzz Issues](https://go.gov.sg/ecgbuzz) \[Requires OPAL Login\] \*New\*
+    
+*   [EduPage (Access Timetable)](https://nchs.edupage.org/login/)
+    
+*   [HRP](https://www.hrp.gov.sg/hrp/#/)
+    
+*   [HR Online](http://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
+    
+*   [Google Workplace Dashboard](https://workspace.google.com/dashboard) 
+    
+*   [iEXAMS 2.0](http://iexams.seab.gov.sg/sso/login)
+    
+*   [MIMS Portal](https://idp.mims.moe.gov.sg/nidp/saml2/sso)
+    
+*   [MOE Internet Website](https://www.moe.gov.sg/)
+    
+*   [MOE Intranet Website](https://intranet.moe.gov.sg/Pages/Home.aspx)
+    
+*   [OPAL 2.0](https://www.opal2.moe.edu.sg/)
+    
+*   [Parents' Gateway](https://pg.moe.edu.sg/)
+    
+*   [School Cockpit](https://schoolcockpit.moe.gov.sg/)
+    
+*   [SC Mobile](https://scmobile.moe.edu.sg/login)
+    
+*   [Student Learning Space (SLS](https://vle.learning.moe.edu.sg/login))
+
+
 **Photos and Videos**<br>
 [Student Individual Photos](https://drive.google.com/drive/folders/0B0NLoi7jhnNmMHBTNjZhVWl4M1U?usp=sharing)  
 [Staff Individual Photos](https://drive.google.com/drive/folders/0B0NLoi7jhnNmT0dSTkxMWkUyMlE?usp=sharing)  
