@@ -77,9 +77,25 @@ description: ""
     
 *   [Student Learning Space (SLS](https://vle.learning.moe.edu.sg/login))
 
+**Resources for Staff**<br>
+*   [NCHS Cyber Wellness Matters](https://sites.google.com/moe.edu.sg/nchs-create-curate-connect/cyber-wellness)
+    
+*   [NCHS Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/nanchiauhigh/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME) 
+    
+*   [NCHS TechPOP Newsletters](https://sites.google.com/moe.edu.sg/nchs-create-curate-connect/techpop)
+    
+*   [PDLP Resources and Good Stories](https://sites.google.com/moe.edu.sg/personaliseddigitallearningpro/home)
+    
+*   [e-Pedagogy One-Stop Site (Official)](https://go.gov.sg/eped-onestop)   \*Requires login to OPAL\* 
+    
+*   [e-Pedagogy Comics](https://go.gov.sg/eped-comics) 
+    
+*   [Professional Learning: Level up my PLD Skills!](https://sites.google.com/moe.edu.sg/nchs-create-curate-connect/pld-matters/level-up-my-pld-skills)
+    
+*   [School eResource Repository (SERR)](https://schoolibrary.moe.edu.sg/eresourcessec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME): Virtual School Library
+    
+*   [SLS Lesson Resources for Teachers](https://sites.google.com/moe.edu.sg/nchs-pdlp-site-for-teachers/repository-of-sls-lessons)
 
-**Photos and Videos**<br>
-[Student Individual Photos](https://drive.google.com/drive/folders/0B0NLoi7jhnNmMHBTNjZhVWl4M1U?usp=sharing)  
-[Staff Individual Photos](https://drive.google.com/drive/folders/0B0NLoi7jhnNmT0dSTkxMWkUyMlE?usp=sharing)  
-[School Videos](https://drive.google.com/drive/folders/0B0NLoi7jhnNmcnZwdENPcU40TXM?usp=sharing)  
-[School Photographs](https://drive.google.com/drive/folders/0B0NLoi7jhnNmNWFNV2c2OHdtdVE?usp=sharing)
+*   [School Videos](https://drive.google.com/drive/folders/0B0NLoi7jhnNmcnZwdENPcU40TXM?usp=sharing)  
+
+*   [School Photographs](https://drive.google.com/drive/folders/0B0NLoi7jhnNmNWFNV2c2OHdtdVE?usp=sharing)
