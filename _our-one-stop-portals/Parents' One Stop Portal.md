@@ -52,5 +52,8 @@ description: ""
 [2022 Term 1 Week 4 Learning Programme Schedule](https://docs.google.com/spreadsheets/d/1HHe3aKOZFwuqPL6efOvR4PU2G4WXWnjALvjIvkM7MCw/edit?usp=sharing)  
 [School Calendar](https://www-nanchiauhigh-moe-edu-sg-admin.cwp.sg/nchs/calendar)  
 [Exams & Prelims Schedule](https://drive.google.com/folderview?id=0B0NLoi7jhnNmNTFPaVYwV004YmM&usp=sharing)  
-[Secondary 3 Extended Programme](https://drive.google.com/drive/folders/0B0NLoi7jhnNmeTF4TWhTX1hWTjQ?usp=sharing)  
-[Beyond Classroom Timetable](https://drive.google.com/drive/folders/0B0NLoi7jhnNmVXI4RnhDN1NvNEk?usp=sharing)
+
+**MOE Resources**<br>
+* Singapore Student Learning Space [(Click Here)](https://www.google.com/url?q=https%3A%2F%2Fwww.moe.gov.sg%2Feducation-in-sg%2Fstudent-learning-space&sa=D&sntz=1&usg=AOvVaw3TM0MrS8kyiSrhGTY10i0P)
+* Financial Assistance Eligibility Checker [(Click Here)](https://www.google.com/url?q=https%3A%2F%2Fwww.moe.gov.sg%2Ffinancial-matters%2Ffinancial-assistance&sa=D&sntz=1&usg=AOvVaw2Zok23jQDy9dEI3BkG7PqF)
+* Post Secondary Pathway Options [(Click Here)](https://www.google.com/url?q=https%3A%2F%2Fwww.moe.gov.sg%2Fpost-secondary&sa=D&sntz=1&usg=AOvVaw2SMgFn6pNymA8SO_KloW_O)
