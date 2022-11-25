@@ -54,7 +54,9 @@ Refer to the graphic below on how to make your online purchase at [https://fines
 
 
 # **Section D: Purchase of Personal Learning Device (Chromebook)**
-A Personal Learning Device (PLD) is a laptop used by every student for their learning under the National Digital Literacy Programme.
+At MOE’s Committee of Supply Debate in March 2020, MOE launched the National Digital Literacy Programme (“NDLP”) for our schools and Institutes of Higher Learning to help students strengthen their digital literacy. One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (“PDLP”) for all secondary school students, whereby every secondary school student will own a school-prescribed Personal Learning Device (“PLD”). 
+
+Please read this letter (Link available on 21 Dec 2022) on the important information about the PLD for your child/ward before submitting your option below.
 
  
 * For Singapore Citizens, [Click here](https://go.gov.sg/pdlpadmin) to indicate if you would like to purchase a PLD with the school bulk purchase.
