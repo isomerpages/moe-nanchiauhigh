@@ -7,7 +7,6 @@ description: ""
 
 **Administrative Matters**<br>
 [Student Learning Space](https://learning.moe.edu.sg/)  
-[iMTL](https://imtl.moe.edu.sg/)  
 [Nan Chiau High Library Catalog](https://nanchiauhigh.spydus.com.sg/)  
 [National Digital Literacy Programme @ NCHS](http://go.gov.sg/nchs-ndlp)
 
