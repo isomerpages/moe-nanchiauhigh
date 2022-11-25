@@ -76,3 +76,5 @@ Refer to the graphic below on how to make your online purchase at [https://fines
 <br>[Click here](https://docs.google.com/forms/d/e/1FAIpQLScQSBOtCXphFMbTBaz5jHnFkSgjSeklzHA2yR-cMLQ_-8RNjQ/closedform) to apply for the rental of lockers.
 
 **Section E: POSB Smart Buddy**
+<br>[Click here](/files/POSB%20Smart%20Buddy_Intro%20Deck%20for%20Parents.pdf) for the introduction deck to POSB Smart Buddy.
+<br>[[POSB Smart Buddy Registration]()](/files/POSB%20Smart%20Buddy_Intro%20Deck%20for%20Parents.pdf) for the application form for POSB Smart Buddy.
