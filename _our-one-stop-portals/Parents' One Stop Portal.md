@@ -30,9 +30,9 @@ description: ""
 [Application for LOA](https://go.gov.sg/nchs-loa)
 
 **Parent Engagement Resources**<br>
-[Sharing on how to help your child in this transition year (Sec 1 Parents)](https://drive.google.com/file/d/1AERpSAZwgNOk9a0P7HAHbU4qiRcztz2M/view) – Slides<br>[2022 Secondary 1 Parents E-Engagement Slides (15 Jan 2022)](https://drive.google.com/file/d/1Y9kpVSqbtMFcZSMZnZWqlqsG5CyygsOF/view?usp=sharing)  
+[Sharing on how to help your child in this transition year (Sec 1 Parents Slides)](https://drive.google.com/file/d/1AERpSAZwgNOk9a0P7HAHbU4qiRcztz2M/view) <br>[2022 Secondary 1 Parents E-Engagement Slides (15 Jan 2022)](https://drive.google.com/file/d/1Y9kpVSqbtMFcZSMZnZWqlqsG5CyygsOF/view?usp=sharing)  
 [2022 Secondary 2 Parents E-Engagement Slides (14 April 2022)](https://drive.google.com/file/d/1oBCT8dvSuoqTVjha17iTJyrD_kdJH4Hn/view)  
-[2022 Secondary 2 Parents E-Engagement Q&A Responses (14 April 2022)](https://drive.google.com/drive/folders/1tCQWVeImVf-iC71x0MIs_7Uys9btX51t)  
+[2022 Secondary 2 Parents E-Engagement Q&A (14 April 2022)](https://drive.google.com/drive/folders/1tCQWVeImVf-iC71x0MIs_7Uys9btX51t)  
 [2022 Secondary 3 Parents E-Engagement Slides (24 May 2022)](https://drive.google.com/file/d/1hiSF6rVbTrf9kbYa6x_rMGDNrad4qYPv/view?usp=sharing)  
 [2022 Secondary 4 Parents E-Engagement Slides (26 May 2022)](https://drive.google.com/file/d/1V5-xTKsaDvCc23zJP9a_qde0874REHi1/view?usp=sharing)
 
