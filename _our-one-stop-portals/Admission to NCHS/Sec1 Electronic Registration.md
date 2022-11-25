@@ -72,7 +72,7 @@ A Personal Learning Device (PLD) is a laptop used by every student for their lea
 FURTHER Enquiries
 ----------------------------------
 
-You may check out our "FAQs for Parents" section on this website.
+You may check out our "FAQs for Parents" section and briefing resources [here](https://sites.google.com/moe.edu.sg/sec1admissionsfaqs/faqs-for-parents).
 
 For any further enquiries, you may email us at [nchs@moe.edu.sg](mailto:nchs@moe.edu.sg) (from 22 to 30 Dec 2022). You may use the format provided below:
 
