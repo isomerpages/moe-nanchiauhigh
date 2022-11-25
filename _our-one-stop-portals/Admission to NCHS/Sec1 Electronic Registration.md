@@ -15,8 +15,7 @@ As part of Sec 1 Registration, we would appreciate very much for parents/guardia
 
 _________________________________________________________________
 
-**Section B: Purchase of Books and Uniform for Sec 1**  
-
+# **Section B: Purchase of Books and Uniform for Sec 1**  
 Please note that our books and stationery are supplied by our bookshop vendor, Popular Book Co Pte Ltd.
 
 **ONLINE ORDER:** [Click here](https://textbook.popular.com.sg/) to go to Popular Online Store and select "Nan Chiau High School".
@@ -71,10 +70,10 @@ Email : nch@popularworld.com
 
 
 
-**Section C: Purchase of Uniform and PE attire for Sec 1**
+# **Section C: Purchase of Uniform and PE attire for Sec 1**
 Refer to the graphic below on how to make your online purchase at [https://finestuniform.com/collections/nan-chiau-high-school](https://finestuniform.com/collections/nan-chiau-high-school).
 
-**Section D: Rental of Lockers (Optional)**
+# **Section D: Rental of Lockers (Optional)**
 <br>Lockers are not compulsory. 
 <br>[Click here](https://docs.google.com/forms/d/e/1FAIpQLScQSBOtCXphFMbTBaz5jHnFkSgjSeklzHA2yR-cMLQ_-8RNjQ/closedform) to apply for the rental of lockers.
 
