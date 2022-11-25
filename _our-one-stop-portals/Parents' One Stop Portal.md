@@ -3,7 +3,7 @@ title: Parents' One Stop Portal
 permalink: /our-resources/Parents-Resources/
 description: ""
 ---
-[Information for Parents](https://sites.google.com/moe.edu.sg/nchs-parents/home)
+[Quick Information for Parents](https://sites.google.com/moe.edu.sg/nchs-parents/home)
 
 **Administrative Matters**<br>
 [Student Learning Space](https://learning.moe.edu.sg/)  
