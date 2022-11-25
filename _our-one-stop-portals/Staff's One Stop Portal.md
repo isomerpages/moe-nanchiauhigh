@@ -99,3 +99,5 @@ description: ""
 *   [School Videos](https://drive.google.com/drive/folders/0B0NLoi7jhnNmcnZwdENPcU40TXM?usp=sharing)  
 
 *   [School Photographs](https://drive.google.com/drive/folders/0B0NLoi7jhnNmNWFNV2c2OHdtdVE?usp=sharing)
+
+![Technical Account Issues Chart Staff](/images/Technical%20and%20Account%20Issues%20Chart%20for%20Staff.png)
