@@ -71,10 +71,10 @@ Email : nch@popularworld.com
 **Section C: Purchase of Uniform and PE attire for Sec 1**
 Refer to the graphic below on how to make your online purchase at [https://finestuniform.com/collections/nan-chiau-high-school](https://finestuniform.com/collections/nan-chiau-high-school).
 
-**Section D: Rental of Lockers**
+**Section D: Rental of Lockers (Optional)**
 <br>Lockers are not compulsory. 
 <br>[Click here](https://docs.google.com/forms/d/e/1FAIpQLScQSBOtCXphFMbTBaz5jHnFkSgjSeklzHA2yR-cMLQ_-8RNjQ/closedform) to apply for the rental of lockers.
 
-**Section E: POSB Smart Buddy**
+**Section E: POSB Smart Buddy (Optional)**
 <br>[Click here](/files/POSB%20Smart%20Buddy_Intro%20Deck%20for%20Parents.pdf) for the introduction deck to POSB Smart Buddy.
 <br>[[Click here]()](/files/POSB%20Smart%20Buddy_Intro%20Deck%20for%20Parents.pdf) for the application form for POSB Smart Buddy.
