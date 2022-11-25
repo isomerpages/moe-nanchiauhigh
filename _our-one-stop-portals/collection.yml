@@ -1,5 +1,5 @@
 collections:
-  our-resources:
+  our-one-stop-portals:
     output: true
     order:
       - Staff's One Stop Portal.md
