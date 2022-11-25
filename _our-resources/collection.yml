@@ -2,13 +2,13 @@ collections:
   our-resources:
     output: true
     order:
-      - School Counselling Services.md
-      - Student's One Stop Portal.md
       - Staff's One Stop Portal.md
+      - Student's One Stop Portal.md
       - Parents' One Stop Portal.md
+      - School Counselling Services.md
+      - Admission to NCHS/.keep
       - Admission to NCHS/MOE S1 Posting Exercise.md
       - Admission to NCHS/Direct School Admission Exercise.md
       - Admission to NCHS/Returning Singaporeans and International Students.md
       - Admission to NCHS/PSLE Appeals.md
       - Admission to NCHS/School Transfer.md
-      - Admission to NCHS/.keep
