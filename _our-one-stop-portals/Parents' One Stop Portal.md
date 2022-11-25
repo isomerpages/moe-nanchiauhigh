@@ -24,34 +24,6 @@ description: ""
 [Academic Booklet](https://drive.google.com/drive/folders/1-u9xunjUbfXWFHhldfQLP0fJmpUIXjzz?usp=sharing)  
 [PA/Exam Formats and Scope](https://drive.google.com/drive/u/1/folders/1fQWE3i8efqnjzatOy_LkVhLQIbqyRpJy)
 
-**Cyberwellness Tips**
-
-Below is a list of guides & tips, resources and useful links to help you to reinforce Cyber Wellness education at home.
-
-*   *   [What are some useful parenting tips in the digital age?](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/parenting-tips)
-    *   [How do you set parental controls on your child’s ICT devices?](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/parental-controls)
-    *   [What are some useful guidelines to manage your child’s use of social media apps?](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/social-media-guidelines)
-    *   [What are some useful strategies and tips shared by MOE Social Media?](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/social-media-posts)
-    *   [How do you help your child manage online scams?](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/helping-your-child-manage-online-scams)
-    *   [How do you help your child manage cyber contacts?](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/helping-your-child-manage-cyber-contacts)
-    *   [How do you help your child manage cyber bullying?](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/helping-your-child-manage-cyber-bullying)
-    *   [Suicide Games and Online Media: What Should Parents Do?](https://www.schoolbag.sg/story/suicide-games-and-online-media-what-should-parents-do)
-    *   [How do you help your child manage excessive internet use?](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/helping-your-child-manage-excessive-internet-use)
-    *   [How do you help your child stay safe online?](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/helping-your-child-stay-safe-online)
-    *   [How to develop your child to be a positive peer influence online?](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/developing-your-child-to-be-a-positive-peer-influence-online)
-    *   [How do you help your child handle online content?](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/helping-your-child-handle-online-content)
-    *   [How do you help your child protect personal data online?](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/how-do-you-help-your-child-protect-personal-data-online)
-    *   [How do you help your child with appropriate online expression?](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/how-do-you-help-your-child-with-appropriate-online-expression)
-    *   [Useful Cyber Wellness articles to keep yourself current](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/resources/cyber-wellness-articles)
-    *   [Comic books for your children to learn to keep themselves cybersafe](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/resources/comic-books)
-    *   [C-Quest Game to promote conversations between you and your children on Cyber Wellness](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/resources/c-quest)
-    *   [Resources by MLC](http://www.medialiteracycouncil.sg/Resources/Pages/parents.aspx)
-    *   [Video Resources by NPCP](http://www.scamalert.sg/resources/videos)
-    *   [Resources on SURE campaign by NLB](http://www.nlb.gov.sg/sure/)
-    *   [Resources by PDPC](https://www.pdpc.gov.sg/resources/for-individuals)
-    *   [Resources by Cyber Security Agency (CSA)](https://www.csa.gov.sg/gosafeonline)
-
-
 **Meet-the-Parent**<br>
 [Parents Letters](https://drive.google.com/drive/folders/0B0NLoi7jhnNmcUkxUkRrUlNoZ00?usp=sharing)  
 [Secondary 1](https://drive.google.com/drive/folders/1lTjk_GqX5_KCCwMdGAoD3E6WNmep7S2F?usp=sharing)  
