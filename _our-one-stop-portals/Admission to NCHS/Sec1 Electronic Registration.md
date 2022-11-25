@@ -28,32 +28,24 @@ After placing your online above, there are two methods for collection:
 - FREE Local delivery charge for purchases of above $130.<br><br>
 *Note: Due to high delivery volume during festive season, home delivery service may take up to 09 Jan 2023 for your items to be delivered. Students who are affected will be excused from bringing their books to school till then.
 	</span></td><td style="box-sizing: border-box; width: 309.688px; background-color: rgb(129, 210, 247); height: 83px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><strong style="box-sizing: border-box; font-weight: bolder;">To submit your online order in the above link from:<br> Wed, 21 Dec, 9.00a.m. –&nbsp; Sat, 24 Dec, 11.59p.m.</strong></span></td></tr><tr style="box-sizing: border-box; height: 51px;"><td rowspan="2" style="box-sizing: border-box; width: 202.75px; background-color: rgb(252, 232, 141); text-align: center; height: 104px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><strong style="box-sizing: border-box; font-weight: bolder;">Method 2:<br> Self Pick-Up from<br> School Bookshop</strong></span><br style="box-sizing: border-box;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><strong style="box-sizing: border-box; font-weight: bolder;"><br style="box-sizing: border-box;"></strong></span></td><td style="box-sizing: border-box; width: 416.562px; background-color: rgb(252, 232, 141); height: 51px; text-align: left; vertical-align: top;"><pre style="box-sizing: border-box; font-family: monospace, monospace; font-size: 1em;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Appointment Booking via</span>
-<span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><a href="https://www.picktime.com/popularschool" target="_blank" rel="noopener noreferrer" style="box-sizing: border-box; background-color: transparent;">https://www.picktime.com/popularschool</a></span></pre></td><td style="box-sizing: border-box; width: 309.688px; background-color: rgb(252, 232, 141); height: 51px; text-align: left; vertical-align: middle;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><strong style="box-sizing: border-box; font-weight: bolder;">Thu, 23 Dec 12 am onwards</strong></span></td></tr><tr style="box-sizing: border-box; height: 53px;"><td style="box-sizing: border-box; width: 416.562px; vertical-align: top; background-color: rgb(252, 232, 141); height: 53px;"><pre style="box-sizing: border-box; font-family: monospace, monospace; font-size: 1em; text-align: left;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Instructions:<br>
+<span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><a href="https://www.picktime.com/popularschool" target="_blank" rel="noopener noreferrer" style="box-sizing: border-box; background-color: transparent;">https://www.picktime.com/popularschool</a></span></pre></td><td style="box-sizing: border-box; width: 309.688px; background-color: rgb(252, 232, 141); height: 51px; text-align: left; vertical-align: middle;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><strong style="box-sizing: border-box; font-weight: bolder;">Thu, 22 Dec, 12p.m. onwards</strong></span></td></tr><tr style="box-sizing: border-box; height: 53px;"><td style="box-sizing: border-box; width: 416.562px; vertical-align: top; background-color: rgb(252, 232, 141); height: 53px;"><pre style="box-sizing: border-box; font-family: monospace, monospace; font-size: 1em; text-align: left;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Instructions:<br>
 Step 1: Select "Nan Chiau High School"<br> and book your preferred appointment date and time.<br>
 Step 2: Complete the form.<br>
 Step 3: Print the Booking Confirmation Page / Email<br>
 Step 4: Present the Booking Confirmation Page / Email<br> at the school bookshop for collection.<br>
 </span>
-<span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">(Admission is strictly based on appointment booking)</span></pre></td><td style="box-sizing: border-box; width: 309.688px; background-color: rgb(252, 232, 141); height: 53px; vertical-align: top;"><pre style="box-sizing: border-box; font-family: monospace, monospace; font-size: 1em;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><strong style="box-sizing: border-box; font-weight: bolder;">Mon, 27 Dec – Wed, 29 Dec 9 am to 3 pm</strong></span>
+<span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">(Admission is strictly based on appointment booking)</span></pre></td><td style="box-sizing: border-box; width: 309.688px; background-color: rgb(252, 232, 141); height: 53px; vertical-align: top;"><pre style="box-sizing: border-box; font-family: monospace, monospace; font-size: 1em;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><strong style="box-sizing: border-box; font-weight: bolder;">Bookshop Opening Dates for Collection (For Sec 1 only) :  28/12/2022 to 30/12/2022<br>
+Bookshop is closed on 31/12/2022, Saturdays, Sundays & Public Holidays.</strong></span>
 
-<span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><strong style="box-sizing: border-box; font-weight: bolder;">School Bookshop in School Canteen</strong></span></pre></td></tr></tbody></table>
+<span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><strong style="box-sizing: border-box; font-weight: bolder;">**Other Information:**<br> Exchange of books & stationery is allowed only during school term in Jan 2023.<br> Please produce original receipt or invoice.<br> Books & Stationery must be in good condition.<br> Books with written name will not be accepted.
+<br>Fax No : 6315 0194
+Telephone No : 6514 7102 (School Bookshop) / 6462 9530 (Popular Office)
+Email : nch@popularworld.com</strong></span></pre></td></tr></tbody></table>
 
-
-
-Bookshop Opening Dates for Collection (For Sec 1 only) :  28/12/2022 to 30/12/2022
-
-Bookshop is closed on 31/12/2022, Saturdays, Sundays & Public Holidays.
 
   
 
-**Other Information:**
-<br>Exchange of Item : Exchange of books & stationery is allowed during school term in Jan 2023. Please produce original receipt or invoice. Books & Stationery must be in good condition. Books with written name will not be accepted.
 
-Fax No : 6315 0194
-
-Telephone No : 6514 7102 (School Bookshop) / 6462 9530 (Popular Office)
-
-Email : nch@popularworld.com
 
 
 
