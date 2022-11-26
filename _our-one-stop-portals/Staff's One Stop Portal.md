@@ -26,9 +26,9 @@ description: ""
     
 *   [For student appointment with ECG Counsellor](https://www.google.com/url?q=https%3A%2F%2Fmoeecg.appointeze.com%2Fonlinelink%2FPanMiaohua&sa=D&sntz=1&usg=AOvVaw10brvgJQspCmKM7MFwAS6R) _**\*New\***_
     
-*  [AV/ICT Equipment Defect and Support](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Ficthelpccc&sa=D&sntz=1&usg=AOvVaw3YAma3bWkRvpHvgKSwHL44)
+*  [[CCC Form] ICT Equipment Defect and Loan Request](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Ficthelpccc&sa=D&sntz=1&usg=AOvVaw3YAma3bWkRvpHvgKSwHL44)
     
-*  [NCHS Defect Reporting](https://www.google.com/url?q=https%3A%2F%2Fform.gov.sg%2F6279c4d743b1c300128b5088&sa=D&sntz=1&usg=AOvVaw0TlArOOu9EtRHoOk5mWN3T)
+*  [NCHS Defect Reporting (Non-ICT)](https://www.google.com/url?q=https%3A%2F%2Fform.gov.sg%2F6279c4d743b1c300128b5088&sa=D&sntz=1&usg=AOvVaw0TlArOOu9EtRHoOk5mWN3T)
     
 *   [NCHS Operations Support Request](https://www.google.com/url?q=https%3A%2F%2Fform.gov.sg%2F626a03e613531800145617a7&sa=D&sntz=1&usg=AOvVaw2PEWT1Zr46GWwncgd3fQzK)
     
@@ -39,9 +39,7 @@ description: ""
 *   [Resource Booking System (RBS)](https://www.google.com/url?q=https%3A%2F%2Frbs.avero-tech.com&sa=D&sntz=1&usg=AOvVaw3DTJqTqrPRWNiNrNRKw4fY)
     
 *   [Staff Digital Movement Form](http://www.google.com/url?q=http%3A%2F%2Fgo.gov.sg%2Fonleave&sa=D&sntz=1&usg=AOvVaw1I1Y5PjygOP0tYdmGiL92m)
-    
-*   [Staff Travel Declaration Form](https://www.google.com/url?q=https%3A%2F%2Fform.gov.sg%2F6180b5c0cc1dfd001357805b&sa=D&sntz=1&usg=AOvVaw0RwUEQC35SbZ11G3DbiOYo)
-    
+        
 *   [Uploading Facebook/Instagram Post Form](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fnchsfbinsta&sa=D&sntz=1&usg=AOvVaw0JUj167010-eW7Dy47f6Z2)
 
 **MOE Link for Staffs**<br>
