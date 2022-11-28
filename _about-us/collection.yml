@@ -1,0 +1,20 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - About Us.md
+      - Strategic Directions.md
+      - School History.md
+      - School Crest and Song.md
+      - School Management Committee.md
+      - Principal's Foreword/2022 Foreword.md
+      - Principal's Foreword/2021 Foreword.md
+      - Principal's Foreword/2020 Foreword.md
+      - Principal's Foreword/2019 Foreword.md
+      - Principal's Foreword/.keep
+      - Corporate Directory/School Leaders.md
+      - Corporate Directory/Key Personnel.md
+      - Corporate Directory/Department Teachers.md
+      - Corporate Directory/Executive & Administrative Staff.md
+      - Corporate Directory/.keep
+      - Contact Us.md

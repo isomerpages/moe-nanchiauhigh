@@ -1,0 +1,22 @@
+collections:
+  our-student-development:
+    output: true
+    order:
+      - Power of Positivity.md
+      - Year Head Department.md
+      - Student Management.md
+      - CCE/CCE 2021.md
+      - CCE/Cyber Wellness.md
+      - CCE/Sexuality Education.md
+      - CCE/Education and Career Guidance.md
+      - CCE/.keep
+      - Student Leadership/FALCONS.md
+      - Student Leadership/Student Council.md
+      - Student Leadership/Class Council.md
+      - Student Leadership/Peer Support Leaders.md
+      - Student Leadership/Bicultural Ambassadors.md
+      - Student Leadership/Service Learning Champions.md
+      - Student Leadership/Sport Leaders.md
+      - Student Leadership/.keep
+      - Service Learning.md
+      - National Education.md

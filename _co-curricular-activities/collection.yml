@@ -1,0 +1,34 @@
+collections:
+  co-curricular-activities:
+    output: true
+    order:
+      - Clubs and Societies/Chinese Calligraphy.md
+      - Clubs and Societies/Debate.md
+      - Clubs and Societies/Green Club.md
+      - Clubs and Societies/Infocomm Club.md
+      - Clubs and Societies/Library.md
+      - Clubs and Societies/Mind Games Club.md
+      - Clubs and Societies/Multimedia Club.md
+      - Clubs and Societies/Robotics Club.md
+      - Clubs and Societies/Visual Arts Club.md
+      - Clubs and Societies/.keep
+      - Performing Arts/Chinese Dance.md
+      - Performing Arts/Chinese Drama.md
+      - Performing Arts/Chinese Orchestra.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Contemporary Dance.md
+      - Performing Arts/English Drama.md
+      - Performing Arts/String Orchestra.md
+      - Performing Arts/Wind Orchestra.md
+      - Performing Arts/.keep
+      - Sports and Games/Badminton.md
+      - Sports and Games/Basketball.md
+      - Sports and Games/Table Tennis.md
+      - Sports and Games/Track and Field.md
+      - Sports and Games/Wushu.md
+      - Sports and Games/.keep
+      - Uniformed Groups/National Cadet Corps.md
+      - Uniformed Groups/National Police Cadet Corps.md
+      - Uniformed Groups/Red Cross Youth.md
+      - Uniformed Groups/Scouts.md
+      - Uniformed Groups/.keep

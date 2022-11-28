@@ -1,13 +1,29 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo (2).png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    collection: about-us
+  - title: Academic Curriculum
+    collection: our-academic-curriculum
+  - title: Student Development
+    url: /our-student-development/power-of-positivity
+    sublinks:
+      - title: Power of Positivity
+        url: /our-student-development/power-of-positivity
+      - title: Co-Curricular Activities
+        url: /co-curricular-activities/uniformed-groups/scouts
+      - title: Year Head Department
+        url: /our-student-department/Year-Head-Development
+      - title: Student Management
+        url: /our-student-development/Student-Management
+      - title: CCE
+        url: /our-student-development/CCE/cce-2021
+      - title: Student Leadership
+        url: /our-student-development/Student-Leadership/falcons
+      - title: Service Learning
+        url: /our-student-development/Service-Learning
+      - title: National Education
+        url: /our-student-development/National-Education
+  - title: Talent Development
+    collection: our-talent-development
+  - title: Partners
+    collection: our-partners

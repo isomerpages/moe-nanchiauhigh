@@ -1,0 +1,14 @@
+collections:
+  our-talent-development:
+    output: true
+    order:
+      - General Information.md
+      - Global Classroom Programme.md
+      - Applied Learning Programme (ALP).md
+      - Learning for Life Programme (LLP).md
+      - Department Talent Programmes/Mathematics Talent Programme.md
+      - Department Talent Programmes/Science Talent Programme.md
+      - Department Talent Programmes/Humanities Talent Programme.md
+      - Department Talent Programmes/.keep
+      - Chinese Language Elective Programme (CLEP).md
+      - Enhanced Art Programme (EAP).md

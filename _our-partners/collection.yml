@@ -1,0 +1,8 @@
+collections:
+  our-partners:
+    output: true
+    order:
+      - NCHS Parents' Support Group.md
+      - NC Alumni Assocation/NCHS Alumni.md
+      - NC Alumni Assocation/NCYM.md
+      - NC Alumni Assocation/.keep
