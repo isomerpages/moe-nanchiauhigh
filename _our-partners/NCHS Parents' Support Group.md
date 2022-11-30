@@ -35,10 +35,5 @@ description: ""
 
 **CONTACT US**
 
-**Whatsapp**
-
-+65 84574501
-
-**Email**
-
+**Email**<br>
 [PSG@nchs.edu.sg](mailto:PSG@nchs.edu.sg)
