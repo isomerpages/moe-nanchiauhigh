@@ -33,35 +33,6 @@ description: ""
 *   Creating a conducive learning environment for all
 
 
-**OUR ACTIVITIES**
-
-**Apr to Jun 21**
-
-Participating in the NCHS Annual Cross Country
-
-
-**Jan to Mar 21**
-
-Chilling at our EXCO Cohesion<br>
-Celebrating CNY with our PSG Lohei<br>
-Visiting our Sec 3 at the Leadership Camp
-
-
-**Oct to Dec 20**
-
-Supporting our Sec 4 Study Program<br>
-Engaging our new parents in Sec 1 Registration<br>
-Celebrating our Sec 4 Graduation<br>
-Launching our PSG “Fight against COVID-19” campaign<br>
-Celebrating our Teacher’s Day
-
-
-**Jul to Sep 20**
-
-Raising funds at NCHS Shines-cum-Open House (cancelled due COVID-19)<br>
-Competing in NCHS Sports Day (cancelled due COVID-19)
-
-
 **CONTACT US**
 
 **Whatsapp**
