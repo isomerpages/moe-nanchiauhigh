@@ -10,38 +10,8 @@ description: ""
 <br>
 
 **NCHS EXCO**
+![PSG EXCO](/images/NCHS%20PSG%20EXCO%202022-2023%20Portrait%20.png)
 
-**Key Personnel**
-
-Mr Yeo Yew Yong (HOD PE/CCA &amp; Advisor PSG)<br>
-Willy (Chairperson)<br>
-Becky (Vice-Chairperson)<br>
-Benji (Vice-Chairperson)
-
-
-**Secretarial Team**
-
-Siok Ghee (Secretary)<br>
-Celia (Assistant Secretary)<br>
-Cherie (Assistant Secretary)
-
-
-**Treasury Team**
-
-Irene (Treasurer)<br>
-Serene (Assistant Treasurer)<br>
-Soo Hee (Assistant Treasurer)
-
-
-**Members**
-
-Pei Fen<br>
-Periyn<br>
-June<br>
-Meng Hing<br>
-Jessia<br>
-Nora<br>
-Jia Ling (Advisor)
 
 **OUR FOCUS**
 
