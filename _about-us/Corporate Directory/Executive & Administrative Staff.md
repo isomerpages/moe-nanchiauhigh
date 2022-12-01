@@ -14,7 +14,7 @@ third_nav_title: Corporate Directory
 | -------- | -------- | -------- |
 | Admin Manager     | Senior School Counsellor     | Operations Manager     |
 |**Email:**   [teo\_nguan\_wee@moe.edu.sg](mailto:teo_nguan_wee@moe.edu.sg)<br>**Ext:** 102|**Email:**   [leong\_mun\_leng\_joana@moe.edu.sg](mailto:leong_mun_leng_joana@moe.edu.sg) <br>**Ext:** 110|**Email:**   [lim_kiat_huat@moe.edu.sg](mailto:liew_kien_kien@moe.edu.sg)<br>**Ext:** 103
-
+<br>
 
 <img src="/images/Mdm%20Jones%20Annie.jpeg" 
      style="width:30%;float:left">
