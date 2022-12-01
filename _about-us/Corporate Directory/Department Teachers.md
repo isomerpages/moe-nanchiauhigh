@@ -50,10 +50,6 @@ third_nav_title: Corporate Directory
 
 <img src="/images/Mr%20Truman%20See.png" 
      style="width:30%;float:left">
-<img src="/images/Mr%20Xie%20Zhi%20Zhong.jpeg" 
-     style="width:30%;float:left">
-<img src="/images/Ms%20Tan%20Wern%20Li.jpeg" 
-     style="width:30%">
 
 <br>
 
@@ -66,10 +62,10 @@ third_nav_title: Corporate Directory
 <br>
 
 
-| Mr Truman See Qi Heng| Mr Xie Zhi Zhong  |Ms Tan Wern Li Rowena Mary|
+| Mr Truman See Qi Heng|   ||
 | -------- | -------- | -------- |
-| Music Teacher<br>Form Teacher - 2 Perseverance  <br>_CCA : Choir_|Music Teacher| FCE Teacher|
-|**Email:**     [truman\_see\_qi\_heng@moe.edu.sg](mailto:truman_see_qi_heng@moe.edu.sg)  <br>**Ext:** 370|**Email:** [xie\_zhizhong@moe.edu.sg](mailto:xie_zhizhong@moe.edu.sg)<br>**Ext:** 370|**Email:**  -<br>**Ext:** 113
+| Music Teacher<br>Form Teacher - 2 Perseverance  <br>_CCA : Choir_|| |
+|**Email:**     [truman\_see\_qi\_heng@moe.edu.sg](mailto:truman_see_qi_heng@moe.edu.sg)  <br>**Ext:** 370|
 
 **English Language and Literature**
 
