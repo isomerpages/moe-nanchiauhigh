@@ -50,8 +50,9 @@ third_nav_title: Corporate Directory
 
 
 
-<img src="/images/Mr%20Muhamad%20Kamel.jpeg" 
-     style="width:30%;align:right">
+<img 
+		 src="/images/Mr%20Muhamad%20Kamel.jpeg" 
+     style="width:30%">
 		 
 
 | Mdm Lim Zhenyi   |Mr Hairwan bin Bajuri| Mr Muhamad Kamel |
@@ -79,11 +80,10 @@ third_nav_title: Corporate Directory
      style="width:30%;float:left">
 		 <img src="/images/Mdm%20Chua%20Chen%20Nai.jpeg" 
      style="width:30%;float:left">
-<img src="/images/Derrick%20Teo%20Kian%20How.jpeg" 
-     style="width:30%">
 
 
-| Mdm Lee Hong Choo |Mdm  Chua Chen Nai| Mr Derek Teo Kian How|
+
+| Mdm Lee Hong Choo |Mdm  Chua Chen Nai| |
 | -------- | -------- | -------- |
 | Operations Support Officer   | Operations Support Officer|Desktop Engineer   |
 |**Email:**[nchs@moe.edu.sg](mailto:nchs@moe.edu.sg)<br>**Ext:** 226|**Email:** [nchs@moe.edu.sg](mailto:nchs@moe.edu.sg)  <br>**Ext:** 226|**Email:** -  <br>**Ext:** 225
