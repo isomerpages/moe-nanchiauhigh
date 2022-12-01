@@ -210,7 +210,7 @@ third_nav_title: Corporate Directory
 |Mdm Zhang Chunyu|Mdm Ye Bijiao | Mdm Xuan Xuan|
 | -------- | -------- | -------- |
 |Teacher  <br>Form Teacher - 1 Integrity  <br>_CCA : Chinese Calligraphy_ |Teacher  <br>Form Teacher - 2 Innovation  <br>_CCA : Library Club_ |Teacher  <br>Form Teacher - 1 Humility  <br>_CCA : Mind Games Club_
-|**Email:**   [chong\_ka\_wuei@moe.edu.sg](mailto:chong_ka_wuei@moe.edu.sg)<br>**Ext:** 212|**Email:**   [cheong\_zheng\_yin\_agnes@moe.edu.sg](mailto:cheong_zheng_yin_agnes@moe.edu.sg)  <br>**Ext:** 212|**Email:**[qi\_yan\_ping@moe.edu.sg](mailto:qi_yan_ping@moe.edu.sg) <br>**Ext:** 213
+|**Email:**   [zhang_chunyu@moe.edu.sg](mailto:zhang_chunyu@moe.edu.sg)<br>**Ext:** 212|**Email:**   [ye_bijiao@moe.edu.sg](mailto:ye_bijiao@moe.edu.sg)  <br>**Ext:** 212|**Email:**[xuan_xuan@moe.edu.sg](mailto:xuan_xuan@moe.edu.sg) <br>**Ext:** 213
 
 <img src="/images/Ms%20Ting.jpeg"  style="width:30%;float:left;height:380px">
 <img src="/images/Ms%20Winnie%20Tay.jpeg"  style="width:30%;float:left">
