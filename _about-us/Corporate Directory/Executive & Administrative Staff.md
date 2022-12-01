@@ -10,7 +10,8 @@ third_nav_title: Corporate Directory
      style="width:30%;float:left">
 <img src="/images/jpeg" 
      style="width:30%;float:left">
-<br>
+		 
+		 
 		 
 |Mr Teo Nguan Wee | Mdm Joana Leong | Mr Lim Kian Huat |
 | -------- | -------- | -------- |
