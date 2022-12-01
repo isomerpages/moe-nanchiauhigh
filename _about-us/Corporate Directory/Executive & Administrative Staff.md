@@ -49,7 +49,12 @@ third_nav_title: Corporate Directory
 |**Email:**   [chua\_siam\_tiang@moe.edu.sg](mailto:chua_siam_tiang@moe.edu.sg)<br>**Ext:** 105|**Email:** [yee\_may\_may@moe.edu.sg](mailto:yee_may_may@moe.edu.sg)<br>**Ext:** 226|**Email:** [lee\_gek\_neo\_rina@moe.edu.sg](mailto:lee_gek_neo_rina@moe.edu.sg)<br>**Ext:** 107
 
 
-
+<img 
+		 src="/images/.jpeg" 
+     style="width:30%;float:left">
+		 <img 
+		 src="/images/.jpeg" 
+     style="width:30%;float:left">
 <img 
 		 src="/images/Mr%20Muhamad%20Kamel.jpeg" 
      style="width:30%">
