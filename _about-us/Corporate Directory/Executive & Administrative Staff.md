@@ -8,8 +8,6 @@ third_nav_title: Corporate Directory
      style="width:30%;float:left">
 		 <img src="/images/Mdm%20Leong%20Mun%20Leng%20Joana.jpeg" 
      style="width:30%;float:left">
-<img src="/images/jpeg" 
-     style="width:30%">
 		 
 		 
 		 
