@@ -4,7 +4,6 @@ permalink: /about-us/Principals-Foreword/2022-Foreword/
 description: ""
 third_nav_title: Principal's Foreword
 ---
-![SIAUff_NCHS_2022 002.jpg](https://www.nanchiauhigh.moe.edu.sg/qql/slot/u297/SIAUff_NCHS_2022%20002.jpg)
 
 **诚毅立身，博学持正，石叻欣逢先驱者；**
 
@@ -13,6 +12,10 @@ third_nav_title: Principal's Foreword
 **渡海开蒙，兴邦浴火，砥砺前行七秩加五载；**
 
 **与时并进，饮水思源，鲲鹏展翅千寻更九天。**
+
+<img src="/images/Siau-Fong-Fui_2021.jpeg" 
+     style="width:40%;float:left"> <br>
+
 
 光阴荏苒，我们在冠病疫情肆虐之下捱过了将近三个学年。2021年南侨应届毕业生更是在这新常态下度过了两年的中学高年级生涯。我们昵称他们为“神奇宝贝”（Magic Babies），因为他们在逆境中自强不息，脱颖而出；因为他们在不同的领袖岗位上灵机应变，带领团队逆风前行；因为他们体现了南侨中学文武双全的特质，在会考中考取优异的表现，创下我校历年来最多考生考获9科特优和8科特优的辉煌记录。
 
