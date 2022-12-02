@@ -4,7 +4,9 @@ permalink: /about-us/Principals-Foreword/2022-Foreword/
 description: ""
 third_nav_title: Principal's Foreword
 ---
-![SIAUff_NCHS_2022 002.jpg](https://www.nanchiauhigh.moe.edu.sg/qql/slot/u297/SIAUff_NCHS_2022%20002.jpg)
+<img src="/images/SIAUff_NCHS_2022_002.jpeg" 
+     style="width:40%;float:left">
+
 
 **诚毅立身，博学持正，石叻欣逢先驱者；**
 
