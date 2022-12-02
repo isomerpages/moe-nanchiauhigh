@@ -11,9 +11,9 @@ third_nav_title: Corporate Directory
 
 <br>
 
-| Mr Teo Nguan Wee | Mdm Joana Leong | Mr Lim Kian Huat |
+| Mr Teo Nguan Wee | Mdm Joana Leong |  |
 | -------- | -------- | -------- |
-| Admin Manager     | Senior School Counsellor  | Operations Manager     |
+| Admin Manager     | Senior School Counsellor  |      |
 |**Email:**[teo\_nguan\_wee@moe.edu.sg](mailto:teo_nguan_wee@moe.edu.sg)<br>**Ext:** 102|**Email:**   [leong\_mun\_leng\_joana@moe.edu.sg](mailto:leong_mun_leng_joana@moe.edu.sg)<br>**Ext:** 110|**Email:**   [lim\_kian\_huat@moe.edu.sg](mailto:lim_kian_huat@moe.edu.sg)<br>**Ext:** 103
 		 
 		  
