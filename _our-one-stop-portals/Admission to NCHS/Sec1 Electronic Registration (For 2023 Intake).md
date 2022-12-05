@@ -18,34 +18,8 @@ _________________________________________________________________
 # **Section B: Purchase of Textbooks and Stationery for Sec 1**  
 Please note that our books and stationery are supplied by our school bookshop vendor, Popular Book Co Pte Ltd.
 
-**MODE OF ORDER 1:**<br> [Click here](https://textbook.popular.com.sg/) to go to Popular Online Store and select "Nan Chiau High School".
-
-* Online start date: **21 Dec 2022 at 9.00a.m.**
-* Online last day of order: **26 Dec 2022 at 12.00 noon**. 
-
-After placing your online above, there are two methods for collection:
-<table border="1" style="box-sizing: border-box; color: rgb(34, 34, 34); font-family: Montserrat, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border-collapse: collapse; width: 1230px; height: 187px;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box; height: 83px;"><td style="box-sizing: border-box; width: 202.75px; background-color: rgb(129, 210, 247); text-align: center; height: 83px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><strong style="box-sizing: border-box; font-weight: bolder;">Method 1:<br> Home Delivery Service</strong></span></td><td style="box-sizing: border-box; width: 418.562px; background-color: rgb(129, 210, 247); height: 83px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"> - Local delivery charge of $8.50 will apply for purchases of $130 and below.<br>  
-- FREE Local delivery charge for purchases of above $130.<br><br>
-*Note: Due to high delivery volume during festive season, home delivery service may take up to 09 Jan 2023 for your items to be delivered. Students who are affected will be excused from bringing their books to school till then.
-	</span></td><td style="box-sizing: border-box; width: 200.688px; background-color: rgb(129, 210, 247); height: 83px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><strong style="box-sizing: border-box; font-weight: bolder;"></td></tr><tr style="box-sizing: border-box; height: 51px;"><td rowspan="2" style="box-sizing: border-box; width: 100.75px; background-color: rgb(252, 232, 141); text-align: center; height: 104px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><strong style="box-sizing: border-box; font-weight: bolder;">Method 2:<br> Self Pick-Up from<br> School Bookshop</strong></span><br style="box-sizing: border-box;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><strong style="box-sizing: border-box; font-weight: bolder;"><br style="box-sizing: border-box;"></strong></span></td><td style="box-sizing: border-box; width: 250.562px; background-color: rgb(252, 232, 141); height: 51px; text-align: left; vertical-align: top;"><pre style="box-sizing: border-box; font-family: monospace, monospace; font-size: 1em;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Appointment Booking via</span>
-<span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><a href="https://www.picktime.com/popularschool" target="_blank" rel="noopener noreferrer" style="box-sizing: border-box; background-color: transparent;">https://www.picktime.com/popularschool</a></span></pre></td><td style="box-sizing: border-box; width: 200.688px; background-color: rgb(252, 232, 141); height: 51px; text-align: left; vertical-align: middle;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><strong style="box-sizing: border-box; font-weight: bolder;"></strong></span></td></tr><tr style="box-sizing: border-box; height: 53px;"><td style="box-sizing: border-box; width: 200.562px; vertical-align: top; background-color: rgb(252, 232, 141); height: 53px;"><pre style="box-sizing: border-box; font-family: monospace, monospace; font-size: 1em; text-align: left;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Instructions:<br>
-Step 1: Select "Nan Chiau High School"<br> and book your preferred appointment date and time.<br>
-Step 2: Complete the form.<br>
-Step 3: Print the Booking Confirmation Page / Email<br>
-Step 4: Present the Booking Confirmation Page / Email<br> at the school bookshop for collection.<br>
-</span>
-<span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">(Admission is strictly based on appointment booking)<br>
-
-**Other Information:**<br> 
-Bookshop Opening Dates for Collection (For Sec 1 only) :  28/12/2022 to 30/12/2022<br>
-Bookshop is closed on 31/12/2022, Saturdays, Sundays & Public Holidays.<br>
-Exchange of books & stationery is allowed only during school term in Jan 2023.<br> Please produce original receipt or invoice.<br> Books & Stationery must be in good condition.<br> Books with written name will not be accepted.
-<br>Fax No : 6315 0194
-Telephone No : 6514 7102 (School Bookshop) / 6462 9530 (Popular Office)
-Email : nch@popularworld.com</span></pre></td><td style="box-sizing: border-box; width: 200.688px; background-color: rgb(252, 232, 141); height: 53px; vertical-align: top;"><pre style="box-sizing: border-box; font-family: monospace, monospace; font-size: 1em;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><strong style="box-sizing: border-box; font-weight: bolder;"></strong></span>
-
-</pre></td></tr></tbody></table>
-
+[Click here to download]() an enlargeable version of the instructions below:
+![Textbook](/images/Instruction%20Sheet%20Sec%201%20Purchase%20Textbooks%20and%20Stationery%20Final.png)
 
   
 
