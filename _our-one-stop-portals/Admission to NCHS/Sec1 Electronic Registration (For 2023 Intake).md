@@ -18,7 +18,7 @@ _________________________________________________________________
 # **Section B: Purchase of Textbooks and Stationery for Sec 1**  
 Please note that our books and stationery are supplied by our school bookshop vendor, Popular Book Co Pte Ltd.
 
-[Click here to download]() an enlargeable version of the instructions below:
+[Click here to download](/files/3%20a%20Copy%20of%20NCH%20Instruction%20Sheet%20Sec%201%20Final.pdf) an enlargeable version of the instructions below:
 ![Textbook](/images/Instruction%20Sheet%20Sec%201%20Purchase%20Textbooks%20and%20Stationery%20Final.png)
 
   
