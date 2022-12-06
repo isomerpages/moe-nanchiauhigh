@@ -18,9 +18,11 @@ _________________________________________________________________
 # **Section B: Purchase of Textbooks and Stationery for Sec 1**  
 Please note that our books and stationery are supplied by our school bookshop vendor, Popular Book Co Pte Ltd.
 
-[Click here to download](/files/3%20a%20Copy%20of%20NCH%20Instruction%20Sheet%20Sec%201%20Final.pdf) an enlargeable version of the instructions below:
+[Click here to download](/files/3%20a%20Copy%20of%20NCH%20Instruction%20Sheet%20Sec%201%20Final.pdf) an enlargeable version of the instructions shown below:
 ![Textbook](/images/Instruction%20Sheet%20Sec%201%20Purchase%20Textbooks%20and%20Stationery%20Final.png)
 
+[Click here to download](/files/2023%20Sec%201%20Booklist%20Only.pdf) an enlargeable version of the booklist shown below:
+![NCHS 2023 Sec1 Book List](/images/NCHS%202023%20Sec1%20Book%20List_Page_1.png)
   
 
 
@@ -29,7 +31,9 @@ Please note that our books and stationery are supplied by our school bookshop ve
 
 # **Section C: Purchase of Uniform and PE attire for Sec 1**
 Refer to the graphic below on how to make your online purchase at [https://finestuniform.com/collections/nan-chiau-high-school](https://finestuniform.com/collections/nan-chiau-high-school).
+<br>**Note:** You are required to input the password **NC22b** when prompted.
 
+![Purchase Uniform 2022](/images/NC%20Online%20instructions%202022%20-%20Purchase%20Uniform.png)
 
 # **Section D: Purchase of Personal Learning Device (Chromebook)**
 At MOE’s Committee of Supply Debate in March 2020, MOE launched the National Digital Literacy Programme (“NDLP”) for our schools and Institutes of Higher Learning to help students strengthen their digital literacy. One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (“PDLP”) for all secondary school students, whereby every secondary school student will own a school-prescribed Personal Learning Device (“PLD”). 
