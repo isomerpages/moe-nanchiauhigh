@@ -32,3 +32,5 @@ Let’s look forward to building on the shoulders of the giants who have come be
 
 Mdm Ler Jia Luen <br>
 Principal
+
+![Ai Wo Nan Chiau](/images/Ai%20Wo%20Nan%20Chiau.jpg)
