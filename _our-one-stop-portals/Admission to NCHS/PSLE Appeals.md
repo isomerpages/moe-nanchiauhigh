@@ -14,22 +14,13 @@ Nan Chiau High School was official designated as a Special Assistance Plan from 
 **General Information**
 
 School admissions are based on merit in the Secondary 1 Posting Exercise. Posting decisions are based on objective and transparent measures of academic merit i.e. PSLE scores. Appeals that take place after the S1 Posting Exercise must be aligned to these principles, in order to be fair to other admitted students.
-
-  
-
-All students appealing into Nan Chiau High School must also have sat for the Chinese Language or Higher Chinese Language paper during their PSLE Examinations.
-
-  
-
-Primary 6 students who have applied to Nan Chiau High School during MOE’s Secondary 1 Posting Exercise but are unsuccessful, may appeal to be considered for transfer to Nan Chiau High School. These students appealing for admission to NCHS after the release of the Secondary 1 Posting result have to meet the school’s cut-off points (COP).
-
   
 
 (\*Note: Students admitted to a school through the DSA-Sec Exercise will not be allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA school for the duration of the programme admitted to.)
 
 **Application Period**
 
-The application period is from the&nbsp;**day of release of Secondary 1 Posting results (0900 hours) and will close 7 days later at 2359 hours.**
+The application period is from the&nbsp;**day of release of Secondary 1 Posting results (9a.m. on 21 Dec 2022) and will close at 12p.m. on 27 Dec 2022.**
 
   
 
@@ -37,9 +28,8 @@ Late or incomplete application will not be considered. Only shortlisted applican
 
 **How to apply?**
 
-Application is to be done strictly via the online application form&nbsp;[(Click here to access the appeal portal)](https://docs.google.com/forms/d/e/1FAIpQLSecmN_2bbZMtU8PkUqptMYaJunG7JXA6pNovQHDT6seJGSlSQ/viewform).
+Application is to be done strictly via the online application form&nbsp; at [Sec1 Appeal (for 2023 intake)](https://form.gov.sg/637b469241fdcf00125d8cd7).
 
-  
 
 For your convenience, it is not necessary to submit any hardcopy appeal form personally.
 
