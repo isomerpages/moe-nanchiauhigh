@@ -56,7 +56,7 @@ Please read this letter (Link available on 21 Dec 2022) on the important informa
 # FURTHER Enquiries
 ----------------------------------
 
-You may check out our "FAQs for Parents" section and briefing resources [here](https://sites.google.com/moe.edu.sg/sec1admissionsfaqs/faqs-for-parents).
+You may check out our "FAQs for Parents" section and briefing resources [here](https://sites.google.com/moe.edu.sg/sec1-admissions-faqs/faqs-for-parents).
 
 
 
