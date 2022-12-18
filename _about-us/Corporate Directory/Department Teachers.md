@@ -4,4 +4,11 @@ permalink: /about-us/Corporate-Directory/department-teachers/
 description: ""
 third_nav_title: Corporate Directory
 ---
-*This page is currently undergoing updating and will be ready by mid Dec 2022. Thank you for your patience.*
+**Aesthetics Department**
+![](/images/1a_Aesthetics.png)
+![](/images/1b_Aesthetics.png)
+![](/images/1c_Aesthetics.png)
+
+**English Language and Literature**
+
+**Humanities**
