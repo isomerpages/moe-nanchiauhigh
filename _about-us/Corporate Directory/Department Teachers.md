@@ -25,8 +25,13 @@ third_nav_title: Corporate Directory
 ![](/images/4d_Maths.png)
 
 **Mother Tongue Languages Department**
-
+![](/images/5a_Mother%20Tongue%20Languages.png)
+![](/images/5b_Mother%20Tongue%20Languages.png)
+![](/images/5c_Mother%20Tongue%20Languages.png)
+![](/images/5d_Mother%20Tongue%20Languages.png)
 
 **Physical Education Department**
+![](/images/6a_PE.png)
+![](/images/6b_PE.png)
 
 **Science Department**
