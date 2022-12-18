@@ -14,6 +14,9 @@ third_nav_title: Corporate Directory
 ![](/images/2b_English%20Language%20and%20Literature.png)![](/images/2c_English%20Language%20and%20Literature.png)
 
 **Humanities Department**
+![](/images/3a_Humanities.png)
+![](/images/3b_Humanities.png)
+![](/images/3c_Humanities.png)
 
 **Mathematics Department**
 
