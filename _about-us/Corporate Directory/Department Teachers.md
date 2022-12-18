@@ -9,6 +9,16 @@ third_nav_title: Corporate Directory
 ![](/images/1b_Aesthetics.png)
 ![](/images/1c_Aesthetics.png)
 
-**English Language and Literature**
+**English Language and Literature Department**
+![](/images/2a_English%20Language%20and%20Literature.png)
+![](/images/2b_English%20Language%20and%20Literature.png)![](/images/2c_English%20Language%20and%20Literature.png)
 
-**Humanities**
+**Humanities Department**
+
+**Mathematics Department**
+
+**Mother Tongue Languages Department**
+
+**Physical Education Department**
+
+**Science Department**
