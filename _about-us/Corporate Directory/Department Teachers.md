@@ -20,9 +20,9 @@ third_nav_title: Corporate Directory
 
 **Mathematics Department**
 ![](/images/4a_Maths1.png)
-![](/images/4b_Maths.png)
+![](/images/4b_Maths1.png)
 ![](/images/4c_Maths.png)
-![](/images/4d_Maths.png)
+![](/images/4d_Maths1.png)
 
 **Mother Tongue Languages Department**
 ![](/images/5a_Mother%20Tongue%20Languages.png)
