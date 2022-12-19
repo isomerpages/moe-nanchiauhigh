@@ -16,10 +16,10 @@ third_nav_title: Corporate Directory
 **Humanities Department**
 ![](/images/3a_Humanities.png)
 ![](/images/3b_Humanities.png)
-![](/images/3c_Humanities.png)
+![](/images/3c_Humanities1.png)
 
 **Mathematics Department**
-![](/images/4a_Maths.png)
+![](/images/4a_Maths1.png)
 ![](/images/4b_Maths.png)
 ![](/images/4c_Maths.png)
 ![](/images/4d_Maths.png)
@@ -36,7 +36,7 @@ third_nav_title: Corporate Directory
 
 **Science Department**
 ![](/images/7a_Science.png)
-![](/images/7b_Science.png)
+![](/images/7b_Science1.png)
 ![](/images/7c_Science.png)
 ![](/images/7d_Science.png)
 ![](/images/7e_Science.png)
