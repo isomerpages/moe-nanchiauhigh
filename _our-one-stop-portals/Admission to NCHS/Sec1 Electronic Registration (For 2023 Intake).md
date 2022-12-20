@@ -52,6 +52,14 @@ Please read this **letter** (only available from 21 Dec 2022) and [Infographic o
 <br>[Click here](/files/POSB%20Smart%20Buddy_Intro%20Deck%20for%20Parents.pdf) for the introduction deck to POSB Smart Buddy.
 <br>[Click here](/files/Smart%20Buddy%20Registration%20Letter%20(Secondary-Online).pdf) for the application form for POSB Smart Buddy.
 
+# **Section G: Zoom Webinar for Sec1 Briefing**
+You are kindly invited to our zoom briefing this Thursday.
+<br>When: Dec 22, 2022 (Thursday), 9 a.m.to 10 a.m.
+<br>Topic: 2023 Sec 1 Zoom Webinar
+
+Please click the link below to join the webinar:<br>
+[https://moe-singapore.zoom.us/j/86488649405](https://moe-singapore.zoom.us/j/86488649405)
+<br>Passcode: 376825
 
 # FURTHER Enquiries
 ----------------------------------
