@@ -11,7 +11,7 @@ On behalf of all staff and students, we welcome you and your child to our Nan Ch
 _________________________________________________________________
 # **Section A: Online Registration Form**
  
-As part of Sec 1 Registration, we would appreciate very much for parents/guardians to take some time to complete this [form](https://forms.gle/V2Tf26oNuEBXo9Qr8) by 1 p.m., Friday, 23 December 2022. This is to allow us to get to know your child/ward better.
+As part of Sec 1 Registration, we would appreciate very much for parents/guardians to take some time to complete this [form](https://forms.gle/V2Tf26oNuEBXo9Qr8) by 2359h, Thursday, 22 December 2022. This is to allow us to get to know your child/ward better.
 
 _________________________________________________________________
 
@@ -38,7 +38,7 @@ Refer to the graphic below on how to make your online purchase at [https://fines
 # **Section D: Purchase of Personal Learning Device (Chromebook)**
 At MOE’s Committee of Supply Debate in March 2020, MOE launched the National Digital Literacy Programme (“NDLP”) for our schools and Institutes of Higher Learning to help students strengthen their digital literacy. One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (“PDLP”) for all secondary school students, whereby every secondary school student will own a school-prescribed Personal Learning Device (“PLD”). 
 
-Please read this **letter** (only available from 21 Dec 2022) and [Infographic on the NCHS PLD Initiative 2023](/files/Infographic%20on%20the%20PLD%20Initiative_2023%20-%20NCHS%20(Website).pdf) on the important information about the PLD for your child/ward before submitting your option below.
+Please read this [letter](/files/NCHS%20Letter%20to%20Parents%20for%20PDLP%20Procurement_21%20Dec%202022.pdf) and [Infographic on the NCHS PLD Initiative 2023](/files/Infographic%20on%20the%20PLD%20Initiative_2023%20-%20NCHS%20(Website).pdf) on the important information about the PLD for your child/ward before submitting your option below.
 
  
 * For Singapore Citizens, [Click here](https://go.gov.sg/pdlpadmin) to indicate if you would like to purchase a PLD with the school bulk purchase.
@@ -52,6 +52,14 @@ Please read this **letter** (only available from 21 Dec 2022) and [Infographic o
 <br>[Click here](/files/POSB%20Smart%20Buddy_Intro%20Deck%20for%20Parents.pdf) for the introduction deck to POSB Smart Buddy.
 <br>[Click here](/files/Smart%20Buddy%20Registration%20Letter%20(Secondary-Online).pdf) for the application form for POSB Smart Buddy.
 
+# **Section G: Zoom Webinar for Sec1 Briefing**
+You are kindly invited to our zoom briefing this Thursday.
+<br>When: Dec 22, 2022 (Thursday), 9 a.m.to 10 a.m.
+<br>Topic: 2023 Sec 1 Zoom Webinar
+
+Please click the link below to join the webinar:<br>
+[https://moe-singapore.zoom.us/j/86488649405](https://moe-singapore.zoom.us/j/86488649405)
+<br>Passcode: 376825
 
 # FURTHER Enquiries
 ----------------------------------
