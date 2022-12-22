@@ -34,7 +34,7 @@ description: ""
 
 **School Bill Payment**<br>
 1\.  [Online payment of School Bill (eNETS / Credit/Debit Card / Masterpass / PayLah! / Diners)](https://e-station.axs.com.sg/AXSOnline/external_apps/landing_page.php?bn=4ac28577e0795b27e2e52d9da0d1cc6444b109cee884cd66f9662a6e4e31d7c86e6d6da7d5662e1eadbcb2b3f811582e) [](https://e-station.axs.com.sg/AXSOnline/external_apps/landing_page.php?bn=4ac28577e0795b27e2e52d9da0d1cc6444b109cee884cd66f9662a6e4e31d7c86e6d6da7d5662e1eadbcb2b3f811582e)<br>
-2\.  Join the [GIRO scheme](https://va.ecitizen.gov.sg/cfp/customerPages/moe/displayresult.aspx?MesId=1287872)<br>
+2\.  Join the [GIRO scheme](https://www.moe.gov.sg/financial-matters/fees/egiro)<br>
 3.  AXS m-Station \[mobile app\] <br>
 4.  AXS Station 
 

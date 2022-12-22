@@ -4,6 +4,7 @@ permalink: /co-curricular-activities/Clubs-and-Societies/Chinese-Calligraphy/
 description: ""
 third_nav_title: Clubs and Societies
 ---
+
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR8dVkBFQIXJiv2xiaB2X3sCjIacaz5L_26AnRHS8ew-mhU0_4LZg9X5HqNLRE4MAWf-BV4R3Z19YuZ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 *   Friday,  
