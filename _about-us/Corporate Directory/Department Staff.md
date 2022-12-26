@@ -1,5 +1,5 @@
 ---
-title: Department Teachers
+title: Department Staff
 permalink: /about-us/Corporate-Directory/department-teachers/
 description: ""
 third_nav_title: Corporate Directory
@@ -22,7 +22,7 @@ third_nav_title: Corporate Directory
 ![](/images/4a_Maths1.png)
 ![](/images/4b_Maths1.png)
 ![](/images/4c_Maths1.png)
-![](/images/4d_Maths2.png)
+![](/images/4d_Maths3.png)
 
 
 **Mother Tongue Languages Department**
