@@ -8,12 +8,12 @@ third_nav_title: Departments
 
 **Vision**
 
-World-ready learners with integrity and an inquiring mind.
+Scientific Inquirer. Confident Communicator. Innovative Problem Solver
   
 
 **Mission**
 
-To develop individuals with strong scientific foundation and research skills through cultivating passion and discipline.
+To inculcate NCzens with a strong spirit of inquiry, grounded in ethics and humanity in science curriculum.
 
 **DEPARTMENT DETAILS**
 
