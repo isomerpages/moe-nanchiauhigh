@@ -8,33 +8,36 @@ third_nav_title: Departments
 
 **Vision**
 
-World-ready learners with integrity and an inquiring mind.
+Scientific Inquirer. Confident Communicator. Innovative Problem Solver
   
 
 **Mission**
 
-To develop individuals with strong scientific foundation and research skills through cultivating passion and discipline.
+To inculcate NCzens with a strong spirit of inquiry, grounded in ethics and humanity in science curriculum.
 
 **DEPARTMENT DETAILS**
 
-Staff List:
 <br>Mdm Ng Mui Hoon (HOD)
 <br>Mdm Neewyn Neo (SSD)
-<br>Mr Tai Chaw Keng (Subject Head/Physics)
-<br>Mdm Edlyn Lee (Subject Head/Biology)
+<br>Mr Jimmy Goh Giam Hwee (Physics, YH)
 <br>Mr Goh Khan Sen (Subject Head/Science Research)
+<br>Ms Chen Xiaowei (Chemistry, AYH)
+<br>Ms Nurhaida Bte Ramli (Acting Subject Head/Science)
+<br>Mdm Ainul Hani (Senior Teacher/Chemistry)
 <br>Ms Foo Su Lyn (Biology)
 <br>Mr Chen Yingjie Jason (Biology)
-<br>Mr Tien Chee Wai (Chemistry)
-<br>Mdm Ainul Hani (Chemistry)
+<br>Mr Leng Chengda Gabriel (Biology)
+<br>Ms Roxanne Lau (Biology)
 <br>Mdm Leow Shie Hui (Chemistry)
-<br>Ms Nurhaida Bte Ramli (Chemistry)
-<br>Ms Chen Xiaowei (Chemistry, AYH)
-<br>Mr Esmond Tay(Physics)
+<br>Mdm Khoo Ching Wan (Chemistry)
+<br>Mr Wong Foo Kit (Chemistry)
+<br>Mr Ryan Loh (Chemistry)
 <br>Mr Liow Kwok Bin (Physics)
+<br>Mr Esmond Tay (Physics)
 <br>Mr Gan Sze Fong (Physics)
-<br>Mr Jimmy Goh Giam Hwee (Physics, YH)  <br>Mdm Yee May May (TSO)
+<br>Mdm Yee May May (TSO)
 <br>Mdm Lim Zhenyi Crystal (TSO)
+
 
 **Our Goals**
 
