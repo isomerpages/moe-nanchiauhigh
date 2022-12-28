@@ -7,12 +7,12 @@ third_nav_title: Clubs and Societies
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSXOBGP-s3tA_BKcu3bqA9YWiqkw9j4_ytDwJ9fCtdxQ8yBu1P0m9H3dORzD04Reco0lNwrzgIhPSJa/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 *   Friday,  
-    2.30pm – 5.30pm  
+    2.45pm – 4.45pm  
      
 *   Computer Lab 4  
       
 *   Mr Lee Heng Leong
-
+*   Ms Roxanne Lau Shu Xin
 
 **KEY INFORMATION**
 
