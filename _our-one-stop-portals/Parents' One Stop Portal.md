@@ -48,7 +48,8 @@ description: ""
 [Secondary 4](https://drive.google.com/drive/folders/1Au3HRa0_d1-9RnNsMNigz8ZrayXyX8Jq?usp=sharing)
 
 **Student Academic Timetable**<br>
-[2022 Student Timetable](https://drive.google.com/drive/folders/1aGZqASMNs0pPdVXJOFMi1S0Z49QRWh58?usp=sharing)  
+[2023 Student Timetable](https://drive.google.com/drive/folders/1H1LEVFF6JxSl7QaW2dnv2n7cBQM26iIH?usp=share_link)
+<br>[2022 Student Timetable](https://drive.google.com/drive/folders/1aGZqASMNs0pPdVXJOFMi1S0Z49QRWh58?usp=sharing)  
 [2022 Term 1 Week 4 Learning Programme Schedule](https://docs.google.com/spreadsheets/d/1HHe3aKOZFwuqPL6efOvR4PU2G4WXWnjALvjIvkM7MCw/edit?usp=sharing)  
 [School Calendar](https://www-nanchiauhigh-moe-edu-sg-admin.cwp.sg/nchs/calendar)  
 [Exams & Prelims Schedule](https://drive.google.com/folderview?id=0B0NLoi7jhnNmNTFPaVYwV004YmM&usp=sharing)  
