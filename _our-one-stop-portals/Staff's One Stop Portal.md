@@ -5,8 +5,8 @@ description: ""
 ---
 **NCHS Live Event & Timetables**<br>
 *   [NCHS Live Event Page](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fnchs-live&sa=D&sntz=1&usg=AOvVaw0l9o1DpgtbcLBQMS7Ow8j6) (Click here for live event)
-        
-*   [C](https://docs.google.com/spreadsheets/d/1-VbLmBSi5UDXj_ElVm3A_wcaFnmo6MRh/edit?usp=sharing&ouid=107463612220364539486&rtpof=true&sd=true)[CE / TSI / Assembly](https://docs.google.com/spreadsheets/d/1-VbLmBSi5UDXj_ElVm3A_wcaFnmo6MRh/edit?usp=sharing&ouid=107463612220364539486&rtpof=true&sd=true) [Calendar](https://docs.google.com/spreadsheets/d/1-VbLmBSi5UDXj_ElVm3A_wcaFnmo6MRh/edit?usp=sharing&ouid=107463612220364539486&rtpof=true&sd=true)
+*   [CCE, TSI and Assembly Calendars (2023)](https://docs.google.com/spreadsheets/d/1K8VAgWQIloJckuPnZ2uye5Mz6L3hccOu1efGdzEJd5U/edit?usp=sharing)
+
     
 *   [Digital Staff Movement Chart](https://sites.google.com/moe.edu.sg/nchs-staffmovement/home)
     
