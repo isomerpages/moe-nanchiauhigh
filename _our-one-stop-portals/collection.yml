@@ -2,6 +2,7 @@ collections:
   our-one-stop-portals:
     output: true
     order:
+      - NCHS Calendar (For Public).md
       - NCHS Staff Calendar (For Staff Only).md
       - Staff's One Stop Portal.md
       - Student's One Stop Portal.md
