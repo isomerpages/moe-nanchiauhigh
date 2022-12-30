@@ -8,7 +8,7 @@ description: ""
         
 *   [C](https://docs.google.com/spreadsheets/d/1-VbLmBSi5UDXj_ElVm3A_wcaFnmo6MRh/edit?usp=sharing&ouid=107463612220364539486&rtpof=true&sd=true)[CE / TSI / Assembly](https://docs.google.com/spreadsheets/d/1-VbLmBSi5UDXj_ElVm3A_wcaFnmo6MRh/edit?usp=sharing&ouid=107463612220364539486&rtpof=true&sd=true) [Calendar](https://docs.google.com/spreadsheets/d/1-VbLmBSi5UDXj_ElVm3A_wcaFnmo6MRh/edit?usp=sharing&ouid=107463612220364539486&rtpof=true&sd=true)
     
-*   [Digital Staff Movement Chart](https://sites.google.com/moe.edu.sg/nchs-onestop-staff/digital-staff-movement?authuser=0)
+*   [Digital Staff Movement Chart](https://sites.google.com/moe.edu.sg/nchs-staffmovement/home)
     
 *   [2023 Semester 1 Timetable](https://drive.google.com/drive/folders/1H1LEVFF6JxSl7QaW2dnv2n7cBQM26iIH?usp=share_link)<br>
 
