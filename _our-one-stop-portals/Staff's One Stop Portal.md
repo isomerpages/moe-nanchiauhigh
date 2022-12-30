@@ -3,11 +3,9 @@ title: Staff's One Stop Portal
 permalink: /our-resources/Teachers-Resources/
 description: ""
 ---
-**NCHS Live Event & Calendars**<br>
+**NCHS Live Event & Timetables**<br>
 *   [NCHS Live Event Page](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fnchs-live&sa=D&sntz=1&usg=AOvVaw0l9o1DpgtbcLBQMS7Ow8j6) (Click here for live event)
-    
-*   [NCHS School & Staff Calendars](https://sites.google.com/moe.edu.sg/nchs-onestop-staff/nchs-staff-calendar?authuser=0)  _**\*New\***_
-    
+        
 *   [C](https://docs.google.com/spreadsheets/d/1-VbLmBSi5UDXj_ElVm3A_wcaFnmo6MRh/edit?usp=sharing&ouid=107463612220364539486&rtpof=true&sd=true)[CE / TSI / Assembly](https://docs.google.com/spreadsheets/d/1-VbLmBSi5UDXj_ElVm3A_wcaFnmo6MRh/edit?usp=sharing&ouid=107463612220364539486&rtpof=true&sd=true) [Calendar](https://docs.google.com/spreadsheets/d/1-VbLmBSi5UDXj_ElVm3A_wcaFnmo6MRh/edit?usp=sharing&ouid=107463612220364539486&rtpof=true&sd=true)
     
 *   [Digital Staff Movement Chart](https://sites.google.com/moe.edu.sg/nchs-onestop-staff/digital-staff-movement?authuser=0)
