@@ -26,9 +26,9 @@ description: ""
     
 *   [For student appointment with ECG Counsellor](https://www.google.com/url?q=https%3A%2F%2Fmoeecg.appointeze.com%2Fonlinelink%2FPanMiaohua&sa=D&sntz=1&usg=AOvVaw10brvgJQspCmKM7MFwAS6R) _**\*New\***_
     
-*  [[CCC Form] ICT Equipment Defect and Loan Request](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Ficthelpccc&sa=D&sntz=1&usg=AOvVaw3YAma3bWkRvpHvgKSwHL44)
+*  [[CCC Form] ICT (including AV) Equipment Defect and Loan Request](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Ficthelpccc&sa=D&sntz=1&usg=AOvVaw3YAma3bWkRvpHvgKSwHL44)
     
-*  [NCHS Defect Reporting (Non-ICT)](https://www.google.com/url?q=https%3A%2F%2Fform.gov.sg%2F6279c4d743b1c300128b5088&sa=D&sntz=1&usg=AOvVaw0TlArOOu9EtRHoOk5mWN3T)
+*  [NCHS Defect Reporting](https://www.google.com/url?q=https%3A%2F%2Fform.gov.sg%2F6279c4d743b1c300128b5088&sa=D&sntz=1&usg=AOvVaw0TlArOOu9EtRHoOk5mWN3T)
     
 *   [NCHS Operations Support Request](https://www.google.com/url?q=https%3A%2F%2Fform.gov.sg%2F626a03e613531800145617a7&sa=D&sntz=1&usg=AOvVaw2PEWT1Zr46GWwncgd3fQzK)
     
