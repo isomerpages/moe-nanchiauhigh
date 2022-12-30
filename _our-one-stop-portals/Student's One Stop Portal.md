@@ -7,7 +7,7 @@ description: ""
 [2023 Semester 1 Timetable](https://drive.google.com/drive/folders/1H1LEVFF6JxSl7QaW2dnv2n7cBQM26iIH?usp=share_link)<br>
 [2023 Progress Assessment 1 (PA1) Schedule](To be released)  
 [2023 Secondary 4 SSL Schedule (Term 1)](To be released)<br>
-[School Calendar](https://www-nanchiauhigh-moe-edu-sg-admin.cwp.sg/nchs/calendar)  
+[School Calendar](https://calendar.google.com/calendar/u/0?cid=Y18xamhpNmlocWM4dG5rZHBoMzlncGg2bHRwc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)  
 
 **School Resources**<br>
 [Student Learning Space (SLS)](https://learning.moe.edu.sg/)  
