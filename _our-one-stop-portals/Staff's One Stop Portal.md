@@ -10,9 +10,7 @@ description: ""
     
 *   [Digital Staff Movement Chart](https://sites.google.com/moe.edu.sg/nchs-onestop-staff/digital-staff-movement?authuser=0)
     
-*   [Timetable for Sec 1, 2 & 3 EBP Programme (Oct-Nov 2022)](https://drive.google.com/drive/folders/1k72-HLhnC6FKaeEGDJAMkcr_fapEeUQx?usp=sharing) 
-    
-*   [Sec 1 to 4 Term 3 Academic Timetable](https://drive.google.com/drive/folders/1aGZqASMNs0pPdVXJOFMi1S0Z49QRWh58?usp=sharing)
+*   [2023 Semester 1 Timetable](https://drive.google.com/drive/folders/1H1LEVFF6JxSl7QaW2dnv2n7cBQM26iIH?usp=share_link)<br>
 
 **EdTech Professional Development for Teachers** 
 *    [NCHS EdTech Portal](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-edtech%2Fhome&sa=D&sntz=1&usg=AOvVaw17XqdJKIc0OauG8ihGm3tf) _**\*New\***_
