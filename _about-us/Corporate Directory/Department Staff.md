@@ -40,6 +40,6 @@ third_nav_title: Corporate Directory
 **Science Department**
 ![](/images/7a_Science.png)
 ![](/images/7b_Science2.png)
-![](/images/7c_Science.png)
+![](/images/7c_Science1.png)
 ![](/images/7d_Science.png)
 ![](/images/7e_Science.png)
