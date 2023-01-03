@@ -59,6 +59,6 @@ Highlight(s) of Activities
 2019: POSB \[i.code\] Challenge 2019 – Top 10 Finalists<br>
 2020: Youth Cyber Exploration Programme – Top 10 Finalists<br>
 2020: N.E.mation! 2021 – Top 10 Student Team<br>
-2021: e-Science &amp; Technology Challenge 2021, Category 2 - 1st Runner Up.
-2022: Microsoft Imagine Cup Junior Singapore (ICJSG) - Top 10 Finalists.
+2021: e-Science &amp; Technology Challenge 2021, Category 2 - 1st Runner Up.<br>
+2022: Microsoft Imagine Cup Junior Singapore (ICJSG) - Top 10 Finalists.<br>
 2022: Infocomm Media Club Youth Awards 2022 - Certificate of Accomplishment
