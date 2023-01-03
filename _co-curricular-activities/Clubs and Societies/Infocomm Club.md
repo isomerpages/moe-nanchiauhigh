@@ -6,12 +6,9 @@ third_nav_title: Clubs and Societies
 ---
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSXOBGP-s3tA_BKcu3bqA9YWiqkw9j4_ytDwJ9fCtdxQ8yBu1P0m9H3dORzD04Reco0lNwrzgIhPSJa/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-*   Friday,  
-    2.45pm – 4.45pm  
-     
-*   Computer Lab 4  
-      
-*   Mr Lee Heng Leong
+*   Friday,  2.45pm – 4.45pm
+*   Computer Lab 4<br>  
+*   Mr Lee Heng Leong<br>
 *   Ms Roxanne Lau Shu Xin
 
 **KEY INFORMATION**
@@ -62,4 +59,6 @@ Highlight(s) of Activities
 2019: POSB \[i.code\] Challenge 2019 – Top 10 Finalists<br>
 2020: Youth Cyber Exploration Programme – Top 10 Finalists<br>
 2020: N.E.mation! 2021 – Top 10 Student Team<br>
-2021: e-Science &amp; Technology Challenge 2021, Category 2 - 1st Runner Up.
+2021: e-Science &amp; Technology Challenge 2021, Category 2 - 1st Runner Up.<br>
+2022: Microsoft Imagine Cup Junior Singapore (ICJSG) - Top 10 Finalists.<br>
+2022: Infocomm Media Club Youth Awards 2022 - Certificate of Accomplishment
