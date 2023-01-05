@@ -56,4 +56,3 @@ Wind Orchestra is a big family of musicians who pride themselves in their passio
 8.  4th National Band Competition: Silver (2012)<br> 
 9.  SYF Central Judging of Concert Bands: Silver (2011)<br>
 10.  3rd National Band Competition: Silver (2010)
-    
