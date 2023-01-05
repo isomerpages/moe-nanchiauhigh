@@ -6,8 +6,8 @@ third_nav_title: Clubs and Societies
 ---
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQXpv0TYFLvvsGrwFjbOntI2Ouiiy4Bz_nB6jDunfyvswjQa5FwAuc6mZ1R_v5bqCtPmcJeBjrZuKd9/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-*   Thursday,  
-    3.15pm – 5.30pm
+*   Friday,  
+    2.45pm – 5.00pm
 
   
 
