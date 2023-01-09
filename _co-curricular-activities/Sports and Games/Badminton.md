@@ -34,8 +34,8 @@ Thursday: Boys
 Venue: ISH Level 2 &amp; School Hall
 
 
-*   Mr Clarence Choo (OIC)  
-    Mdm Ye Bijiao
+*  Mr Clarence Choo (OIC)  
+    Mrs Chia (Kate)
 		
 **KEY INFORMATION**
 
