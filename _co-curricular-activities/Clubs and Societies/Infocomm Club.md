@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Clubs-and-Societies/Infocomm-Club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-<iframe allowfullscreen="true" height="569" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSlqcIgMlYvYpFo5VSwm21VwyRJtnaSVq5c4ZrkVSoHxZlubE40cSulOCxZwqg3x4A62XF5TTCMEQqG/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="569" width="750" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSlqcIgMlYvYpFo5VSwm21VwyRJtnaSVq5c4ZrkVSoHxZlubE40cSulOCxZwqg3x4A62XF5TTCMEQqG/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 <br>Friday,  2.45pm – 4.45pm
 <br>Computer Lab 4
