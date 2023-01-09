@@ -4,37 +4,27 @@ permalink: /co-curricular-activities/Clubs-and-Societies/Infocomm-Club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSXOBGP-s3tA_BKcu3bqA9YWiqkw9j4_ytDwJ9fCtdxQ8yBu1P0m9H3dORzD04Reco0lNwrzgIhPSJa/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSlqcIgMlYvYpFo5VSwm21VwyRJtnaSVq5c4ZrkVSoHxZlubE40cSulOCxZwqg3x4A62XF5TTCMEQqG/embed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="569" allowfullscreen="true" ></iframe>
 
-*   Friday,  2.45pm – 4.45pm
-*   Computer Lab 4<br>  
-*   Mr Lee Heng Leong<br>
-*   Ms Roxanne Lau Shu Xin
+<br>Friday,  2.45pm – 4.45pm
+<br>Computer Lab 4
+<br>Mr Lee Heng Leong (OIC)
+<br>Ms Roxanne Lau Shu Xin
 
-**KEY INFORMATION**
-
-
-**CCA Objectives**
-
+**KEY INFORMATION**<br>
+<br>**CCA Objectives**<br>
 Infocomm Club aims to ignite in students a passion for Infocomm by providing opportunities for them to gain relevant skills and challenge themselves through participation in national Infocomm competitions organised by IMDA.
 
-**CCA Description**
-
-
+**CCA Description**<br>
 Infocomm club is a dynamic and exciting CCA filled with opportunities for growth. The CCA collaborates with Infocomm Media Development Authority (IMDA) to provide latest relevant ICT courses for our students in various functional domains as detailed in the ICM Learning Roadmap programme.
-
-  
 
 Students in the Infocomm Club are trained to develop both games and mobile applications. As we value the importance of digital design, Infocomm Club also provides students with basic knowledge of Adobe Illustrator and Photoshop to enable them to enhance the outlook of their digital projects. Outstanding students will be given the opportunity to apply their knowledge and stretch their abilities through participation in national competitions (e.g. Singapore Games Creation Competition, National Olympiad in Informatics, i.Code) and other meaningful competitions organised by IMDA.
 
-Highlight(s) of Activities
-
+**Highlight(s) of Activities**<br>
 1\. Singapore Games Creation Competition.<br>
 2\. Strategic partnership with IMDA.
 
-**Achievements**
-
-
+**Achievements**<br>
 2012: National Infocomm Club Awards 2012 (3rd Prize) – Chloe’s Educational Journey<br>
 2013: ITE Skills Competition 2013 (Web Design Category) – Gold Award<br>
 2014: National Infocomm Security Competition 2014 – Top 10 Finalist<br>
