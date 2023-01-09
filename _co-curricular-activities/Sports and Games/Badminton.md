@@ -4,29 +4,34 @@ permalink: /co-curricular-activities/Sports-and-Games/Badminton/
 description: ""
 third_nav_title: Sports and Games
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSOov9XgLLmi-VYNG8PBzpPLEoY-QR2I2sMbtzz13e8oyDO38-UsxNBdTV1tetPZBffVULrdxiZuIvI/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTZd6QrG2TlF6RWsN-ksW6KFSePq1TXIMG2pYuWCdUKutXMZPBO2vJcvv2c1cidhTH_k09XJilwSZz3/embed?start=true&loop=true&delayms=5000" frameborder="0" width="940" height="569"></iframe>
 
-**Odd Week**
+**Odd Week**<br>
+Monday: Boys & Girls  
+3.30pm – 6.30pm  
+Wednesday: Boys<br>
+3.30pm – 6.30pm  
+Thursday: Girls<br>
+ 3.30pm – 6.30pm
 
-*   Monday: Boys &amp; Girls,  
-    3.30pm – 6.00pm  
-    Wednesday: Boys,  
-    3.30pm – 6.00pm  
-    Thursday: Girls,  
-    3.30pm – 6.00pm
+(6.00pm - 6.30pm – Pack up, Clean up & Debrief)
 
 **Even Week**
 
+Monday: 
+<br>Boys & Girls,  
+3.30pm – 6.30pm  
 
-*   Monday: Boys &amp; Girls,  
-    3.30pm – 6.00pm  
-    Wednesday: Girls,  
-    3.30pm – 6.00pm  
-    Thursday: Boys,  
-    3.30pm – 6.00pm
+Wednesday: 
+<br>Girls
+3.30pm – 6.30pm  
+Thursday: Boys
+<br>3.30pm – 6.30pm
+
+(6.00pm - 6.30pm – Pack up, Clean up & Debrief)
 
 
-*   ISH Level 2 &amp; School Hall
+Venue: ISH Level 2 &amp; School Hall
 
 
 *   Mr Clarence Choo (OIC)  
@@ -53,12 +58,14 @@ Study &amp; train hard persistently to give the best.
 Annual CCA Camp<br>
 Umpiring workshop<br>
 Friendly matches<br>
-Fitness Conditioning
+Fitness Conditioning<br>
+National School Games (NSG) Badminton (North Zone) for both B & C Divisions<br>
+Modified Inter-Class Badminton Competition<br>
+Sports Education Programme (SEP)
 
-**Achievements**
-
+**Achievements**<br>
 National School Games<br>
-2021 – Participated in NSG (NZ) only B Div Boys &amp; Girls<br>
-2020 – Participated in North Zone (NZ)<br>
-2019 – B Boys &amp; C Girls – NZ Q-Finals<br>
-2018 – C Boys – NZ Q-Finals
+*   2022 -  Participated in NSG (NZ) for all Boys & Girls Divisions C Boys – NZ Top 6<br>
+*   2021 – Participated in NSG (NZ) only B Div Boys & Girls<br>
+*   2020 – Participated in NSG (NZ)<br>
+*   2019 – B Boys & C Girls – NZ Q-Finals
