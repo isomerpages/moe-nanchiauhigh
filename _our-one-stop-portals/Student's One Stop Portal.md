@@ -28,8 +28,7 @@ description: ""
 
 [My SkillsFuture Portal](https://www.google.com/url?q=https%3A%2F%2Fwww.myskillsfuture.gov.sg%2Fcontent%2Fstudent%2Fen%2Fsecondary.html&sa=D&sntz=1&usg=AOvVaw0WuL8c2C26ICwnoaEUyV39)
 
-
-[Make an appointment with School ECG Counsellor (Ms Pan)](https://www.google.com/url?q=https%3A%2F%2Fmoeecg.appointeze.com%2Fonlinelink%2FPanMiaohua&sa=D&sntz=1&usg=AOvVaw10brvgJQspCmKM7MFwAS6R)
+[Make an appointment with School ECG Counsellor (Ms Pan)](go.gov.sg/nchs-ecg)
 
 
 **School Bill Payment**<br>
