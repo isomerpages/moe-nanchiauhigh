@@ -3,31 +3,26 @@ title: Financial Assistance and Bursaries
 permalink: /Financial-Assistance-and-Bursaries/
 description: ""
 ---
+Dear Students and Parents,
 
-**Singapore Buddhist Lodge Bursary 2022**
+If you are interested in applying for the following financial assistance support, please click on the respective links and submit your completed forms and supporting documents (in hardcopy) to the general office or Mr Jimmy Goh (Year Head), before the deadlines.
+<br>
+<br>
 
-  
 
-Please take note:<br>
-1\. Applicants must be Singapore citizens and permanent residents.<br>
-2. The applicants should come from low-income families, must be of good conduct and academic results. <br>
-3. Recipients of other scholarships or bursaries from other organizations are not eligible to apply. <br>
-4. The bursary Award for lower and upper Secondary students are S$400.00 and S$500.00 respectively.<br>
-5. Application forms can be retrieved from FTs. <br>
-6. Applicants need to ensure that supporting documents are attached and application form is completed before submission.
+| S/No | Title | Applicable for | Eligibility Criteria | Application Period | Links for more details |
+| ---- | ----- | ------ | -------------------- | ------------------ | --------------------- 
+| 1 | MOE Financial Assistance Scheme (FAS) | All Students | 1. GHI < $3000<br><br>or<br><br>2.PCT < $750 | Jan - Oct | https://www.moe.gov.sg/financial-matters/financial-assistance |
+| 2 | School-based Financial Assistance Scheme (FAS) | All students | 1. PCI < $1000 | Jan - Oct | MOE-FAS-application-form (evaluation will be based on school criteria) |
+| 3 | Straits Times School Pocket Money Fund, STSPMF (Round 2) | Only 2023 Sec 1 students | 1.	Singapore Citizens  or Singapore PR <br><br>2.	Staying in HDB 4-rm or smaller unit <br><br>3.	PCI <= $690 <br><br>4.	Not receiving other school pocket money fund, except for MOE/School FAS <br><br>5.	Did not receive 24-mth STSPMF assistance during Pri & Sec | 12 Jan 2023 - 14 Feb 2023 | Annex A - 2023 STSPMF Application Form for schools|
 
-**Straits Times Pocket Money Fund 2022 (for Sec 1 2022 only)**
 
-Deadline for submission of application forms:  11th February 2022 (Fri).  
 
-  
 
-Please take note:<br>
-1\. Applicants must be a Singapore Citizen (SC) or Singapore Permanent Resident (SPR); and<br>
-3. Family is living in a 4-room HDB flat or smaller; and<br>
-4. Family has a Gross per capita income (PCI) of $690/ month or less; and<br>
-5. Is not concurrently receiving school pocket money from another STSPMF disbursing agency or receiving monthly school pocket money from other schemes, excluding MOE FAS; and<br>
-5. Has not been a STSPMF beneficiary for 24 months for the whole schooling years of primary and secondary school and 48 months for post-secondary school.<br>
-6. Students who are successful in their applications will receive the monthly school pocket money of $95 <br>
-7. Application forms can be retrieved from FTs. <br>
-8. Applicants need to ensure that supporting documents are attached and application form is completed before submission.
+
+
+
+
+
+
+
