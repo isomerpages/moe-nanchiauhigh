@@ -44,7 +44,17 @@ b. Character and Citizenship Education (CCE)
 
 **At NAN CHIAU HIGH SCHOOL, the following lessons from the Sexuality Education Programme will be taught in** **2022****:**
 
-![](/images/sexEdSec12023.png)
+<center>
+2023 SEXUALITY EDUCATION LESSONS IN CCE 2021
+	
+SECONDARY 1
+</center>
+
+| Unit | Lesson Title/Duration | Lesson Overview | Lesson Objectives<br> At the end of the lesson, students will be able to: | Time Period (e.g. Term 1 Week 2) |
+| -------- | -------- | -------- | -------- | -------- |
+|  Respectful Relationships & Safety | Steady or Not<br>Lesson 1<br>(45 mins) | Text     |
+
+
 
 <center>
 Secondary 2
