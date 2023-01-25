@@ -44,55 +44,18 @@ b. Character and Citizenship Education (CCE)
 
 **At NAN CHIAU HIGH SCHOOL, the following lessons from the Sexuality Education Programme will be taught in** **2022****:**
 
-<center>
-2023 SEXUALITY EDUCATION LESSONS IN CCE 2021
-	
-SECONDARY 1
-</center>
+![](/images/SexEdS1_1.png)
+![](/images/SexEdS1_2.png)
 
-| Unit | Lesson Title/Duration | Lesson Overview | Lesson Objectives<br> At the end of the lesson, students will be able to: | Time Period (e.g. Term 1 Week 2) |
-| -------- | -------- | -------- | -------- | -------- |
-|  Respectful Relationships & Safety | Steady or Not<br>Lesson 1<br>(45 mins) | This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline. |  recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles <br><br> recognise that there are different forms of love (e.g. familial, platonic, romantic love) <br><br>recognise the importance and understand what builds healthy and supportive relationships, both online and offline <br><br>understand what dating is, and recognise that the readiness and interest in dating vary among individuals | Term 3 Week 6<br><br><br><br><br><br><br><br> | ddsdds
+![](/images/SexEdS2_1.png)
+![](/images/SexEdS2_2.png)
+![](/images/SexEdS2_3.png)
 
+![](/images/SexEdS3_1.png)
+![](/images/SexEdS3_2.png)
 
-
-<center>
-Secondary 2
-</center>
-
-UNIT: Respectful Relationships & Safety
-
-| LESSONS / DURATION | LESSON OBJECTIVES<BR>At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2)
-| -------- | -------- | -------- |
-| 1<br>(45 mins)     | -   Know that one’s understanding of gender roles should not be limited by gender stereotypes<br>-  Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>-   Understand what sexual orientation entails | Term 3 Week 9   |
-|2A<br>(45 mins)|-   Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline|Term 3 Week 10
-|2B<br>(45 mins)|-   Recognise the importance of self-respect and respect for others in relating to members of the opposite gender <br>-   Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online|Term 4 Week 1
-
-
-<center>
-Secondary 3
-</center>
-
-UNIT: Respectful Relationships & Safety
-
-| LESSONS / DURATION | LESSON OBJECTIVES<BR>At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2)
-| -------- | -------- | -------- |
-|1A<br>(45 mins)|-   Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br>-   Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.   <br>-   Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.| Term 3 Week 9|
-|1B<br>(45 mins)|-   Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<br>-   Know that a decision to end a relationship will have consequences on oneself and others.   <br>-   Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.   <br>-   Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.|Term 3 Week 10
-|2<br>(45 mins)|-  Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them. <br>-  Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.|Term 4 Week 2
-
-<center>
-Secondary 4
-</center>
-
-UNIT: Respectful Relationships & Safety
-
-| LESSONS / DURATION | LESSON OBJECTIVES<BR>At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2)
-| -------- | -------- | -------- |
-|1<br>(45 mins)|-   Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br>-   Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations. <br>-   Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.|Term 3 Week 6
-|2 <br>(45 mins)|-   Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support. <br>-   Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.<br>-   Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.   <br>-   Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.|Term 3 Week 7
-|3<br>(45 mins)|-   Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.  <br>-   Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br>-  Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.|Term 4 Week 1
-|4<br>(45 mins)| -  Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.|Term 4 Week 2
+![](/images/SexEdS4_1.png)
+![](/images/SexEdS4_2.png)
 
 **eTeens Programme:**
 
