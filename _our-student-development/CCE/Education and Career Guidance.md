@@ -43,9 +43,9 @@ NCzens may also book an ECG Counselling Session (assessments, analysis of RIASEC
 
 [](https://moeecg.appointeze.com/onlinelink/PanMiaohua)[](https://moeecg.appointeze.com/onlinelink/PanMiaohua)
 
-[https://moeecg.appointeze.com/onlinelink/PanMiaohua](https://moeecg.appointeze.com/onlinelink/PanMiaohua)
+[https://go.gov.sg/nchs-ecg](https://go.gov.sg/nchs-ecg)
 
-![](/images/NCHS%20ECG%20Poster.jpeg)
+![](/images/NCHS%20ECG%20Poster%202023_updated.jpg)
 
 1.  Admission Exercises for O-Level Students  
     [https://www.moe.gov.sg/post-secondary/admissions/jae  
