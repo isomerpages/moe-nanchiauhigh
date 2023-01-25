@@ -26,9 +26,8 @@ description: ""
 
 *   The School eResource Repository (SERR) is a virtual school library. It aims to promote recreational reading as well as support learning for students across various subject areas. In addition, the repository provides easy access to online resources such as eBooks, audiobooks, videos and web resources. SERR can be accessed without a login ID and password.
 
-[My SkillsFuture Portal](https://www.google.com/url?q=https%3A%2F%2Fwww.myskillsfuture.gov.sg%2Fcontent%2Fstudent%2Fen%2Fsecondary.html&sa=D&sntz=1&usg=AOvVaw0WuL8c2C26ICwnoaEUyV39)
-
-[Make an appointment with School ECG Counsellor (Ms Pan)](go.gov.sg/nchs-ecg)
+[My SkillsFuture Portal](https://www.google.com/url?q=https%3A%2F%2Fwww.myskillsfuture.gov.sg%2Fcontent%2Fstudent%2Fen%2Fsecondary.html&sa=D&sntz=1&usg=AOvVaw0WuL8c2C26ICwnoaEUyV39)<br>
+[Make an appointment with School ECG Counsellor (Ms Pan)](https://go.gov.sg/nchs-ecg)
 
 
 **School Bill Payment**<br>
