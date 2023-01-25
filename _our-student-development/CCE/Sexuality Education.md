@@ -65,23 +65,14 @@ b. Character and Citizenship Education (CCE)
 
 At Nan Chiau High School, the eTeens programme will be implemented as follows in 2023:
 
+![](/images/eTeens_Lesson_Plan_2023.png)
+
 **Information for Parents**
 
+10. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
 
-10\. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers. 
+11. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. The completed form is to be submitted by 27/02/2023. 
 
-  
+12. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here.  The completed form is to be submitted by 27/02/2023.
 
-11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://form.gov.sg/61ef558d3d1dc500135ee9d3). The completed form is to be submitted by **28/02/2022**. 
-
-  
-
-12\. (For Secondary 3 students only) Parents who wish to opt their children out of the **_eTeens_** **programme**  need to complete an opt-out form. This form will be distributed to parents at the start of the year. This form will be distributed to parents at the start of the year and is also downloadable [here](https://form.gov.sg/61e4a91d1b2f6500134daea6). The completed form is to be submitted by **28/02/2022**.
-
-  
-
-13\. Parents can contact the school at Tel: 64897971 (Mr Nurhaida Ramli – Sexuality Education Coordinator) or email [nurhaida\_ramli@schools.gov.sg](mailto:liow_kwok_bin@schools.gov.sg) for discussion or to seek clarification about the school’s sexuality education programme.
-
-  
-
-14\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+13. Parents can contact the school at Ms Nurhaida Ramli – Sexuality Education Coordinator) or email nurhaida_ramli@schools.gov.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
