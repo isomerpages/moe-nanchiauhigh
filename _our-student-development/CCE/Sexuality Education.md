@@ -44,18 +44,7 @@ b. Character and Citizenship Education (CCE)
 
 **At NAN CHIAU HIGH SCHOOL, the following lessons from the Sexuality Education Programme will be taught in** **2022****:**
 
-<center>
-Secondary 1
-</center>
-
-UNIT: Respectful Relationships & Safety
-
-| LESSONS / DURATION | LESSON OBJECTIVES<BR>At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2)
-| -------- | -------- | -------- |
-| 1<br>(45 mins)     | -   Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles <br>-   Recognise that there are different forms of love (e.g. familial, platonic, romantic love) <br>-   Recognise the importance and understand what builds healthy and supportive relationships, both online and offline <br>-   Understand what dating is, and recognise that the readiness and interest in dating vary among individuals     | Term 3 Week 9     |
-|2<br>(45 mins)|-   Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept|Term 3 Week 10
-|3<br>(45 mins)|-   Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences <br>-   Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)|Term 4 Week 1
-
+![](/images/sexEdSec12023.png)
 
 <center>
 Secondary 2
