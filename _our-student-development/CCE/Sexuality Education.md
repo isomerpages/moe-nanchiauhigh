@@ -72,8 +72,8 @@ At Nan Chiau High School, the eTeens programme will be implemented as follows in
 
 10. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
 
-11. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. The completed form is to be submitted by 27/02/2023. 
+11. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://form.gov.sg/63d0bc45d4e11c001288ce8c). The completed form is to be submitted by 27/02/2023. 
 
-12. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here.  The completed form is to be submitted by 27/02/2023.
+12. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://form.gov.sg/63d0da8de2862f00119545e2).  The completed form is to be submitted by 27/02/2023.
 
 13. Parents can contact the school at Ms Nurhaida Ramli – Sexuality Education Coordinator) or email nurhaida_ramli@schools.gov.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
