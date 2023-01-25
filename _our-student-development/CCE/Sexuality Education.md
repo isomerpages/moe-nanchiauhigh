@@ -55,6 +55,7 @@ b. Character and Citizenship Education (CCE)
 ![](/images/SexEdS3_2.png)
 
 ![](/images/SexEdS4_1.png)
+![](/images/SexEdS4_1a.png)
 ![](/images/SexEdS4_2.png)
 
 **eTeens Programme:**
