@@ -32,7 +32,7 @@ description: ""
 **Parent Engagement Resources**<br>
 [Sharing on how to help your child in this transition year (Sec 1 Parents Slides)](https://drive.google.com/file/d/1AERpSAZwgNOk9a0P7HAHbU4qiRcztz2M/view) <br>
 [2023 Secondary 1 Parents E-Engagement on 14 Jan](https://drive.google.com/file/d/1vBIJx-6YgJR28lp1Y8vMIZii9l2fagiY/view?usp=sharing)
-<br> --> FAQs (To be uploaded soon)
+<br> --> [FAQ](https://docs.google.com/spreadsheets/d/1zfrnZCy6b2UjxYiQYh4Tmww8nuSQ7iGtDFK1cjfEblk/edit#gid=0)
 
 **Curriculum Matters**<br>
 [Academic Booklet](https://drive.google.com/drive/folders/1-u9xunjUbfXWFHhldfQLP0fJmpUIXjzz?usp=sharing)  
