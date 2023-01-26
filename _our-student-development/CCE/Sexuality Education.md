@@ -28,7 +28,7 @@ third_nav_title: CCE
 
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
-**Overview of NAN CHIAU HIGH SCHOOL’s Sexuality Education Programme for 2021**
+**Overview of NAN CHIAU HIGH SCHOOL’s Sexuality Education Programme for 2023**
 
 4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 <br><br>
@@ -42,7 +42,7 @@ b. Character and Citizenship Education (CCE)
 
 7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-**At NAN CHIAU HIGH SCHOOL, the following lessons from the Sexuality Education Programme will be taught in** **2022****:**
+**At NAN CHIAU HIGH SCHOOL, the following lessons from the Sexuality Education Programme will be taught in** **2023****:**
 
 ![](/images/SexEdS1_1.png)
 ![](/images/SexEdS1_2.png)
