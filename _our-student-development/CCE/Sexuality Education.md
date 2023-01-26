@@ -42,7 +42,7 @@ b. Character and Citizenship Education (CCE)
 
 7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-**At NAN CHIAU HIGH SCHOOL, the following lessons from the Sexuality Education Programme will be taught in** **2022****:**
+**At NAN CHIAU HIGH SCHOOL, the following lessons from the Sexuality Education Programme will be taught in** **2023****:**
 
 ![](/images/SexEdS1_1.png)
 ![](/images/SexEdS1_2.png)
