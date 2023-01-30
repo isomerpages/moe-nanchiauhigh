@@ -37,8 +37,7 @@ description: ""
 4.  AXS Station 
 
 **S3 Subject Combination Application**<br>
-[Trial Calculator](https://forms.gle/iq6xRKgMoz9CcDdA6)<br> 
-[S3 Subject Combination Application Portal](https://docs.google.com/forms/d/e/1FAIpQLSeTztqkRj1MDJTq8qR3FWsI-GqwmVGF0qJmoewLX3DN_kdcaA/viewform?usp=sf_link)
+[Trial Calculator](https://forms.gle/iq6xRKgMoz9CcDdA6)<br>[S3 Subject Combination Application Portal](https://docs.google.com/forms/d/e/1FAIpQLSeTztqkRj1MDJTq8qR3FWsI-GqwmVGF0qJmoewLX3DN_kdcaA/viewform?usp=sf_link)
 
 **PLD Matters**<br>
 _You are required to use your iCON account to access the below documents:_
