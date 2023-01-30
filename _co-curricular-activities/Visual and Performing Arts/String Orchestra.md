@@ -2,8 +2,9 @@
 title: String Orchestra
 permalink: /co-curricular-activities/Performing-Arts/String-Orchestra/
 description: ""
-third_nav_title: Performing Arts
+third_nav_title: Visual and Performing Arts
 ---
+
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWYqIFtxoek6OMnqis-0Tn06khl2fUXVN4ew8yiKNIKRiEUwE3MGfr658Mn1jA8bNKcf1oGFNskhhh/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 *   Thursday,  

@@ -2,8 +2,9 @@
 title: Wind Orchestra
 permalink: /co-curricular-activities/Performing-Arts/Wind-Orchestra/
 description: ""
-third_nav_title: Performing Arts
+third_nav_title: Visual and Performing Arts
 ---
+
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTds4cafQzOAudlvB4o_AY6lrtIyTvpUawKk8esqmCpEGKVLB0ucM9WjqGNuIa8MGueWhmB1xt2pDQY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 *  Wednesday, 3.30pm – 6.30pm<br>

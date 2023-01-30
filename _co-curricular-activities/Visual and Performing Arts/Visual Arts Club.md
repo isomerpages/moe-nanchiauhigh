@@ -2,8 +2,11 @@
 title: Visual Arts Club
 permalink: /co-curricular-activities/Clubs-and-Societies/Visual-Arts-Club/
 description: ""
-third_nav_title: Clubs and Societies
+third_nav_title: Visual and Performing Arts
 ---
+
+
+
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRmk0QzTpUIzK3Wla-OS_JSwrNrGOI3Gmlo3_q6B6nmHGUJa3bQWuGXl65kQiX-9UxHMvGODrcY2a_D/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 *   Monday,  

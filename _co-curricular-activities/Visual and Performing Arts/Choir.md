@@ -2,8 +2,9 @@
 title: Choir
 permalink: /co-curricular-activities/Performing-Arts/Choir/
 description: ""
-third_nav_title: Performing Arts
+third_nav_title: Visual and Performing Arts
 ---
+
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT36iCNKta2ZNjWtKlwZq2HTgcJohKYJtTp9C2TUTwSXgFCJ_SfP0ztWLBwNOo4ovktYGtU_Eh5AR0R/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 *   Tuesday,  
