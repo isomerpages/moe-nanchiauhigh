@@ -36,7 +36,7 @@ description: ""
 
 **Curriculum Matters**<br>
 [Academic Booklet](https://drive.google.com/drive/folders/1-u9xunjUbfXWFHhldfQLP0fJmpUIXjzz?usp=sharing)  
-[PA/Exam Formats and Scope](https://drive.google.com/drive/u/1/folders/1fQWE3i8efqnjzatOy_LkVhLQIbqyRpJy)
+[Weighted Assessment/PA/Exam Formats and Scope](https://drive.google.com/drive/u/1/folders/1fQWE3i8efqnjzatOy_LkVhLQIbqyRpJy)
 
 **Meet-the-Parent**<br>
 [Parents Letters](https://drive.google.com/drive/folders/0B0NLoi7jhnNmcUkxUkRrUlNoZ00?usp=sharing)  
