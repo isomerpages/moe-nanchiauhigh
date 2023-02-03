@@ -47,7 +47,7 @@ description: ""
 
 **Student Academic Timetable**<br>
 [2023 Student Timetable](https://drive.google.com/drive/folders/1H1LEVFF6JxSl7QaW2dnv2n7cBQM26iIH?usp=share_link)
-<br>[Exams & Prelims Schedule](https://drive.google.com/folderview?id=0B0NLoi7jhnNmNTFPaVYwV004YmM&usp=sharing)  
+<br>[Exams & Prelims Schedule](https://drive.google.com/drive/folders/1HgnRw1KX51VKWpCq2CPiXN5Psm5n67AZ?usp=share_link)  
 
 **MOE Resources**<br>
 * Singapore Student Learning Space [(Click Here)](https://www.google.com/url?q=https%3A%2F%2Fwww.moe.gov.sg%2Feducation-in-sg%2Fstudent-learning-space&sa=D&sntz=1&usg=AOvVaw3TM0MrS8kyiSrhGTY10i0P)
