@@ -85,6 +85,8 @@ description: ""
 *   [e-Pedagogy Comics](https://go.gov.sg/eped-comics) 
     
 *   [Professional Learning: Level up my PLD Skills!](https://sites.google.com/moe.edu.sg/nchs-create-curate-connect/pld-matters/level-up-my-pld-skills)
+
+*   [PD & Learning @ NCHS](https://sites.google.com/moe.edu.sg/growandglowatnc/home?authuser=0)
     
 *   [School eResource Repository (SERR)](https://schoolibrary.moe.edu.sg/eresourcessec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME): Virtual School Library
     
