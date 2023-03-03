@@ -1,8 +1,10 @@
 ---
 title: Staff's One Stop Portal
-permalink: /our-resources/Teachers-Resources/
+permalink: /our-resources/teachers-resources/
 description: ""
 ---
+
+
 **NCHS Live Event & Timetables**<br>
 *   [NCHS Live Event Page](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fnchs-live&sa=D&sntz=1&usg=AOvVaw0l9o1DpgtbcLBQMS7Ow8j6) (Click here for live event)
 *   [CCE, TSI and Assembly Calendars (2023)](https://docs.google.com/spreadsheets/d/1K8VAgWQIloJckuPnZ2uye5Mz6L3hccOu1efGdzEJd5U/edit?usp=sharing)
