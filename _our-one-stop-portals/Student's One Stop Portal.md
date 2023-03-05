@@ -5,7 +5,8 @@ description: ""
 ---
 **Timetables**<br>
 [NC Bite 1 Schedule](https://drive.google.com/drive/folders/136_yEC8XvlwztBE1a_Ba_nS-vUeDsuCS?usp=share_link)<br>
-[2023 Semester 1 Timetable](https://drive.google.com/drive/folders/1H1LEVFF6JxSl7QaW2dnv2n7cBQM26iIH?usp=share_link)<br>
+[2023 Semester 1, Term 1 Timetable](https://drive.google.com/drive/folders/1H1LEVFF6JxSl7QaW2dnv2n7cBQM26iIH?usp=share_link)<br>
+[2023 Semester 1, Term 2 Timetable](https://drive.google.com/drive/folders/1O_HO_fjgFQUSE2tvhw8ltF7rhrkN_wMV?usp=share_link)<br>
 [2023 Progress Assessment 1 (PA1) Schedule](https://drive.google.com/drive/folders/1GZzIVUtkBdO48MrMK5qujY5eINTOWq7I?usp=sharing)  
 [2023 Secondary 4 SSL Schedule (Term 1)](To be released)<br>
 
