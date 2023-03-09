@@ -3,13 +3,12 @@ title: Year Head Department
 permalink: /our-student-development/Year-Head-Department/
 description: ""
 ---
-
 The Year Head department provides a horizontal integration of both the academic curriculum and student development curriculum in each of the levels to ensure the students' holistic development. The Year Head team builds a culture of care by advocating for students’ needs and overall well-being.
 
-![](/images/image001.jpeg)
+![](/images/YH%20Team%202023.jpeg)
 
 From Left to Right: <br>
-Ms Chney Chen (AYH - Sec 2); Mr Dalvey Neo; Ms Rama (YH - Sec 3 and 4); Mr Tan Jia Hao (Ag AYH - Sec 1), Ms Tan Yi Chiann (Ag AYH - Sec 4); Mr Jimmy Goh (YH - Sec 1 and 2)
+Mr Tan Jia Hao (AYH - Sec 2); Ms Chney Chen (AYH - Sec 3); Mr Jimmy Goh (YH - Sec 4); Ms Tan Yi Chiann (AYH - Sec 1); 
 
 The Year Head department also oversees the various initiatives as part of our Power Of Positivity culture. Below are examples of such activities:
 
