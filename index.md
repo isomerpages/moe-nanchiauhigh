@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage.gif
       key_highlights:
         - title: Announcements
           description: ""
@@ -18,4 +17,5 @@ sections:
         - title: Resources
           description: ""
           url: /our-resources/School-Counselling-Services
+      background: /images/homepageV7.gif
 ---
