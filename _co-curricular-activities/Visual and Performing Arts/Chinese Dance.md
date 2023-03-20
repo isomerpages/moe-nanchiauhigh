@@ -4,8 +4,7 @@ permalink: /co-curricular-activities/Performing-Arts/Chinese-Dance/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSvwejMmDT4mfAp5RxoO5guhpedrycmqEfmJuzsZVUtNyAHZsZGCP4o9dqYuopTy6HptX-GpA3QbxhE/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSNCNN_5J1vYH7qLxqOSSFJE0S9wI7b4LltOegsJQQHghv5a2iqeHo2bUjW-Tkiie5aE5w9hPq2BrUJ/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 *   Wednesday,  
     3.30pm – 6.00pm  
