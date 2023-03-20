@@ -4,7 +4,7 @@ permalink: /our-academic-curriculum/Departments/Mathematics/
 description: ""
 third_nav_title: Departments
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSmG-FfNXSnbCLBDyC6iKUVvPhg8YlvLL7oatoJqEhRVkAiPqnprW5HjAeWrzBc50UpI_F5CrR6RtYG/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRgC6Z-reSBPQ1IcGBMUo8luUSYaGT-BZEBOpx_Innu5rQ6hgxFbUhB8IluUgZ0jz4-Aq4submz0op2/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 **Vision**
 
