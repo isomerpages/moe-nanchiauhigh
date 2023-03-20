@@ -4,8 +4,7 @@ permalink: /co-curricular-activities/Performing-Arts/Chinese-Orchestra/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vROTMzIgjqbJxyMsn-sTeouAKJ29k2EZ6JYPC8RzvcpgjkTUsAQqgdT5qR_u-wA7tPubBddWk8XvoDv/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-QYw_dmdrFOMkuazxiNgRBuHeherq89L5DQUGmxit8-aXaZ5-BpfSIALF-efTpQYLj5vbKuODFVM5/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 *   **Training Time:**<br> Monday,  3.00pm – 6.00pm  
     Wednesday,  3.30pm – 6.30pm  
