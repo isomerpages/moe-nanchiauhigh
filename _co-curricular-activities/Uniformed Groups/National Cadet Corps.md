@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Uniformed-Groups/National-Cadet-Corps/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSCeAM9tGUPkJk7OaZS4KICg8SlE-J0HxxgHcr4UQGE98nN-quHOuAwV1AeJTfKY8elPJTBrk4pJ2t9/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSpFNso9IdnODTP9oI08LettAyiLSWp4uNAldZmDvnNstI-SVOIouuRuOpUA_-pWqhUPsKPlgZYiv-_/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 *   Friday,  
     2.45pm – 6.00pm
