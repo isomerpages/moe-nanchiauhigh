@@ -3,8 +3,6 @@ title: Staff's One Stop Portal
 permalink: /our-resources/teachers-resources/
 description: ""
 ---
-
-
 **NCHS Live Event & Timetables**<br>
 *   [NCHS Live Event Page](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fnchs-live&sa=D&sntz=1&usg=AOvVaw0l9o1DpgtbcLBQMS7Ow8j6) (Click here for live event)
 *   [CCE, TSI and Assembly Calendars (2023)](https://docs.google.com/spreadsheets/d/1K8VAgWQIloJckuPnZ2uye5Mz6L3hccOu1efGdzEJd5U/edit?usp=sharing)
@@ -39,6 +37,8 @@ description: ""
 *   [Staff Digital Movement Form](http://www.google.com/url?q=http%3A%2F%2Fgo.gov.sg%2Fonleave&sa=D&sntz=1&usg=AOvVaw1I1Y5PjygOP0tYdmGiL92m)
         
 *   [Uploading Facebook/Instagram Post Form](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fnchsfbinsta&sa=D&sntz=1&usg=AOvVaw0JUj167010-eW7Dy47f6Z2)
+
+*   [Form for Request to Update School Website](https://forms.gle/H3hhSAEzzHJHLSVx7)
 
 **MOE Link for Staffs**<br>
 *   [All Ears Forms Builders](https://forms.moe.edu.sg/)
