@@ -4,7 +4,7 @@ permalink: /our-academic-curriculum/Departments/Humanities/
 description: ""
 third_nav_title: Departments
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRgmXWqZt57UOTajBByACQ56TIuivm_-CM4vYjuiLFy38a0q1UAEHXYD30cq0wg7LCngrccSOVPLBFb/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBHNvFpYFG_fN2X2nniepBGStPpKZFgUDwe6ggGnTE6GAVetubRJavtserV8oALWgJQOyHBiH73Kni/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 **Vision**
 
