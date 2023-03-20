@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Clubs-and-Societies/Debate-Club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTXLxlQcB2jPujbvDZuaPNWeNiHxcXB6aU_LCiHPLKXvxdAyYPEgCcyLmharJCjfmbevwWCjySkJpgX/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRiD1g0zMqkbN1ozaqxzwfsh24Pusp0HAoo4xGw7U5UsG5RLINKJsUI5yaVpVoyDP_DYNb4ZssxKU6B/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 *   Friday,  
     2.30pm – 5.30pm
