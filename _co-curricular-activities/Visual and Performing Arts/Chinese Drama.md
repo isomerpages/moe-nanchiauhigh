@@ -4,8 +4,7 @@ permalink: /co-curricular-activities/Performing-Arts/Chinese-Drama/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTSvM3KEKUQqN1sHUuAckUyGyJ_l7zc_JYPBoYvZzOhXec_iuEerIDjSlM2jrx_cEN4Ao5LePiyLkYc/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS9BhVQzsog5VCm2lmqd298l1Dl13oebfDyyvHuehkJr2F5TmIjPoGHU7dOIvxuAn4FJw2xvx0kuy79/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 *   Wednesday,  
     4.00pm – 6.00pm  
