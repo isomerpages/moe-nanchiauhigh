@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Clubs-and-Societies/Library/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQBMkK6OKoPnOkPUcyuUmb2ar3lfATAN5tzeNjtC0niNLu6Qq3a1Z8KX9X3egvpu9T-owFoP3Cg7Pf0/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFuqT2pjonjFCz7NE9d2Z8sY8U2uHEtE4X0C464pjC2PLKmW_1-M2lWy4B4ecc2-qGIRQxChbzqg-g/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 *   Friday,  
     2.30pm – 5.00pm

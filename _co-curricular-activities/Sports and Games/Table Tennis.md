@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Sports-and-Games/Table-Tennis/
 description: ""
 third_nav_title: Sports and Games
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQusCStJhG0v3VBijKJ4o5H3O-ydJ9yal1JZF17ZTLtNHSWPIuKSldLBygNsM1tsfxGdk9UmSL8hG60/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQzfvDpY9FrkthKqDklJuu2s2cI0ah-QT-EmwpvkMmZXbs6b9JmNhXhpoPlGPpa2AGiXmHt36CGToTE/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 *   Tuesday:  
     3.30pm – 6.00pm  
@@ -48,8 +48,8 @@ Students can choose to participate in a wide range of diverse and meaningful act
 **Achievements**
 
 **NATIONAL SCHOOL GAMES 2022**<br>
-'B' Div Boys & Girls Top 4<br>
-'C' Div Boys & Girls Top 4
+'B' Div Boys &amp; Girls Top 4<br>
+'C' Div Boys &amp; Girls Top 4
 
   
 

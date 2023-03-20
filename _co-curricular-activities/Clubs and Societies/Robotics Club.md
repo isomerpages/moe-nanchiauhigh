@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Clubs-and-Societies/Robotics-Club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vROXby8y_I7fKB74LvTKXuewIKjmHKlqjw_2_kbKq4sT9jUOZ9YdWAyp14v3FIW-bZTwAb7UXhsXo6F/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRFD4NJ0g2Clky9ynv5ZSQuzM2FHqYW5Uj9KNFZ_OKuAX0bZNZo-FPRix-vbW_j_TTZY1MTYCAVPRsy/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 *   Friday,  
     3.00pm – 5.00pm
@@ -70,4 +70,3 @@ Tracing Challenge
 <br>2) Toh Wen Kai Colin,      2E
 <br>3) Toh Chengze, Enver,   4G
 <br>4) Lyn Guok Kai, Tristan, 4H
-   

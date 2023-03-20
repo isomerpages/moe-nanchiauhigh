@@ -4,7 +4,7 @@ permalink: /our-academic-curriculum/Departments/English-Language-and-Literature/
 description: ""
 third_nav_title: Departments
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT4hatJzH3isZUAHBeWJ7f_xsRp3u3neYSA6qkMDJNTmVcqDPT2Yq5HM9D7kNrtq50PdKikmgTdQymY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbIBM9DDYF2q6iDQttS7tOMt-LyuzVE_MgImeF--ywaKlMXoWrqGEx3XYAn9A6KsNyhfFczA9RPm7f/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 **Mission**
 

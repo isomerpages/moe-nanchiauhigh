@@ -4,9 +4,7 @@ permalink: /co-curricular-activities/Uniformed-Groups/National-Police-Cadet-Corp
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTskrgwBcfWWLMttuevkfVB3xUjA3leb5emgsTgtxvhTbBu_CPvqb2z7M7QeC6oQiEn0XCcyfeCmf9c/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTKC3uxcCrLiTOMbsz6EYzgPTSz9FIxx0vN212AA8rVgh01BznhGx7DoYUtvVUHoQX6giQpttypOmOO/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 *   Friday,  
     2.30pm – 6.00pm

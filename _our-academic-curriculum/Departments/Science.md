@@ -4,7 +4,7 @@ permalink: /our-academic-curriculum/Departments/Science/
 description: ""
 third_nav_title: Departments
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTXAu2Brkohm-yVvCkymHIlaDimB13pfjoJrefii7syBWAJXftkAz1ivUpeLe0lX-SXAiqNJ8lRN8y4/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRSmc6PldOj9bSdiXPIlEj72ICfE-ODXOqYfdiRmWJKw_241Kie6fUn1AAafd0JWSU3QDkkp9_orSaQ/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 **Vision**
 
@@ -49,7 +49,7 @@ To inculcate NCzens with a strong spirit of inquiry, grounded in ethics and huma
 
 _Applied Learning Programme (ALP)_
 
-Lower Secondary ALP is a platform which provides real-life applications learning. In sec 1, students are taught Arduino Coding & Electronics, 3D-printing & 3D pens, and Design Thinking. They are to understand and apply the Design Thinking Protocols throughout the whole duration of the programme. In Sec 2 next year, the students will embark on projects by applying Design thinking protocols and what they have learnt this year.
+Lower Secondary ALP is a platform which provides real-life applications learning. In sec 1, students are taught Arduino Coding &amp; Electronics, 3D-printing &amp; 3D pens, and Design Thinking. They are to understand and apply the Design Thinking Protocols throughout the whole duration of the programme. In Sec 2 next year, the students will embark on projects by applying Design thinking protocols and what they have learnt this year.
 
 In Sec 2, students will advance their ALP learning in the field of Emerging Technologies. It is an extension of the Sec 1 ALP, students will use the protocols of Design Thinking to work on projects or solve problems based on one of the Emerging Technologies themes.
 
@@ -59,4 +59,4 @@ The students are encouraged to participate in the Olympiads in the different dis
 
   
 
-Click [here](/our-talent-development/Department-Talent-Programmes/Science-Talent-Programme) for more information.
+Click&nbsp;[here](/our-talent-development/Department-Talent-Programmes/Science-Talent-Programme)&nbsp;for more information.

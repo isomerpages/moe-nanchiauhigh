@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Sports-and-Games/Wushu/
 description: ""
 third_nav_title: Sports and Games
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMsMhKJJ0oia3q2F4SySJSsQ-clU4CEsJPjSPvkVUhWCZGwf1mzlOwzkICE_eeFcdtzvqrsRPNKR2B/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRCfc6x5PzsvZEu-RCdZb5rFzed0Lr6Q43jryXthJiONqptkl6qLcKGneHdAoDcUhSpicBvhax64KLy/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 *   Monday,  
     3.30pm – 6.00pm  

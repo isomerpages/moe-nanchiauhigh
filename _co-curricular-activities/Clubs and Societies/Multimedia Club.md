@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Clubs-and-Societies/Multimedia-Club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSsCfdwICmcBLLdzgPs9nL_9tplMXlyR9rHjAcWVVjNY8sg12pneWFJNM7lpkITxmbdlhEhXSq69l77/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThOTx2EwSArb374cWPYyHZX8ETzjOF9WMiVGP1_GPcXgtvyfE8pH09YIQatXu7N5COYYuw-6munHsP/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 *   Monday,  
     7.10am – 7.55am  

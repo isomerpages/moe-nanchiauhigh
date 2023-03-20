@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Clubs-and-Societies/Green-Club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQXpv0TYFLvvsGrwFjbOntI2Ouiiy4Bz_nB6jDunfyvswjQa5FwAuc6mZ1R_v5bqCtPmcJeBjrZuKd9/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQLdRyvlXB9F20BKmCSB4CsDzVEML4014fVYn2YspfgsBERnLzcYGwHRHsuAWtSb3vpt0CCpWlo-1Z0/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 *   Friday,  
     2.45pm – 5.00pm

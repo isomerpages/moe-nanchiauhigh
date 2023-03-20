@@ -4,9 +4,7 @@ permalink: /co-curricular-activities/Uniformed-Groups/Red-Cross-Youth/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSfABSwdiTXxZan70rEQNYyJ6GYFUmR4pBbQng-9ichJqlshSYS0oFAXLd-4VoJtiZM2-jE1zd4r-JO/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ5VAzmtrTGubtTwYw_r3byP1FSCtjbeFyGrXjHgAbSG0TaJAF-M17tLWVkgVEIx8bsWYHTeBIefynx/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 *   Friday,  
     2.30pm – 6.15pm

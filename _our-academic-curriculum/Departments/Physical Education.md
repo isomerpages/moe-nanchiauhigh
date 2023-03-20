@@ -4,7 +4,7 @@ permalink: /our-academic-curriculum/Departments/Physical-Education/
 description: ""
 third_nav_title: Departments
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS0HJop2NE0WI8lbnSGfhKLcZDhMnBtO7XMsj5_qXGXvpJk3q05julF_wrviR_viOIBx-B6-QZr1Cr0/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTlI2F0fw2fxV3CxfoORWplj_swLegsXRehFx_qXk6lTE9ZlZOxFVdOT9OFR814HD7vDVnlNJvp4Cv6/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 **Vision**
 

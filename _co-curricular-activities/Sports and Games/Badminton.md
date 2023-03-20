@@ -4,22 +4,22 @@ permalink: /co-curricular-activities/Sports-and-Games/Badminton/
 description: ""
 third_nav_title: Sports and Games
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTZd6QrG2TlF6RWsN-ksW6KFSePq1TXIMG2pYuWCdUKutXMZPBO2vJcvv2c1cidhTH_k09XJilwSZz3/embed?start=true&loop=true&delayms=5000" frameborder="0" width="940" height="569"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTZd6QrG2TlF6RWsN-ksW6KFSePq1TXIMG2pYuWCdUKutXMZPBO2vJcvv2c1cidhTH_k09XJilwSZz3/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 **Odd Week**<br>
-Monday: Boys & Girls  
+Monday: Boys &amp; Girls  
 3.30pm – 6.30pm  
 Wednesday: Boys<br>
 3.30pm – 6.30pm  
 Thursday: Girls<br>
  3.30pm – 6.30pm
 
-(6.00pm - 6.30pm – Pack up, Clean up & Debrief)
+(6.00pm - 6.30pm – Pack up, Clean up &amp; Debrief)
 
 **Even Week**
 
 Monday: 
-<br>Boys & Girls,  
+<br>Boys &amp; Girls,  
 3.30pm – 6.30pm  
 
 Wednesday: 
@@ -28,7 +28,7 @@ Wednesday:
 Thursday: Boys
 <br>3.30pm – 6.30pm
 
-(6.00pm - 6.30pm – Pack up, Clean up & Debrief)
+(6.00pm - 6.30pm – Pack up, Clean up &amp; Debrief)
 
 
 Venue: ISH Level 2 &amp; School Hall
@@ -59,13 +59,13 @@ Annual CCA Camp<br>
 Umpiring workshop<br>
 Friendly matches<br>
 Fitness Conditioning<br>
-National School Games (NSG) Badminton (North Zone) for both B & C Divisions<br>
+National School Games (NSG) Badminton (North Zone) for both B &amp; C Divisions<br>
 Modified Inter-Class Badminton Competition<br>
 Sports Education Programme (SEP)
 
 **Achievements**<br>
 National School Games<br>
-*   2022 -  Participated in NSG (NZ) for all Boys & Girls Divisions C Boys – NZ Top 6<br>
-*   2021 – Participated in NSG (NZ) only B Div Boys & Girls<br>
+*   2022 -&nbsp; Participated in NSG (NZ) for all Boys &amp; Girls Divisions C Boys – NZ Top 6<br>
+*   2021 – Participated in NSG (NZ) only B Div Boys &amp; Girls<br>
 *   2020 – Participated in NSG (NZ)<br>
-*   2019 – B Boys & C Girls – NZ Q-Finals
+*   2019 – B Boys &amp; C Girls – NZ Q-Finals

@@ -4,9 +4,7 @@ permalink: /co-curricular-activities/Uniformed-Groups/Scouts/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ3mlGKxC9O6CDUzTcURj4chmcOnpV8iA-Ij-PV2euHOfIXvlr6NFQxK-xOlzt_p_MKHcGH5dxdSlKd/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQA5k0roWyONw8J00oATSeP6l1LYHpsVrdo7z8wTXyhWP9thBOqiJImCrzkz3jNYTGc_mt4i_qrU94G/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 *   Friday,  
     2.30pm – 6.00pm
