@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Clubs-and-Societies/Mind-Games-Club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSWpCQ_vrsOi6yvV5_wNZXHVU_w972ChgoVSuoFO-ZpE6xoUzRo-A60FWwTAEbVMvKXnHLT3Tpv3Ada/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQoYrEUKtiiszU3VpuAuH8JTEeh_IfU4qNzU8XNP7HdJy2MLBksWk98O8MBUjiFOAWwJEmLTgI0sauN/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 *   Friday,  
     2.30pm – 5.00pm
