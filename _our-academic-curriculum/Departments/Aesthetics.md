@@ -4,7 +4,7 @@ permalink: /our-academic-curriculum/Departments/Aesthetics/
 description: ""
 third_nav_title: Departments
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQSgYa_fL7aW6oeXJF2eZ3_uLkTsGij6Lebem2H_ddgtJRvMf6nR1MqyyTGIgkfdp-no2Q1Lo4hvwgX/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQcur9S8hGz8aRUzFkpZ4kkGkEL3N2Wp5U7OIqkzQ16sqwuPY-sRoeKChcy4rBABHqc5cUSn2aJKq4Z/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 **Vision**
 
