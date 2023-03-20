@@ -4,8 +4,7 @@ permalink: /co-curricular-activities/Performing-Arts/Contemporary-Dance/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTuJP4Eg0wG49h4jn2wAOWYg0sZqv43JKjR__Jh9aupkFPPktMfrGWfkbTkuMgSoImKWAlWHc2RDz68/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRsgsnOKHylwbfXTtvRCJsmcgdOS66IO66eZaU2T-YbfmWjL6L68H5NyGk9X1W6uX5KTuH7d6jQ65bP/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 *   **Training Time:** <br>Monday,  3.30pm – 6.00pm  <br>Tuesday, 3.30pm – 6.00pm
 
