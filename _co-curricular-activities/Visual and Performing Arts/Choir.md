@@ -4,8 +4,7 @@ permalink: /co-curricular-activities/Performing-Arts/Choir/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT36iCNKta2ZNjWtKlwZq2HTgcJohKYJtTp9C2TUTwSXgFCJ_SfP0ztWLBwNOo4ovktYGtU_Eh5AR0R/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTcn0_OHwrDxluXvzk9d6liIoy17TNWL91wZdwyT9wvoT5dS1-7NK8KcDkQjvqim8aWanGzVf4Klfuu/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 *   Tuesday,  
     3.30pm – 6.00pm  
