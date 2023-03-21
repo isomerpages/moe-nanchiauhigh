@@ -76,7 +76,7 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
 | -------- | -------- | -------- |
 | **DSA/ Sports**     | Wushu    | -   Participation and achievements in the sport, national and/or international level competitions.  <br>-   Consistent academic performance for P5 overall and P6 Mid-Year Examination or its equivalent.     |
 
-**[For more information on Wushu click here.](/co-curricular-activities/sports-and-games/wushu)**
+**[For more information on Wushu click here.](/co-curricular-activities/Sports-and-Games/Wushu/)**
 
 **DSA Performing Arts - Chinese Dance**
 
