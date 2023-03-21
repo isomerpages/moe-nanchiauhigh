@@ -60,7 +60,7 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
 | -------- | -------- | -------- |
 | **DSA/ Sports**     | Basketball     | -   Participation and achievements in the sport, including zonal, national and/or international level competitions.  <br>-   Consistent academic performance for P5 overall and P6 Mid-Year Examination or its equivalent.     |
 
-**[For more information on Basketball click here.](/co-curricular-activities/sports-and-games/basketball)**
+**[For more information on Basketball click here.](/co-curricular-activities/Sports-and-Games/Basketball/)**
 
 **DSA Sports - Table Tennis**
 
