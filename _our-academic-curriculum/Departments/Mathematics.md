@@ -24,6 +24,7 @@ Mdm Khaw Hwee Mung (HOD/Maths)
 <br>Mdm Tang Pui Lin (SH/Maths)
 <br>Mdm Cheryl Ng Ai Tee (HOD/CCE)
 <br>Mr John Mak (HOD/ICT)
+<br>Ms Tan Yi Chiann (AYH)
 <br>Mdm Doris Sofea Toh Ming Li
 <br>Mr Kham Ming Fatt
 <br>Mdm Lee Ying Yan Kate 
@@ -32,7 +33,6 @@ Mdm Khaw Hwee Mung (HOD/Maths)
 <br>Ms Tan Wan Ting
 <br>Mdm Tan Yan Yan 
 <br>Mdm Siak Chock Kwun 
-<br>Ms Tan Yi Chiann
 <br>Mr Zhang Boyuan, Eric
 
 **Our Goals:**
@@ -51,12 +51,8 @@ Mdm Khaw Hwee Mung (HOD/Maths)
 Participation in Mathematics Competitions
 <br>Singapore Mathematical Olympiad (SMO)
 <br>Singapore and Asian Schools Math Olympiad (SASMO)
-<br>Hua Xia Cup Mathematical Olympiad
 <br>Designing with TI Graphing Calculator Competition
-<br>– 2022: 4th in School Position
-<br>– 2021: 1st in School Position
-<br>– 2020: 3rd in School Position
-<br>– 2019: 2nd in School Position
+<br>IMMC - International Mathematical Modelling challenge
 
 **Mathematics Talent Programme**
 
