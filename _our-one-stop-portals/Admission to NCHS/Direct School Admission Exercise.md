@@ -84,7 +84,7 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
 | -------- | -------- | -------- |
 | **DSA/ Performing Arts**     |Chinese Dance (girls)  | -    Participation and achievements in related dance competitions and performances<br>-   Consistent academic performance for P5 overall and P6 Mid-Year Examination, or its equivalent,<br>and<br>_Preferably_<br>-   Represented their primary schools in Singapore Youth Festival (SYF) Arts Presentation.<br>-   Attained RAD/ CSTD or equivalent accreditation for dance.   |
 
-**[For more information on Chinese Dance click here.](/co-curricular-activities/performing-arts/chinese-dance)**
+**[For more information on Chinese Dance click here.](/co-curricular-activities/Performing-Arts/Chinese-Dance/)**
 
 **DSA Performing Arts - Chinese Orchestra**
 
