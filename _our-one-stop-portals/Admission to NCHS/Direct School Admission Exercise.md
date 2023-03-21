@@ -60,7 +60,7 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
 | -------- | -------- | -------- |
 | **DSA/ Sports**     | Basketball     | -   Participation and achievements in the sport, including zonal, national and/or international level competitions.  <br>-   Consistent academic performance for P5 overall and P6 Mid-Year Examination or its equivalent.     |
 
-**[For more information on Basketball click here.](/co-curricular-activities/sports-and-games/basketball)**
+**[For more information on Basketball click here.](/co-curricular-activities/Sports-and-Games/Basketball/)**
 
 **DSA Sports - Table Tennis**
 
@@ -76,7 +76,7 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
 | -------- | -------- | -------- |
 | **DSA/ Sports**     | Wushu    | -   Participation and achievements in the sport, national and/or international level competitions.  <br>-   Consistent academic performance for P5 overall and P6 Mid-Year Examination or its equivalent.     |
 
-**[For more information on Wushu click here.](/co-curricular-activities/sports-and-games/wushu)**
+**[For more information on Wushu click here.](/co-curricular-activities/Sports-and-Games/Wushu/)**
 
 **DSA Performing Arts - Chinese Dance**
 
@@ -84,7 +84,7 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
 | -------- | -------- | -------- |
 | **DSA/ Performing Arts**     |Chinese Dance (girls)  | -    Participation and achievements in related dance competitions and performances<br>-   Consistent academic performance for P5 overall and P6 Mid-Year Examination, or its equivalent,<br>and<br>_Preferably_<br>-   Represented their primary schools in Singapore Youth Festival (SYF) Arts Presentation.<br>-   Attained RAD/ CSTD or equivalent accreditation for dance.   |
 
-**[For more information on Chinese Dance click here.](/co-curricular-activities/performing-arts/chinese-dance)**
+**[For more information on Chinese Dance click here.](/co-curricular-activities/Performing-Arts/Chinese-Dance/)**
 
 **DSA Performing Arts - Chinese Orchestra**
 
@@ -92,7 +92,7 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
 | -------- | -------- | -------- |
 | **DSA/ Performing Arts**     |Chinese Orchestra  | -       Participation and achievements in related music competitions and performances.<br>-   Consistent academic performance for P5 overall and P6 Mid-Year Examination, or its equivalent,<br>   A video submission may be requested from all applicants for shortlisting purpose with enough notice given. The 3-5 minutes video can be filmed during the applicant's CCA session or own practice session.<br>and<br>_Preferably_<br>-  Represented their primary schools in Singapore Youth Festival (SYF) Arts Presentation.<br>-   Attained ABRSM or equivalent accreditation for music/ Chinese Instruments.  |
 
-**[For more information on Chinese Orchestra click here.](/co-curricular-activities/performing-arts/chinese-orchestra)**
+**[For more information on Chinese Orchestra click here.](/co-curricular-activities/Performing-Arts/Chinese-Orchestra/)**
 
 **DSA Visual Arts**
 
@@ -102,7 +102,7 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
 
 Prospective students who are enrolled via DSA Visual Arts will have Visual Arts Club as their CCA. They will be offered Enhanced Art Programme (EAP) at Upper Sec, taking Art as an O-Level subject.
 
-**[For more information on Visual Arts click here.](/co-curricular-activities/clubs-and-societies/visual-arts-club)**
+**[For more information on Visual Arts click here.](/co-curricular-activities/Clubs-and-Societies/Visual-Arts-Club/)**
 
 **DSA Bilingualism**
 
@@ -114,4 +114,4 @@ biculturalism. They will be given opportunities to participate in various langua
 
 In addition, DSA-Bilingualism students will have to take the Chinese Language Elective Programme – Secondary (CLEP-Sec) in Secondary 3 (i.e. they will have to take Chinese Literature, either as a full or elective subject.)
 
-**[For more information on CLEP-Sec click here.](/our-talent-development/chinese-language-elective-programme-clep)**
+**[For more information on CLEP-Sec click here.](/our-talent-development/Chinese-Language-Elective-Programme-CLEP/)**
