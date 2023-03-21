@@ -54,12 +54,9 @@ To support quality teaching and learning anytime and anywhere undergirded by fut
 3.  To develop NCzens to be a digital creator who are passionate in embracing a culture of innovation and co-creation to solve real-world problems.
 4.  To promote the infusion of ICT to enhance classroom experience.
 
-**Our Programme (2023 onwards)**
-![NCHS ICT Department Data Digital Literacy](/images/NCHS%20ICT%20Digital%20n%20Data%20Literacy%20Programme.png)
+**Our Create-Curate-Connect Programme (2021 onwards)**
+![](/images/CCC_Use(FINAL).png)
 
-**ICT In-House Systems**
-
-ICT Help C-C-C Record of Requests
 
 **ICT Innovations @ NCHS**
 
