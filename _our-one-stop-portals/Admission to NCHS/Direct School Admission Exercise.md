@@ -114,4 +114,4 @@ biculturalism. They will be given opportunities to participate in various langua
 
 In addition, DSA-Bilingualism students will have to take the Chinese Language Elective Programme – Secondary (CLEP-Sec) in Secondary 3 (i.e. they will have to take Chinese Literature, either as a full or elective subject.)
 
-**[For more information on CLEP-Sec click here.](/our-talent-development/chinese-language-elective-programme-clep)**
+**[For more information on CLEP-Sec click here.](/our-talent-development/Chinese-Language-Elective-Programme-CLEP/)**
