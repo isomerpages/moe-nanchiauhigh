@@ -92,7 +92,7 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
 | -------- | -------- | -------- |
 | **DSA/ Performing Arts**     |Chinese Orchestra  | -       Participation and achievements in related music competitions and performances.<br>-   Consistent academic performance for P5 overall and P6 Mid-Year Examination, or its equivalent,<br>   A video submission may be requested from all applicants for shortlisting purpose with enough notice given. The 3-5 minutes video can be filmed during the applicant's CCA session or own practice session.<br>and<br>_Preferably_<br>-  Represented their primary schools in Singapore Youth Festival (SYF) Arts Presentation.<br>-   Attained ABRSM or equivalent accreditation for music/ Chinese Instruments.  |
 
-**[For more information on Chinese Orchestra click here.](/co-curricular-activities/performing-arts/chinese-orchestra)**
+**[For more information on Chinese Orchestra click here.](/co-curricular-activities/Performing-Arts/Chinese-Orchestra/)**
 
 **DSA Visual Arts**
 
@@ -102,7 +102,7 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
 
 Prospective students who are enrolled via DSA Visual Arts will have Visual Arts Club as their CCA. They will be offered Enhanced Art Programme (EAP) at Upper Sec, taking Art as an O-Level subject.
 
-**[For more information on Visual Arts click here.](/co-curricular-activities/clubs-and-societies/visual-arts-club)**
+**[For more information on Visual Arts click here.](/co-curricular-activities/Clubs-and-Societies/Visual-Arts-Club/)**
 
 **DSA Bilingualism**
 
