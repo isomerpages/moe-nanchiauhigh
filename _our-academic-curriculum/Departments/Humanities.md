@@ -25,7 +25,7 @@ Mdm Tan Pek Cheng – Head of Department
 <br>Ms Mak Xue Wei – Teacher (History/Social Studies)
 <br>Ms Ng Bi Ru – Teacher (History/Social Studies)
 <br>Ms. Periya Sundaram – Teacher (Geography/Social Studies)
-<br>Mr Tan Han Xiong – Teacher (Geography/Social Studies)
+<br>Mr Lok Liang Min - Teacher (Geography/English)
 <br>Ms Charlene Chen Ying – Teacher (Geography)
 <br>Ms Hung Xue Er Christabel – Teacher (History/Social Studies)
 <br>Ms Lee Zhen Yi Cheryl – Teacher (History/Social Studies)

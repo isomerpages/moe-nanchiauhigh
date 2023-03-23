@@ -65,6 +65,9 @@ Sports Education Programme (SEP)
 
 **Achievements**<br>
 National School Games<br>
+* 2023 - B Division Girls clinched 4th position for the first time in NCHS history <br>
+* 2022 - C Division Boys clinched NZ Top 6 <br>
+* 2022 - Participated in NSG (NZ) for all Boys & Girls
 *   2022 -&nbsp; Participated in NSG (NZ) for all Boys &amp; Girls Divisions C Boys – NZ Top 6<br>
 *   2021 – Participated in NSG (NZ) only B Div Boys &amp; Girls<br>
 *   2020 – Participated in NSG (NZ)<br>

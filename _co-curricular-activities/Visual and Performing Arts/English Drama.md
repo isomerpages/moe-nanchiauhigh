@@ -13,7 +13,7 @@ third_nav_title: Visual and Performing Arts
 
 *   Innovation &amp; Enterprise Room (Level 3)
 *   Mdm Chen Xiaowei Chney (OIC)  
-    Mr Tan Han Xiong
+    Ms Cherlene Lau
 		
 **KEY INFORMATION**
 

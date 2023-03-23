@@ -36,29 +36,16 @@ third_nav_title: Sports and Games
 2.  Members of the CCA are nurtured both physically and mentally to fulfil their potential.
 3.  Members are dedicated and enthusiastic towards the game, and have excellent discipline, teamwork and sportsmanship.
 
-**Highlight(s) of Activities**
+**Highlight(s) of Activities**<br>
+Students can choose to participate in a wide range of diverse and meaningful activities: <br>
+- National School Games Inter-School Competitions<br>
+- Intra-School / Friendly Matches<br>
+- VIA Service Learning projects 
 
-Students can choose to participate in a wide range of diverse and meaningful activities:
-
--North Zone Inter-School Competitions<br>
--Intra-School / Friendly Matches<br>
--Umpiring at external Table Tennis events<br>
--VIA projects
-
-**Achievements**
-
-**NATIONAL SCHOOL GAMES 2022**<br>
-'B' Div Boys &amp; Girls Top 4<br>
-'C' Div Boys &amp; Girls Top 4
-
-  
-
-**NATIONAL SCHOOL GAMES 2021**<br>
-B Girls North Zone Top 4
-
-  
-
-**NBSS SHIPSHAPE Table Tennis Competition 2019**<br>
-B Boys – 1st<br>
-C Boys – 1st<br>
-C Girls – 1st
+**Achievements**<br>
+National School Games North Zone 2023<br>
+‘B’ Div Boys & Girls Top 4<br>
+‘C’ Div Boys & Girls Top 4<br><br>National School Games North Zone 2022 <br>‘B’ Div Boys & Girls Top 4 <br>‘C’ Div Boys & Girls Top 4 <br><br>
+NBSS SHIPSHAPE Table Tennis Competition 2022 <br>
+B Boys – 1st B Girls - 1st <br>
+C Boys – 1st C Girls – 1st
