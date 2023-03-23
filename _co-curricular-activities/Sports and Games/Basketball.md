@@ -16,16 +16,13 @@ Sat 8am - 11am (Selected players for both gender)
 **Teachers-in-Charge:**<br>Mr Arthur Lim & Mr Raffi Buang (Advisor)<br>Ms Alison Tan (Overall Teacher-In-Charge)<br>Mr Gary Lim (Teacher-In-Charge)<br>Mr Ji Wen (Teacher-In-Charge)
 		
 		
-**KEY INFORMATION**
-
-
+**KEY INFORMATION**<br>
 **CCA Objectives**
 
-To fulfill students’ passion and potential in Basketball.
-
-To develop competent student-athletes equipped with sporting knowledge and skills.
-
-To develop student leaders with the passion to lead, serve and inspire.
+*  To fulfill students’ passion and potential in Basketball.<br>
+*  To fulfill students’ passion and potential in Basketball.<br>
+*  To develop competent student athletes equipped with sporting knowledge and skills.<br>
+*  To develop student leaders with the passion to lead, serve and inspire.
 
 **CCA Description**
 
