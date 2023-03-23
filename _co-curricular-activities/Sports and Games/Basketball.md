@@ -6,22 +6,14 @@ third_nav_title: Sports and Games
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSUwGROkaXsJTV9l_91EggG8cHcIVZEQovzRE0x6dhC1luVxdSUB7E7HRlhIhAWN65w3zuvgkLObeSX/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
-*   Mon: Girls,  
-    3.30pm – 6.30pm  
-    Wed: Boys,  
-    3.30pm – 6.30pm  
-    Thu: Girls,  
-    3.30pm – 6.30pm  
-    Fri: Boys,  
-    3.30pm – 6.30pm  
-    Sat: Selected players,  
-    8.00am – 11.00am
+**Training Dates & Time**<br>
+Mon & Thu 3pm - 6pm (Girls)<br>
+Wed & Fri 3pm - 6pm (Boys)<br>
+Sat 8am - 11am (Selected players for both gender)
+<br><br>
+**Venue:**<br>ISH 1
 
-*   ISH Level 1
-
-*   Mr Aw Si Kuan  
-    Ms Alison Tan Yi Bing  
-    Mr Gary Lim Jian Ming
+**Teachers-in-Charge:**<br>Mr Arthur Lim & Mr Raffi Buang (Advisor)<br>Ms Alison Tan (Overall Teacher-In-Charge)<br>Mr Gary Lim (Teacher-In-Charge)<br>Mr Ji Wen (Teacher-In-Charge)
 		
 		
 **KEY INFORMATION**
