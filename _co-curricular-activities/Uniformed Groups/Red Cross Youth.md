@@ -5,19 +5,17 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ5VAzmtrTGubtTwYw_r3byP1FSCtjbeFyGrXjHgAbSG0TaJAF-M17tLWVkgVEIx8bsWYHTeBIefynx/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-
+<br>
 *   Friday,  
     2.30pm – 6.15pm
+<br> Quadrangle
+<br>
 
-  
-
-*   Quadrangle
-
-  
-
-*   Mr Abdul Rahim  
-    Ms Lenden-Hitchcock Su Mei M.M.  
-    Mdm Doris Toh Ming Li
+Teachers in charge:
+*   Ms Doris Toh Ming Li 
+*   Mr Abdul Rahim 
+*   Ms Lenden-Hitchcock Su Mei M.M. 
+*   Ms Lee Zhen Yi Cheryl
 		
 **KEY INFORMATION**
 		
