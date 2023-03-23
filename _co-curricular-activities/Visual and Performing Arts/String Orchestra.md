@@ -6,15 +6,11 @@ third_nav_title: Visual and Performing Arts
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQwajmOVbj8FVYNEOS0RCzOnVE2jawBQfmVVcKnSedzYKAZIX1H7ctcLKqQltuuuCowPqDn8MMPdbBo/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
-*   Thursday,  
-    3.15pm – 6.15pm  
-    Friday,  
-    3.30pm – 6.30pm  
+Thursday, 3.15pm – 6.15pm<br>Friday, 3.15pm – 6.15pm <br>
+<br>String Room (Level 2)
 
-*   String Room (Level 2)
-
-*   Ms Ng Su Peng (OIC)  
-    Ms Chay Chia Ling
+Ms Ng Su Peng (OIC)  
+Mdm Khoo Ching Wan
 
 **KEY INFORMATION**
 
