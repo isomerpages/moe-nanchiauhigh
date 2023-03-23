@@ -30,6 +30,7 @@ Mdm Yap Teck Lay Anna – Head of Department
 
 1.  Theater experiences
 2.  Literature and overseas learning journeys
+3.  Poet's Talk Talent Development: to add Creative Arts Programme, Unity Writer's Festival
 
 **DEPARTMENT PROGRAMMES**
 
