@@ -30,11 +30,10 @@ The Basketball CCA aims to develop in our students a disciplined mind, outstandi
 
 **Highlight(s) of Activities**
 
-North Zone B Division Basketball Championship – January<br>
+North Zone B' Division Basketball Championship – January & February<br>
 U14 T-Net Basketball Tournament – June<br>
-North Zone C Division Basketball Championship – July<br>
-U16 T-Net Basketball Tournament – October<br>
-Annual Basketball Camp – November
+North Zone C' Division Basketball Championship – May & July<br>
+U16 T-Net Basketball Tournament – October Annual Basketball Camp – November
 
 **Achievements**
 
