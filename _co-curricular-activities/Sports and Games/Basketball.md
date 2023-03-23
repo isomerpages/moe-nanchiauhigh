@@ -26,7 +26,7 @@ Sat 8am - 11am (Selected players for both gender)
 
 **CCA Description**
 
-The Basketball CCA aims to develop in our students a disciplined mind, outstanding character, leadership qualities and sportsmanship. The Basketball Developmental Programme places great emphasis in inculcating them with values and sportsmanship,&nbsp; equipping students with sporting knowledge and skills and in providing opportunities for a holistic experience. There are also customized programmes to cater to higher ability student to compete at a higher level. Students are also encouraged to take ownership of the team through the planning and execution of sporting events as well as day-to-day duties.
+The Basketball CCA aims to develop in our students a disciplined mind, outstanding character, leadership qualities and sportsmanship. The Basketball Developmental Programme places great emphasis in inculcating them with values and sportsmanship, equipping students with sporting knowledge and skills and in providing opportunities for a holistic experience. There are also customized programmes to cater to higher ability student to compete at a higher level. Students are also encouraged to take ownership of the team through the planning and execution of sporting events as well as day-to-day duties.
 
 **Highlight(s) of Activities**
 
