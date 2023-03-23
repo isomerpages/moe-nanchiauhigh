@@ -15,7 +15,7 @@ third_nav_title: Visual and Performing Arts
 *   I&amp;E Room (Level 3)  
 
 *   Mr Tan Jia Hao (OIC)  
-    Ms Shao Linjuan
+     Ms Kim Lay Tin
 		
 **KEY INFORMATION**
 
@@ -34,14 +34,15 @@ Members are also selected and trained to take part in various school functions a
 
 **Highlight(s) of Activities**
 
-1\.  School Public Performance<br>
-2.  SYF Arts Presentations for Drama<br>
-3.  Inter-School Group Story Telling Competition<br>
-4.  Annual Leadership Camp<br>
-5.  Drama Appreciation
+1. School Internal & Public Performance<br>
+2. SYF Arts Presentations for Drama<br>
+3. Drama Exchange<br>
+4. Drama Camp<br>
+5. Drama Appreciation
 
 **Achievements**
 
+2022 - 3rd Prize (Youth Category) for the first Poetry Festival Singapore: Chinese Poetry Recitation Competition (首届新加坡诗歌节——华文诗歌朗诵比赛) - Teo Zhi Ling 张之龄<br>
 2021 – The Certificate of Accomplishment for the SYF Arts Presentations for Drama  
 2019 – The Certificate of Distinction for the SYF Arts Presentations for Drama  
 2018 – Merit Award in the “Best Script Award” Category and The Most Potential Award for Script It Right Radio Drama Writing Competition  
