@@ -17,7 +17,7 @@ Staff List:
 Mdm Yap Teck Lay Anna – Head of Department
 <br>Mr Fu Kaidi – Subject Head of English
 <br>Mdm Shahnaaz Sidik – Senior Teacher / Literature
-<br>Mdm Pey Siew Mei
+<br>Ms Elaine Chong
 <br>Ms Su Mei Lenden-Hitchcock
 <br>Ms Angel Chiang
 <br>Ms Michelle Yeong
