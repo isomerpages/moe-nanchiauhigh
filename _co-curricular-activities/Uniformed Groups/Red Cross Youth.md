@@ -24,8 +24,6 @@ Teachers in charge:
 RCY Mission:<br>
 To engage youths in various local and international humanitarian programmes.
 
-  
-
 RCY Vision:<br>
 Confident and competent youths who are leaders within their communities, serving humanity and furthering the work of the Red Cross Movement.
 
@@ -52,8 +50,10 @@ The Singapore Red Cross Youth (RCY) is part of the largest humanitarian network 
 
 **Achievements**
 
-Excellent Unit Gold Award 2012-2020<br>
-First Aid Competition (FAC) ‘Awareness’ Category 2020 – Bronze Award<br>
-FAC 2019 – Gold Award<br>
-FAC 2018 – Silver Award<br>
+Excellent Unit Gold Award 2012 – 2021 <br>
+First Aid Competition (FAC) Junior Category 2022 – Silver Award <br>
+First Aid Competition (FAC) Senior Category 2022 – Silver Award <br>
+First Aid Competition (FAC) Junior Category 2021 – Gold Award <br>
+First Aid Competition (FAC) Senior Category 2021 – Silver Award<br>
+First Aid Competition (FAC) ‘Awareness’ Category 2020 – Bronze Award <br>
 RCY Disaster Risk Reduction Championships 2020 – Gold Award (Prelim)
