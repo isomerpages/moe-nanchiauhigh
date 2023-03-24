@@ -6,12 +6,12 @@ third_nav_title: Clubs and Societies
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTRRfACzWW2H0_CgLDMLSVWbdGffRVAJH_iQRKzTSriAXI1AGypXwEsPC1coX_6d-2f61F7fx6hPiKT/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-
+**Training Date & Time**<br>
 Friday,  
 2.30pm – 5.30pm<br>
 
 **Venue**<br>
-Consultation Room 3
+D&T Room 2
 
 **Teacher-in-Charge**
 <br>Mdm Zhang Chunyu
