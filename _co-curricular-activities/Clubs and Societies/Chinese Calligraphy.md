@@ -32,5 +32,4 @@ Consultation Room 3
 
 | 比赛名称 | 获奖 | 
 | -------- | -------- |
-| 庆祝华人新年校内书法比赛<br>In-school Calligraphy Competition 2022     | 硬笔<br>Pen Calligraphy S1<br>优胜奖（Consolation Prize：<br>• 谢菀轩 CHIA WAN XUAN ALESEA（1 Resilience<br> • 陈诗淇ELISE CHAN SHI QI（1 Resilience）<br> •	陆晋卓LOKE JERN CHOC（1 Resilience)<br> | 
-
+| 庆祝华人新年校内书法比赛<br>In-school Calligraphy Competition 2022     | 硬笔<br>Pen Calligraphy S1<br>优胜奖（Consolation Prize：<br>• 谢菀轩 CHIA WAN XUAN ALESEA（1 Resilience<br> • 陈诗淇ELISE CHAN SHI QI（1 Resilience）<br> •	陆晋卓LOKE JERN CHOC（1 Resilience)<br> |
