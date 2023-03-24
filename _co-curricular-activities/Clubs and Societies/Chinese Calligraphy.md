@@ -36,3 +36,4 @@ Consultation Room 3
 |第33届全国学生书法比赛<br>33th National Student Calligraphy Competition | 华函 Hua Han  (S4-Integrity) <br>吴坤桦	WU KUNHUA(S4-Resilience) <br>**获中学组毛笔书法优胜奖**<br>**Brush Calligraphy, Merit Award of Secondary School**|
 |2022 Zhang Shou Shi National Calligraphy & Chinese Painting Exhibition <br>笔墨有情”- 张瘦石全国中小学书画展 | **中学毛笔组优胜奖 华函**	<br>Hua Han  (S4-Integrity) |
 |第22届全国书法大赛墨忘书心 | **中学硬笔组鼓励奖**<br> 林彤恩 JOCELYN LIM TONG EN	(2 Integrity)<br> 李思妤	LI SIYU	(3 Excellence)<br> 苏翰乐	SAMUEL SOO HANLE (3 Gratitude)<br><br>**中学毛笔组鼓励奖**<br> 陈思洁	ANGELA TAN SI JIE	(3 Gratitude)<br> 华函	Hua Han	(4 Integrity)|
+| 2022年第五届“星衢墨艺”全国中小学书法比赛<br>5th SING CHU NATIONAL STUDENT CHINESE CALLIGRAPHY COMPETITION 2022 | **获中学组毛笔书法优胜奖**<br>李芊颖	LEE QIAN YING, CHARLOTTE	(3 Excellence)<br><br>**获中学组毛笔书法安慰奖**<br>林彤恩	JOCELYN LIM TONG EN	(2 Integrity)<br>蔡雨彤	CHUA YU TONG (2 Resilience) |
