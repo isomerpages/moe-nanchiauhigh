@@ -38,3 +38,8 @@ Infocomm club is a dynamic and exciting CCA filled with opportunities for growth
 | 2015 | Singapore Games Creation Competition 2015 | Merit Award & Consolation Award |
 |2016 | Appointment of IMDA Youth Infocomm Ambassador 2016 | Seah Min Jun<br>Ng Yuan Da Elson |
 | 2016 | \[i.code\] 2016 Competition | 3rd Position |
+| 2016| Singapore Games Creation Competition 2016 | Merit Award |
+| 2017 | Singapore National Olympiad in Informatics Competition 2017 | Bronze Award |
+| 2017 | Appointment of IMDA Youth Infocomm Ambassador 2017 | Joan Chang Min Choo |
+| 2017 | Singapore Games Creation 2017 | Top 10 Finalists |
+| 2018 | Singapore National Olympiad in Informatics Competition 2018 | Bronze & Honourable Mentioned |
