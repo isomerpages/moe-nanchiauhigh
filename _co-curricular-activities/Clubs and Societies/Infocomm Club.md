@@ -29,14 +29,10 @@ Infocomm club is a dynamic and exciting CCA filled with opportunities for growth
 | 2012 | National Infocomm Club Awards 2012 | 3rd Prize – Chloe’s Educational Journey |
 | 2013 | ITE Skills Competition 2013 (Web Design Category) | Gold Award |
 | 2014 |  National Infocomm Security Competition 2014 | Top 10 Finalist |
+|
 
 
 
-
-| Year | Competition Programme | Achievement |
-| -------- | -------- | -------- |
-
-| 2014 | National Infocomm Security Competition 2014 | Top 10 Finalist |
 | 2014 | Singapore Games Creation Competition 2014 | Commendation Award |
 | 2015 | National Infocomm Competition (NIC) Face-Off for Ace of Coder | 2nd Runner Up |
 | 2015 | Singapore Games Creation Competition 2015 | National Council for Problematic Gaming (NCPG) Mobile Game Award |
