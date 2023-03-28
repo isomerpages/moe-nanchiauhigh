@@ -33,3 +33,5 @@ Infocomm club is a dynamic and exciting CCA filled with opportunities for growth
 | 2013 | ITE Skills Competition 2013 (Web Design Category) | Gold Award |
 | 2014 | National Infocomm Security Competition 2014 | Top 10 Finalist |
 | 2014 | Singapore Games Creation 2014 | Commendation Award |
+| 2015 | National Infocomm Creation (NIC) Face-Off for Ace of Coder | 2nd Runner-Up |
+| 2015 | Singapore Games Creation Competition 2015 | National Council for Problematic Gaming (NCPG) Mobile Game Award |
