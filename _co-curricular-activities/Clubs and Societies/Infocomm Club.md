@@ -18,24 +18,12 @@ NCHS Infocomm Club aims to ignite in students a passion for Infocomm by providin
 **CCA Description**<br>
 Infocomm club is a dynamic and exciting CCA filled with opportunities for growth. The CCA collaborates with Infocomm Media Development Authority (IMDA) to provide curated programmes and activities in 5 categories to enable students to receive a well-rounded CCA experience:
 
-| LEARN | DISCOVER | LEAD  | EXCEL |
+| **LEARN** | **DISCOVER** | **LEAD**  | **EXCEL** |
 | -------- | -------- | --------  | -------- |
 | Infocomm Club members will be provided training through courses in various infocomm and media domains such as Artificial Intelligence, Game Development and Mobile App Development. | Taking learning out of the classroom is important to augment Infocomm Club members’ in-class lessons and will provide exposure to real-world context and applications. There will be activities (such as company visits) for Infocomm club members to have opportunities to deepen their love for media and tech. | Infocomm Club members will be provided with leadership opportunities that will enable them to demonstrate their leadership abilities. They will be trained by IMDA to carry out their roles effectively. | Infocomm Club students will participate in the yearly Singapore Youth Tech Awards. Trainings will be provided by IMDA to equip Infocomm Club memberds to be ready for the competition. |
 
-
-
-
-
-
-
-
-
-
-
-
 **Highlight(s) of Activities**<br>
-1\. Singapore Games Creation Competition.<br>
-2\. Strategic partnership with IMDA.
+* Strategic partnership with IMDA.
 
 **Achievements**<br>
 2012: National Infocomm Club Awards 2012 (3rd Prize) – Chloe’s Educational Journey<br>
@@ -64,4 +52,5 @@ Infocomm club is a dynamic and exciting CCA filled with opportunities for growth
 2020: N.E.mation! 2021 – Top 10 Student Team<br>
 2021: e-Science &amp; Technology Challenge 2021, Category 2 - 1st Runner Up.<br>
 2022: Microsoft Imagine Cup Junior Singapore (ICJSG) - Top 10 Finalists.<br>
-2022: Infocomm Media Club Youth Awards 2022 - Certificate of Accomplishment
+2022: Infocomm Media Club Youth Awards 2022 - Certificate of Accomplishment<br>
+2023: Apple Swift Innovation Programme - Certificate of Accomplishment
