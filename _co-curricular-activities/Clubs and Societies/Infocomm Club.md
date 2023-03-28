@@ -50,3 +50,7 @@ Infocomm club is a dynamic and exciting CCA filled with opportunities for growth
 | 2019 | POSB \[i.code\] Challenge 2019 | Top 10 Finalists |
 | 2020 | Youth Cyber Exploration Programme | Top 10 Finalists |
 | 2020 | N.E.mation! 2021 | Top 10 Students Team |
+| 2021 | e-Science Technology Challenge 2021 (Cat 2) | 1st Runner-Up |
+| 2022 | Microsoft Imagine Cup Junior Singapore (ICJSG) | Top 10 Finalists |
+| 2022 | Infocomm Media Club Youth Awards 2022 | Certificate of Accomplishment |
+| 2023 | Apple Swift Innovation Programme | Certificate of Accomplishment |
