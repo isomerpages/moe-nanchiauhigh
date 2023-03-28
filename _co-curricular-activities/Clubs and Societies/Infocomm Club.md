@@ -27,4 +27,3 @@ Infocomm club is a dynamic and exciting CCA filled with opportunities for growth
 | Year | Competition/Programmes | Achievement |
 | -------- | -------- | -------- |
 | 2012 | National Infocomm Club Awards 2012 | 3rd Prize - Chloe's Educational Journey |
-
