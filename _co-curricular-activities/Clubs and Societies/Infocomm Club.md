@@ -43,3 +43,10 @@ Infocomm club is a dynamic and exciting CCA filled with opportunities for growth
 | 2017 | Appointment of IMDA Youth Infocomm Ambassador 2017 | Joan Chang Min Choo |
 | 2017 | Singapore Games Creation 2017 | Top 10 Finalists |
 | 2018 | Singapore National Olympiad in Informatics Competition 2018 | Bronze & Honourable Mentioned |
+| 2018 | \[i.code\] 2018 Competition | Top 10 Finalists |
+| 2018 | Singapore Games Creation Competition 2018 | Top 10 Finalists & Merit Award |
+| 2018 | Environment Challenge for Schools (ECS) 2018 | Merit Award |
+| 2019 | Build on SG 2019 Hackathon Challenge | Top 20 Finalists |
+| 2019 | POSB \[i.code\] Challenge 2019 | Top 10 Finalists |
+| 2020 | Youth Cyber Exploration Programme | Top 10 Finalists |
+| 2020 | N.E.mation! 2021 | Top 10 Students Team |
