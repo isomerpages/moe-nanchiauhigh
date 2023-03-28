@@ -13,12 +13,16 @@ third_nav_title: Clubs and Societies
 
 **KEY INFORMATION**<br>
 <br>**CCA Objectives**<br>
-Infocomm Club aims to ignite in students a passion for Infocomm by providing opportunities for them to gain relevant skills and challenge themselves through participation in national Infocomm competitions organised by IMDA.
+NCHS Infocomm Club aims to ignite in students a passion for Infocomm by providing ample opportunities for them to pursue their interest, deepen their learning in emerging tech and gain industry exposure.
 
 **CCA Description**<br>
-Infocomm club is a dynamic and exciting CCA filled with opportunities for growth. The CCA collaborates with Infocomm Media Development Authority (IMDA) to provide latest relevant ICT courses for our students in various functional domains as detailed in the ICM Learning Roadmap programme.
+Infocomm club is a dynamic and exciting CCA filled with opportunities for growth. The CCA collaborates with Infocomm Media Development Authority (IMDA) to provide curated programmes and activities in 5 categories to enable students to receive a well-rounded CCA experience:
 
-Students in the Infocomm Club are trained to develop both games and mobile applications. As we value the importance of digital design, Infocomm Club also provides students with basic knowledge of Adobe Illustrator and Photoshop to enable them to enhance the outlook of their digital projects. Outstanding students will be given the opportunity to apply their knowledge and stretch their abilities through participation in national competitions (e.g. Singapore Games Creation Competition, National Olympiad in Informatics, i.Code) and other meaningful competitions organised by IMDA.
+
+
+
+
+
 
 **Highlight(s) of Activities**<br>
 1\. Singapore Games Creation Competition.<br>
