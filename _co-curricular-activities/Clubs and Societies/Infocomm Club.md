@@ -35,3 +35,6 @@ Infocomm club is a dynamic and exciting CCA filled with opportunities for growth
 | 2014 | Singapore Games Creation 2014 | Commendation Award |
 | 2015 | National Infocomm Creation (NIC) Face-Off for Ace of Coder | 2nd Runner-Up |
 | 2015 | Singapore Games Creation Competition 2015 | National Council for Problematic Gaming (NCPG) Mobile Game Award |
+| 2015 | Singapore Games Creation Competition 2015 | Merit Award & Consolation Award |
+|2016 | Appointment of IMDA Youth Infocomm Ambassador 2016 | Seah Min Jun<br>Ng Yuan Da Elson |
+| 2016 | \[i.code\] 2016 Competition | 3rd Position |
