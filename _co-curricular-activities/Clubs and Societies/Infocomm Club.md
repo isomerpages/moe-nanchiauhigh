@@ -27,7 +27,7 @@ Infocomm club is a dynamic and exciting CCA filled with opportunities for growth
 **Achievements**<br>
 
 
-| Column 1 | Column 2 | Column 3 |
+| Year | Competition/Programme | Achievement |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
+| 2012 | National Infocomm Club Awards 2012 | 3rd Prize - Chloe's Educational Journey |
+| 2013 | ITE Skills Competition 2013 (Web Design Category) | Gold Award |
