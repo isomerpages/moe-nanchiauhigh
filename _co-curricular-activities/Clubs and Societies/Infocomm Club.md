@@ -24,10 +24,16 @@ Infocomm club is a dynamic and exciting CCA filled with opportunities for growth
 | Infocomm Club members will be provided training through courses in various infocomm and media domains such as Artificial Intelligence, Game Development and Mobile App Development. | Taking learning out of the classroom is important to augment Infocomm Club members’ in-class lessons and will provide exposure to real-world context and applications. There will be activities (such as company visits) for Infocomm club members to have opportunities to deepen their love for media and tech. | Infocomm Club members will be provided with leadership opportunities that will enable them to demonstrate their leadership abilities. They will be trained by IMDA to carry out their roles effectively. | Infocomm Club students will participate in the yearly Singapore Youth Tech Awards. Trainings will be provided by IMDA to equip Infocomm Club memberds to be ready for the competition. |
 
 **Achievements**<br>
-| Year | Competition Programme | Achievement |
+| Year | Competition/Programme | Achievement |
 | -------- | -------- | -------- |
 | 2012 | National Infocomm Club Awards 2012 | 3rd Prize – Chloe’s Educational Journey |
 | 2013 | ITE Skills Competition 2013 (Web Design Category) | Gold Award |
+
+
+
+| Year | Competition Programme | Achievement |
+| -------- | -------- | -------- |
+
 | 2014 | National Infocomm Security Competition 2014 | Top 10 Finalist |
 | 2014 | Singapore Games Creation Competition 2014 | Commendation Award |
 | 2015 | National Infocomm Competition (NIC) Face-Off for Ace of Coder | 2nd Runner Up |
