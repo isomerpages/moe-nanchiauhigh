@@ -35,9 +35,12 @@ Ms Cherlene Lau
 
 **Talent Development**
 
-– National Schools Literature Festival
-<br>– Creative Writing and Public Speaking competitions
-<br>– Chrysalis Publication
+– Live On Festival Essay Competition <br>
+– Creative Arts Programme<br>
+– Unity Writers' Festival <br>
+– National Schools' Literature Festival <br>
+– Creative Writing and Choral/Public Speaking competitions <br>
+– Chrysalis Publication
 
 **Collaborations**
 
