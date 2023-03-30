@@ -4,11 +4,9 @@ permalink: /our-academic-curriculum/Departments/English-Language-and-Literature/
 description: ""
 third_nav_title: Departments
 ---
-<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbIBM9DDYF2q6iDQttS7tOMt-LyuzVE_MgImeF--ywaKlMXoWrqGEx3XYAn9A6KsNyhfFczA9RPm7f/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-
 **Mission**
 
-For students to: read, understand, and appreciate, a variety of texts; think critically; and to communicate responsibly their thoughts and feelings as informed and active citizens.
+For students to: read, understand, and appreciate, a variety of texts; think critically; and to communicate responsibly their thoughts and feelings as informed and caring citizens.
 
 **DEPARTMENT DETAILS**
 
