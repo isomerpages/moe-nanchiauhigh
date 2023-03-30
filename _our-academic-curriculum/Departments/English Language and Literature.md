@@ -4,43 +4,44 @@ permalink: /our-academic-curriculum/Departments/English-Language-and-Literature/
 description: ""
 third_nav_title: Departments
 ---
-<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbIBM9DDYF2q6iDQttS7tOMt-LyuzVE_MgImeF--ywaKlMXoWrqGEx3XYAn9A6KsNyhfFczA9RPm7f/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-
 **Mission**
 
-For students to: read, understand, and appreciate, a variety of texts; think critically; and to communicate responsibly their thoughts and feelings as informed and active citizens.
+For students to: read, understand, and appreciate, a variety of texts; think critically; and to communicate responsibly their thoughts and feelings as informed and caring citizens.
 
 **DEPARTMENT DETAILS**
 
-Staff List:
-
-Mdm Yap Teck Lay Anna – Head of Department
-<br>Mr Fu Kaidi – Subject Head of English
-<br>Mdm Shahnaaz Sidik – Senior Teacher / Literature
-<br>Ms Elaine Chong
-<br>Ms Su Mei Lenden-Hitchcock
-<br>Ms Angel Chiang
-<br>Ms Michelle Yeong
-<br>Mrs Tan Jie Ying
-<br>Ms Wan Nur Riny Binte Ridzuan
-<br>Mdm S Chandraghantha
-<br>Ms Cherlene Lau
+Staff List:<br>
+Mdm Yap Teck Lay Anna – Head of Department <br>
+Mr Fu Kaidi – Subject Head of English <br>
+Mdm Shahnaaz Sidik – Senior Teacher / Literature <br>
+Ms Angel Chiang - Acting Subject Head of English Literature <br>
+Mrs Elaine Lim <br>
+Mrs Wendy Sui <br>
+Mr Sim Kian Ming <br>
+Ms Su Mei Lenden-Hitchcock <br>
+Ms Michelle Yeong <br>
+Mrs Tan Jie Ying <br>
+Ms Riny <br>
+Mdm S Chandraghantha <br>
+Ms Cherlene Lau
 
 **Enrichment Activities:**
 
-1.  Theater experiences
-2.  Literature and overseas learning journeys
-3.  Poet's Talk Talent Development: to add Creative Arts Programme, Unity Writer's Festival
+* English Reading Programme - Subscription of Straits Times and Digital Magazines <br>
+* Theatre Experiences: Talks with Playwright and/or professionals in the theatre industry <br>
+* Literature and learning journeys with poets and writers
 
 **DEPARTMENT PROGRAMMES**
 
-**Talent Development**
+**Talent Development**<br>
+– Live On Festival Essay Competition <br>
+– Creative Arts Programme<br>
+– Unity Writers' Festival <br>
+– National Schools' Literature Festival <br>
+– Creative Writing and Choral/Public Speaking competitions <br>
+– Chrysalis Publication
 
-– National Schools Literature Festival
-<br>– Creative Writing and Public Speaking competitions
-<br>– Chrysalis Publication
-
-**Collaborations**
-
-– Bilingual DSA
-<br>– Contemporary Singaporean Issues Forum (CSI)
+**Collaborations**<br>
+– Bilingual DSA <br>
+– 'Read, Annotate, Debate' Interschool Literature Festival <br>
+– Contemporary Singaporean Issues Forum (CSI)
