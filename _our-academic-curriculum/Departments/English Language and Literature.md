@@ -44,5 +44,6 @@ Ms Cherlene Lau
 
 **Collaborations**
 
-– Bilingual DSA
-<br>– Contemporary Singaporean Issues Forum (CSI)
+– Bilingual DSA <br>
+– 'Read, Annotate, Debate' Interschool Literature Festival <br>
+– Contemporary Singaporean Issues Forum (CSI)
