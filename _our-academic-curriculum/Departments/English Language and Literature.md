@@ -33,8 +33,7 @@ Ms Cherlene Lau
 
 **DEPARTMENT PROGRAMMES**
 
-**Talent Development**
-
+**Talent Development**<br>
 – Live On Festival Essay Competition <br>
 – Creative Arts Programme<br>
 – Unity Writers' Festival <br>
@@ -42,8 +41,7 @@ Ms Cherlene Lau
 – Creative Writing and Choral/Public Speaking competitions <br>
 – Chrysalis Publication
 
-**Collaborations**
-
+**Collaborations**<br>
 – Bilingual DSA <br>
 – 'Read, Annotate, Debate' Interschool Literature Festival <br>
 – Contemporary Singaporean Issues Forum (CSI)
