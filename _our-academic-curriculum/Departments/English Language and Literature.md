@@ -27,9 +27,9 @@ Ms Cherlene Lau
 
 **Enrichment Activities:**
 
-1.  Theater experiences
-2.  Literature and overseas learning journeys
-3.  Poet's Talk Talent Development: to add Creative Arts Programme, Unity Writer's Festival
+* English Reading Programme - Subscription of Straits Times and Digital Magazines <br>
+* Theatre Experiences: Talks with Playwright and/or professionals in the theatre industry <br>
+* Literature and learning journeys with poets and writers
 
 **DEPARTMENT PROGRAMMES**
 
