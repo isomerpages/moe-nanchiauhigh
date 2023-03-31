@@ -17,5 +17,5 @@ sections:
         - title: Resources
           description: ""
           url: /our-resources/School-Counselling-Services
-      background: /images/homepagev9.gif
+      background: /images/homepagev10.gif
 ---
