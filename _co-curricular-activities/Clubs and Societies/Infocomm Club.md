@@ -54,4 +54,3 @@ Infocomm club is a dynamic and exciting CCA filled with opportunities for growth
 | 2022 | Microsoft Imagine Cup Junior Singapore (ICJSG) | Top 10 Finalists |
 | 2022 | Infocomm Media Club Youth Awards 2022 | Certificate of Accomplishment |
 | 2023 | Apple Swift Innovation Programme | Certificate of Accomplishment |
-
