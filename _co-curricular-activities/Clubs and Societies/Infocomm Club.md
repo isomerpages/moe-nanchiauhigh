@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Clubs-and-Societies/Infocomm-Club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/CNCIBYLFPXE" height="315" width="560"></iframe>
 
 **Training Venue**
 <br>Friday,  2.45pm – 4.45pm
