@@ -5,10 +5,8 @@ description: ""
 ---
 **Timetables**<br>
 [NC Bite 1 Schedule](https://drive.google.com/drive/folders/136_yEC8XvlwztBE1a_Ba_nS-vUeDsuCS?usp=share_link)<br>
-[2023 Semester 1, Term 1 Timetable](https://drive.google.com/drive/folders/1H1LEVFF6JxSl7QaW2dnv2n7cBQM26iIH?usp=share_link)<br>
-[2023 Semester 1, Term 2 Timetable](https://drive.google.com/drive/folders/1O_HO_fjgFQUSE2tvhw8ltF7rhrkN_wMV?usp=share_link)<br>
+[2023 Semester 1 Timetable](https://drive.google.com/drive/folders/1H1LEVFF6JxSl7QaW2dnv2n7cBQM26iIH?usp=share_link)<br>
 [2023 Progress Assessment 1 (PA1) Schedule](https://drive.google.com/drive/folders/1GZzIVUtkBdO48MrMK5qujY5eINTOWq7I?usp=sharing)  
-[2023 Secondary 4 SSL Schedule (Term 1)](To be released)<br>
 
 **School Resources**<br>
 [Student Learning Space (SLS)](https://learning.moe.edu.sg/)  
@@ -16,26 +14,26 @@ description: ""
 [Booklist and Uniform List](https://drive.google.com/drive/folders/0B0NLoi7jhnNmc2RKRTF2bjVLTHM?usp=sharing)<br>
 [Financial Assistance / Bursaries](/Financial-Assistance-and-Bursaries/)
 
-[NCHS TechPOP Newsletters](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-create-curate-connect%2Ftechpop&sa=D&sntz=1&usg=AOvVaw2Obot5AyPr9eJW12G_XD7s)
+[NCHS TechPOP Newsletters](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-create-curate-connect%2Ftechpop&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2Obot5AyPr9eJW12G_XD7s)
 
 *   TechPOP hopes to deliver to both colleagues and students just-in-time updates and provides access to a one-stop portal for ICT help. So let us also POP away your ICT frustrations when any arises!
     
-[NCHS Online Public Access Catalogue (OPAC)](https://www.google.com/url?q=https%3A%2F%2Fschoolibrary.moe.edu.sg%2Fnanchiauhigh%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FWPAC%2FHOME&sa=D&sntz=1&usg=AOvVaw0rI74OclwQ5RVSxfT5t-xL)
+[NCHS Online Public Access Catalogue (OPAC)](https://www.google.com/url?q=https%3A%2F%2Fschoolibrary.moe.edu.sg%2Fnanchiauhigh%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FWPAC%2FHOME&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0rI74OclwQ5RVSxfT5t-xL)
 *   Use this online catalogue to perform a search of the books and resources available in our school library.
     
-[School eResource Repository (SERR)](https://www.google.com/url?q=https%3A%2F%2Fschoolibrary.moe.edu.sg%2Feresourcessec%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FWPAC%2FHOME&sa=D&sntz=1&usg=AOvVaw0ymmJ06Cj8ZjuhPM4cilk1)
+[School eResource Repository (SERR)](https://www.google.com/url?q=https%3A%2F%2Fschoolibrary.moe.edu.sg%2Feresourcessec%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FWPAC%2FHOME&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0ymmJ06Cj8ZjuhPM4cilk1)
 
 *   The School eResource Repository (SERR) is a virtual school library. It aims to promote recreational reading as well as support learning for students across various subject areas. In addition, the repository provides easy access to online resources such as eBooks, audiobooks, videos and web resources. SERR can be accessed without a login ID and password.
 
-[My SkillsFuture Portal](https://www.google.com/url?q=https%3A%2F%2Fwww.myskillsfuture.gov.sg%2Fcontent%2Fstudent%2Fen%2Fsecondary.html&sa=D&sntz=1&usg=AOvVaw0WuL8c2C26ICwnoaEUyV39)<br>
+[My SkillsFuture Portal](https://www.google.com/url?q=https%3A%2F%2Fwww.myskillsfuture.gov.sg%2Fcontent%2Fstudent%2Fen%2Fsecondary.html&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0WuL8c2C26ICwnoaEUyV39)<br>
 [Make an appointment with School ECG Counsellor (Ms Pan)](https://go.gov.sg/nchs-ecg)
 
 
 **School Bill Payment**<br>
-1\.  [Online payment of School Bill (eNETS / Credit/Debit Card / Masterpass / PayLah! / Diners)](https://e-station.axs.com.sg/AXSOnline/external_apps/landing_page.php?bn=4ac28577e0795b27e2e52d9da0d1cc6444b109cee884cd66f9662a6e4e31d7c86e6d6da7d5662e1eadbcb2b3f811582e) [](https://e-station.axs.com.sg/AXSOnline/external_apps/landing_page.php?bn=4ac28577e0795b27e2e52d9da0d1cc6444b109cee884cd66f9662a6e4e31d7c86e6d6da7d5662e1eadbcb2b3f811582e)<br>
-2\.  Join the [GIRO scheme](https://www.moe.gov.sg/financial-matters/fees/egiro)<br>
-3.  AXS m-Station \[mobile app\] <br>
-4.  AXS Station 
+1\.  [Online payment of&nbsp;School Bill (eNETS / Credit/Debit Card / Masterpass / PayLah! / Diners)](https://e-station.axs.com.sg/AXSOnline/external_apps/landing_page.php?bn=4ac28577e0795b27e2e52d9da0d1cc6444b109cee884cd66f9662a6e4e31d7c86e6d6da7d5662e1eadbcb2b3f811582e)&nbsp;[](https://e-station.axs.com.sg/AXSOnline/external_apps/landing_page.php?bn=4ac28577e0795b27e2e52d9da0d1cc6444b109cee884cd66f9662a6e4e31d7c86e6d6da7d5662e1eadbcb2b3f811582e)<br>
+2\.  Join the&nbsp;[GIRO scheme](https://www.moe.gov.sg/financial-matters/fees/egiro)<br>
+3.  AXS m-Station \[mobile app\]&nbsp;<br>
+4.  AXS Station&nbsp;
 
 **S3 Subject Combination Application**<br>
 [Trial Calculator](https://forms.gle/iq6xRKgMoz9CcDdA6)<br>[S3 Subject Combination Application Portal](https://docs.google.com/forms/d/e/1FAIpQLSeTztqkRj1MDJTq8qR3FWsI-GqwmVGF0qJmoewLX3DN_kdcaA/viewform?usp=sf_link)
@@ -52,7 +50,7 @@ _You are required to use your iCON account to access the below documents:_
 ![Technical Account Issues Chart](/images/Technical%20and%20Account%20Issues%20Chart%20for%20NCzens.png)
 
 **Create-Curate-Connect**<br> 
-*   [Level up my](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-create-curate-connect%2Fpld-matters%2Flevel-up-my-pld-skills&sa=D&sntz=1&usg=AOvVaw3zPGp58OLs1YHmQmbjJQh_) [PLD](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-create-curate-connect%2Fpld-matters%2Flevel-up-my-pld-skills&sa=D&sntz=1&usg=AOvVaw3zPGp58OLs1YHmQmbjJQh_) [Skills!](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-create-curate-connect%2Fpld-matters%2Flevel-up-my-pld-skills&sa=D&sntz=1&usg=AOvVaw3zPGp58OLs1YHmQmbjJQh_)
+*   [Level up my](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-create-curate-connect%2Fpld-matters%2Flevel-up-my-pld-skills&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3zPGp58OLs1YHmQmbjJQh_) [PLD](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-create-curate-connect%2Fpld-matters%2Flevel-up-my-pld-skills&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3zPGp58OLs1YHmQmbjJQh_) [Skills!](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-create-curate-connect%2Fpld-matters%2Flevel-up-my-pld-skills&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3zPGp58OLs1YHmQmbjJQh_)
  Students' Initiated Learning in Action! Pick up more skills on SLS now at your own time own pace!  
 
 **DMA Matters**
@@ -72,7 +70,7 @@ _You are required to use your iCON account to access the below documents:_
     *   Option B: Parents/Guardians can disable the DMA after school hours.
         
 
-You may exercise your option at [https://go.gov.sg/nchs-dma-option](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fnchs-dma-option&sa=D&sntz=1&usg=AOvVaw0e-0N4eGJC6Fh6XsFS9-CA).
+You may exercise your option at [https://go.gov.sg/nchs-dma-option](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fnchs-dma-option&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0e-0N4eGJC6Fh6XsFS9-CA).
 
 **SLS Matters**
 *   [**Guide to SLS Account Management (Download pdf: Require your iCON account)**](https://drive.google.com/file/d/1mm9NwRYwP_kHWWugcJe8nA8ilfWwdv7E/view?usp=sharing):  
@@ -83,7 +81,7 @@ You may exercise your option at [https://go.gov.sg/nchs-dma-option](https://www.
     Q4) I chose to reset my password through email but I cannot find the password reset email. What can I do?  
     Q5) Can I change my security questions?  
     
-*   You may also refer to the following [online guide](https://www.google.com/url?q=https%3A%2F%2Fdocs.learning.moe.edu.sg%2Fsls-user-guide%2Fvle%2Flogintroubleshooting%2Findex.html&sa=D&sntz=1&usg=AOvVaw2p1EwoqVmOxqr50UrQHCeI) to troubleshooting of login issues and technical issues.
+*   You may also refer to the following [online guide](https://www.google.com/url?q=https%3A%2F%2Fdocs.learning.moe.edu.sg%2Fsls-user-guide%2Fvle%2Flogintroubleshooting%2Findex.html&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2p1EwoqVmOxqr50UrQHCeI) to troubleshooting of login issues and technical issues.
     
 *   If all above guides do not answer your queries, please approach your Form Teachers or Subject Teachers.
 
@@ -94,9 +92,9 @@ You may exercise your option at [https://go.gov.sg/nchs-dma-option](https://www.
 *   Self-Service site to reset your iCON password (coming soon).
 
 **Cyber Wellness and Mental Health**<br>
-[Cyber Wellness](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-create-curate-connect%2Fcyber-wellness&sa=D&sntz=1&usg=AOvVaw2g7BnwmK2_mxKZ7V7XUfij) [Resources](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-create-curate-connect%2Fcyber-wellness&sa=D&sntz=1&usg=AOvVaw2g7BnwmK2_mxKZ7V7XUfij)
+[Cyber Wellness](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-create-curate-connect%2Fcyber-wellness&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2g7BnwmK2_mxKZ7V7XUfij) [Resources](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-create-curate-connect%2Fcyber-wellness&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2g7BnwmK2_mxKZ7V7XUfij)
 
 *   The aim of our NCHS CW programme is to develop NCzens into discerning and responsible ICT users who are able to protect themselves and be responsible for their well-being and actions in the cyberspace. Our Cyber Wellness efforts sit in our larger Create-Curate-Connect Programme for greater consistency across IP Programme, Innovation efforts, and Digital Literacy efforts.
     
     
-[Mental Health Matters](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-parents%2Fuseful-websites-and-helplines&sa=D&sntz=1&usg=AOvVaw0fU8x2VefCNtp9lyKjQJ3V)
+[Mental Health Matters](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-parents%2Fuseful-websites-and-helplines&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0fU8x2VefCNtp9lyKjQJ3V)
