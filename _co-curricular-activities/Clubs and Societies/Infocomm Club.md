@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Clubs-and-Societies/Infocomm-Club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/CNCIBYLFPXE" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CNCIBYLFPXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 **Training Venue**
 <br>Friday,  2.45pm – 4.45pm
@@ -23,6 +23,7 @@ Infocomm club is a dynamic and exciting CCA filled with opportunities for growth
 | -------- | -------- | --------  | -------- |
 | Infocomm Club members will be provided training through courses in various infocomm and media domains such as Artificial Intelligence, Game Development and Mobile App Development. | Taking learning out of the classroom is important to augment Infocomm Club members’ in-class lessons and will provide exposure to real-world context and applications. There will be activities (such as company visits) for Infocomm club members to have opportunities to deepen their love for media and tech. | Infocomm Club members will be provided with leadership opportunities that will enable them to demonstrate their leadership abilities. They will be trained by IMDA to carry out their roles effectively. | Infocomm Club students will participate in the yearly Singapore Youth Tech Awards. Trainings will be provided by IMDA to equip Infocomm Club memberds to be ready for the competition. |
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSlqcIgMlYvYpFo5VSwm21VwyRJtnaSVq5c4ZrkVSoHxZlubE40cSulOCxZwqg3x4A62XF5TTCMEQqG/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="730" height="467" allowfullscreen="true"></iframe>
 
 **Achievements**<br>
 
