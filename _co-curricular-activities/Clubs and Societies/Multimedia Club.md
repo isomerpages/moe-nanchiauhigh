@@ -6,28 +6,22 @@ third_nav_title: Clubs and Societies
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThOTx2EwSArb374cWPYyHZX8ETzjOF9WMiVGP1_GPcXgtvyfE8pH09YIQatXu7N5COYYuw-6munHsP/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
-*   Monday,  
-    7.10am – 7.55am  
-    Monday,  
-    3.30pm – 5.30pm  
-    Tuesday,  
-    7.10am – 7.55am  
-    Wednesday,  
-    7.10am – 7.55am  
-    Thursday,  
-    7.10am – 7.55am  
-    Friday,  
-    7.10am – 7.55am
+**Training Date &amp; Time**<br>
+Monday, 7.10am – 7.55am <br>
+Monday, 3.30pm – 5.30pm <br>
+Tuesday, 7.10am – 7.55am <br>
+Wednesday, 7.10am – 7.55am <br>
+Thursday, 7.10am – 7.55am <br>
+Friday, 7.10am – 7.55am
 
-  
+**Training Venue**
+D&amp;T Room 2
 
-*   IT Resource Room 1
-
-  
-
-*   Mr Tan Han Wen  
-    Mr Johnson Ong  
-    Ms Maizurah
+**Teachers-in-Charge**
+Mr Tan Han Wen <br>
+Mr Johnson Ong <br>
+Ms Maizurah <br>
+Mr Eric Zhang BoYuan
 		
 **KEY INFORMATION**
 
