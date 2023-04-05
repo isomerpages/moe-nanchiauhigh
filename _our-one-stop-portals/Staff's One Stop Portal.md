@@ -3,8 +3,8 @@ title: Staff's One Stop Portal
 permalink: /our-resources/teachers-resources/
 description: ""
 ---
-**NCHS Live Event & Timetables**<br>
-*   [NCHS Live Event Page](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fnchs-live&sa=D&sntz=1&usg=AOvVaw0l9o1DpgtbcLBQMS7Ow8j6) (Click here for live event)
+**NCHS Live Event &amp; Timetables**<br>
+*   [NCHS Live Event Page](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fnchs-live&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0l9o1DpgtbcLBQMS7Ow8j6) (Click here for live event)
 *   [CCE, TSI and Assembly Calendars (2023)](https://docs.google.com/spreadsheets/d/1K8VAgWQIloJckuPnZ2uye5Mz6L3hccOu1efGdzEJd5U/edit?usp=sharing)
 
     
@@ -13,32 +13,34 @@ description: ""
 *   [2023 Semester 1 Timetable](https://drive.google.com/drive/folders/1H1LEVFF6JxSl7QaW2dnv2n7cBQM26iIH?usp=share_link)<br>
 
 **EdTech Professional Development for Teachers** 
-*    [NCHS EdTech Portal](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-edtech%2Fhome&sa=D&sntz=1&usg=AOvVaw17XqdJKIc0OauG8ihGm3tf) _**\*New\***_
+*    [NCHS EdTech Portal](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-edtech%2Fhome&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw17XqdJKIc0OauG8ihGm3tf) _**\*New\***_
     
-*   [Singapore Teaching Practice (STP)](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fstp&sa=D&sntz=1&usg=AOvVaw0za6S4gXutm8DakRqiDx7w) \[Requires OPAL Login\]
+*   [Singapore Teaching Practice (STP)](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fstp&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0za6S4gXutm8DakRqiDx7w) \[Requires OPAL Login\]
 
 **School Forms for Staff**
-*   [Data Request Form](https://www.google.com/url?q=https%3A%2F%2Fbit.ly%2F3guGbvO&sa=D&sntz=1&usg=AOvVaw046gkbXUfM1oiSQs9RJnmx)
+*   [Data Request Form](https://www.google.com/url?q=https%3A%2F%2Fbit.ly%2F3guGbvO&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw046gkbXUfM1oiSQs9RJnmx)
     
-*   [For student appointment with ECG Counsellor](https://www.google.com/url?q=https%3A%2F%2Fmoeecg.appointeze.com%2Fonlinelink%2FPanMiaohua&sa=D&sntz=1&usg=AOvVaw10brvgJQspCmKM7MFwAS6R) _**\*New\***_
+*   [For student appointment with ECG Counsellor](https://www.google.com/url?q=https%3A%2F%2Fmoeecg.appointeze.com%2Fonlinelink%2FPanMiaohua&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw10brvgJQspCmKM7MFwAS6R) _**\*New\***_
     
-*  [[CCC Form] ICT (including AV) Equipment Defect and Loan Request](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Ficthelpccc&sa=D&sntz=1&usg=AOvVaw3YAma3bWkRvpHvgKSwHL44)
+*  [[CCC Form] ICT (including AV) Equipment Defect and Loan Request](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Ficthelpccc&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3YAma3bWkRvpHvgKSwHL44)
     
-*  [NCHS Defect Reporting](https://www.google.com/url?q=https%3A%2F%2Fform.gov.sg%2F6279c4d743b1c300128b5088&sa=D&sntz=1&usg=AOvVaw0TlArOOu9EtRHoOk5mWN3T)
+*  [NCHS Defect Reporting](https://www.google.com/url?q=https%3A%2F%2Fform.gov.sg%2F6279c4d743b1c300128b5088&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0TlArOOu9EtRHoOk5mWN3T)
     
-*   [NCHS Operations Support Request](https://www.google.com/url?q=https%3A%2F%2Fform.gov.sg%2F626a03e613531800145617a7&sa=D&sntz=1&usg=AOvVaw2PEWT1Zr46GWwncgd3fQzK)
+*   [NCHS Operations Support Request](https://www.google.com/url?q=https%3A%2F%2Fform.gov.sg%2F626a03e613531800145617a7&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2PEWT1Zr46GWwncgd3fQzK)
     
-*   [NCHS Visitor Arrangement Request](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fvisitorarrangementrequest&sa=D&sntz=1&usg=AOvVaw3mOLw7AerhVZRJEOBKfRRU)
+*   [NCHS Visitor Arrangement Request](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fvisitorarrangementrequest&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3mOLw7AerhVZRJEOBKfRRU)
     
-*   [MMC Support Request Form](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fmmcrequest&sa=D&sntz=1&usg=AOvVaw3eH_wlOXftisNXHw58I6VI)
+*   [MMC Support Request Form](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fmmcrequest&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3eH_wlOXftisNXHw58I6VI)
     
-*   [Resource Booking System (RBS)](https://www.google.com/url?q=https%3A%2F%2Frbs.avero-tech.com&sa=D&sntz=1&usg=AOvVaw3DTJqTqrPRWNiNrNRKw4fY)
+*   [Resource Booking System (RBS)](https://www.google.com/url?q=https%3A%2F%2Frbs.avero-tech.com&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3DTJqTqrPRWNiNrNRKw4fY)
     
-*   [Staff Digital Movement Form](http://www.google.com/url?q=http%3A%2F%2Fgo.gov.sg%2Fonleave&sa=D&sntz=1&usg=AOvVaw1I1Y5PjygOP0tYdmGiL92m)
+*   [Staff Digital Movement Form](http://www.google.com/url?q=http%3A%2F%2Fgo.gov.sg%2Fonleave&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1I1Y5PjygOP0tYdmGiL92m)
         
-*   [Uploading Facebook/Instagram Post Form](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fnchsfbinsta&sa=D&sntz=1&usg=AOvVaw0JUj167010-eW7Dy47f6Z2)
+*   [Uploading Facebook/Instagram Post Form](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fnchsfbinsta&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0JUj167010-eW7Dy47f6Z2)
 
-*   [Form for Request to Update School Website](https://forms.gle/H3hhSAEzzHJHLSVx7)
+*   [Form for Request to Update School Website](https://forms.gle/H3hhSAEzzHJHLSVx7) ***(NEW)***
+
+* [Form for adding FAQs to Chatbot on Sch Website](https://go.gov.sg/nchs-chatbot )   ***(NEW)***
 
 **MOE Link for Staffs**<br>
 *   [All Ears Forms Builders](https://forms.moe.edu.sg/)
@@ -53,7 +55,7 @@ description: ""
     
 *   [HR Online](http://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
     
-*   [Google Workplace Dashboard](https://workspace.google.com/dashboard) 
+*   [Google Workplace Dashboard](https://workspace.google.com/dashboard)&nbsp;
     
 *   [iEXAMS 2.0](http://iexams.seab.gov.sg/sso/login)
     
@@ -76,19 +78,19 @@ description: ""
 **Resources for Staff**<br>
 *   [NCHS Cyber Wellness Matters](https://sites.google.com/moe.edu.sg/nchs-create-curate-connect/cyber-wellness)
     
-*   [NCHS Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/nanchiauhigh/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME) 
+*   [NCHS Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/nanchiauhigh/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)&nbsp;
     
 *   [NCHS TechPOP Newsletters](https://sites.google.com/moe.edu.sg/nchs-create-curate-connect/techpop)
     
 *   [PDLP Resources and Good Stories](https://sites.google.com/moe.edu.sg/personaliseddigitallearningpro/home)
     
-*   [e-Pedagogy One-Stop Site (Official)](https://go.gov.sg/eped-onestop)   \*Requires login to OPAL\* 
+*   [e-Pedagogy One-Stop Site (Official)](https://go.gov.sg/eped-onestop) &nbsp; \*Requires login to OPAL\* 
     
 *   [e-Pedagogy Comics](https://go.gov.sg/eped-comics) 
     
 *   [Professional Learning: Level up my PLD Skills!](https://sites.google.com/moe.edu.sg/nchs-create-curate-connect/pld-matters/level-up-my-pld-skills)
 
-*   [PD & Learning @ NCHS](https://sites.google.com/moe.edu.sg/growandglowatnc/home?authuser=0)
+*   [PD &amp; Learning @ NCHS](https://sites.google.com/moe.edu.sg/growandglowatnc/home?authuser=0)
     
 *   [School eResource Repository (SERR)](https://schoolibrary.moe.edu.sg/eresourcessec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME): Virtual School Library
     
