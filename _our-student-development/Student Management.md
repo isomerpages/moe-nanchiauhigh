@@ -12,11 +12,16 @@ Caring Leaders with Values and Character
 They don’t care how much you know until they know how much you care
 
 **Staff List:**<br>
-Mr. Dalvey Neo (HOD)  
-Ms. Tan Han Xiong (Sec. 1 Discipline Level Coordinator)  
-Ms. Periya d/o Supramanian (Sec. 2 Discipline Level Coordinator)  
-Mr. Tan Han Wen (Sec. 3 Discipline Level Coordinator)  
-Mr. Ting Shi Yun (Sec. 4 Discipline Level Coordinator)
+Mr Neo Choong Wei Dalvey (HOD)<br>
+Ms Ng Bi Ru (Student Leadership 2IC)<br>
+Ms Tan Yi Chiann (Student Council OIC)<br>
+Ms Christabel Hung (Student Council 2IC)<br>
+Ms Periya d/o Sundaram (Sec 3 DLC)<br>
+Mr Tan Han Wen (Sec 4 DLC)<br>
+Mr Eric Zhang Boyuan<br>
+Mr Ryan Loh<br>
+Mr Lok Liang Min<br>
+Ms Tan Wan Ting<br>
 
 **KEY POINTERS**
 
