@@ -5,17 +5,13 @@ description: ""
 ---
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTUTT5HjhYb6wKCWTTwRLXTrxAg29ZnFszW77fvmy2HjHJBf_s3dvaQ7MWQbS083bdWNvWwAaNs9jP2/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="767" height="480" allowfullscreen="true"></iframe>
 
-**Vision**
+**Vision**<br>
+Caring Leaders with Values and Character 
 
-Caring Leaders with Values and Character  
-  
-
-**Quote**
-
+**Quote**<br>
 They don’t care how much you know until they know how much you care
 
-Staff List:
-
+**Staff List:**<br>
 Mr. Dalvey Neo (HOD)  
 Ms. Tan Han Xiong (Sec. 1 Discipline Level Coordinator)  
 Ms. Periya d/o Supramanian (Sec. 2 Discipline Level Coordinator)  
@@ -26,10 +22,7 @@ Mr. Ting Shi Yun (Sec. 4 Discipline Level Coordinator)
 
 **School Rules &amp; Regulations**
 
-
 **1\. NATION AND SCHOOL**
-
-  
 
 *   **Nation**
 
@@ -37,25 +30,15 @@ Mr. Ting Shi Yun (Sec. 4 Discipline Level Coordinator)
 *   Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with their right fist placed over their heart.
 *   All students are to be seated at the quadrangle no later than 7.30 am from Mondays to Fridays for the flag-raising ceremony which will commence at 7.35 am.
 
-  
-
 *   **School**
 
-  
-
 1.2.1&nbsp; &nbsp; &nbsp;Weekly Assembly
-
-  
 
 *   Assemble according to classes quickly and in an orderly manner.
 *   All students are expected to wear their school tie.
 *   Sing the School Song with fervor and pride
 
-  
-
 1.2.2&nbsp; &nbsp; &nbsp;Cleanliness
-
-  
 
 *   The cleanliness of the school is the responsibility of all students
 *   All students must participate actively in the “Love My School Deeds” (“爱校活动”); classrooms and all other school premises must be kept clean at all times.
