@@ -3,7 +3,7 @@ title: Student Management
 permalink: /our-student-development/Student-Management/
 description: ""
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSt9cnP0NbNzPsgZTOkqc8fOeeibiLycrgpZAL3i_OZGVnDrzupaYPkyGMtckcMr0VlJCBAy8y40yYt/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTUTT5HjhYb6wKCWTTwRLXTrxAg29ZnFszW77fvmy2HjHJBf_s3dvaQ7MWQbS083bdWNvWwAaNs9jP2/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="767" height="480" allowfullscreen="true"></iframe>
 
 **Vision**
 
