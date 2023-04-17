@@ -20,3 +20,5 @@ From Left to Right: Joley (Shines-in-Harmony In-Charge), Cindy (Heritage In-Char
 
 **(i) Youth For Causes (YFC) Project**<br>
 The Service-Learning Champions are recruited in Secondary Two and will embark on the Youth For Causes project under the mentorship of the Service-Learning teacher mentors as well as their seniors. Under this programme, they will learn to plan and execute self-initiated service-learning projects to raise awareness, funds and organise direct service events for social service agencies of their choice. In Secondary Three, the Service-Learning Champions will apply what they have learnt previously, and lead in their class Youth-For-Causes project.<br>
+
+![](/images/yfc1%202023.png)  ![](/images/yfc%202023%202.png)
