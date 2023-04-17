@@ -15,3 +15,6 @@ We aim to provide leadership platforms for students to:
 
 **Executive Committee Members**<br>
 
+![](/images/slc%20exco%202023.png)<br>
+From Left to Right: Joley (Shines-in-Harmony In-Charge), Cindy (Heritage In-Charge),&nbsp; Camille (Vice-Chairperson), Dylan (Chairperson)<br>
+
