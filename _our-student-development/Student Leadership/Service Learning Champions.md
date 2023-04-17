@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Student Leadership
 ---
 **Our Aim**<br>
-
 We aim to provide leadership platforms for students to:
 
 1.  Ignite passion to serve others<br>
@@ -14,7 +13,10 @@ We aim to provide leadership platforms for students to:
 4.  Develop leadership skills<br>
 
 **Executive Committee Members**<br>
-
 ![](/images/slc%20exco%202023.png)<br>
 From Left to Right: Joley (Shines-in-Harmony In-Charge), Cindy (Heritage In-Charge),&nbsp; Camille (Vice-Chairperson), Dylan (Chairperson)<br>
 
+**Events &amp; Initiatives**<br>
+
+**(i) Youth For Causes (YFC) Project**<br>
+The Service-Learning Champions are recruited in Secondary Two and will embark on the Youth For Causes project under the mentorship of the Service-Learning teacher mentors as well as their seniors. Under this programme, they will learn to plan and execute self-initiated service-learning projects to raise awareness, funds and organise direct service events for social service agencies of their choice. In Secondary Three, the Service-Learning Champions will apply what they have learnt previously, and lead in their class Youth-For-Causes project.<br>
