@@ -31,3 +31,15 @@ The Secondary 2 and 3 Service-Learning Champions also undergo design thinking wo
 ![](/images/slc%20dt%201.png)<br>
 ![](/images/slc%20dt%202.png) <br>
 
+**(iii) Shines-in-Harmony**<br>
+Shines-in-Harmony is organised annually to provide a platform for students to raise funds and awareness for beneficiaries. The Service-Learning Champions lead in the planning for NChasTalent performance to provide an opportunity to showcase their talent and to express their appreciation and gratitude.<br>
+
+![](/images/slc%20shines%201.png)<br>
+![](/images/slc%20shines%202.png)<br>
+
+**(iv) School Heritage Tour**<br>
+Together with Bicultural Ambassadors, ALP students, Chinese Calligraphy and Chinese Drama members, Service-Learning Champions organise an Amazing Race to help Secondary 1 cohort in understanding school's culture and develop a stronger sense of belonging to their new school. SLCs take charge of a station which introduce school’s history to the Secondary 1s.<br>
+
+In addition, the Sec 2 and 3 Service-Learning Champions also organise School Heritage Tour for Primary 6 students from Nan Chiau Primary School at our school’s newly refreshed school heritage gallery. They bring history into life through activities such as Bingo game and re-enactment of some historical scenes.<br>
+
+![](/images/slc%20heritage%20tour%2023.png)<br>
