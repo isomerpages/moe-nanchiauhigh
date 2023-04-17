@@ -4,58 +4,42 @@ permalink: /our-student-development/Student-Leadership/Service-Learning-Champion
 description: ""
 third_nav_title: Student Leadership
 ---
-**Our Aim**
+**Our Aim**<br>
+We aim to provide leadership platforms for students to:
 
+1.  Ignite passion to serve others<br>
+2.  Foster deeper civic engagement through active involvement in community service<br>
+3.  Acquire values that will guide their decisions in life. <br>
+4.  Develop leadership skills<br>
 
-We aim to provide leadership platforms for students to:  
+**Executive Committee Members**<br>
+![](/images/slc%20exco%202023.png)<br>
+From Left to Right: Joley (Shines-in-Harmony In-Charge), Cindy (Heritage In-Charge),&nbsp; Camille (Vice-Chairperson), Dylan (Chairperson)<br>
 
-1.  Ignite passion to serve others
-    
-2.  Acquire values that will guide their decisions in life.
-    
-3.  Develop leadership skills
-    
-4.  Foster deeper civic engagement through active involvement in community service
-    
+**Events &amp; Initiatives**<br>
 
-**Events & Initiatives**
+**(i) Youth For Causes (YFC) Project**<br>
+The Service-Learning Champions are recruited in Secondary Two and will embark on the Youth For Causes project under the mentorship of the Service-Learning teacher mentors as well as their seniors. Under this programme, they will learn to plan and execute self-initiated service-learning projects to raise awareness, funds and organise direct service events for social service agencies of their choice. In Secondary Three, the Service-Learning Champions will apply what they have learnt previously, and lead in their class Youth-For-Causes project.<br>
 
+![](/images/yfc1%202023.png)<br>
+![](/images/yfc%202023%202.png)<br>
+![](/images/yfc%202023%203.png) <br>
 
-**(i) Youth for Causes Project**
-
-The Service-Learning Champions are recruited in Secondary Two and will embark on the Youth for Causes programme under the mentorship of the Service-Learning teacher mentors as well as their seniors. Under this programme, they will learn to plan and execute self-initiated service-learning projects to raise awareness, funds and organise direct service events for social service agencies of their choice. The service-learning leaders also undergo design thinking workshops to learn how to apply the design thinking approach in their service-learning projects.
-
-<img src="/images/image5 (1).png" 
-     style="width:50%;float:left">
-<img src="/images/image7 (1).png" 
-     style="width:50%">
-		 
+**(ii) Design Thinking Workshop**<br>
+The Secondary 2 and 3 Service-Learning Champions also undergo design thinking workshops to learn how to apply the design thinking approach in their service-learning projects. We have also invited two of the alumni members to share more about the service-learning experiences during their schooling days, and how to manage their time and workload. In addition, one of the segments was organized by the current Secondary 4 Service-Learning Champions, which also taught the service-learning leaders on tips on proposal writing for their service-learning projects.<br>
 <br>
+![](/images/slc%20dt%201.png)<br>
+![](/images/slc%20dt%202.png) <br>
 
-<img src="/images/image6.png" 
-     style="width:50%;float:left">
-<img src="/images/image9 (1).png" 
-     style="width:50%">
+**(iii) Shines-in-Harmony**<br>
+Shines-in-Harmony is organised annually to provide a platform for students to raise funds and awareness for beneficiaries. The Service-Learning Champions lead in the planning for NChasTalent performance to provide an opportunity to showcase their talent and to express their appreciation and gratitude.<br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-		 
-**(ii) Shines-in-Harmony** 
+![](/images/slc%20shines%201.png)<br>
+![](/images/slc%20shines%202.png)<br>
 
-Shines-in-Harmony is organised annually to provide a platform for students to raise funds and awareness for beneficiaries. The Service-Learning Champions lead in the planning for NChasTalent performance to provide an opportunity to showcase their talent and to express their appreciation and gratitude. Furthermore, the student leaders also lead in the lucky draw segment to encourage the school population to donate pre-loved items as well as to encourage them to donate for the beneficiaries.
+**(iv) School Heritage Tour**<br>
+Together with Bicultural Ambassadors, ALP students, Chinese Calligraphy and Chinese Drama members, Service-Learning Champions organise an Amazing Race to help Secondary 1 cohort in understanding school's culture and develop a stronger sense of belonging to their new school. SLCs take charge of a station which introduce school’s history to the Secondary 1s.<br>
 
-<img src="/images/image2 (1).png" 
-     style="width:50%;float:left">
-<img src="/images/image8.png" 
-     style="width:50%">
-		 
-<img src="/images/service1.png" 
-     style="width:50%;float:left">
-<img src="/images/service2.png" 
-     style="width:50%">
-		 
-<img src="/images/service3.png" 
-     style="width:50%;float:left">
+In addition, the Sec 2 and 3 Service-Learning Champions also organise School Heritage Tour for Primary 6 students from Nan Chiau Primary School at our school’s newly refreshed school heritage gallery. They bring history into life through activities such as Bingo game and re-enactment of some historical scenes.<br>
+
+![](/images/slc%20heritage%20tour%2023.png)<br>
