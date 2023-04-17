@@ -26,4 +26,8 @@ The Service-Learning Champions are recruited in Secondary Two and will embark on
 ![](/images/yfc%202023%203.png) <br>
 
 **(ii) Design Thinking Workshop**<br>
-The Secondary 2 and 3 Service-Learning Champions also undergo design thinking workshops to learn how to apply the design thinking approach in their service-learning projects. We have also invited two of the alumni members to share more about the service-learning experiences during their schooling days, and how to manage their time and workload. In addition, one of the segments was organized by the current Secondary 4 Service-Learning Champions, which also taught the service-learning leaders on tips on proposal writing for their service-learning projects.
+The Secondary 2 and 3 Service-Learning Champions also undergo design thinking workshops to learn how to apply the design thinking approach in their service-learning projects. We have also invited two of the alumni members to share more about the service-learning experiences during their schooling days, and how to manage their time and workload. In addition, one of the segments was organized by the current Secondary 4 Service-Learning Champions, which also taught the service-learning leaders on tips on proposal writing for their service-learning projects.<br>
+<br>
+![](/images/slc%20dt%201.png)<br>
+![](/images/slc%20dt%202.png) <br>
+
