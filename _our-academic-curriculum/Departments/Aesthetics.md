@@ -39,10 +39,7 @@ Through the Aesthetics subjects, students will learn the fundamental knowledge, 
 
 **ACHIEVEMENT**
 
-1.  Singapore Youth Festival 2018 – Art Exhibition 1 Certificate of Recognition (Special Mention), Certificate of Recognition
-2.  Young Illustrator Awards (YIA) Season 6 – Pang Jing Han (2B), Top 6 (Secondary Category)
-3.  Design Thinking &amp; Innovation Boot Camp 2018 Top 10 Finalist and Most Popular Award
-4.  Pongal Festival (2nd runner up)
+
 
 **DEPARTMENT PROGRAMMES**
 
