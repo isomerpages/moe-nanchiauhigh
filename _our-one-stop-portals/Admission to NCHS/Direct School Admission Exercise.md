@@ -28,7 +28,7 @@ Generally, students should have:<br>
 
 All students will read Higher Chinese Language (HCL) when they join NCHS from sec 1 as NCHS is a Special Assistance Plan school.<br>
 
-Talented students who are interested in NCHS are encouraged to apply for Direct School Admission. Click [HERE](https://www.moe.gov.sg/secondary/dsa/application?pt=Mainstream%20primary%20school) to apply. ([https://www.moe.gov.sg/secondary/dsa/application?pt=Mainstream%20primary%20school](https://www.moe.gov.sg/secondary/dsa/application?pt=Mainstream%20primary%20school))
+Talented students who are interested in NCHS are encouraged to apply for Direct School Admission. Click [Here](https://www.moe.gov.sg/secondary/dsa/application?pt=Mainstream%20primary%20schoo) to apply. <br>
 
 **For clarifications on DSA exercise**
 
