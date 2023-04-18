@@ -40,7 +40,9 @@ Through the Aesthetics subjects, students will learn the fundamental knowledge, 
 **ACHIEVEMENT**<br>
 | **Year** | **Competition** | 
 | -------- | -------- | 
-| Text     | Text     | 
+| 2020 | - 2020 SYF Art Exhibition (2 COA, 1 COP)<br> - LIVE On Design Art Competition 2020 (1st, 4th, 2 Higher Distinction)<br>- I-LEAP Logo Design (Winner)<br>- N.E.mation! 2021 (Top 10)<br> - Innovation Program Project (1 COD, 1 COM)<br>- E-Science &amp; Technology Challenge (5th) | 
+| 2021 | - Draw My Stamp Story Art Competition by National Heritage Board (1 Gold, 3 Silver, 3 Bronze)<br>- LIVE On Design Art Competition 20201(1 Higher Distinction, 2 Distinction, 2 Merit)<br> - NC75 Anniversary Logo Design Competition (1st, 2nd)<br> - Innovation Programme 2021 (2 Distinction, 3 Merit) |
+| 2022 | - "Feed My Trashemon” Art Competition 2021-2 (2nd, 3rd, 1 Finalist)<br>- Live On Art Competition 2022 (5th, 2 Merit)<br> - 2022 SYF Art Exhibition (2 COR)<br> -  D&amp;T Award (Creative award)<br> - MEP40 Showcase (2 entries) |
 
 
 
