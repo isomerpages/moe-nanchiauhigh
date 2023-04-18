@@ -41,7 +41,8 @@ Through the Aesthetics subjects, students will learn the fundamental knowledge, 
 
 | **Year** | **Competition** | 
 | -------- | -------- |
-| 2020     |  - 2020 SYF Art Exhibition (2 COA, 1 COP)<br>- LIVE On Design Art Competition 2020 (1st , 4th , 2 Higher Distinction)<br>- I-LEAP Logo Design (Winner)<br>- N.E.mation! 2021 (Top 10)<br>- Innovation Program Project (1 COD, 1 COM)<br>- | 
+| 2020 | - 2020 SYF Art Exhibition (2 COA, 1 COP)<br>- LIVE On Design Art Competition 2020 (1st , 4th , 2 Higher Distinction)<br>- I-LEAP Logo Design (Winner)<br>- N.E.mation! 2021 (Top 10)<br>- Innovation Program Project (1 COD, 1 COM)<br>- E-Science &amp; Technology Challenge (5th )|
+| 2021 | 
 
 
 
