@@ -12,40 +12,30 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
 **Important Information**
 
-1. &nbsp; &nbsp; Application for DSA-Sec must be submitted through the online DSA Sec Portal. The application starts on 3 May (11 am) and end on 31 May 2023 (3 pm). No fee will be charged for the application. For more details, please refer to MOE website – [moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).<br>
-2. &nbsp; &nbsp; Nan Chiau High School is a MOE Special Assistance Plan (SAP) school. All students enrolled will read Higher Chinese Language.<br>
-3. &nbsp; &nbsp; Students successfully allocated to their DSA-Sec schools will NOT be allowed to participate in the annual S1 Posting Exercise to opt for secondary schools, and are expected to honour the commitment to the allocated DSA-Sec school for the entire duration of the programme.<br>
-4. &nbsp; &nbsp; They will also NOT be allowed to transfer to another school after the release of the PSLE results.<br>
-5. &nbsp; &nbsp; Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.<br>
+1. Application for DSA-Sec must be submitted through the online DSA Sec Portal. The application starts on 3 May (11 am) and end on 31 May 2023 (3 pm). No fee will be charged for the application. For more details, please refer to MOE website – [moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).<br>
+2. Nan Chiau High School is a MOE Special Assistance Plan (SAP) school. All students enrolled will read Higher Chinese Language.<br>
+3. Students successfully allocated to their DSA-Sec schools will NOT be allowed to participate in the annual S1 Posting Exercise to opt for secondary schools, and are expected to honour the commitment to the allocated DSA-Sec school for the entire duration of the programme.<br>
+4. They will also NOT be allowed to transfer to another school after the release of the PSLE results.<br>
+5. Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.<br>
 
-**NCHS DSA Exercise**
+**NCHS DSA Exercise**<br>
+NCHS is looking for promising Primary 6 students who demonstrate talent and ability in Art, Bilingualism, Chinese Orchestra, Chinese Dance (girls), Basketball, Wushu and Table-Tennis. Successful applicants will join NCHS in January 2024.<br>
 
-NCHS is looking for promising Primary 6 students who demonstrate talent and ability in Art, Bilingualism, Chinese Orchestra, Chinese Dance (girls), Basketball, Wushu and Table-Tennis. Successful applicants will join NCHS in January 2023.
+Generally, students should have:<br>
+*   High level of motivation and commitment to the talent areas, and in other academic and co-curricular programmes offered by the school;<br>
+*   High level achievement and mastery in their chosen talent areas<br>
+*   Intellectual potential and ability to cope with the rigorous syllabus&nbsp;<br>
 
-  
+All students will read Higher Chinese Language (HCL) when they join NCHS from sec 1 as NCHS is a Special Assistance Plan school.<br>
 
-Generally, students should have:
-
-  
-
-High level of motivation and commitment to the talent areas, and in other academic and co-curricular programmes offered by the school<br>
-High level achievement and mastery in their chosen talent areas<br>
-Intellectual potential and ability to cope with the rigorous syllabus&nbsp;
-
-  
-
-All students will read Higher Chinese Language as NCHS is a Special Assistance Plan school;
-
-  
-
-Talented students who are interested in NCHS are encouraged to apply for Direct School Admission. Click&nbsp;[HERE](https://www.moe.gov.sg/secondary/dsa)&nbsp;to apply.
+Talented students who are interested in NCHS are encouraged to apply for Direct School Admission. Click [HERE](https://www.moe.gov.sg/secondary/dsa/application?pt=Mainstream%20primary%20school) to apply. ([https://www.moe.gov.sg/secondary/dsa/application?pt=Mainstream%20primary%20school](https://www.moe.gov.sg/secondary/dsa/application?pt=Mainstream%20primary%20school))
 
 **For clarifications on DSA exercise**
 
 |  |  |
 | -------- | -------- | 
 | **Address**     | Nan Chiau High School  <br>20 Anchorvale Link  <br>Singapore 545079     | 
-|**Email**|[nchs@moe.edu.sg](mailto:nchs@moe.edu.sg)  <br>(Indicate in subject field – DSA Enquiries&nbsp;  )
+|**Email**| nchs@moe.edu.sg<br>(Indicate in the subject field - DSA Enquiries \) |
 |**Contact Numbers**|Telephone : +65 6489 7971  <br>Fax : +65 6489 7970|
 |**Operating Hours**|Monday to Friday: 9.00am to 5.00pm  <br>Saturday: Closed  <br>Sunday and Public Holidays: Closed |
 	
