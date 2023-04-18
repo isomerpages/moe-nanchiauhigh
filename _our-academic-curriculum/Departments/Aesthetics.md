@@ -37,7 +37,11 @@ Through the Aesthetics subjects, students will learn the fundamental knowledge, 
 11.  Ms Michel Chua (FCE)<br>
 12.  Ms Nadleen Mohamed Shariff (FCE)<br>
 
-**ACHIEVEMENT**
+**ACHIEVEMENT**<br>
+| **Year** | **Competition** | 
+| -------- | -------- | 
+| Text     | Text     | 
+
 
 
 
