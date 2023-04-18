@@ -12,9 +12,9 @@ third_nav_title: Visual and Performing Arts
 *  **Venue:**<br> Music Room,  IT Resource Room 3, Hall, Classroom
 
 *  **Teachers-In-Charge:**<br> 
-Mdm Tang Pui Lin (OIC)  
-    Mr Jason Chen<br>
-		Ms Sharlene Koh
+Mdm Tang Pui Lin (OIC)<br>
+Mr Jason Chen<br>
+Ms Lim Chiew Her <br>
 		
 **KEY INFORMATION**
 
@@ -26,13 +26,11 @@ Mdm Tang Pui Lin (OIC)
 
 **CCA Description**
 
-The Chinese Orchestra is one of the most active performing arts group in Nan Chiau High School comprising of about 80 students. Through the love of music, our members would develop an appreciation and love for Chinese Culture.
+The Chinese Orchestra is one of the most active performing arts group in Nan Chiau High School comprising of about 80 students. Through the love of music, our members would develop an appreciation and love for Chinese Culture.<br>
 
-  
+Working in a team helps students to build their confidence and inculcate a sense of commitment and perseverance. In Chinese Orchestra, students will pick up valuable leadership skills and cultivate the discipline of life-long and independent learning.<br>
 
-Working in a team helps students to build their confidence and inculcate a sense of commitment and perseverance. In Chinese Orchestra, students will pick up valuable leadership skills and cultivate the discipline of life-long and independent learning.
-
-**Highlight(s) of Activities**
+**Highlight(s) of Activities**<br>
 
 Chinese New Year Concert Performance<br>
 School Anniversary Celebration Performance<br>
@@ -45,6 +43,7 @@ Chinese Orchestra Camp
 **Achievements**
 
 Singapore Youth Festival Central Judging for Chinese Orchestra:<br>
+2023 - Certificate of Distinction<br>
 2021 – Certificate of Distinction (Team A)<br>
 2021 – Certificate of Distinction (Team B)<br>
 2019 – Certificate of Distinction<br>
