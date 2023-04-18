@@ -6,32 +6,35 @@ third_nav_title: Departments
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQcur9S8hGz8aRUzFkpZ4kkGkEL3N2Wp5U7OIqkzQ16sqwuPY-sRoeKChcy4rBABHqc5cUSn2aJKq4Z/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
-**Vision**
+**Vision**<br>
+Aesthetically Ingrained NCzens<br>
 
-Aesthetically Ingrained NCzens
-
-
-**Mission**
-
+**Mission**<br>
 Aesthetics As a Way of Life
 
 **DEPARTMENT DETAILS**
+The Aesthetics Department comprises of 4 units;
+- [Art](https://sites.google.com/moe.edu.sg/unitquelyncart/about-ncart)<br>
+- Design &amp; Technology<br>
+- Food and Consumer Science<br>
+- Music<br>
 
-Staff List:
+Students at the lower secondary are offered all 4 subjects. At upper secondary, students can opt to do Art, D&amp;T or Music as an elective subject.<br>
 
-1.  Ms Jane Hoe (HOD)
-2.  Mdm Angie Ngo (ST) (ART)
-3.  Mr Johnson Ong (Art)
-4.  Miss Rafiqah Dewi Bte Aziz (Art)
-5.  Mr Teo Boon Heng (D&amp;T Co-ordinator)
-6.  Mr Lee Heng Leong (SH/ICT) (D&amp;T)
+Through the Aesthetics subjects, students will learn the fundamental knowledge, skills and concepts&nbsp;through&nbsp;authentic learning experience.<br>
+
+**Staff List:**<br>
+1. Ms Jane Hoe (HOD)
+2. Mr Lee Heng Leong (SH/ICT) (D&amp;T)
+3.  Mdm Angie Ngo (ST) (ART)
+4.  Mr Johnson Ong (Art)
+5.  Miss Rafiqah Dewi Bte Aziz (Art)
+6.  Mr Teo Boon Heng (D&amp;T Co-ordinator)
 7.  Mr Tan Han Wen (D&amp;T)
 8.  Mr Kamel (D&amp;T)
 9.  Mr Truman See Qi Heng (Music Co-ordinator)
-10.  Mrs Koh Sharlene (FCE Co-ordinator)
-11.  Ms Low Zhen Yan Claire (FCE)
-12.  Tan Wern Li Rowena (FCE)
-13.  Thia Liyun (FCE)
+10.  Ms Low Zhen Yan Claire (FCE)
+
 
 **ACHIEVEMENT**
 
