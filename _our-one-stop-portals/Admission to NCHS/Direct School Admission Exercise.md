@@ -90,7 +90,7 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
 | -------- | -------- | -------- |
 | **DSA/  Art**     |Art | -    Participation and achievements in, competitions and exhibitions.<br>-   Consistent academic performance for P5 overall and P6 Mid-Year Examination, or its equivalent.<br>   Preferably represented their primary schools in Singapore Youth Festival (SYF) Art Exhibition.<br>-   An existing E-portfolio may be requested from all applicants for shortlisting purpose with enough notice given. E-portfolio should include 8-10 pieces of original artworks done in varying media by the applicant.<br><br>**\*An existing E-portfolio may be requested from applicants for shortlisting purposes with enough notice given. An E-portfolio should include 8-10 pieces of original artworks done in varying media by the applicant** |
 
-Prospective students who are enrolled via DSA Visual Arts will have Visual Arts Club as their CCA. They will be offered Enhanced Art Programme (EAP) at Upper Sec, taking Art as an O-Level subject.
+Prospective students who are enrolled via DSA Visual Arts will have Visual Arts Club as their CCA. They will be offered [Enhanced Art Programme](https://sites.google.com/moe.edu.sg/unitquelyncart/ncart-talent-development/enhanced-art-programme-eap) at Upper Sec, taking Art as an O-Level subject.
 
 **[For more information on Visual Arts click here.](/co-curricular-activities/Clubs-and-Societies/Visual-Arts-Club/)**
 
@@ -100,7 +100,7 @@ Prospective students who are enrolled via DSA Visual Arts will have Visual Arts 
 | -------- | -------- | -------- |
 | **DSA/  Bilingualism**     |Bilingualism | -   Consistent academic performance for P5 overall and P6 Mid-Year Examination, or its equivalent.<br>-   Applicants should have interest and passion for the Chinese and English languages.|
 
-biculturalism. They will be given opportunities to participate in various language and cultural-related programmes, such as external seminars, workshops, competitions, learning journeys, docent training. They will also help to organise bicultural activities in the school.
+Prospective students who are enrolled via DSA-Bilingualism will be groomed in the areas of bilingualism and biculturalism. They will be given opportunities to participate in various language and cultural-related programmes, such as external seminars, workshops, competitions, learning journeys, docent training. They will also help to organise bicultural activities in the school.
 
 In addition, DSA-Bilingualism students will have to take the Chinese Language Elective Programme – Secondary (CLEP-Sec) in Secondary 3 (i.e. they will have to take Chinese Literature, either as a full or elective subject.)
 
