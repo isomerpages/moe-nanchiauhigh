@@ -88,7 +88,7 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
 
 | DSA Domain| Talent Area | Criteria |
 | -------- | -------- | -------- |
-| **DSA/  Art**     |Art | -    Participation and achievements in, competitions and exhibitions.<br>-   Consistent academic performance for P5 overall and P6 Mid-Year Examination, or its equivalent.<br>   Preferably represented their primary schools in Singapore Youth Festival (SYF) Art Exhibition.<br>-   An existing E-portfolio may be requested from all applicants for shortlisting purpose with enough notice given. E-portfolio should include 8-10 pieces of original artworks done in varying media by the applicant. |
+| **DSA/  Art**     |Art | -    Participation and achievements in, competitions and exhibitions.<br>-   Consistent academic performance for P5 overall and P6 Mid-Year Examination, or its equivalent.<br>   Preferably represented their primary schools in Singapore Youth Festival (SYF) Art Exhibition.<br>-   An existing E-portfolio may be requested from all applicants for shortlisting purpose with enough notice given. E-portfolio should include 8-10 pieces of original artworks done in varying media by the applicant.<br><br>**\*An existing E-portfolio may be requested from applicants for shortlisting purposes with enough notice given. An E-portfolio should include 8-10 pieces of original artworks done in varying media by the applicant** |
 
 Prospective students who are enrolled via DSA Visual Arts will have Visual Arts Club as their CCA. They will be offered Enhanced Art Programme (EAP) at Upper Sec, taking Art as an O-Level subject.
 
