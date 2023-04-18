@@ -49,7 +49,12 @@ Through the Aesthetics subjects, students will learn the fundamental knowledge, 
 
 **DEPARTMENT PROGRAMMES**
 
-[Enhanced Art Programme (EAP)](https://sites.google.com/moe.edu.sg/unitquelyncart/ncart-talent-development/enhanced-art-programme-eap)<br> [Student-curated Exhibition ](https://sites.google.com/moe.edu.sg/unitquelyncart/art-learning-experiences/exhibition)<br> [Arts Outreach](https://sites.google.com/moe.edu.sg/unitquelyncart/art-learning-experiences/ncart-outreach)<br> [Art Talent Programme](https://sites.google.com/moe.edu.sg/unitquelyncart/ncart-talent-development/art-talent-programme-atp)<br> Music Talent Programme<br> D&amp;T Talent Programme<br>
+* [Enhanced Art Programme (EAP)](https://sites.google.com/moe.edu.sg/unitquelyncart/ncart-talent-development/enhanced-art-programme-eap)<br> 
+* [Student-curated Exhibition ](https://sites.google.com/moe.edu.sg/unitquelyncart/art-learning-experiences/exhibition)<br> 
+* [Arts Outreach](https://sites.google.com/moe.edu.sg/unitquelyncart/art-learning-experiences/ncart-outreach)<br> 
+* [Art Talent Programme](https://sites.google.com/moe.edu.sg/unitquelyncart/ncart-talent-development/art-talent-programme-atp)<br> 
+* Music Talent Programme<br> 
+* D&amp;T Talent Programme<br>
 
 **Arts Education @ NCHS** **Innovate**<br> Express novel ideas into action through the arts forms <br>(eg, compose ‘Xinyao’ songs by all Sec 1EXp students during curriculum time, script writing by selected Sec 2 students)<br>
 
