@@ -12,9 +12,9 @@ third_nav_title: Visual and Performing Arts
 *  **Venue:**<br> Music Room,  IT Resource Room 3, Hall, Classroom
 
 *  **Teachers-In-Charge:**<br> 
-Mdm Tang Pui Lin (OIC)  
-    Mr Jason Chen<br>
-		Ms Sharlene Koh
+Mdm Tang Pui Lin (OIC)<br>
+Mr Jason Chen<br>
+Ms Lim Chiew Her <br>
 		
 **KEY INFORMATION**
 
