@@ -24,17 +24,18 @@ Students at the lower secondary are offered all 4 subjects. At upper secondary, 
 Through the Aesthetics subjects, students will learn the fundamental knowledge, skills and concepts&nbsp;through&nbsp;authentic learning experience.<br>
 
 **Staff List:**<br>
-1. Ms Jane Hoe (HOD)
-2. Mr Lee Heng Leong (SH/ICT) (D&amp;T)
-3.  Mdm Angie Ngo (ST) (ART)
-4.  Mr Johnson Ong (Art)
-5.  Miss Rafiqah Dewi Bte Aziz (Art)
-6.  Mr Teo Boon Heng (D&amp;T Co-ordinator)
-7.  Mr Tan Han Wen (D&amp;T)
-8.  Mr Kamel (D&amp;T)
-9.  Mr Truman See Qi Heng (Music Co-ordinator)
-10.  Ms Low Zhen Yan Claire (FCE)
-
+1. Ms Jane Hoe (HOD)<br>
+2. Mr Lee Heng Leong (SH/ICT) (D&amp;T)<br>
+3.  Mdm Angie Ngo (ST) (ART)<br>
+4.  Mr Johnson Ong (Art)<br>
+5.  Miss Rafiqah Dewi Bte Aziz (Art)<br>
+6.  Mr Teo Boon Heng (D&amp;T Co-ordinator)<br>
+7.  Mr Tan Han Wen (D&amp;T)<br>
+8.  Mr Kamel (D&amp;T)<br>
+9.  Mr Truman See Qi Heng (Music Co-ordinator)<br>
+10.  Ms Low Zhen Yan Claire (FCE)<br>
+11.  Ms Michel Chua (FCE)<br>
+12.  Ms Nadleen Mohamed Shariff (FCE)<br>
 
 **ACHIEVEMENT**
 
