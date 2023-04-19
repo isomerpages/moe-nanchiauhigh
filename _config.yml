@@ -3,7 +3,7 @@ url: https://www.nanchiauhigh.moe.edu.sg
 favicon: /images/image1.png
 colors:
   primary-color: "#c2151e"
-  secondary-color: "#b08106"
+  secondary-color: "#e9d80f"
   media-colors:
     - title: media-color-one
       color: "#49759a"
