@@ -10,15 +10,17 @@ description: ""
 <img src="/images/phone.png" style="width:5%;float:left">&nbsp;&nbsp;+65 6489 7971  
 		 
 <img src="/images/print.png" style="width:5%;float:left">&nbsp;+65 6489 7970 
-		 
+
+<br>
+
 **Have a question?**  
 Ask and get answered on our [Q&amp;A Page](https://go.ask.gov.sg/nchs)
 <br>
-*Powered by:* 
+<span style="color:#999999"><em>Powered by:
 <br><img style="width:10%;float:left" src="/images/logo-askgov.png">
 
 <br>
 
 **Office Operating Hours**<br>
 Weekdays : 0800 – 1700  
-Closed on Weekends &amp; Public Holidays
+Closed on Weekends &amp; Public Holidays</em></span>
