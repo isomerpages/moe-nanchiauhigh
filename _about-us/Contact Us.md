@@ -12,12 +12,12 @@ description: ""
 <img src="/images/print.png" style="width:5%;float:left">&nbsp;+65 6489 7970 
 		 
 **Have a question?**
-<br>Ask and get answered on our <a href="go.ask.gov.sg/nchs">Q&amp;A Page</a> 
+<br>Ask and get answers on our <a href="go.ask.gov.sg/nchs">Q&amp;A Page</a> 
 <br>
-Powered by: 
-<br>
-<img style="width:40%" src="/images/logo-askgov.png">
+*Powered by:* 
+<br><img style="width:10%;float:left" src="/images/logo-askgov.png">
 
+<br>
 
 **Office Operating Hours**<br>
 Weekdays : 0800 – 1700  
