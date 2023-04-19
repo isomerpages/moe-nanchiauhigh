@@ -17,7 +17,7 @@ sections:
         - title: Resources
           description: ""
           url: /our-resources/School-Counselling-Services
-      background: /images/homepagev10.gif
+      background: /images/mainscreen.gif
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have a question
