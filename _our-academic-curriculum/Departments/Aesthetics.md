@@ -55,10 +55,3 @@ Through the applied subjects, students will learn the fundamental knowledge, ski
 * D&amp;T Talent Programme<br>
 * [Enrichment and workshops/ Local and Overseas Learning Journey](https://sites.google.com/moe.edu.sg/unitquelyncart/ncart-talent-development/enhanced-art-programme-eap)<br>
 
-**Arts Education @ NCHS** **Innovate**<br> Express novel ideas into action through the arts forms <br>(eg, compose ‘Xinyao’ songs by all Sec 1EXp students during curriculum time, script writing by selected Sec 2 students)<br>
-
-**Ideate**<br> Communicate concepts, thoughts and feeling through the arts<br> (eg, Art &amp; Music projects, NC Talent Quest)<br> 
-
-**Immerse**<br> Engage students in the arts through various platforms<br> (eg, Art &amp; Music curriculum time, school based &amp; external arts performances, Arts CCA practices, National &amp; international arts competitions)<br> 
-
-**Ignite**<br> Instill passion, awareness, appreciation for the arts among the student population<br> (eg, Artist talk, Aesthetics WeeK, Assembly performances by external arts groups endorsed by NAC, Art and Music learning journey to art exhibitions, Esplanade, Batik workshop for all Sec 2 classes during their NE trip to Malacca, watching of play “Ba Ba Yao” organized by MT Dept for CL students)
