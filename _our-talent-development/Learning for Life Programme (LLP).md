@@ -3,21 +3,12 @@ title: Learning for Life Programme (LLP)
 permalink: /our-talent-development/Learning-for-Life-Programme-LLP/
 description: ""
 ---
-**Learning for Life Programme (LLP)**
+**Learning for Life Programme (LLP) and Arts Education Programme**<br>
 
-  
+**– Enhancing Expression, Creativity and Aesthetics Appreciation (ECAA) through the ARTS**<br>
+“Arts Education develops students’ character and values, cultivates positive attitudes and self-expression, and strengths essential soft skills which are important 21st Century Competencies (21CC) to help students thrive in the fast-changing world and nurture them to be socially responsible citizens who contribute meaningfully to society.”<br>
 
-**– Enhancing Expression, Creativity and Aesthetics Appreciation (ECAA) through the ARTS**
-
-  
-
-“Arts Education develops students’ character and values, cultivates positive attitudes and self-expression, and strengths essential soft skills which are important 21st Century Competencies (21CC) to help students thrive in the fast-changing world and nurture them to be socially responsible citizens who contribute meaningfully to society.”
-
-  
-
-**ECAA through the ARTS aims to**
-
-  
+**ECAA through the ARTS aims to**<br>
 
 *   Nurture and develop in students an appreciation for the arts and a keen sense of aesthetics
 *   Expose students to a variety of arts forms progressively, as well as to provide an in-depth experience in the learning of the arts as they advance
