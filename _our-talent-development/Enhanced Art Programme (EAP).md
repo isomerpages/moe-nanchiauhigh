@@ -15,7 +15,8 @@ EAP is distinct from art programmes offered in other secondary schools through i
 **Eligibility**<br>
 The EAP is an upper secondary programme from Secondary 3 to 4 that leads to the GCE O-level Art or Higher Art examination.<br>
 
-**Signature Programme**
+**Signature Programme**<br><br>
+**NCArt Talent Development Programmes**
 
 **NCHS Art Talent Programme**
 
