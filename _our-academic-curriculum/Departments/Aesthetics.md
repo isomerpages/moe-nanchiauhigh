@@ -19,9 +19,9 @@ The Aesthetics Department comprises of 4 units;
 - Food and Consumer Science<br>
 - Music<br>
 
-Students at the lower secondary are offered all 4 subjects. At upper secondary, students can opt to do Art, D&amp;T or Music as an elective subject.<br>
+Students at the lower secondary are offered all 4 subjects (Art, D&amp;T, FCE and Music). At upper secondary, students can opt to do Art, D&amp;T or Music as their elective subject.<br>
 
-Through the Aesthetics subjects, students will learn the fundamental knowledge, skills and concepts&nbsp;through&nbsp;authentic learning experience.<br>
+Through the applied subjects, students will learn the fundamental knowledge, skills and concepts through authentic learning experiences.<br>
 
 **Staff List:**<br>
 1. Ms Jane Hoe (HOD)<br>
