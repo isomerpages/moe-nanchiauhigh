@@ -12,7 +12,7 @@ Aesthetically Ingrained NCzens<br>
 **Mission**<br>
 Aesthetics As a Way of Life
 
-**DEPARTMENT DETAILS**
+**DEPARTMENT DETAILS**<br>
 The Aesthetics Department comprises of 4 units;
 - [Art](https://sites.google.com/moe.edu.sg/unitquelyncart/about-ncart)<br>
 - Design &amp; Technology<br>
