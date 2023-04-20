@@ -54,4 +54,3 @@ Through the applied subjects, students will learn the fundamental knowledge, ski
 * Music Talent Programme<br> 
 * D&amp;T Talent Programme<br>
 * [Enrichment and workshops/ Local and Overseas Learning Journey](https://sites.google.com/moe.edu.sg/unitquelyncart/ncart-talent-development/enhanced-art-programme-eap)<br>
-
