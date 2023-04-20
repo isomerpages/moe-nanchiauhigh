@@ -53,6 +53,7 @@ Through the applied subjects, students will learn the fundamental knowledge, ski
 * [Art Talent Programme](https://sites.google.com/moe.edu.sg/unitquelyncart/ncart-talent-development/art-talent-programme-atp)<br> 
 * Music Talent Programme<br> 
 * D&amp;T Talent Programme<br>
+* [Enrichment and workshops/ Local and Overseas Learning Journey](https://sites.google.com/moe.edu.sg/unitquelyncart/ncart-talent-development/enhanced-art-programme-eap)<br>
 
 **Arts Education @ NCHS** **Innovate**<br> Express novel ideas into action through the arts forms <br>(eg, compose ‘Xinyao’ songs by all Sec 1EXp students during curriculum time, script writing by selected Sec 2 students)<br>
 
