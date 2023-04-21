@@ -12,7 +12,7 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
 **Important Information**
 
-1. Application for DSA-Sec must be submitted through the online DSA Sec Portal. The application starts on 3 May (11 am) and end on 31 May 2023 (3 pm). No fee will be charged for the application. For more details, please refer to MOE website – [moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).<br>
+1. Application for DSA-Sec must be submitted through the online DSA Sec Portal. The application starts on 3 May (11 am) and ends on 31 May 2023 (3 pm). No fee will be charged for the application. For more details, please refer to MOE website – [moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).<br>
 2. Nan Chiau High School is a MOE Special Assistance Plan (SAP) school. All students enrolled will read Higher Chinese Language.<br>
 3. Students successfully allocated to their DSA-Sec schools will NOT be allowed to participate in the annual S1 Posting Exercise to opt for secondary schools, and are expected to honour the commitment to the allocated DSA-Sec school for the entire duration of the programme.<br>
 4. They will also NOT be allowed to transfer to another school after the release of the PSLE results.<br>
