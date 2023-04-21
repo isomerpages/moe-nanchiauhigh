@@ -13,7 +13,9 @@ description: ""
 *   Nurture and develop in students an appreciation for the arts and a keen sense of aesthetics
 *   Expose students to a variety of arts forms progressively, as well as to provide an in-depth experience in the learning of the arts as they advance
 *   Promote the Arts in our school and the wider community
-*   Encourage values and character development through aesthetics appreciation; Stretch the potential of talented students by providing students opportunities to hone their talents and skills through partnerships with external organisations/ pathfinders
+*   Encourage values and character development through aesthetics appreciation; Stretch the potential of talented students by providing students opportunities to hone their talents and skills through partnerships with external organisations/pathfinders
+
+![](/images/llp%20framework%202023.png)
 
 The Learning for Life (LLP) Framework informs the artistic development of our students through the various instructional and student development programmes across all department. The framework and its explanation are given below:
 
