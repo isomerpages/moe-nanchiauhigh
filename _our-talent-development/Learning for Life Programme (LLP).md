@@ -15,24 +15,18 @@ description: ""
 *   Promote the Arts in our school and the wider community
 *   Encourage values and character development through aesthetics appreciation; Stretch the potential of talented students by providing students opportunities to hone their talents and skills through partnerships with external organisations/pathfinders
 
-![](/images/llp%20framework%202023.png)
+![](/images/llp%20framework%202023.png)<br>
 
-The Learning for Life (LLP) Framework informs the artistic development of our students through the various instructional and student development programmes across all department. The framework and its explanation are given below:
-
-  
+The Learning for Life (LLP) Framework informs the artistic development of our students through the various instructional and student development programmes across all department. The framework and its explanation are given below:<br>
 
 *   Arts Literacy, at the core, is the knowledge and understanding required to participate authentically in the arts
 *   The 2nd inner ring is guided by the social and emotional competencies from 21 CC
 *   The 3rd ring represents the Learning Domains are categorised by Exposure, Exploration, Experience, Excellence
 *   The 4th and 5th rings refer to the various arts programmes in the school which are categorised by the three levels of participation, namely Audience, Artist, Advocate
-*   The outermost ring is NCHS vision – Future-Ready Thinkers, Bicultural Leaders, Caring Citizens
-
-  
+*   The outermost ring is NCHS vision – Future-Ready Thinkers, Bicultural Leaders, Caring Citizens<br>
 
 **Tier 1**<br>
-Broad based programmes are for all students
-
-  
+Broad based programmes are for all students<br>
 
 **Tier 2**<br>
 Select programmes for students with greater interest and/ or aptitude
