@@ -12,7 +12,7 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
 **Important Information**
 
-1. Application for DSA-Sec must be submitted through the online DSA Sec Portal. The application starts on 3 May (11 am) and end on 31 May 2023 (3 pm). No fee will be charged for the application. For more details, please refer to MOE website – [moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).<br>
+1. Application for DSA-Sec must be submitted through the online DSA Sec Portal. The application starts on 3 May (11 am) and ends on 31 May 2023 (3 pm). No fee will be charged for the application. For more details, please refer to MOE website – [moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).<br>
 2. Nan Chiau High School is a MOE Special Assistance Plan (SAP) school. All students enrolled will read Higher Chinese Language.<br>
 3. Students successfully allocated to their DSA-Sec schools will NOT be allowed to participate in the annual S1 Posting Exercise to opt for secondary schools, and are expected to honour the commitment to the allocated DSA-Sec school for the entire duration of the programme.<br>
 4. They will also NOT be allowed to transfer to another school after the release of the PSLE results.<br>
@@ -88,9 +88,9 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
 
 | DSA Domain| Talent Area | Criteria |
 | -------- | -------- | -------- |
-| **DSA/  Art**     |Art | -    Participation and achievements in, competitions and exhibitions.<br>-   Consistent academic performance for P5 overall and P6 Mid-Year Examination, or its equivalent.<br>   Preferably represented their primary schools in Singapore Youth Festival (SYF) Art Exhibition.<br>-   An existing E-portfolio may be requested from all applicants for shortlisting purpose with enough notice given. E-portfolio should include 8-10 pieces of original artworks done in varying media by the applicant.<br><br>**\*An existing E-portfolio may be requested from applicants for shortlisting purposes with enough notice given. An E-portfolio should include 8-10 pieces of original artworks done in varying media by the applicant** |
+| **DSA/  Art**     |Art | -    Participation and achievements in, competitions and exhibitions.<br>-   Consistent academic performance for P5 overall and P6 Mid-Year Examination, or its equivalent.<br>   Preferably represented their primary schools in Singapore Youth Festival (SYF) Art Exhibition.<br>-   An existing E-portfolio may be requested from all applicants for shortlisting purpose with enough notice given. E-portfolio should include 8-10 pieces of original artworks done in varying media by the applicant.<br>
 
-Prospective students who are enrolled via DSA Visual Arts will have Visual Arts Club as their CCA. They will be offered [Enhanced Art Programme](https://sites.google.com/moe.edu.sg/unitquelyncart/ncart-talent-development/enhanced-art-programme-eap) at Upper Sec, taking Art as an O-Level subject.
+Prospective students who are enrolled via DSA Visual Arts will have Visual Arts Club as their CCA. They will be offered [Enhanced Art Programme](https://sites.google.com/moe.edu.sg/unitquelyncart/ncart-talent-development/enhanced-art-programme-eap) at Upper Sec and taking Art as an O-Level subject.
 
 **[For more information on Visual Arts click here.](/co-curricular-activities/Clubs-and-Societies/Visual-Arts-Club/)**
 

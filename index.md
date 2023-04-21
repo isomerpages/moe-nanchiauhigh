@@ -17,6 +17,9 @@ sections:
         - title: Resources
           description: ""
           url: /our-resources/School-Counselling-Services
+        - title: Direct School Admission Exercise
+          description: ""
+          url: /our-resources/Admission-to-NCHS/Direct-School-Admission-Exercise/
       background: /images/mainscreen.gif
   - infopic:
       title: Get official answers from our Q&A Platform
