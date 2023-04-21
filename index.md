@@ -17,7 +17,7 @@ sections:
         - title: Resources
           description: ""
           url: /our-resources/School-Counselling-Services
-        - title: DSA Exercise
+        - title: DSA Exercise 2023
           description: ""
           url: /our-resources/Admission-to-NCHS/Direct-School-Admission-Exercise/
       background: /images/mainscreen.gif
