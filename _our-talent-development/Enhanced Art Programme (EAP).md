@@ -17,8 +17,8 @@ The EAP is an upper secondary programme from Secondary 3 to 4 that leads to the 
 
 **Signature Programme**<br><br>
 **NCArt Talent Development Programmes**<br>
-- [Enhanced Art Programme (Upper Sec)](https://sites.google.com/moe.edu.sg/unitquelyncart/ncart-talentdevelopment/enhanced-art-programme-eap)<br>
-- [Art Talent Programme (Lower Sec)](https://sites.google.com/moe.edu.sg/unitquelyncart/ncart-talentdevelopment/art-talent-programme-atp)<br>
+- [Enhanced Art Programme (Upper Sec)](https://sites.google.com/moe.edu.sg/unitquelyncart/ncart-talent-development/enhanced-art-programme-eap)<br>
+- [Art Talent Programme (Lower Sec)](https://sites.google.com/moe.edu.sg/unitquelyncart/ncart-talent-development/art-talent-programme-atp)<br>
 
 NCHS EAP provides greater opportunities for students with artistic talents to continue to hone their skills, deepen their development in various art practices and accentuate their personal voice and style. <br>
 
