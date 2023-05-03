@@ -20,7 +20,7 @@ sections:
         - title: Direct School Admission Exercise
           description: ""
           url: /our-resources/Admission-to-NCHS/Direct-School-Admission-Exercise/
-      background: /images/mainscreen.gif
+      background: /images/homepage.gif
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have a question
