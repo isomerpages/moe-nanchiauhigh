@@ -40,8 +40,9 @@ description: ""
 [Parents Letters](https://drive.google.com/drive/folders/0B0NLoi7jhnNmcUkxUkRrUlNoZ00?usp=sharing)  <br>
 
 **Student Academic Timetable**<br>
-[2023 Student Timetable](https://drive.google.com/drive/folders/1H1LEVFF6JxSl7QaW2dnv2n7cBQM26iIH?usp=share_link)
-<br>[PA/Exams &amp; Prelims Schedule](https://drive.google.com/drive/folders/1HgnRw1KX51VKWpCq2CPiXN5Psm5n67AZ?usp=share_link)  
+[2023 Sec 4 Prelim Exam Timetable](https://drive.google.com/file/d/1QX12zvkwHLQeqnyRCL33GP-RVx_UfV_n/view?usp=share_link)<br>
+[Sec 4 EBP (June 2023)](https://drive.google.com/file/d/1Vfz5lIbRuGeMKnRBwKhMbXNjGbuLHMMW/view?usp=share_link)<br>
+
 
 **MOE Resources**<br>
 * Singapore Student Learning Space [(Click Here)](https://www.google.com/url?q=https%3A%2F%2Fwww.moe.gov.sg%2Feducation-in-sg%2Fstudent-learning-space&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3TM0MrS8kyiSrhGTY10i0P)
