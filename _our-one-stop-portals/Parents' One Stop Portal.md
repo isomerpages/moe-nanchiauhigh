@@ -3,6 +3,10 @@ title: Parents' One Stop Portal
 permalink: /our-resources/Parents-Resources/
 description: ""
 ---
+**Parent Engagement Resources**<br>
+[Sec 3 Parent e-engagement sessions (23 May 2023)](https://drive.google.com/drive/folders/1I0dDW6sRJO7buN7zUMxaYI6BzKZzJBeg?usp=share_link)<br>
+
+
 **Cyber Wellness, Mental Health, and Personal Learning Device (PLD) Resources for Parents**<br>
 * Parent Tip: Supporting your teen in Exploring Post-Sec Pathways [(Click Here)](https://www.google.com/url?q=https%3A%2F%2Fwww.moe.gov.sg%2F-%2Fmedia%2Ffiles%2Fparent-kit%2Fparent-kit---supporting-your-teen-in-exploring-post-secondary-pathways.pdf&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw39nIbGQbCLzRx1-k6mBiUN)
 
@@ -28,9 +32,6 @@ description: ""
 
 **Forms**<br>
 [Application for LOA](https://go.gov.sg/nchs-loa)
-
-**Parent Engagement Resources**<br>
-[Parents Engagement Slides &amp; Frequently Asked Questions (FAQ)](https://drive.google.com/drive/folders/1Qft_fzS8Jzsvg0sn7dnmESQEx8gCfdFy?usp=sharing)<br>
 
 **Curriculum Matters**<br>
 [Academic Booklet](https://drive.google.com/drive/folders/1-u9xunjUbfXWFHhldfQLP0fJmpUIXjzz?usp=sharing)  
