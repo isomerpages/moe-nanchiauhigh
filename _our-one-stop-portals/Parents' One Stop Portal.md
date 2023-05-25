@@ -5,7 +5,7 @@ description: ""
 ---
 **Parent Engagement Resources**<br>
 [Sec 3 Parent e-engagement sessions (23 May 2023)](https://drive.google.com/drive/folders/1I0dDW6sRJO7buN7zUMxaYI6BzKZzJBeg?usp=share_link)<br>
-[Sec 4 Parent e-engagement sessions (25 May 2023)](https://drive.google.com/drive/folders/136S8Jv5S-iNCjep2FbqTMHALNPLWKNaz?usp=share_link)<br>
+[Sec 4 Parent e-engagement sessions (25 May 2023)](https://drive.google.com/drive/folders/136S8Jv5S-iNCjep2FbqTMHALNPLWKNaz?usp=share_link) (Only available after the session)<br> 
 
 
 **Cyber Wellness, Mental Health, and Personal Learning Device (PLD) Resources for Parents**<br>
