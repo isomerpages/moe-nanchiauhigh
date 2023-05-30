@@ -13,7 +13,9 @@ description: ""
 *   [2023 Semester 1 Timetable](https://drive.google.com/drive/folders/1H1LEVFF6JxSl7QaW2dnv2n7cBQM26iIH?usp=share_link)<br>
 
 **EdTech Professional Development for Teachers** 
-*    [NCHS EdTech Portal](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-edtech%2Fhome&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw17XqdJKIc0OauG8ihGm3tf) _**\*New\***_
+*    [NCHS EdTech Portal](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-edtech%2Fhome&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw17XqdJKIc0OauG8ihGm3tf) _**\*New\***_<br>
+
+*    [EdTech Pedagogical Scaffold](https://sites.google.com/moe.edu.sg/guide-to-e-pedagogy/edtech-ps)_**\*New from 30 May 2023\***_<br>
     
 *   [Singapore Teaching Practice (STP)](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fstp&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0za6S4gXutm8DakRqiDx7w) \[Requires OPAL Login\]
 
