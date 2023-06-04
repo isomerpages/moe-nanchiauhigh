@@ -50,7 +50,7 @@ _You are required to use your iCON account to access the below documents:_
 *   [How to Onboard Zoom on my PLD (Download PDF)](https://drive.google.com/file/d/1ugGQhIL1A87jyjjLyD-Ta83h1hX7lfp6/view?usp=sharing)
 
 ![](/images/technical%20and%20account%20issues%20chart%20june2023.png)
-
+![](/images/technical%20and%20account%20issues%20chart2%20june2023.png)
 
 **Create-Curate-Connect**<br> 
 *   [Level up my](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-create-curate-connect%2Fpld-matters%2Flevel-up-my-pld-skills&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3zPGp58OLs1YHmQmbjJQh_) [PLD](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-create-curate-connect%2Fpld-matters%2Flevel-up-my-pld-skills&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3zPGp58OLs1YHmQmbjJQh_) [Skills!](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-create-curate-connect%2Fpld-matters%2Flevel-up-my-pld-skills&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3zPGp58OLs1YHmQmbjJQh_)
