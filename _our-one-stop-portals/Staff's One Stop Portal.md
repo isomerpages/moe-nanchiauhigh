@@ -13,7 +13,7 @@ description: ""
 *   [2023 Semester 1 Timetable](https://drive.google.com/drive/folders/1H1LEVFF6JxSl7QaW2dnv2n7cBQM26iIH?usp=share_link)<br>
 
 **EdTech Professional Development for Teachers** 
-*    [NCHS EdTech Portal](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-edtech%2Fhome&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw17XqdJKIc0OauG8ihGm3tf) _**\*New\***_<br>
+*    [NCHS EdTech Portal](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-edtech%2Fhome&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw17XqdJKIc0OauG8ihGm3tf) <br>
 
 *    [EdTech Pedagogical Scaffold](https://sites.google.com/moe.edu.sg/guide-to-e-pedagogy/edtech-ps)_**\*New from 30 May 2023\***_<br>
     
@@ -102,4 +102,5 @@ description: ""
 
 *   [School Photographs](https://drive.google.com/drive/folders/0B0NLoi7jhnNmNWFNV2c2OHdtdVE?usp=sharing)
 
-![Technical Account Issues Chart Staff](/images/Technical%20and%20Account%20Issues%20Chart%20for%20Staff.png)
+![](/images/technical%20and%20account%20issues%20chart%20june2023%20staff.png)
+![](/images/technical%20and%20account%20issues%20chart2%20june2023.png)
