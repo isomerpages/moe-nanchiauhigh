@@ -34,14 +34,14 @@ Members are also selected and trained to take part in various school functions a
 
 **Highlight(s) of Activities**
 
-1. School Internal & Public Performance<br>
+1. School Internal &amp; Public Performance<br>
 2. SYF Arts Presentations for Drama<br>
 3. Drama Exchange<br>
 4. Drama Camp<br>
 5. Drama Appreciation
 
-**Achievements**
-
+**Achievements**<br>
+2023 – The Certificate of Accomplishment for the SYF Arts Presentations for Drama<br>
 2022 - 3rd Prize (Youth Category) for the first Poetry Festival Singapore: Chinese Poetry Recitation Competition (首届新加坡诗歌节——华文诗歌朗诵比赛) - Teo Zhi Ling 张之龄<br>
 2021 – The Certificate of Accomplishment for the SYF Arts Presentations for Drama  
 2019 – The Certificate of Distinction for the SYF Arts Presentations for Drama  
