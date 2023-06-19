@@ -47,8 +47,7 @@ NCzens may also book an ECG Counselling Session (assessments, analysis of RIASEC
     ](https://www.moe.gov.sg/post-secondary/admissions/dsa)[https://www.moe.gov.sg/post-secondary/admissions/poly-eae/](https://www.moe.gov.sg/post-secondary/admissions/poly-eae/)
     
 
-2.  JAE Booklet 2022&nbsp;  
-    [https://www.moe.gov.sg/2022jaebooklet](https://www.moe.gov.sg/2022jaebooklet)
+2.  JAE Booklet 2023  https://www.moe.gov.sg/-/media/files/post-secondary/2023-jae/2023-jae-booklet.ashx
     
 
 3.  MOE Course Finder (Consolidated portal for the 5 Polytechnics and ITE courses in Singapore – entry requirements, course modules and education &amp; career prospects)  
