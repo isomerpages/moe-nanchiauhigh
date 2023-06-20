@@ -62,8 +62,8 @@ NCzens may also book an ECG Counselling Session (assessments, analysis of RIASEC
     [https://www.moe.gov.sg/financial-matters/awards-scholarships/moe-pre-u-scholarship](https://www.moe.gov.sg/financial-matters/awards-scholarships/moe-pre-u-scholarship)&nbsp;[https://brightsparks.com.sg/](https://brightsparks.com.sg/)
 		
 **MOE Resources**<br>
-Journeying with Our Children, Supporting Their Aspirations https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.pdf
+Journeying with Our Children, Supporting Their Aspirations [https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.pdf](https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.pdf)
 
-What's Next  https://www.moe.gov.sg/-/media/files/programmes/ecg/whats-next-o-level.pdf
+What's Next [ https://www.moe.gov.sg/-/media/files/programmes/ecg/whats-next-o-level.pdf]( https://www.moe.gov.sg/-/media/files/programmes/ecg/whats-next-o-level.pdf)
 
-The Next Step Forward  https://www.moe.gov.sg/-/media/files/programmes/ecg/moe\_the\_next\_step\_forward.pdf
+The Next Step Forward [ https://www.moe.gov.sg/-/media/files/programmes/ecg/moe\_the\_next\_step\_forward.pdf]( https://www.moe.gov.sg/-/media/files/programmes/ecg/moe\_the\_next\_step\_forward.pdf)
