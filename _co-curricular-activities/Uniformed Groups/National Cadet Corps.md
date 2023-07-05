@@ -15,9 +15,9 @@ third_nav_title: Uniformed Groups
 
   
 
-*   Mr Liow Kwok Bin  
-    Mr Gan Sze Fong  
-    Mr Raffi Buang
+*   Mr Gan Sze Fong <br>
+    Mr Ryan Loh <br>
+    Mr Koh Zhi Hong Jason 
 		
 		
 **KEY INFORMATION**
