@@ -11,7 +11,9 @@ third_nav_title: Clubs and Societies
 <br>Computer Lab 4
 
 **Teachers-in-Charge**
-<br>Mr Lee Heng Leong &amp; Ms Roxanne Lau Shu Xin<br>
+<br>Mr Lee Heng Leong<br> 
+Ms Roxanne Lau Shu Xin<br>
+Ms Kelly Foo Kai Li<br>
 
 **CCA Objectives**<br>
 NCHS Infocomm Club aims to ignite in students a passion for Infocomm by providing ample opportunities for them to pursue their interest, deepen their learning in emerging tech and gain industry exposure.
