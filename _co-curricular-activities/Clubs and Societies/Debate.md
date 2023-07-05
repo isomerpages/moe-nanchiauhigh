@@ -16,7 +16,7 @@ third_nav_title: Clubs and Societies
   
 
 *   Mdm Shahnaaz Sidik  
-    Ms Riny
+     Ms Sheena Lee Jia En
 		
 		
 **KEY INFORMATION**
