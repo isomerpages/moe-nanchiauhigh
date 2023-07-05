@@ -17,7 +17,8 @@ third_nav_title: Uniformed Groups
 
 *   Mr Fu Kai Di  
     Ms Foo Su Lyn  
-    Mr Esmond Tay
+    Mr Esmond Tay <br>
+		Ms Chan Siew Min
 		
 		
 **KEY INFORMATION**
