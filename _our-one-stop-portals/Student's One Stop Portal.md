@@ -4,11 +4,9 @@ permalink: /our-resources/Students-Resources/
 description: ""
 ---
 **Timetables**<br>
-[2023 Sec 4 Prelim Exam Timetable](https://drive.google.com/file/d/1QX12zvkwHLQeqnyRCL33GP-RVx_UfV_n/view?usp=share_link)<br>
-[Sec 4 EBP (June 2023)](https://drive.google.com/file/d/1Vfz5lIbRuGeMKnRBwKhMbXNjGbuLHMMW/view?usp=share_link)<br>
-[NC Bite 1 Schedule](https://drive.google.com/drive/folders/136_yEC8XvlwztBE1a_Ba_nS-vUeDsuCS?usp=share_link)<br>
+[2023 Sec 4 Prelim Exam Timetable](https://drive.google.com/file/d/11TXBBhHRGWaRe3OYp-VmGxUEgeLYLVlJ/view?usp=drive_link)<br>
+[2023 Sec 1 to 3 EOY Exam Timetable](https://drive.google.com/drive/folders/1Ezrmw2U4uSsmlUmvsmYWsJivVZ7zQpJW?usp=drive_link)<br>
 [2023 Semester 2 Timetable: Term 3](https://drive.google.com/drive/folders/1H1LEVFF6JxSl7QaW2dnv2n7cBQM26iIH?usp=share_link)<br>
-[2023 Progress Assessment 1 (PA1) Schedule](https://drive.google.com/drive/folders/1GZzIVUtkBdO48MrMK5qujY5eINTOWq7I?usp=sharing)  
 
 **School Resources**<br>
 [Student Learning Space (SLS)](https://learning.moe.edu.sg/)  
