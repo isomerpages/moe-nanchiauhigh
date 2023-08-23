@@ -12,7 +12,7 @@ description: ""
 [Student Learning Space (SLS)](https://learning.moe.edu.sg/)  
 [Student Icon](https://workspace.google.com/dashboard)  
 [Booklist and Uniform List](https://drive.google.com/drive/folders/0B0NLoi7jhnNmc2RKRTF2bjVLTHM?usp=sharing)<br>
-[Financial Assistance / Bursaries](/Financial-Assistance-and-Bursaries/)<br>
+[Financial Assistance and Bursaries](https://www.nanchiauhigh.moe.edu.sg/Financial-Assistance-and-Bursaries/)<br>
 [Report ICT Defects in Classrooms](https://go.gov.sg/nchs-ict-defects)_**\*New\***_<br>
 [NCHS TechPOP Newsletters](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-create-curate-connect%2Ftechpop&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2Obot5AyPr9eJW12G_XD7s)
 
