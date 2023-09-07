@@ -6,7 +6,7 @@ description: ""
 **Timetables**<br>
 [2023 Sec 4 Prelim Exam Timetable](https://drive.google.com/file/d/11TXBBhHRGWaRe3OYp-VmGxUEgeLYLVlJ/view?usp=drive_link)<br>
 [2023 Sec 1 to 3 EOY Exam Timetable](https://drive.google.com/drive/folders/1Ezrmw2U4uSsmlUmvsmYWsJivVZ7zQpJW?usp=drive_link)<br>
-[2023 Semester 2 Timetable: Term 3](https://drive.google.com/drive/folders/1H1LEVFF6JxSl7QaW2dnv2n7cBQM26iIH?usp=share_link)<br>
+[2023 Semester 2 Timetable: Term 4](https://drive.google.com/drive/folders/1eCYH7R1wyJ9zqD6_wBRq7gUstn1xDyBn?usp=drive_link)<br>
 
 **School Resources**<br>
 [Student Learning Space (SLS)](https://learning.moe.edu.sg/)  
