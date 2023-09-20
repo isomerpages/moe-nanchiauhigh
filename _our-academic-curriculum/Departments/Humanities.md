@@ -31,13 +31,13 @@ Mdm Tan Pek Cheng – Head of Department
 <br>Ms Lee Zhen Yi Cheryl – Teacher (History/Social Studies)
 
 **Achievements:**
-
-1\. NUS Geography Challenge 2021 – 2 Silvers and 2 Bronze
-<br>2\. Model UN (SCMUN) and National Youth Environment Conference (NYEC) – Best Position Paper award
-<br>3\. NUS Geography Challenge 2020 – Top 5 for Creative component (poster design), 2 Gold and 2 Silver for Individual component
-<br>4\. NJC – E International Humanities Symposium (EIHS) 2020 – Students’ Choice Award
-<br>5\. National Stamp Competition 2019 – 2 Silver, 3 Bronzes
-<br>6\. NUS Geography Challenge 2019 – Honourable Mention for Creative component
+<br>1\. NUS Geography Challenge 2022 - 2 Golds and 1 Silver 
+<br>2\. NUS Geography Challenge 2021 – 2 Silvers and 2 Bronze
+<br>3\. Model UN (SCMUN) and National Youth Environment Conference (NYEC) – Best Position Paper award
+<br>4\. NUS Geography Challenge 2020 – Top 5 for Creative component (poster design), 2 Gold and 2 Silver for Individual component
+<br>5\. NJC – E International Humanities Symposium (EIHS) 2020 – Students’ Choice Award
+<br>6\. National Stamp Competition 2019 – 2 Silver, 3 Bronzes
+<br>7\. NUS Geography Challenge 2019 – Honourable Mention for Creative component
 
   
 
@@ -61,7 +61,7 @@ multifaceted nature of our challenges, and
 
 (iii) challenge students to think critically so as to propose innovative solutions to today’s problems.
 
-**Historical Investigations**
+**Humanities Talent Programme**
 
 
 The Humanities Talent Programme seeks to identify students who display keen interest and passion in Humanities. Through deeper studies of the Humanities subjects – Geography, History and Literature, students learn to better appreciate complex societal issues from a multi-disciplinary perspective. Students in this programme will have many learning opportunities to broaden their exposure in the Humanities.
