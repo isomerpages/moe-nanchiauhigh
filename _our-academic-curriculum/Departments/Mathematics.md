@@ -26,11 +26,8 @@ Mdm Khaw Hwee Mung (HOD/Maths)
 <br>Mr John Mak (HOD/ICT)
 <br>Ms Tan Yi Chiann (AYH)
 <br>Mdm Doris Sofea Toh Ming Li
-<br>Mr Kham Ming Fatt
 <br>Mdm Lee Ying Yan Kate 
-<br>Ms Lim Chiew Her
 <br>Mdm Ng Su Peng
-<br>Ms Tan Wan Ting
 <br>Mdm Tan Yan Yan 
 <br>Mdm Siak Chock Kwun 
 <br>Mr Zhang Boyuan, Eric
