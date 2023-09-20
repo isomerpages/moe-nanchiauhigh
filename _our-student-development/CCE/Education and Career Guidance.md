@@ -39,7 +39,7 @@ NCzens may also book an ECG Counselling Session (assessments, analysis of RIASEC
 
 [https://go.gov.sg/nchs](https://go.gov.sg/nchs)
 
-![](/images/NCHS%20ECG%20Poster%202023_updated.jpg)
+![](/images/nch%20ecg%20poster.png)<br>
 
 1.  Admission Exercises for O-Level Students  
     [https://www.moe.gov.sg/post-secondary/admissions/jae  
