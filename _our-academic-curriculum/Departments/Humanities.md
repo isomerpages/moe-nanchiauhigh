@@ -4,6 +4,7 @@ permalink: /our-academic-curriculum/Departments/Humanities/
 description: ""
 third_nav_title: Departments
 ---
+**Learning Experiences**
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBHNvFpYFG_fN2X2nniepBGStPpKZFgUDwe6ggGnTE6GAVetubRJavtserV8oALWgJQOyHBiH73Kni/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 **Vision**
