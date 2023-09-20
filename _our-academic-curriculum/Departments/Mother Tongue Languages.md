@@ -30,18 +30,11 @@ To broaden our students’ global awareness and Bicultural perspective
 
 STAFF LIST
 
-HOD/MTL:
-<br>Mr Oh Keng Ann
-
-  
-
-SH/CL:<br>
-Miss Chay Chia Ling
-
+HOD/MTL: Mr Goh Lam Chye<br>
+Acting SH/CL: Mdm Ting Hann Sy  
   
 
 Chinese Unit:<br>
-Mr Goh Lam Chye (HOD/SAP)<br>
 Ms Cheong Zheng Yin Agnes (SH/CCE)<br>
 Ms Chong Ka Wuei (SH/SAP)<br>
 Mdm Qi Yan Ping (LT/CL)<br>
@@ -49,15 +42,12 @@ Mr Tan Jia Hao (AYH)  <br>
 Miss Kim Lay Tin<br>
 Mdm Ye Bijiao<br>
 Mdm Zhang Chunyu<br>
-Ms Shao Linjuan<br>
-Ms Ting Hann Sy<br>
 Ms Tay Jing Ying Winnie<br>
 Mdm Tan Bee Lien
 
 Malay Unit:<br>
 Mdm Nor Hayati Bt Abdullah<br>
 Mdm Nur Maizurah Binte Rosle<br>
-Mdm Zainun B Hashim
 
 **ENRICHMENT ACTIVITIES**
 
