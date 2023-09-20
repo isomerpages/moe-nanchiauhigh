@@ -13,7 +13,7 @@ For students to: read, understand, and appreciate, a variety of texts; think cri
 **DEPARTMENT DETAILS**
 
 Staff List:<br>
-Mdm Yap Teck Lay Anna – Head of Department <br>
+Mdm Anna Yap – Head of Department <br>
 Mr Fu Kaidi – Subject Head of English <br>
 Mdm Shahnaaz Sidik – Senior Teacher / Literature <br>
 Ms Angel Chiang - Acting Subject Head of English Literature <br>
@@ -24,7 +24,8 @@ Ms Su Mei Lenden-Hitchcock <br>
 Ms Michelle Yeong <br>
 Mrs Tan Jie Ying <br>
 Mdm S Chandraghantha <br>
-Ms Cherlene Lau
+Ms Cherlene Lau<br>
+Ms Sheena Lee
 
 **Enrichment Activities:**
 
