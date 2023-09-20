@@ -37,7 +37,7 @@ NCzens may also book an ECG Counselling Session (assessments, analysis of RIASEC
 
 [](https://moeecg.appointeze.com/onlinelink/PanMiaohua)[](https://moeecg.appointeze.com/onlinelink/PanMiaohua)
 
-[https://go.gov.sg/nchs-ecg](https://go.gov.sg/nchs-ecg)
+[https://go.gov.sg/nchs](https://go.gov.sg/nchs)
 
 ![](/images/NCHS%20ECG%20Poster%202023_updated.jpg)
 
