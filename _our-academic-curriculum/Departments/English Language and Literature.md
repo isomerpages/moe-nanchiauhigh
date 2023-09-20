@@ -23,7 +23,6 @@ Mr Sim Kian Ming <br>
 Ms Su Mei Lenden-Hitchcock <br>
 Ms Michelle Yeong <br>
 Mrs Tan Jie Ying <br>
-Ms Riny <br>
 Mdm S Chandraghantha <br>
 Ms Cherlene Lau
 
