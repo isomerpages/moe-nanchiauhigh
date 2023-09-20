@@ -30,9 +30,8 @@ Staff List:
 |Mr Raffi Buang|Subject Head PE/CCA|BEng (Hons) in Electrical &amp; Electronic Engineering (1998)   <br>PGDE (Physical Education 2002)|Football, Badminton, Sepak Takraw, Track &amp; Field
 |Mr Clarence Choo|PE Teacher/Safety Officer|B Engrg (Hons) in Communication Engineering (1995)   <br>PGDE (Physical Education 2005)|Badminton, Tchoukball, Volleyball, Handball
 |Ms Angeline Yar|PE Teacher|BEng (Hons) in Electrical &amp; Electronic Engineering (2004)   <br>PGDE (Physical Education) (2012)|Outdoor Education, Track &amp; Field, Dance
-|Mr Aw Si Kuan|PE Teacher/Student Leadership Chairperson|Bachelor of Aerospace Engineering (2011)  <br>PGDE (Physical Education 2016)|Outdoor Education, Basketball, Touch Rugby, Softball, Football
 |Ms Tan Yibing|PE Teacher|Bachelor of Science in Applied Mathematics (Hons)|Floorball|
-|Ms Cheam Kai Xian Annette|PE Teacher|Bachelor of Science in Education|Basketball, Softball, Hockey|
+|Ms Chean Kai Xian Annette|PE Teacher|Bachelor of Science in Education|Basketball, Softball, Hockey|
 |Mr Andrew Fong|PE Teacher|Cert-in-Education (Technical) – 1970  <br>Dip in Physical Education (1987)|Track &amp; Field, Table-Tennis
 
 Achievement:
