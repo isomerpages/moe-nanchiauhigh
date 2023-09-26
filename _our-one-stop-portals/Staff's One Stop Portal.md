@@ -4,7 +4,7 @@ permalink: /our-resources/teachers-resources/
 description: ""
 ---
 **NCHS Live Event &amp; Timetables**<br>
-*   [NCHS Live Event Page](https://www.google.co/url?q=https%3A%2F%2Fgo.gov.sg%2Fnchs-live&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0l9o1DpgtbcLBQMS7Ow8j6) (Click here for live event)
+*   [NCHS Live Event Page](https://www.google.co/url?q=https%3A%2F%2Fgo.gov.sg%2Fnchs-live&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0l9o1DpgtbcLBQMS7Ow8j6) (Deactivated: Obtain link via WA)
 *   [CCE, TSI and Assembly Calendars (2023)](https://docs.google.com/spreadsheets/d/1K8VAgWQIloJckuPnZ2uye5Mz6L3hccOu1efGdzEJd5U/edit?usp=sharing)
 
     
