@@ -25,7 +25,7 @@ sections:
       title: Get official answers from our Q&A Platform
       subtitle: Have a question
       button: view or ask questions on Ask.gov
-      url: https://go.ask.gov.sg/nchs
+      url: https://ask.gov.sg/nchs
       image: /images/askgov-bannerimage-nchs.png
       alt: askgov
 ---
