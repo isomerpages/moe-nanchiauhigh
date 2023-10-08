@@ -43,8 +43,9 @@ description: ""
 [Parents Letters](https://drive.google.com/drive/folders/0B0NLoi7jhnNmcUkxUkRrUlNoZ00?usp=sharing)  <br>
 
 **Student Academic Timetable**<br>
+[2023 EOY Post Exam Schedule](https://drive.google.com/drive/folders/1DCeWlL2_b7dPhYD_crQAXmeKqmPiXXV2?usp=sharing)<br>
 [2023 Sec 4 Prelim Exam Timetable](https://drive.google.com/file/d/1QX12zvkwHLQeqnyRCL33GP-RVx_UfV_n/view?usp=share_link)<br>
-[Sec 4 EBP (June 2023)](https://drive.google.com/file/d/1Vfz5lIbRuGeMKnRBwKhMbXNjGbuLHMMW/view?usp=share_link)<br>
+
 
 
 **MOE Resources**<br>
