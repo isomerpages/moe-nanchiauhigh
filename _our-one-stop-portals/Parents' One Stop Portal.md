@@ -10,17 +10,13 @@ description: ""
 
 
 **Cyber Wellness, Mental Health, and Personal Learning Device (PLD) Resources for Parents**<br>
-* Parent Tip: Supporting your teen in Exploring Post-Sec Pathways [(Click Here)](https://www.google.com/url?q=https%3A%2F%2Fwww.moe.gov.sg%2F-%2Fmedia%2Ffiles%2Fparent-kit%2Fparent-kit---supporting-your-teen-in-exploring-post-secondary-pathways.pdf&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw39nIbGQbCLzRx1-k6mBiUN)
-
-* Cyber Wellness Resources for Parents [(Click Here)](https://sites.google.com/moe.edu.sg/nchs-parents/cyber-wellness-resources-for-parents?authuser=0)
-
-* Mental Health &amp; Wellness Resources for Parents [(Click Here)](https://sites.google.com/moe.edu.sg/nchs-parents/cyber-wellness-resources-for-parents?authuser=0)
 
 * NCHS Microsite for National Digital Literacy Programme (NDLP@NCHS) [(Click Here)](http://www.google.com/url?q=http%3A%2F%2Fgo.gov.sg%2Fnchs-ndlp&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3RxkFU60FEALu86zIyPHT2)
 
 * Infographics on the PLD Initiative [(Click Here)](https://drive.google.com/file/d/1OH3OlZneER-8rFtnXYtUHUEvTpsjIfUN/view?usp=sharing)
 
 * Parents' Guides for DMA:
+  *    [Video Guides for Parents on managing DMA](https://drive.google.com/drive/folders/1v-TiyDZGUeOhJazC4LyU-j0UlMUqddm0?usp=drive_link)  ***(Newly updated in 2023)***
 	*    Infographics on DMA Options [(Click Here)](https://drive.google.com/file/d/1ZF35oxkRutpDpY6OLEAznuPu8v2ClOqB/view?usp=sharing)
 
 	* [Default Option\] [(Click Here)](https://drive.google.com/file/d/1F1R94g-dzejZNbciUWDc3_w30dFu5aov/view?usp=sharing)
@@ -28,6 +24,13 @@ description: ""
 	* [Option A\] [(Click Here)](https://drive.google.com/file/d/1F1R94g-dzejZNbciUWDc3_w30dFu5aov/view?usp=sharing)
 
 	* [Option B\] [(Click Here)](https://drive.google.com/file/d/1tQmjvlVB0wbSE_UYvyh34v9J--B5wDEx/view?usp=sharing)
+
+* Parent Tip: Supporting your teen in Exploring Post-Sec Pathways [(Click Here)](https://www.google.com/url?q=https%3A%2F%2Fwww.moe.gov.sg%2F-%2Fmedia%2Ffiles%2Fparent-kit%2Fparent-kit---supporting-your-teen-in-exploring-post-secondary-pathways.pdf&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw39nIbGQbCLzRx1-k6mBiUN)
+
+* Cyber Wellness Resources for Parents [(Click Here)](https://sites.google.com/moe.edu.sg/nchs-parents/cyber-wellness-resources-for-parents?authuser=0)
+
+* Mental Health &amp; Wellness Resources for Parents [(Click Here)](https://sites.google.com/moe.edu.sg/nchs-parents/cyber-wellness-resources-for-parents?authuser=0)
+
 
 * Technical Support Flow Chart for NCzens [(Click Here)](https://sites.google.com/moe.edu.sg/nchs-parents/technical-support?authuser=0)
 
