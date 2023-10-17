@@ -22,10 +22,10 @@ sections:
           url: /our-resources/Admission-to-NCHS/Direct-School-Admission-Exercise/
       background: /images/homepage.gif
   - infopic:
-      title: Get official answers from our Q&A Platform
-      subtitle: Have a question
-      button: view or ask questions on Ask.gov
-      url: https://ask.gov.sg/nchs
-      image: /images/askgov-bannerimage-nchs.png
-      alt: askgov
+      title: Open House
+      id: infopic
+      description: Join us on 18 November 2023,
+        Saturday                                , 0900h - 1200h
+      image: /images/nchs open house banner.jpeg
+      alt: Image alt text
 ---
