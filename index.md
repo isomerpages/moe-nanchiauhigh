@@ -28,4 +28,6 @@ sections:
         Saturday                                , 0900h - 1200h
       image: /images/nchs open house banner.jpeg
       alt: Image alt text
+      url: https://www.nanchiauhigh.moe.edu.sg/permalink/nchs-brochure/
+      button: Click here to view
 ---
