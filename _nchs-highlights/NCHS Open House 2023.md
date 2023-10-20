@@ -3,6 +3,9 @@ title: NCHS Open House 2023
 permalink: /nchs-highlights/open-house-2023/
 description: ""
 ---
+```
+https://docs.google.com/presentation/d/10QX0GpXr4mHFan2y_5ghBldVNNW2dn2V0SdLGrNRwTk/edit?usp=sharing
+```
 
 1)	**Principal’s and Students’ Presentation**.<br> 
 (Video will be recorded by MMC and to be uploaded after the presentation for viewing)<br>
