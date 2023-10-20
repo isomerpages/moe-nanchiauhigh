@@ -23,7 +23,7 @@ sections:
       id: infopic
       description: Join us on 18 November 2023, Saturday, 0900h - 1200h.
       button: CLICK HERE to view information
-      url: https://www.nanchiauhigh.moe.edu.sg/permalink/nchs-brochure/
+      url: https://www.nanchiauhigh.moe.edu.sg/nchs-highlights/open-house-2023/
       image: /images/open house poster 2023.jpg
       alt: Image alt text
   - infopic:
