@@ -2,5 +2,6 @@ collections:
   nchs-highlights:
     output: true
     order:
+      - NCHS Open House 2023.md
       - NCHS Publicity Brochure.md
       - WAVES Newsletter.md
