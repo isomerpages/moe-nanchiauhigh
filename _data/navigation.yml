@@ -1,10 +1,10 @@
 logo: /images/logo (2).png
 links:
-  - title: About Us
+  - title: 南侨中学简介 About Us
     collection: about-us
-  - title: Academic Curriculum
+  - title: 课程内容 Academic Curriculum
     collection: our-academic-curriculum
-  - title: Student Development
+  - title: 人格教育 Student Development
     url: /our-student-development/Power-of-Positivity/
     sublinks:
       - title: Power of Positivity
@@ -23,9 +23,7 @@ links:
         url: /our-student-development/Service-Learning
       - title: National Education
         url: /our-student-development/National-Education
-  - title: Talent Development
+  - title: 人才教育 Talent Development
     collection: our-talent-development
-  - title: Partners
+  - title: 教育伙伴 Partners
     collection: our-partners
-  - title: Have a question?
-    url: https://ask.gov.sg/nchs
