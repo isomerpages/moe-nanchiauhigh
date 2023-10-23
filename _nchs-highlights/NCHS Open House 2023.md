@@ -12,4 +12,4 @@ description: ""
 
 
 2)	**Frequently Asked Questions**<br>
-[Click here to view](https://drive.google.com/file/d/1mev61gdel-6lN1fKtTaDI2aXmB9MicVL/view?usp=sharing)
+[Click here to view](https://drive.google.com/file/d/1Q9lHTBqg5FGGEWSFxYqXQapoY9hLnF1E/view?usp=sharing)
