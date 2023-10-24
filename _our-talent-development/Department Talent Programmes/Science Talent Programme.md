@@ -6,6 +6,7 @@ third_nav_title: Department Talent Programmes
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/1Qn-aITQEtRXQ2wblMMpW_lSmo_C8jEE2w3gswSI_6Hc/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
+
 The programme aims to provide opportunities for students who are passionate in Science Learning to&nbsp;  
 
 *   become innovative and critical thinkers,
