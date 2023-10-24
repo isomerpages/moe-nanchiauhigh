@@ -23,4 +23,5 @@ Ask and get answered on our [Q&amp;A Page](https://ask.gov.sg/nchs)
 
 **Office Operating Hours**<br>
 Weekdays : 0800 – 1700  
-Closed on Weekends &amp; Public Holidays</em></span>
+Closed on Weekends &amp; Public Holidays
+	</em></span>

@@ -1,6 +1,6 @@
 ---
-title: 2023 Foreword
-permalink: /about-us/Principal-Foreword/permalink/
+title: Foreword
+permalink: /about-us/principal-foreword/permalink/foreword/
 description: ""
 third_nav_title: Principal's Foreword
 ---
@@ -20,11 +20,11 @@ third_nav_title: Principal's Foreword
 
 吕佳伦校长
 
-Nan Chiau High School’s indomitable spirit has been forged through the years by many who have proudly witnessed its establishment in its founding days, fiercely protected it through the warring years, and continued to guide it through the many seasons of change.   
+Nan Chiau High School’s indomitable spirit has been forged through the years by many who have proudly witnessed its establishment in its founding days, fiercely protected it through the warring years, and continued to guide it through the many seasons of change.&nbsp;&nbsp;&nbsp;
 
 Being part of Nan Chiau, we can be proud of the school’s rich history and legacy. At the same time, we can look forward to the future with eager anticipation as we imagine the possibilities of what we can achieve together.
 
-Let us not forget the spirit with which the founding father,  Mr Tan Kah Kee, established the school. A man who ardently believed in bettering the lives of others, he was a man of his word who stayed true to his mission his whole life, and was resolute even when faced with adversity. He has left behind a compelling and indelible legacy for those who come after him, a call to action for us to do the same. Therefore, in the same way, let us continue to press on as we nurture the next generation to be future-ready and lifelong learners who will strive to contribute to society in their own ways.
+Let us not forget the spirit with which the founding father,&nbsp; Mr Tan Kah Kee, established the school. A man who ardently believed in bettering the lives of others, he was a man of his word who stayed true to his mission his whole life, and was resolute even when faced with adversity. He has left behind a compelling and indelible legacy for those who come after him, a call to action for us to do the same. Therefore, in the same way, let us continue to press on as we nurture the next generation to be future-ready and lifelong learners who will strive to contribute to society in their own ways.
 
 I would like to end off by thanking many who have worked tirelessly and quietly behind the scenes to ensure that the children have a meaningful education. Thank you to the Singapore Hokkien Huay Kuan and the school alumni for your unwavering support to the school, to the parents for your strong partnership, and the school staff for your unity and dedication in nurturing the students.
 

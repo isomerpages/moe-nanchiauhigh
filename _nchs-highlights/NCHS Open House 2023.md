@@ -7,9 +7,5 @@ description: ""
 <br>
 
 
-1)	**Principal’s and Students’ Presentation**.<br> 
-(Video will be recorded by MMC and to be uploaded after the presentation for viewing)<br>
-
-
-2)	**Frequently Asked Questions**<br>
+**Frequently Asked Questions**<br>
 [Click here to view](https://drive.google.com/file/d/1Q9lHTBqg5FGGEWSFxYqXQapoY9hLnF1E/view?usp=sharing)
