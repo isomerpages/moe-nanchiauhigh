@@ -2,7 +2,6 @@ collections:
   our-talent-development:
     output: true
     order:
-      - General Information.md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
       - Department Talent Programmes/Mathematics Talent Programme.md
