@@ -3,6 +3,11 @@ title: Student's One Stop Portal
 permalink: /our-resources/Students-Resources/
 description: ""
 ---
+**(For 2023 Sec2 Students): <br>
+[Sec3 Subject Combination Exercise Submission](https://forms.moe.edu.sg/forms/vXVX8o)**<br>
+Note: This link opens only from **25 Oct to 0900h, 30 Oct**.
+
+
 **Timetables**<br>
 [Sec 3 Essential Booster Programme (30 Oct to 10 Nov 2023)](https://drive.google.com/file/d/1sZkinZdlFPuGFu8OeSTfzl4wOnmcTdST/view?usp=sharing)<br>
 --&gt; [Instructions for EBP](https://docs.google.com/document/d/1fxc8pgwbVCdvy4ivGSd5jBXLIx30_5YD7qsHlACPRoI/edit?usp=sharing)<br>
