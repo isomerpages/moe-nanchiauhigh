@@ -6,12 +6,12 @@ third_nav_title: Clubs and Societies
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTRRfACzWW2H0_CgLDMLSVWbdGffRVAJH_iQRKzTSriAXI1AGypXwEsPC1coX_6d-2f61F7fx6hPiKT/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-**Training Date & Time**<br>
+**Training Date &amp; Time**<br>
 Friday,  
-2.30pm – 5.30pm<br>
+3.00pm – 6.00pm<br>
 
 **Venue**<br>
-D&T Room 2
+D&amp;T Room 2
 
 **Teacher-in-Charge**
 <br>Mdm Zhang Chunyu
@@ -34,6 +34,6 @@ D&T Room 2
 | -------- | -------- |
 | 庆祝华人新年校内书法比赛<br>In-school Calligraphy Competition 2022     | **硬笔**<br>**Pen Calligraphy**<br><br>S1<br>优胜奖（Consolation Prize：<br>• 谢菀轩 CHIA WAN XUAN ALESEA（1 Resilience<br> • 陈诗淇ELISE CHAN SHI QI（1 Resilience）<br> •	陆晋卓LOKE JERN CHOC（1 Resilience)<br><br>第三名（Third place):<br> •	李贯中 LI GUANZHONG (1 Integrity)<br> •	黄恩惠 CHARIS NG EN HUI (1 Resilience)<br><br>第二名（Second place):<br>•	林韦廷 LIM WEI TING（1 Resilience)<br>•	赖思妤 LUA SER EE VERNICE（1 Resilience)<br><br>第一名（Champion):<br> •	伍婞鑫 WU XINGXIN（1-Humility)<br><br>S2<br>优胜奖 (Consolation Prize):<br> •	张嘉恩 TEO JIA EN, REANNE（2 Innovation)<br>•	余楷星 DJIE ATRIA （2 Excellence） •	曾诗颖 CHANG SHI YING（2 Innovation)<br><br>第三名（Third place):<br>•	倪诗淇  GOY SZE KEE, EUGYNIA (2 Sincerity)<br> •	林欣颖 JOEL LIM XIN YING (2 Sincerity)<br><br>第二名（Second place):<br>•	卓珈欣 TOCK JIAXIN YVETTE (2 Perseverance)<br>•	黄家恒 HONG JIA HENG (2 Sincerity） <br><br>第一名（Champion):<br>•	蔡雨彤 CHUA YU TONG (2 Resilience)<br><br>S3<br>优胜奖（Consolation Prize):<br>•	李芊颖 LEE QIAN YING,CHARLOTTE (3 Excellence)<br>•	黄欣慧 MAGEN OOI XIN HUI (3 Excellence)<br>•	王宇恩 ONG YU-EN (3Gratitude)<br><br>第三名（Third place):<br>•	胡恺恩 OH KAI EN (3Gratitude）<br> •	朱堡荷 CHU BAO HO (3 Excellence)<br><br> 第二名（Second place)：<br> •	简芳宜 JIAN FANGYI（3 Sincerity)<br>•	李思妤 LI SIYU（3 Excellence)<br><br>第一名（Champion):<br> •	刘恬宇 LAU TIAN YU (3 Excellence)<br><br>S4<br>优胜奖（Consolation Prize)：<br> •	张恺恩 THIO KAI EN @ CLARA HARDONO （4 Gratitude)<br> •	黄婧 HUANG JING （4 Gratitude)<br> •	陶思睿TAO SIRUI (4 Resilience)<br><br>第三名（Third place)：<br> •	卓恩绮 TOH EN QI CHLORIS（4 Sincerity)<br>•	金妧芯 INES KIM YUAN XIN (4 Excellence )<br><br>第二名（Second place):<br>•	余劭维ER SEAN WEE （4 Sincerity)<br> •	林宛萱 LUM YIUN SHYN (4 Innovation)<br><br> 第一名（Champion):<br>•	简亦萱 JIAN YIXUAN (4 Excellence)<br><br>**毛笔**<br>**Brush Calligraphy S1-2**<br><br>S1-2<br>优胜奖 (Consolation Prize)：<br> •	符芯睿 FOO XIN RUI (2 Integrity) <br>•	蔡雨彤 CHUA YU TONG (2 Resilience) <br>•	王曷匀 WONG HE YUN (2 Gratitude)<br><br> 第三名（Third place): NIL<br><br>第二名（Second place): NIL<br><br> 第一名（Champion)：NIL<br><br>S3-4<br>优胜奖（Consolation Prize):<br> •	陈思洁 ANGELA TAN SI JIE（3 Gratitude）<br> •	胡恺恩 OH KAI EN（3Gratitude） <br>•	苏翰乐 SAMUEL SOO HANLE（3 Gratitude)<br><br>第三名（Third place)：<br> • 陈静如 TAN JING RU （4 Innovation）<br><br>第二名（Second place)： •	华函 HUA HAN （4 Integrity） <br><br>第一名（Champion)： <br>•	吴坤桦 WU KUNHUA （4 Resilience）|
 |第33届全国学生书法比赛<br>33th National Student Calligraphy Competition | 华函 Hua Han  (S4-Integrity) <br>吴坤桦	WU KUNHUA(S4-Resilience) <br>**获中学组毛笔书法优胜奖**<br>**Brush Calligraphy, Merit Award of Secondary School**|
-|2022 Zhang Shou Shi National Calligraphy & Chinese Painting Exhibition <br>笔墨有情”- 张瘦石全国中小学书画展 | **中学毛笔组优胜奖 华函**	<br>Hua Han  (S4-Integrity) |
+|2022 Zhang Shou Shi National Calligraphy &amp; Chinese Painting Exhibition <br>笔墨有情”- 张瘦石全国中小学书画展 | **中学毛笔组优胜奖 华函**	<br>Hua Han  (S4-Integrity) |
 |第22届全国书法大赛墨忘书心 | **中学硬笔组鼓励奖**<br> 林彤恩 JOCELYN LIM TONG EN	(2 Integrity)<br> 李思妤	LI SIYU	(3 Excellence)<br> 苏翰乐	SAMUEL SOO HANLE (3 Gratitude)<br><br>**中学毛笔组鼓励奖**<br> 陈思洁	ANGELA TAN SI JIE	(3 Gratitude)<br> 华函	Hua Han	(4 Integrity)|
 | 2022年第五届“星衢墨艺”全国中小学书法比赛<br>5th SING CHU NATIONAL STUDENT CHINESE CALLIGRAPHY COMPETITION 2022 | **获中学组毛笔书法优胜奖**<br>李芊颖	LEE QIAN YING, CHARLOTTE	(3 Excellence)<br><br>**获中学组毛笔书法安慰奖**<br>林彤恩	JOCELYN LIM TONG EN	(2 Integrity)<br>蔡雨彤	CHUA YU TONG (2 Resilience) |
