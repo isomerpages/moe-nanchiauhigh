@@ -4,6 +4,8 @@ permalink: /our-talent-development/Department-Talent-Programmes/Science-Talent-P
 description: ""
 third_nav_title: Department Talent Programmes
 ---
+https://docs.google.com/presentation/d/1Qn-aITQEtRXQ2wblMMpW_lSmo_C8jEE2w3gswSI_6Hc/edit?usp=sharing
+
 The programme aims to provide opportunities for students who are passionate in Science Learning to&nbsp;  
 
 *   become innovative and critical thinkers,
