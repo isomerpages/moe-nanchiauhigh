@@ -17,7 +17,7 @@ third_nav_title: Uniformed Groups
 •	Mr Teo Boon Heng <br>
 •	Mdm Ainul Hani <br>
 •	Ms Claire Low <br>
-•	Mr Kham Ming Fatt<br>
+
 
 **KEY INFORMATION**<br>
 
