@@ -22,4 +22,3 @@ NCzens will undergo a variety of programmes such as learning journeys and Nation
 
 **NCHS CCE Framework**  
 NCHS CCE framework is aligned to school vision, mission and values, placing NCzens at the heart of school’s CCE efforts.&nbsp; The curriculum content is based on the overarching framework of Power of Positivity (PoP), and comprises the teaching and learning of core school values and social-emotional competencies with a focus on developing a sense of purpose in NCzens.
-
