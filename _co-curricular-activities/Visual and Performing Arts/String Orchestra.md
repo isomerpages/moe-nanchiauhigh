@@ -6,7 +6,7 @@ third_nav_title: Visual and Performing Arts
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQwajmOVbj8FVYNEOS0RCzOnVE2jawBQfmVVcKnSedzYKAZIX1H7ctcLKqQltuuuCowPqDn8MMPdbBo/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
-Thursday, 3.15pm – 6.15pm<br>Friday, 3.15pm – 6.15pm <br>
+Monday: 3.00 pm – 6.00 pm<br>Wednesday: 3.00 pm – 6.00 pm <br>
 <br>String Room (Level 2)
 
 Ms Ng Su Peng (OIC)  
@@ -39,4 +39,5 @@ The String Orchestra comprises of about fifty students who have the passion for 
 1\. Certificate of Accomplishment (2015)<br>
 2\. Certificate of Accomplishment (2017)<br>
 3\. Certificate of Accomplishment (2019)<br>
-4\. Certificate of Accomplishment (2021)
+4\. Certificate of Accomplishment (2021) <br>
+5\. Certificate of Accomplishment (2023) <br>
