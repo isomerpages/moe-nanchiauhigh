@@ -18,12 +18,10 @@ Mr Fu Kaidi – Subject Head of English <br>
 Mdm Shahnaaz Sidik – Senior Teacher / Literature <br>
 Ms Angel Chiang - Acting Subject Head of English Literature <br>
 Mrs Elaine Lim <br>
-Mrs Wendy Sui <br>
 Mr Sim Kian Ming <br>
 Ms Su Mei Lenden-Hitchcock <br>
 Ms Michelle Yeong <br>
 Mrs Tan Jie Ying <br>
-Mdm S Chandraghantha <br>
 Ms Cherlene Lau<br>
 Ms Sheena Lee
 
