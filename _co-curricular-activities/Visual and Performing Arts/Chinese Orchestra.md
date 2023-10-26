@@ -6,10 +6,10 @@ third_nav_title: Visual and Performing Arts
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-QYw_dmdrFOMkuazxiNgRBuHeherq89L5DQUGmxit8-aXaZ5-BpfSIALF-efTpQYLj5vbKuODFVM5/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
-*   **Training Time:**<br> Monday,  3.00pm – 6.00pm  
-    Wednesday,  3.30pm – 6.30pm  
+*   **Training Time:**<br> Monday:  3.00 pm – 6.00 pm  
+    Wednesday:  3.00 pm – 6.00 pm  
     
-*  **Venue:**<br> Music Room,  IT Resource Room 3, Hall, Classroom
+*  **Venue:**<br> Music Room,  IT Resource Rooms, Hall
 
 *  **Teachers-In-Charge:**<br> 
 Mdm Tang Pui Lin (OIC)<br>
