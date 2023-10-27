@@ -6,20 +6,13 @@ third_nav_title: Uniformed Groups
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQA5k0roWyONw8J00oATSeP6l1LYHpsVrdo7z8wTXyhWP9thBOqiJImCrzkz3jNYTGc_mt4i_qrU94G/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
-*   Friday,  
-    2.30pm – 6.00pm
 
-  
-
+* Friday or Wednesday (if there is no school on Fri),  <br>2.30pm – 6.00pm
 *   School Field
 
-  
-
-*   Mr Fu Kai Di  
-    Ms Foo Su Lyn  
+*   Mr Fu Kai Di      
     Mr Esmond Tay <br>
 		Ms Chan Siew Min
-		
 		
 **KEY INFORMATION**
 
@@ -59,11 +52,7 @@ The Nan Chiau High School Alopex Scouts is a group that strives to master scouti
 
 **Achievements**
 
-Frank Cooper Sands Gold Award 2014<br>
-Frank Cooper Sands Gold Award 2015<br>
-Frank Cooper Sands Gold Award 2016<br>
-Frank Cooper Sands Gold Award 2017<br>
-Frank Cooper Sands Gold Award 2018<br>
-Frank Cooper Sands Gold Award 2019<br>
+
+Frank Cooper Sands Gold Award (2014 - 2022) <br>
 National Patrol Camp Bronze Award 2016<br>
-National Patrol Camp Silver Award 2018
+National Patrol Camp Silver Award 2018 <br>
