@@ -4,6 +4,8 @@ permalink: /our-student-development/cce/permalink/cce/
 description: ""
 third_nav_title: CCE
 ---
+https://docs.google.com/presentation/d/1ad4k3UM47mWb--WIb51QGhsZU73nvBTqku39QqUHJW0/edit?usp=sharing
+
 **CCE Department Vision**<br>
 Caring Leaders with Values and Character
 <br>
