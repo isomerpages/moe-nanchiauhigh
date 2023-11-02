@@ -57,4 +57,5 @@ All Sec 1 students are to wear our school uniform (i.e. white shirt/blouse and s
 
 Please bring along your writing materials and relevant learning materials, by referring to the timetable, which can be retrieved at
 
-**
+**Section F: Sec One Orientation Camp (SOOC)**
+===================================================
