@@ -36,3 +36,12 @@ Information on uniform sales
 
 Please note that a new account needs to be created for the online purchase and the account verification processing time may take around 1-2 days. All parents and students are strongly encouraged to purchase the school uniform online and arrange for home delivery.
 
+**Section D: Purchase of Personal Learning Device**
+===================================================
+At MOE’s Committee of Supply Debate in March 2020, MOE launched the National Digital Literacy Programme (“NDLP”) for our schools and Institutes of Higher Learning to help students strengthen their digital literacy. One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (“PDLP”) for all secondary school students, whereby every secondary school student will own a school-prescribed Personal Learning Device (“PLD”).
+
+Please read this [letter](https://www.nanchiauhigh.moe.edu.sg/files/NCHS%20Letter%20to%20Parents%20for%20PDLP%20Procurement_21%20Dec%202022.pdf) and [Infographic on the NCHS PLD Initiative 2024](https://www.nanchiauhigh.moe.edu.sg/files/Infographic%20on%20the%20PLD%20Initiative_2023%20-%20NCHS%20(Website).pdf) on the important information about the PLD for your child/ward before submitting your option below.
+
+*   For Singapore Citizens, [Click here](https://go.gov.sg/pdlpadmin) to indicate if you would like to purchase a PLD with the school bulk purchase.
+*   For Permanent Residents/International Students, we will send to your email indicated in the e-Registration form the softcopy letter to be printed, signed and passed to your child’s/ward’s Form Teacher by 03 Jan 2024 (Wed).
+
