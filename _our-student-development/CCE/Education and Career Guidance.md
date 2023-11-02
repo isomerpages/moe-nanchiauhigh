@@ -4,6 +4,8 @@ permalink: /our-student-development/CCE/Education-and-Career-Guidance/
 description: ""
 third_nav_title: CCE
 ---
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/1WEQBLCoyvqnYOsrRfuptfsKS_HN5BwGJVvocft4kFFs/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
 ECG is developmental in nature, and seeks to meet the needs of NCzens at every stage of their education.&nbsp; Through ECG, NCzens develop social emotional competencies and qualities of proactivity, adaptability and resilience that will prepare them for the 21st century. ECG lessons and experiences, complemented by MySkillsFuture portal, enable pupils to make informed education and career choices, and empower them for lifelong learning.
 
 <img src="/images/ecg.jpeg" style="width:30%;float:left">
