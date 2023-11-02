@@ -45,3 +45,16 @@ Please read this [letter](https://www.nanchiauhigh.moe.edu.sg/files/NCHS%20Lett
 *   For Singapore Citizens, [Click here](https://go.gov.sg/pdlpadmin) to indicate if you would like to purchase a PLD with the school bulk purchase.
 *   For Permanent Residents/International Students, we will send to your email indicated in the e-Registration form the softcopy letter to be printed, signed and passed to your child’s/ward’s Form Teacher by 03 Jan 2024 (Wed).
 
+
+
+**Section E: First Day of School**
+===================================================
+Reporting time is at 7.30am and dismissal for the 1st day of school will be at 2.40pm. No visitors/parents are allowed in school. As the traffic is heavy, we encourage all students to arrive early and report at the school quadrangle, next to the canteen. Our Sec 1 teachers will be there to welcome the students. 
+
+All Sec 1 students are to wear our school uniform (i.e. white shirt/blouse and short pants/skirt with black shoes). However, if you are not able to buy our school uniform on time, you may come in your primary school uniform.
+
+  
+
+Please bring along your writing materials and relevant learning materials, by referring to the timetable, which can be retrieved at
+
+**
