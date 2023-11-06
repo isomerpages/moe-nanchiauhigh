@@ -3,6 +3,7 @@ title: Red Cross Youth
 permalink: /co-curricular-activities/Uniformed-Groups/Red-Cross-Youth/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ5VAzmtrTGubtTwYw_r3byP1FSCtjbeFyGrXjHgAbSG0TaJAF-M17tLWVkgVEIx8bsWYHTeBIefynx/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 <br>
@@ -12,7 +13,7 @@ third_nav_title: Uniformed Groups
 <br>
 
 Teachers in charge:
-*   Ms Doris Toh Ming Li 
+*   Ms Doris Toh Ming Li (OIC)
 *   Mr Abdul Rahim 
 *   Ms Lenden-Hitchcock Su Mei M.M. 
 *   Ms Lee Zhen Yi Cheryl
@@ -50,10 +51,10 @@ The Singapore Red Cross Youth (RCY) is part of the largest humanitarian network 
 
 **Achievements**
 
-Excellent Unit Gold Award 2012 – 2021 <br>
+Excellent Unit Gold Award 2012 – 2022 <br>
+First Aid Competition (FAC) Junior Category 2023 – Gold Award <br>
+First Aid Competition (FAC) Senior Category 2023 – Silver Award <br>
 First Aid Competition (FAC) Junior Category 2022 – Silver Award <br>
 First Aid Competition (FAC) Senior Category 2022 – Silver Award <br>
 First Aid Competition (FAC) Junior Category 2021 – Gold Award <br>
 First Aid Competition (FAC) Senior Category 2021 – Silver Award<br>
-First Aid Competition (FAC) ‘Awareness’ Category 2020 – Bronze Award <br>
-RCY Disaster Risk Reduction Championships 2020 – Gold Award (Prelim)
