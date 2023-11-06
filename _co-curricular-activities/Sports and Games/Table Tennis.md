@@ -3,18 +3,17 @@ title: Table Tennis
 permalink: /co-curricular-activities/Sports-and-Games/Table-Tennis/
 description: ""
 third_nav_title: Sports and Games
+variant: markdown
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQzfvDpY9FrkthKqDklJuu2s2cI0ah-QT-EmwpvkMmZXbs6b9JmNhXhpoPlGPpa2AGiXmHt36CGToTE/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
-*   Tuesday:  
-    3.30pm – 6.00pm  
-    Wednesday: (Selected)  
-    4.00pm – 6.00pm  
-    Thursday:  
-    3.30pm – 6.00pm  
+*   Monday and Wednesday:  
+    3 pm – 6 pm  
+    Friday (Competition Period):  
+    3 pm – 6 pm  
     
 
-*   ISH Level 2
+*   All trainings at ISH Level 2
 
  
 *   Ms Chean Kai Xian, Annette (OIC)  
@@ -44,8 +43,8 @@ Students can choose to participate in a wide range of diverse and meaningful act
 
 **Achievements**<br>
 National School Games North Zone 2023<br>
-‘B’ Div Boys & Girls Top 4<br>
-‘C’ Div Boys & Girls Top 4<br><br>National School Games North Zone 2022 <br>‘B’ Div Boys & Girls Top 4 <br>‘C’ Div Boys & Girls Top 4 <br><br>
+‘B’ Div Boys &amp; Girls Top 4<br>
+‘C’ Div Boys &amp; Girls Top 4<br><br>National School Games North Zone 2022 <br>‘B’ Div Boys &amp; Girls Top 4 <br>‘C’ Div Boys &amp; Girls Top 4 <br><br>
 NBSS SHIPSHAPE Table Tennis Competition 2022 <br>
 B Boys – 1st B Girls - 1st <br>
 C Boys – 1st C Girls – 1st
