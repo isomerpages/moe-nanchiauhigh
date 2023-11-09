@@ -3,16 +3,18 @@ title: Chinese Drama
 permalink: /co-curricular-activities/Performing-Arts/Chinese-Drama/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS9BhVQzsog5VCm2lmqd298l1Dl13oebfDyyvHuehkJr2F5TmIjPoGHU7dOIvxuAn4FJw2xvx0kuy79/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
-*   Wednesday,  
-    4.00pm – 6.00pm  
-    Friday,  
-    4.00pm – 6.00pm  
-    
+* Wednesday,
+<br>3.00pm-6.00pm
+<br>Computer Lab 3 &amp; 4 (Level 3) – Odd Week  
+I&amp;E Room (Level 3) – Even Week
 
-*   I&amp;E Room (Level 3)  
+* Friday,
+<br>3.00pm-6.00pm 
+<br>I&amp;E Room (Level 3)  
 
 *   Mr Tan Jia Hao (OIC)  
      Ms Kim Lay Tin
