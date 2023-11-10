@@ -13,7 +13,7 @@ Nan Chiau High School was official designated as a Special Assistance Plan from 
 
 **Writing IN**
 
-Students who are studying in MOE secondary schools and wish to be considered for admission to Nan Chiau High School can submit the following to the school for consideration
+Students who are studying in MOE secondary schools and wish to be considered for admission to Nan Chiau High School can submit the following to the school for consideration:
 
   
 
@@ -33,7 +33,7 @@ d) Any other relevant documents
 
   
 
-The documents should be submitted to [nchs@moe.edu.sg]. <br>Atttention: Vice-Principal (Administration) 
+The documents should be submitted to [nchs@moe.edu.sg](mailto:nchs@moe.edu.sg). <br>Atttention: Vice-Principal (Administration) 
 
  
  
