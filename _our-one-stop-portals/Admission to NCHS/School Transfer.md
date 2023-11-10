@@ -33,7 +33,7 @@ d) Any other relevant documents
 
   
 
-The documents should be submitted to [nchs@moe.edu.sg](nchs@moe.edu.sg). Atttention: Vice-Principal (Administration) 
+The documents should be submitted to [nchs@moe.edu.sg]. <br>Atttention: Vice-Principal (Administration) 
 
  
  
