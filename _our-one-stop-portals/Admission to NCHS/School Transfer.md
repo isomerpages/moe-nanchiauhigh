@@ -3,6 +3,7 @@ title: School Transfer
 permalink: /our-resources/Admission-to-NCHS/School-Transfer/
 description: ""
 third_nav_title: Admission to NCHS
+variant: markdown
 ---
 Nan Chiau High School was official designated as a Special Assistance Plan from January 2012. We play a key role in grooming a core group of bilingual Singaporeans well versed in the Chinese language and culture.
 
@@ -12,7 +13,7 @@ Nan Chiau High School was official designated as a Special Assistance Plan from 
 
 **Writing IN**
 
-Students who are studying in MOE secondary schools and wish to be considered for admission to Nan Chiau High School could submit the following to the school for consideration
+Students who are studying in MOE secondary schools and wish to be considered for admission to Nan Chiau High School can submit the following to the school for consideration
 
   
 
@@ -32,17 +33,10 @@ d) Any other relevant documents
 
   
 
-The documents should be submitted to:
+The documents should be submitted to [nchs@moe.edu.sg](nchs@moe.edu.sg). Atttention: Vice-Principal (Administration) 
 
-  
-
-Vice-Principal (Administration)<br>
-Nan Chiau High School<br>
-20 Anchorvale Link , Singapore 545079
-
-  
-
-Please submit your application by&nbsp;**31 October**. Successful applicants will be notified by 30 November.
+ 
+ 
 
 **FOR ASSISTANCE**
 
