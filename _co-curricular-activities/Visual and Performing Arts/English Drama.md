@@ -43,11 +43,11 @@ Through improvisation and script-writing, students will explore and experiment m
 
 **Highlight(s) of Activities**
 
-1\. Annual Graduation Ceremony<br>
-2\. Biennial Singapore Youth Festival Art Presentation<br>
-3\. Biennial Human Values Drama Festival<br>
-4\. Annual Drama External Theatre Experience (as audience)<br>
-5\. Annual Year-end Camp/Workshop
+1\. Annual Graduation Ceremony <br>
+2\. Biennial Singapore Youth Festival Art Presentation <br>
+3\. Biennial Huddle! Festival <br>
+4\. Annual Drama External Theatre Experience (as audience) <br>
+5\. Annual CCA Day Camp<br>
 
 **Achievements**
 
