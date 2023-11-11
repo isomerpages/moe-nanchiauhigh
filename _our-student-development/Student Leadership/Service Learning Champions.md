@@ -38,7 +38,7 @@ The Secondary 2 and 3 Service-Learning Champions also undergo design thinking wo
 Shines-in-Harmony is organised annually to provide a platform for students to raise funds and awareness for beneficiaries. The Service-Learning Champions lead in the planning for NChasTalent performance to provide an opportunity to showcase their talent and to express their appreciation and gratitude.<br>
 
 
-<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/1yP5bNDHk7gVcGnDzPGUkGb8PWGXa895K8EXu-RqOqAA/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/1xX8vV84dK0kyLOSUMqzMWay6Kf5h03p55ijuCz5NlNY/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 
 
