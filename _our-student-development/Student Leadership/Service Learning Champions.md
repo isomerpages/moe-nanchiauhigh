@@ -48,5 +48,4 @@ Together with Bicultural Ambassadors, ALP students, Chinese Calligraphy and Chin
 
 In addition, the Sec 2 and 3 Service-Learning Champions also organise School Heritage Tour for Primary 6 students from Nan Chiau Primary School at our school’s newly refreshed school heritage gallery. They bring history into life through activities such as Bingo game and re-enactment of some historical scenes.<br>
 
-<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/1yP5bNDHk7gVcGnDzPGUkGb8PWGXa895K8EXu-RqOqAA/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/1B40jmFmRTqNnyzDps_wqkLgnRRejUJ8NmoT7oyBKjpQ/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
