@@ -2,6 +2,7 @@
 title: Sec1 Electronic Registration (For 2024 Intake)
 permalink: /permalink/nchs-2024s1/
 description: ""
+variant: markdown
 ---
 On behalf of all staff and students, we welcome you and your child to our Nan Chiau High family!
 
@@ -10,7 +11,7 @@ On behalf of all staff and students, we welcome you and your child to our Nan Ch
 **Section A: Online Registration**
 =======================================
 
-Please complete this form (link will activate only on the day of school posting results release) by 2359h, 22 Dec 2023.
+Please complete [this form](https://forms.gle/gFaMdyxmK3odbY7aA) (link will activate only on the day of school posting results release) by 2359h, 22 Dec 2023.
 
 **Section B: Purchase of Textbooks and Stationery for Sec 1**
 =============================================================
@@ -38,7 +39,11 @@ Please note that a new account needs to be created for the online purchase and t
 
 **Section D: Purchase of Personal Learning Device**
 ===================================================
-At MOE’s Committee of Supply Debate in March 2020, MOE launched the National Digital Literacy Programme (“NDLP”) for our schools and Institutes of Higher Learning to help students strengthen their digital literacy. One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (“PDLP”) for all secondary school students, whereby every secondary school student will own a school-prescribed Personal Learning Device (“PLD”).
+     
+
+In alignment with the vision of the MOE EdTech Masterplan 2030 “Technology-transformed learning, to prepare students for a technology-transformed world", our NCHS NDLP creates opportunities and curates experiences for all Sec 1 to 4 NCzens to develop their digital literacy competencies to create, curate and connect information in the digital networked environment. Regular engagement in these interactions will enable NCzens to develop an understanding of the social practices (tacit norms and skills) governing the Web and be equipped with the knowledge and skills to navigate and participate productively.
+
+This is enabled by the provision of a Personal Learning Device (PLD) for every student. The school has chosen iPad as the school prescribed PLD for our Secondary one student. 
 
 Please read this [letter](https://www.nanchiauhigh.moe.edu.sg/files/NCHS%20Letter%20to%20Parents%20for%20PDLP%20Procurement_21%20Dec%202022.pdf) and [Infographic on the NCHS PLD Initiative 2024](https://www.nanchiauhigh.moe.edu.sg/files/Infographic%20on%20the%20PLD%20Initiative_2023%20-%20NCHS%20(Website).pdf) on the important information about the PLD for your child/ward before submitting your option below.
 
