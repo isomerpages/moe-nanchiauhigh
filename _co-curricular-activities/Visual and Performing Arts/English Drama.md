@@ -3,14 +3,13 @@ title: English Drama
 permalink: /co-curricular-activities/Performing-Arts/English-Drama/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7Aywgsw_RzmAfIY7g3VEhRH0DZAw5ZcN16ntq78AB3vUkDXkJACU61EiFFoJFxhb2VwSdIt7MQI7x/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
-*   Monday,  
-    3.30pm – 5.30pm  
-    Thursday,  
-    3.30pm – 5.30pm
-
+*   Monday and Wednesday
+    3.00pm – 5.00pm  
+    
 *   Innovation &amp; Enterprise Room (Level 3)
 *   Mdm Chen Xiaowei Chney (OIC)  
     Ms Cherlene Lau
