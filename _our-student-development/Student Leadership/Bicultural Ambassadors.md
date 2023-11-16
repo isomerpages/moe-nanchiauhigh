@@ -3,6 +3,7 @@ title: Bicultural Ambassadors
 permalink: /our-student-development/Student-Leadership/Bicultural-Ambassadors/
 description: ""
 third_nav_title: Student Leadership
+variant: markdown
 ---
 **Vision:**
 
@@ -46,27 +47,6 @@ The Bicultural Ambassadors will also get to receive other form of recognition an
 \-Will receive the one-off book prize of SGD200 in Secondary 3.
 
 Please note that the renewal of the scholarship in the following year will be subjected to the students’ conduct, participation in our programmes and academic results in his/her Secondary 2.
-
-**Major Activities in Year 2021**
-
-
-
-| | Date| Activities |
-| -------- | -------- | -------- |
-| 1     | January - October     | Sharing on 24 Solar Terms (in collaboration with Aesthetic Department)     |
-|2|7 February|Participation in shifting the old gateposts of NCHS
-|3|26 March|Participation in the launch of an exhibition “Sikhs in Singapore – A Story Untold” at Indian Heritage Centre
-|4|22 April|Participation in Mediacorp Filming on a new edutainment programme
-|5|27 May|NC Active 2021 (in collaboration with Sports Leaders)
-|6|22-23 July|-   Chung Ling Online International Exchange Programme 2021<br>-  Asian Youth Chinese Forum 2021
-|7|24 July|Bilingual dialogue on the Chinese community's role in Singapore's multiculturalism
-|8|6 September|Graduation (for Sec 4s) and Investiture (for Sec 2s) Ceremony (virtual)
-|9|15 September|East Meets West Bicultural Competition (in conjunction with Mid-autumn Festival Celebration)
-|10|20 October–13 November|Reading Programme with Mingdao High School, Taiwan (virtual)
-|11|November|Bicultural Ambassadors Day Camp
-|12|November|Virtual Bicultural Study Trip (Korea)
-
-
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-p9gPQefPgY6qu3Ibkc0fLfe1saZQ5SKofmjq_iLQmhQPbd4K9EvZYTk7so5DO8YoSBtVlIhTR9_J/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
