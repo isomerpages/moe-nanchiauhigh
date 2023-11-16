@@ -17,25 +17,25 @@ The FALCONS Leadership Development Programme aims to develop student leaders to 
 ![](/images/image16%20(1).png)
 
 **School-Wide Sharing on The Leadership Challenge (MICEE)**
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSc8BzwwRS-6nOwroW0qeQf15-ATde3c_-4ULi9VER9Kw5XX7MrfVCfN6AUecJn_6A6OuMNjoOlmoF1/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="false" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSc8BzwwRS-6nOwroW0qeQf15-ATde3c_-4ULi9VER9Kw5XX7MrfVCfN6AUecJn_6A6OuMNjoOlmoF1/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 **Student Leaders Investiture**
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTwoGEVwNxspADWRUZMcoiJy2xA-Xq5N2p710Up8MFsg-V4dfDJViUaAO1uBe5Q-gOsggDTpN1YP4cA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="false" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTwoGEVwNxspADWRUZMcoiJy2xA-Xq5N2p710Up8MFsg-V4dfDJViUaAO1uBe5Q-gOsggDTpN1YP4cA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 **Dunman High Leadership Symposium**
-<iframe allowfullscreen="true" height="569" width="404" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRs4ZHdPWTX9dx1cRxxiWo1rXEJqj8pcUVVXat3RmpTrmhjQpGXHYU6-yKJd3am4iI0_g5GrVKS3WMy/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="false" height="569" width="404" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRs4ZHdPWTX9dx1cRxxiWo1rXEJqj8pcUVVXat3RmpTrmhjQpGXHYU6-yKJd3am4iI0_g5GrVKS3WMy/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 **FALCONS Leadership Camp**
-<iframe allowfullscreen="true" height="569" width="723" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRHJj1udOi1ZpXLuSJx0cvWH2a_o-EoUA2ji6G5TQhNiIuCtHh1PlT5nQ4SDczzAAa5X0E5oGcz1NtE/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="false" height="569" width="723" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRHJj1udOi1ZpXLuSJx0cvWH2a_o-EoUA2ji6G5TQhNiIuCtHh1PlT5nQ4SDczzAAa5X0E5oGcz1NtE/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 **FALCONS Cultural Immersion and Leadership Training Programme 2019 – Taiwan**
-<iframe allowfullscreen="true" height="569" width="722" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR1k0hFDq-T3ilrJ4KkdyZj1ALfh-XW3jWv3rrbqUBdEw08uvhl34pDDd2-x11o58N48hVBNRGb2Odc/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="false" height="569" width="722" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR1k0hFDq-T3ilrJ4KkdyZj1ALfh-XW3jWv3rrbqUBdEw08uvhl34pDDd2-x11o58N48hVBNRGb2Odc/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 **FALCONS Cultural Immersion and Leadership Training Programme 2018 – Hong Kong**
-<iframe allowfullscreen="true" height="569" width="717" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFBjHngDS0M9K2EgTJfdHgERphltCMMxyoJmG9rRvqeLhzS1kTI5Q5eZFpBKqyeKyExbaWiMFx5ypJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="false" height="569" width="717" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFBjHngDS0M9K2EgTJfdHgERphltCMMxyoJmG9rRvqeLhzS1kTI5Q5eZFpBKqyeKyExbaWiMFx5ypJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 **Asia-Pacific Young Leaders Convention**
-<iframe allowfullscreen="true" height="569" width="802" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQwnRoMX4Uiyd9FRudOjHq5m2UyoXbQcUcEgLavbExfkSeGtniqDuZHYqZ17aKuG3hme0DzWOy_0FZ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="false" height="569" width="802" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQwnRoMX4Uiyd9FRudOjHq5m2UyoXbQcUcEgLavbExfkSeGtniqDuZHYqZ17aKuG3hme0DzWOy_0FZ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 **<u>Testimonies</u>**
 
