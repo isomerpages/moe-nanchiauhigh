@@ -2,7 +2,6 @@
 title: Sec1 Electronic Registration (For 2023 Intake)
 permalink: /our-one-stop-portals/Admission-to-NCHS/permalink/
 description: ""
-third_nav_title: Admission to NCHS
 ---
 On behalf of all staff and students, we welcome you and your child to our Nan Chiau High family! 
 
@@ -11,7 +10,7 @@ On behalf of all staff and students, we welcome you and your child to our Nan Ch
 _________________________________________________________________
 # **Section A: Online Registration Form**
  
-As part of Sec 1 Registration, we would appreciate very much for parents/guardians to take some time to complete this [form](https://forms.gle/V2Tf26oNuEBXo9Qr8) by 2359h, Thursday, 22 December 2022. This is to allow us to get to know your child/ward better.
+As part of Sec 1 Registration, we would appreciate very much for parents/guardians to take some time to complete this&nbsp;[form](https://forms.gle/V2Tf26oNuEBXo9Qr8) by 2359h, Thursday, 22 December 2022. This is to allow us to get to know your child/ward better.
 
 _________________________________________________________________
 
@@ -21,7 +20,7 @@ Please note that our books and stationery are supplied by our school bookshop ve
 [Click here to download](/files/3%20a%20Copy%20of%20NCH%20Instruction%20Sheet%20Sec%201%20Final.pdf) an enlargeable version of the instructions shown below:
 ![Textbook](/images/Instruction%20Sheet%20Sec%201%20Purchase%20Textbooks%20and%20Stationery%20Final.png)
 
-[Click here to download](/files/2023%20Sec%201%20Booklist%20Only.pdf) an enlargeable version of the booklist shown below:
+[Click here to download](/files/2023%20Sec%201%20Booklist%20Only.pdf)&nbsp;an enlargeable version of the booklist shown below:
 ![NCHS 2023 Sec1 Book List](/images/NCHS%202023%20Sec1%20Book%20List_Page_1.png)
   
 
@@ -45,7 +44,7 @@ Please read this [letter](/files/NCHS%20Letter%20to%20Parents%20for%20PDLP%20Pro
 * For Permanent Residents/International Students, we will send to your email indicated in the e-Registration form the softcopy letter to be printed, signed and passed to your child’s/ward’s Form Teacher by 06 Jan 2023 (Fri).
 
 # **Section E: Rental of Lockers (Optional)**
-<br>Lockers are not compulsory. 
+<br>Lockers are not compulsory.&nbsp;
 <br>[Click here](https://docs.google.com/forms/d/e/1FAIpQLScQSBOtCXphFMbTBaz5jHnFkSgjSeklzHA2yR-cMLQ_-8RNjQ/closedform) to apply for the rental of lockers.
 
 # **Section F: POSB Smart Buddy (Optional)**
@@ -95,8 +94,8 @@ Please provide details on your inquiry:
 Please submit your appeal form via the following link: [Sec1 Appeal (for 2023 intake)](https://form.gov.sg/637b469241fdcf00125d8cd7)
 
   
-Notes: <br>1.  The personal information provided in this form will be solely used for the purpose of appealing for secondary school transfer **based on non-medical reasons**.    
-<br>2.  The deadline for the submission of appeals is **12p.m. on 27 Dec 2022**.  Late submission will not be allowed. 
- <br>3.  Schools will not disclose reasons for selection / non-selection of students.  
- <br>4.  Students should still report to the posted secondary school on 3 Jan 2023. 
+Notes:&nbsp;<br>1.  The personal information provided in this form will be solely used for the purpose of appealing for secondary school transfer **based on non-medical reasons**.&nbsp; &nbsp;&nbsp;
+<br>2.  The deadline for the submission of appeals is **12p.m. on 27 Dec 2022**.&nbsp; Late submission will not be allowed.&nbsp;
+ <br>3.  Schools will not disclose reasons for selection / non-selection of students.&nbsp;&nbsp;
+ <br>4.  Students should still report to the posted secondary school on 3 Jan 2023.&nbsp;
  <br>5.  The application is deemed to be unsuccessful if you do not hear from the school by 3 Jan 2023.
