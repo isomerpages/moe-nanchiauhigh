@@ -7,6 +7,9 @@ variant: markdown
 ---
 (Updated on 29 Nov 2023)
 
+
+
+
 <table style="width:405.0pt;margin-left:5.4pt;border-collapse:collapse;border:none;
  mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:
  0in 5.4pt 0in 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:
@@ -65,7 +68,7 @@ variant: markdown
   italic">Ms Chong Hui Yin Elaine</span><span style="font-size:9.0pt;
   font-family:&quot;Calibri&quot;,sans-serif;mso-bidi-font-family:Arial;mso-bidi-font-style:
   italic"></span></p></td></tr></tbody></table>
-	
+	<br>
 	       
 <table style="width:405.0pt;margin-left:5.4pt;border-collapse:collapse;border:none;
  mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:
@@ -123,7 +126,7 @@ variant: markdown
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt" valign="top" width="264"><p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;
   mso-bidi-font-family:Arial">Ms Chan Siew Min</span></p></td></tr></tbody></table>
-	
+<br>	
 
 <table style="width:405.0pt;margin-left:5.4pt;border-collapse:collapse;border:none;
  mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:
@@ -180,7 +183,7 @@ variant: markdown
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt" valign="top" width="264"><p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;
   mso-bidi-font-family:Arial;mso-bidi-font-style:italic">Mr Eric Zhang Boyuan</span></p></td></tr></tbody></table>	
-	
+<br>	
          
 <table style="width:405.0pt;margin-left:5.4pt;border-collapse:collapse;border:none;
  mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:
@@ -266,7 +269,7 @@ variant: markdown
   mso-pagination:lines-together;page-break-after:avoid;mso-layout-grid-align:
   none;text-autospace:none" align="left" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;
   mso-bidi-font-family:Arial;color:black">Mr Ryan Loh (Chem)</span></p></td></tr></tbody></table>	
-	
+<br>	
 
 
 <table style="width:405.0pt;margin-left:5.4pt;border-collapse:collapse;border:none;
@@ -322,7 +325,7 @@ variant: markdown
   background:white;padding:0in 5.4pt 0in 5.4pt" valign="top" width="276"><p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;
   mso-bidi-font-family:Arial;color:black;mso-color-alt:windowtext">Ms Lee Zhen Yi Cheryl (History)</span><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;
   mso-bidi-font-family:Arial"></span></p></td></tr></tbody></table>	
-	
+<br>	
         
 
 <table style="width:405.0pt;margin-left:5.4pt;border-collapse:collapse;border:none;
@@ -370,7 +373,7 @@ variant: markdown
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt" valign="top" width="264"><p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;
   mso-bidi-font-family:Arial">Mdm Ong Wen Hui (FCE)</span></p></td></tr></tbody></table>	
-	
+<br>	
          
 
 <table style="width:405.0pt;margin-left:5.4pt;border-collapse:collapse;border:none;
