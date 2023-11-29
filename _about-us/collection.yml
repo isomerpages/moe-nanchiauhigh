@@ -2,16 +2,16 @@ collections:
   about-us:
     output: true
     order:
-      - Financial & Non Financial Information.md
       - About Us.md
       - Strategic Directions.md
       - School History.md
       - School Crest and Song.md
       - School Management Committee.md
-      - Principal's Foreword/Foreword.md
       - Principal's Foreword/.keep
+      - Principal's Foreword/Foreword.md
+      - Corporate Directory/.keep
       - Corporate Directory/School Leaders.md
       - Corporate Directory/Department Staff.md
       - Corporate Directory/Executive & Administrative Staff.md
-      - Corporate Directory/.keep
+      - Financial & Non Financial Information.md
       - Contact Us.md
