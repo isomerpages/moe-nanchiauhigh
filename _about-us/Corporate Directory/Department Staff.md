@@ -110,7 +110,7 @@ variant: markdown
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt" valign="top" width="264"><p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;
   mso-bidi-font-family:Arial">Miss Nur Maizurah Binte Rosle</span></p><p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;
-  mso-bidi-font-family:Arial"></span></p></td></tr><tr style="mso-yfti-irow:12"><td style="width:2.75in;border:solid windowtext 1.0pt;
+  mso-bidi-font-family:Arial"></span></p></td></tr><tr style="mso-yfti-irow:13"><td style="width:2.75in;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt" valign="top" width="264"><p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;
   mso-bidi-font-family:Arial">Mr Ji Wen</span></p></td></tr><tr style="mso-yfti-irow:14"><td style="width:2.75in;border:solid windowtext 1.0pt;
@@ -180,3 +180,91 @@ variant: markdown
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt" valign="top" width="264"><p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;
   mso-bidi-font-family:Arial;mso-bidi-font-style:italic">Mr Eric Zhang Boyuan</span></p></td></tr></tbody></table>	
+	
+         
+<table style="width:405.0pt;margin-left:5.4pt;border-collapse:collapse;border:none;
+ mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:
+ 0in 5.4pt 0in 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:
+ .5pt solid windowtext" width="540" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:207.0pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#D0CECE;padding:0in 5.4pt 0in 5.4pt" valign="top" width="276"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-bidi-font-family:
+  Arial;color:black;mso-color-alt:windowtext">Science Dept</span></b><b style="mso-bidi-font-weight:normal"><span style="font-size:9.0pt;font-family:
+  &quot;Calibri&quot;,sans-serif;mso-bidi-font-family:Arial"></span></b></p></td></tr><tr style="mso-yfti-irow:1;height:6.65pt"><td style="width:207.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:6.65pt" valign="top" width="276"><p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;
+  mso-bidi-font-family:Arial;color:black;mso-color-alt:windowtext">Mdm Ng Mui Hoon (HOD) <span style="mso-spacerun:yes">&nbsp;</span></span><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-bidi-font-family:
+  Arial"></span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:207.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="276"><p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;
+  mso-bidi-font-family:Arial">Mdm Neewyn Neo (SSD)</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:207.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="276"><p style="text-align:left;line-height:12.0pt;
+  mso-pagination:lines-together;page-break-after:avoid;mso-layout-grid-align:
+  none;text-autospace:none" align="left" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;
+  mso-bidi-font-family:Arial">Mr Jimmy Goh (YH 1)</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:207.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="276"><p style="text-align:left;line-height:12.0pt;
+  mso-pagination:lines-together;page-break-after:avoid;mso-layout-grid-align:
+  none;text-autospace:none" align="left" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;
+  mso-bidi-font-family:Arial">Mr Goh Khan Sen (SH/Sci Research)</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:207.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="276"><p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;
+  mso-bidi-font-family:Arial">Ms Chen Xiaowei Chney (AYH 4)</span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:207.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="276"><p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;
+  mso-bidi-font-family:Arial">Mdm Ainul Hani (Chem) (ST/ Chem)</span></p></td></tr><tr style="mso-yfti-irow:7"><td style="width:207.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="276"><p style="text-align:left;line-height:12.0pt;
+  mso-pagination:lines-together;page-break-after:avoid;mso-layout-grid-align:
+  none;text-autospace:none" align="left" class="MsoNormal"><span style="font-size:9.0pt;font-family:
+  &quot;Calibri&quot;,sans-serif;mso-bidi-font-family:Arial;mso-ansi-language:DE" lang="DE">Ms Nurhaida Bte Ramli (Chem)</span><span style="font-size:9.0pt;font-family:
+  &quot;Calibri&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:8"><td style="width:207.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="276"><p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;
+  mso-bidi-font-family:Arial">Mdm Leow Shie Hui (Bio)</span><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-bidi-font-family:
+  Arial;mso-ansi-language:DE" lang="DE"></span></p></td></tr><tr style="mso-yfti-irow:9"><td style="width:207.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="276"><p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif">Mr Chen Yingjie Jason (Bio)</span><span style="font-size:9.0pt;
+  font-family:&quot;Calibri&quot;,sans-serif;mso-bidi-font-family:Arial;mso-ansi-language:
+  DE" lang="DE"></span></p></td></tr><tr style="mso-yfti-irow:10"><td style="width:207.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="276"><p style="text-align:left;line-height:12.0pt;
+  mso-pagination:lines-together;page-break-after:avoid;mso-layout-grid-align:
+  none;text-autospace:none" align="left" class="MsoNormal"><span style="font-size:9.0pt;font-family:
+  &quot;Calibri&quot;,sans-serif;mso-bidi-font-family:Arial;mso-ansi-language:DE" lang="DE">Mdm Khoo Ching Wan (Chem)</span><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;
+  mso-bidi-font-family:Arial"></span></p></td></tr><tr style="mso-yfti-irow:11"><td style="width:207.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="276"><p style="text-align:left;line-height:12.0pt;
+  mso-pagination:lines-together;page-break-after:avoid;mso-layout-grid-align:
+  none;text-autospace:none" align="left" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;
+  mso-bidi-font-family:Arial">Mr Leng Chengda Gabriel (Bio)</span></p></td></tr><tr style="mso-yfti-irow:12"><td style="width:207.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="276"><p style="text-align:left;line-height:12.0pt;
+  mso-pagination:lines-together;page-break-after:avoid;mso-layout-grid-align:
+  none;text-autospace:none" align="left" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;
+  mso-bidi-font-family:Arial">Mr Wong Foo Kit (Chem)</span></p></td></tr><tr style="mso-yfti-irow:13"><td style="width:207.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="276"><p style="text-align:left;line-height:12.0pt;
+  mso-pagination:lines-together;page-break-after:avoid;mso-layout-grid-align:
+  none;text-autospace:none" align="left" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;
+  mso-bidi-font-family:Arial">Mr Tay Rong Yao Esmond (Phy)</span><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-bidi-font-family:
+  Arial;mso-ansi-language:DE"></span><span style="font-size:9.0pt;font-family:
+  &quot;Calibri&quot;,sans-serif;mso-bidi-font-family:Arial"></span></p></td></tr><tr style="mso-yfti-irow:14"><td style="width:207.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="276"><p style="text-align:left;line-height:12.0pt;
+  mso-pagination:lines-together;page-break-after:avoid;mso-layout-grid-align:
+  none;text-autospace:none" align="left" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;
+  mso-bidi-font-family:Arial;color:black">Mr Gan Sze Fong (Phy)</span><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-bidi-font-family:
+  Arial;mso-ansi-language:DE"></span><span style="font-size:9.0pt;font-family:
+  &quot;Calibri&quot;,sans-serif;mso-bidi-font-family:Arial;color:black"></span></p></td></tr><tr style="mso-yfti-irow:15"><td style="width:207.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="276"><p style="text-align:left;line-height:12.0pt;
+  mso-pagination:lines-together;page-break-after:avoid;mso-layout-grid-align:
+  none;text-autospace:none" align="left" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;
+  mso-bidi-font-family:Arial;color:black">Ms Roxanne Lau Shu Xin (Bio)</span></p></td></tr><tr style="mso-yfti-irow:16;mso-yfti-lastrow:yes"><td style="width:207.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="276"><p style="text-align:left;line-height:12.0pt;
+  mso-pagination:lines-together;page-break-after:avoid;mso-layout-grid-align:
+  none;text-autospace:none" align="left" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Calibri&quot;,sans-serif;
+  mso-bidi-font-family:Arial;color:black">Mr Ryan Loh (Chem)</span></p></td></tr></tbody></table>	
+	
+	
