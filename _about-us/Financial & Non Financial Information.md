@@ -4,8 +4,8 @@ permalink: /about-us/permalink/finance/
 variant: markdown
 description: ""
 ---
-# **Non-Financial Information**
-# 
+## **Non-Financial Information**
+## 
 **Name of Organisation:** Nan Chiau High School
 
 **Address:** 20 Anchorvale Link, Singapore 545079
@@ -31,6 +31,6 @@ Name of Principal: Mdm Ler Jia Luen
 
 **Auditor:** Baker Tilly TFW LLP
 
-**Financial Information**
-
+## **Financial Information**
+## 
 Please refer to this [link](https://www.moe.gov.sg/-/media/files/about-us/financial-summary/2022/nan-chiau-high-school.pdf) for financial information.
