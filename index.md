@@ -17,8 +17,8 @@ sections:
         - title: Resources
           description: ""
           url: /our-resources/School-Counselling-Services
-        - title: 2024 Sec1 Registration (coming soon)
-          description: Key Highlight description
+        - title: 2024 Sec1 Registration
+          description: (Coming Soon)
           url: ""
       background: /images/homepage.gif
   - infopic:
