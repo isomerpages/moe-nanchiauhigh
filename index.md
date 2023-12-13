@@ -17,6 +17,9 @@ sections:
         - title: Resources
           description: ""
           url: /our-resources/School-Counselling-Services
+        - title: 2024 Sec1 Registration (coming soon)
+          description: Key Highlight description
+          url: ""
       background: /images/homepage.gif
   - infopic:
       title: NCHS Open House
