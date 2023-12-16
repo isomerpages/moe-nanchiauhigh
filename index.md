@@ -18,8 +18,8 @@ sections:
           description: ""
           url: /our-resources/School-Counselling-Services
         - title: 2024 Sec1 Registration
-          description: (Coming Soon)
-          url: ""
+          description: ""
+          url: https://www.nanchiauhigh.moe.edu.sg/permalink/nchs-2024s1/
       background: /images/homepage.gif
   - infopic:
       title: NCHS Open House
