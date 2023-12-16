@@ -22,14 +22,6 @@ sections:
           url: https://www.nanchiauhigh.moe.edu.sg/permalink/nchs-2024s1/
       background: /images/homepage.gif
   - infopic:
-      title: NCHS Open House
-      id: infopic
-      description: Join us on 18 November 2023, Saturday, 0900h - 1200h.
-      button: CLICK HERE to view information
-      url: https://www.nanchiauhigh.moe.edu.sg/nchs-highlights/open-house-2023/
-      image: /images/open house poster 2023.jpg
-      alt: Image alt text
-  - infopic:
       title: NCHS Publicity Brochure
       id: infopic
       image: /images/nchs open house banner.jpeg
