@@ -20,7 +20,7 @@ sections:
         - title: 2024 Sec1 Registration
           description: ""
           url: https://www.nanchiauhigh.moe.edu.sg/permalink/nchs-2024s1/
-      background: /images/NCHS_Website_Home_Page___LowRes__Smaller_.gif
+      background: /images/HR2_5mb.gif
   - infopic:
       title: NCHS Publicity Brochure
       id: infopic
