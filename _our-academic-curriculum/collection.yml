@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - 课程框架 Total Curriculum.md
-      - SAP Bicultural Programme.md
+      - 双文化课程 SAP Bicultural Programme.md
       - Departments/.keep
       - Departments/Aesthetics.md
       - Departments/English Language and Literature.md
