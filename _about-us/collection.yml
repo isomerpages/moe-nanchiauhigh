@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - 学校简介 About Us.md
-      - Strategic Directions.md
+      - 策略方针 Strategic Directions.md
       - School History.md
       - School Crest and Song.md
       - School Management Committee.md
