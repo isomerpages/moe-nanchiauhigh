@@ -2,19 +2,19 @@ collections:
   our-student-development:
     output: true
     order:
-      - Power of Positivity.md
-      - Year Head Department.md
-      - Student Management.md
-      - CCE/NCHS CCE Framework.md
-      - CCE/Education and Career Guidance.md
+      - 正向教育 Power of Positivity.md
+      - 年级主任 Year Head Department.md
+      - 学生管理 Student Management.md
+      - CCE/品德教育课程框架 NCHS CCE Framework.md
+      - CCE/教育与职业指导 Education and Career Guidance.md
       - CCE/.keep
-      - Student Leadership/FALCONS.md
-      - Student Leadership/Student Council.md
-      - Student Leadership/Class Council.md
-      - Student Leadership/Peer Support Leaders.md
-      - Student Leadership/Bicultural Ambassadors.md
-      - Student Leadership/Service Learning Champions.md
-      - Student Leadership/Sport Leaders.md
+      - Student Leadership/飞鹰部队 FALCONS.md
+      - Student Leadership/学生理事会 Student Council.md
+      - Student Leadership/班级委员会 Class Council.md
+      - Student Leadership/学生互助领袖 Peer Support Leaders.md
+      - Student Leadership/双文化大使 Bicultural Ambassadors.md
+      - Student Leadership/社区服务学生领袖 Service Learning Champions.md
+      - Student Leadership/学生体育领袖 Sport Leaders.md
       - Student Leadership/.keep
-      - Service Learning.md
-      - National Education.md
+      - 社区服务 Service Learning.md
+      - 国民教育 National Education.md
