@@ -2,7 +2,7 @@
 title: 科学人才教育 Science Talent Programme
 permalink: /our-talent-development/department-talent-programmes/science-talent-programme/
 description: ""
-third_nav_title: Department Talent Programmes
+third_nav_title: 人才教育 Dept Talent Programmes
 variant: tiptap
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/1Qn-aITQEtRXQ2wblMMpW_lSmo_C8jEE2w3gswSI_6Hc/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>

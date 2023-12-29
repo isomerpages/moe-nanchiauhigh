@@ -2,7 +2,7 @@
 title: 人文人才教育 Humanities Talent Programme
 permalink: /our-talent-development/department-talent-programmes/humanities-talent-programme/
 description: ""
-third_nav_title: Department Talent Programmes
+third_nav_title: 人才教育 Dept Talent Programmes
 variant: tiptap
 ---
 <img src="/images/image4%20(1).png" style="width:40%;float:left">

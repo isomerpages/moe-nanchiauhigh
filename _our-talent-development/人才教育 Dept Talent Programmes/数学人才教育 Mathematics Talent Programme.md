@@ -2,7 +2,7 @@
 title: 数学人才教育 Mathematics Talent Programme
 permalink: /our-talent-development/department-talent-programmes/mathematics-talent-programme/
 description: ""
-third_nav_title: Department Talent Programmes
+third_nav_title: 人才教育 Dept Talent Programmes
 variant: tiptap
 ---
 Mathematics Talent Programme is a 3 years programme that aims to stretch the potential of high ability learners in Mathematics.
