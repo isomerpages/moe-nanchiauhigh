@@ -2,7 +2,7 @@
 title: 学校领导 School Leaders
 permalink: /about-us/corporate-directory/school-leaders/
 description: ""
-third_nav_title: Corporate Directory
+third_nav_title: 学校职员通讯簿 Corporate Directory
 variant: tiptap
 ---
 | **Mdm Ler Jia Luen** | Principal | **Email:**[nchs@moe.edu.sg](mailto:nchs@moe.edu.sg) |

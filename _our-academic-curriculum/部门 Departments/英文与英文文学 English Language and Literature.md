@@ -2,7 +2,7 @@
 title: 英文与英文文学 English Language and Literature
 permalink: /our-academic-curriculum/departments/english-language-and-literature/
 description: ""
-third_nav_title: Departments
+third_nav_title: 部门 Departments
 variant: tiptap
 ---
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbIBM9DDYF2q6iDQttS7tOMt-LyuzVE_MgImeF--ywaKlMXoWrqGEx3XYAn9A6KsNyhfFczA9RPm7f/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="767" height="480" allowfullscreen="true"></iframe>

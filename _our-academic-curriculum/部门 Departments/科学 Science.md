@@ -2,7 +2,7 @@
 title: 科学 Science
 permalink: /our-academic-curriculum/departments/science/
 description: ""
-third_nav_title: Departments
+third_nav_title: 部门 Departments
 variant: tiptap
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRSmc6PldOj9bSdiXPIlEj72ICfE-ODXOqYfdiRmWJKw_241Kie6fUn1AAafd0JWSU3QDkkp9_orSaQ/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>

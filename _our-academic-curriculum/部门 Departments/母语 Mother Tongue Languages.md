@@ -2,7 +2,7 @@
 title: 母语 Mother Tongue Languages
 permalink: /our-academic-curriculum/departments/mother-tongue-languages/
 description: ""
-third_nav_title: Departments
+third_nav_title: 部门 Departments
 variant: tiptap
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTz-EqTXz2pJgxHD-gLf2MsltxJDSaq5R08CXz-wy7bW5SD32oxDDL8ginB-Z72SrYbiBaCHG6EuU6h/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>

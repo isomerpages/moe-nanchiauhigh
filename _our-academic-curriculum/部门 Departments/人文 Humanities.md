@@ -2,7 +2,7 @@
 title: 人文 Humanities
 permalink: /our-academic-curriculum/departments/humanities/
 description: ""
-third_nav_title: Departments
+third_nav_title: 部门 Departments
 variant: tiptap
 ---
 **Learning Experiences**

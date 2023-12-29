@@ -2,7 +2,7 @@
 title: 美术 Aesthetics
 permalink: /our-academic-curriculum/departments/aesthetics/
 description: ""
-third_nav_title: Departments
+third_nav_title: 部门 Departments
 variant: tiptap
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQcur9S8hGz8aRUzFkpZ4kkGkEL3N2Wp5U7OIqkzQ16sqwuPY-sRoeKChcy4rBABHqc5cUSn2aJKq4Z/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>

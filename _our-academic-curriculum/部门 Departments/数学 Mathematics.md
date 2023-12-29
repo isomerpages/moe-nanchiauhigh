@@ -2,7 +2,7 @@
 title: 数学 Mathematics
 permalink: /our-academic-curriculum/departments/mathematics/
 description: ""
-third_nav_title: Departments
+third_nav_title: 部门 Departments
 variant: tiptap
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRgC6Z-reSBPQ1IcGBMUo8luUSYaGT-BZEBOpx_Innu5rQ6hgxFbUhB8IluUgZ0jz4-Aq4submz0op2/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>

@@ -2,7 +2,7 @@
 title: NCYM
 permalink: /our-partners/NC-Alumni-Assocation/NCYM/
 description: ""
-third_nav_title: NC Alumni Assocation
+third_nav_title: 南侨中学校友会 NC Alumni Assocation
 ---
 A**bout NCYM:** 
 

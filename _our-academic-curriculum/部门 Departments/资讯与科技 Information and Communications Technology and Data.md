@@ -2,7 +2,7 @@
 title: 资讯与科技 Information and Communications Technology and Data
 permalink: /our-academic-curriculum/departments/information-and-communications-technology/
 description: ""
-third_nav_title: Departments
+third_nav_title: 部门 Departments
 variant: tiptap
 ---
 ![ICT Department](/images/2023%20ICT%20Department%20-%203%20Pillars.png)

@@ -2,7 +2,7 @@
 title: 南侨中学校友会 NCHS Alumni
 permalink: /our-partners/nc-alumni-association/nchs-alumni/
 description: ""
-third_nav_title: NC Alumni Assocation
+third_nav_title: 南侨中学校友会 NC Alumni Assocation
 variant: tiptap
 ---
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFARdTi5yizhngRVdNVnS1w5663ue4o1cI_H2zU4uXGzDgllDQyei-u8v-rqSA_p98-zakLWMBwtmf/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

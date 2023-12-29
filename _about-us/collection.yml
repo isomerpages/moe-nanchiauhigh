@@ -7,11 +7,11 @@ collections:
       - 学校历史 School History.md
       - 校徽及校歌 School Crest and Song.md
       - 学校管理层 School Management Committee.md
-      - Principal's Foreword/.keep
-      - Principal's Foreword/校长序言 Foreword.md
-      - Corporate Directory/.keep
-      - Corporate Directory/学校领导 School Leaders.md
-      - Corporate Directory/教职员 Department Staff.md
-      - Corporate Directory/行政职员 Executive & Administrative Staff.md
-      - Financial & Non Financial Information.md
+      - 校长序言 Principal's Foreword/.keep
+      - 校长序言 Principal's Foreword/校长序言 Foreword.md
+      - 学校职员通讯簿 Corporate Directory/.keep
+      - 学校职员通讯簿 Corporate Directory/学校领导 School Leaders.md
+      - 学校职员通讯簿 Corporate Directory/教职员 Department Staff.md
+      - 学校职员通讯簿 Corporate Directory/行政职员 Executive & Administrative Staff.md
+      - 财务与非财务信息 Financial & Non Financial Information.md
       - 联系我们 Contact Us.md
