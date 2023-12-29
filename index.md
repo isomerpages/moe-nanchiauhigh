@@ -21,11 +21,4 @@ sections:
           description: ""
           url: https://www.nanchiauhigh.moe.edu.sg/permalink/nchs-2024s1/
       background: /images/HR2_5mb.gif
-  - infopic:
-      title: NCHS Publicity Brochure
-      id: infopic
-      image: /images/nchs open house banner.jpeg
-      alt: Image alt text
-      url: https://www.nanchiauhigh.moe.edu.sg/permalink/nchs-brochure/
-      button: Click here to view
 ---
