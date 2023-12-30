@@ -13,10 +13,10 @@ sections:
           url: /Announcements
         - title: NCHS Highlights
           description: ""
-          url: /nchs-highlights/WAVES-Newsletter/
+          url: https://www.nanchiauhigh.moe.edu.sg/permalink/nchs-brochure/
         - title: Resources
           description: ""
-          url: /our-resources/School-Counselling-Services
+          url: https://www.nanchiauhigh.moe.edu.sg/our-resources/Students-Resources/
         - title: 2024 Sec1 Registration
           description: ""
           url: https://www.nanchiauhigh.moe.edu.sg/permalink/nchs-2024s1/
