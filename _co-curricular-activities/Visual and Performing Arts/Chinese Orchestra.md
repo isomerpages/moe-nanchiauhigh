@@ -15,7 +15,7 @@ variant: markdown
 *  **Teachers-In-Charge:**<br> 
 Mdm Tang Pui Lin (OIC)<br>
 Mr Jason Chen<br>
-Mdm Ong Wen Hui 
+Ms Ong Wen Hui 
 		
 **KEY INFORMATION**
 
