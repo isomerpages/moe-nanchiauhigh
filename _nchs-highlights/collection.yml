@@ -2,7 +2,6 @@ collections:
   nchs-highlights:
     output: true
     order:
-      - Nan Chiau High School Magazine 南侨中学校刊.md
       - 学校开放日 NCHS Open House 2023.md
       - 学校宣传手册 NCHS Publicity Brochure.md
       - 校园短波 WAVES Newsletter.md
