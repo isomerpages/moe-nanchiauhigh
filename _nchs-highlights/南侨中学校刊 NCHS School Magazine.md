@@ -4,4 +4,4 @@ permalink: /nchs-highlights/permalink/
 variant: tiptap
 description: ""
 ---
-<p>Click <strong><a href="https://drive.google.com/file/d/1Da1b9fr7_Q6vxPRhToNzdgZqQgasauND/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> to download the school magazine.</p><p></p>
+<p>Click <strong><a href="https://drive.google.com/file/d/1BukoV1cmoCf41hxm_snsljcTaYsnAURh/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> to download the school magazine.</p><p></p>
