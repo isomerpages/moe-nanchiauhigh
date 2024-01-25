@@ -1,0 +1,16 @@
+collections:
+  our-academic-curriculum:
+    output: true
+    order:
+      - 课程框架 Total Curriculum.md
+      - 双文化课程 SAP Bicultural Programme.md
+      - 部门 Departments/.keep
+      - 部门 Departments/美术 Aesthetics.md
+      - 部门 Departments/英文与英文文学 English Language and Literature.md
+      - 部门 Departments/人文 Humanities.md
+      - 部门 Departments/数学 Mathematics.md
+      - 部门 Departments/母语 Mother Tongue Languages.md
+      - 部门 Departments/体育 Physical Education.md
+      - 部门 Departments/科学 Science.md
+      - 部门 Departments/资讯与科技 Information and Communications Technology and
+        Data.md

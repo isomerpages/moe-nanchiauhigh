@@ -1,0 +1,12 @@
+collections:
+  our-talent-development:
+    output: true
+    order:
+      - 应用式学习课程  Applied Learning Programme (ALP).md
+      - 终身学习课程 Learning for Life Programme (LLP).md
+      - 人才教育 Dept Talent Programmes/数学人才教育 Mathematics Talent Programme.md
+      - 人才教育 Dept Talent Programmes/科学人才教育 Science Talent Programme.md
+      - 人才教育 Dept Talent Programmes/人文人才教育 Humanities Talent Programme.md
+      - 人才教育 Dept Talent Programmes/.keep
+      - 华文语文特选课程 Chinese Language Elective Programme (CLEP).md
+      - 强化美术课程 Enhanced Art Programme (EAP).md

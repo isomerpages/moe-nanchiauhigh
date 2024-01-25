@@ -1,0 +1,8 @@
+collections:
+  our-partners:
+    output: true
+    order:
+      - 南侨中学家长会 NCHS Parents' Support Group.md
+      - 南侨中学校友会 NC Alumni Assocation/南侨中学校友会 NCHS Alumni.md
+      - 南侨中学校友会 NC Alumni Assocation/NCYM.md
+      - 南侨中学校友会 NC Alumni Assocation/.keep

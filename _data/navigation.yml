@@ -1,0 +1,29 @@
+logo: /images/logo (2).png
+links:
+  - title: 简介 About Us
+    collection: about-us
+  - title: 课程内容 Academic Curriculum
+    collection: our-academic-curriculum
+  - title: 人格教育 Student Development
+    url: /our-student-development/power-of-positivity/
+    sublinks:
+      - title: 正向教育 Power of Positivity
+        url: /our-student-development/power-of-positivity/
+      - title: 课程辅助活动 CCA
+        url: /co-curricular-activities/Clubs-and-Societies/Chinese-Calligraphy/
+      - title: 年级主任 Year Head Department
+        url: /our-student-development/year-head-department/
+      - title: 学生管理 Student Management
+        url: /our-student-development/student-management/
+      - title: 品格与公民教育 CCE
+        url: /our-student-development/cce/permalink/cce/
+      - title: 学生领袖 Student Leadership
+        url: /our-student-development/student-leadership/falcons/
+      - title: 社区服务 Service Learning
+        url: /our-student-development/service-learning/
+      - title: 国民教育 National Education
+        url: /our-student-development/national-education/
+  - title: 人才教育 Talent Development
+    collection: our-talent-development
+  - title: 教育伙伴 Partners
+    collection: our-partners

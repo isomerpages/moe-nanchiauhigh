@@ -1,0 +1,14 @@
+collections:
+  our-one-stop-portals:
+    output: true
+    order:
+      - NCHS Calendar (For Public).md
+      - NCHS Staff Calendar (For Staff Only).md
+      - Staff's One Stop Portal.md
+      - Student's One Stop Portal.md
+      - Parents' One Stop Portal.md
+      - School Counselling Services.md
+      - Admission to NCHS/.keep
+      - Admission to NCHS/Direct School Admission Exercise.md
+      - Admission to NCHS/Returning Singaporeans and International Students.md
+      - Admission to NCHS/School Transfer.md
