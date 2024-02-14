@@ -56,5 +56,5 @@ variant: tiptap
 <p><strong>CONTACT US</strong>
 </p>
 <p><strong>Email</strong> 
-<br><a href="nch.psg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">nch.psg@gmail.com</a>
+<br><a href="mailto:nch.psg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">nch.psg@gmail.com</a>
 </p>
