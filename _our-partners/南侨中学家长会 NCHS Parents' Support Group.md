@@ -55,6 +55,6 @@ variant: tiptap
 </ul>
 <p><strong>CONTACT US</strong>
 </p>
-<p><strong>Email</strong>
+<p><strong>Email</strong> 
 <br><a href="nch.psg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">nch.psg@gmail.com</a>
 </p>
