@@ -135,10 +135,8 @@ opt-out form. This form will be communicated to parents at the start of
 the year and is also downloadable <a href="https://form.gov.sg/65d2fec8add35ed82288612a" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
 form is to be submitted by 08/03/2024.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
-<a href="mailto:Nchs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nchs@moe.edu.sg</a>
-</p>
-<p>for discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+<a href="mailto:Nchs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nchs@moe.edu.sg</a>for discussion or to seek clarification about the school’s
+Sexuality Education programme.</p>
 <p>
 <br>
 </p>
