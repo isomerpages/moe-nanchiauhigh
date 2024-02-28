@@ -1,6 +1,6 @@
 ---
 title: 性教育课程 Sexuality Education Programme
-permalink: /our-student-development/cce/sexed/
+permalink: /our-student-development/cce/sexuality-education/
 variant: tiptap
 description: ""
 third_nav_title: CCE
@@ -142,5 +142,5 @@ Sexuality Education programme.</p>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>&nbsp; </strong>
+<p><strong>&nbsp;</strong>
 </p>
