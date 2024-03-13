@@ -6,13 +6,13 @@ variant: tiptap
 ---
 <p><strong>Timetables</strong>
 </p>
-<p><a href="https://drive.google.com/file/d/1OzqkmDoKmfnibAsrutMGpWMuLsPWppil/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Timetable</a>
+<p><a href="https://drive.google.com/file/d/1hgSlR3sYamPd-XQFvOX77b-JeTGVpcQu/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Term 2 Sec 1 Timetable</a>
 </p>
-<p><a href="https://drive.google.com/file/d/1bG8b8GIDaX6tq3SdCOs7uYOBCmbwHcVR/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Timetable</a>
+<p><a href="https://drive.google.com/file/d/1MC0vn5lOGtgKOiW_CCu8NOi7Sk3yVycs/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Term 2 Sec 2 Timetable</a>
 </p>
-<p><a href="https://drive.google.com/file/d/1JVuPgYg9LsizbqpdW5R-bXqvJT-203Hc/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Timetable</a>
+<p><a href="https://drive.google.com/file/d/1coOzQ9tAxKRdWGijaHE8YdSiYkpjTmxY/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Term 2 Sec 3 Timetable</a>
 </p>
-<p><a href="https://drive.google.com/file/d/1ZbT685TIL3XIjkrH-SLWozxkmbuMTCK2/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Timetable</a>
+<p><a href="https://drive.google.com/file/d/1w3R-u8gtt6dg4928qcuONBWyX1Pk52kr/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Term 2 Sec 4 Timetable</a>
 </p>
 <p></p>
 <p><strong>EdTech Resources for NCzens and Parents</strong> 
