@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 <p><a href="https://drive.google.com/file/d/1SydKZCUdmPE9l6IHkeuo2uBMaDbu-DcY/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Term 2 Sec 3 Timetable</a>
 </p>
-<p><a href="https://drive.google.com/file/d/1EAGfxfifQgDFf7COjZWqlYA21mxvQhwE/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Term 2 Sec 4 Timetable </a>
+<p><a href="https://drive.google.com/file/d/1EAGfxfifQgDFf7COjZWqlYA21mxvQhwE/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Term 2 Sec 4 Timetable</a>
 </p>
 <p></p>
 <p><strong>EdTech Resources for NCzens and Parents</strong> 
