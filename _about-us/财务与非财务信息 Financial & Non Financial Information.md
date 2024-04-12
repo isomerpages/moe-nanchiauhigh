@@ -4,6 +4,10 @@ permalink: /about-us/permalink/finance/
 variant: markdown
 description: ""
 ---
+## **Financial Information** 
+Please refer to this [link](https://www.moe.gov.sg/-/media/files/about-us/financial-summary/2022/nan-chiau-high-school.pdf) for financial information.
+
+
 ## **Non-Financial Information**
  
 **Name of Organisation:** Nan Chiau High School
@@ -12,7 +16,7 @@ description: ""
 
 **Contact Information:**
 
-*   Name of Contact Person: Mr Cheong Kit Chong
+*   Name of Contact Person: Mr Jeff Teo Nguan Wee (Administration Manager)
 *   Telephone No: 6489 7971
 *   Fax No: 6489 7970
 *   Email Address: nchs@moe.edu.sg
@@ -31,5 +35,3 @@ Name of Principal: Mdm Ler Jia Luen
 
 **Auditor:** Baker Tilly TFW LLP
 
-## **Financial Information** 
-Please refer to this [link](https://www.moe.gov.sg/-/media/files/about-us/financial-summary/2022/nan-chiau-high-school.pdf) for financial information.
