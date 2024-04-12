@@ -34,4 +34,3 @@ Please refer to this [link](https://www.moe.gov.sg/-/media/files/about-us/finan
 Name of Principal: Mdm Ler Jia Luen
 
 **Auditor:** Baker Tilly TFW LLP
-
