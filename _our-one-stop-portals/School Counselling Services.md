@@ -2,6 +2,7 @@
 title: School Counselling Services
 permalink: /our-resources/School-Counselling-Services/
 description: ""
+variant: markdown
 ---
 <img src="/images/scs.png" style="width:50%">
 
@@ -56,7 +57,7 @@ This centers provide walk-in and phone counselling services. They have trained S
 
   
 
-[Alternatively, click here to access a list of Helplines managed by the National Council of Social Service](https://www.ncss.gov.sg/NCSS/media/NCSS-Documents-and-Forms/NCSS%20Internal%20Documents/LIST-OF-HELPLINES.pdf)
+
 
 **MindShift app for Exam Stress or Anxiety**
 
