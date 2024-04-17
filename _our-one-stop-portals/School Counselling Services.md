@@ -71,10 +71,3 @@ This app will help you learn how to relax, develop more helpful ways of thinking
 
 [Click here to find out more about this application](https://www.anxietybc.com/resources/mindshift-app)
 
-**Achieve Happiness within 8 weeks - Ebook**
-
-Do you often feel depress and low in mood? A reputable Psychiatrist and Psychologist in Singapore researched and found that happiness can be learnt and taught. They complied a toolkit of methods and skills that have been scientifically shown to help people&nbsp;**Achieve Happiness within 8 weeks**.
-
-  
-
-[Click here to download your copy](http://thrive.org.sg/simple_event/detail/21)
