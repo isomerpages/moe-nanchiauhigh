@@ -122,6 +122,10 @@ OPAL Login] *New*</p>
 </p>
 </li>
 <li>
+<p><a href="https://intranet.moe.gov.sg/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet Website</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.opal2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">OPAL 2.0</a>
 </p>
 </li>
