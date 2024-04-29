@@ -3,18 +3,20 @@ title: Chinese Dance
 permalink: /co-curricular-activities/Performing-Arts/Chinese-Dance/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSNCNN_5J1vYH7qLxqOSSFJE0S9wI7b4LltOegsJQQHghv5a2iqeHo2bUjW-Tkiie5aE5w9hPq2BrUJ/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
-*   Wednesday,  
-    3.30pm – 6.00pm  
-    Thursday,  
-    2.45pm – 6.00pm  
+*   Monday &amp; Wednesday  
+    3.00 pm – 5.30 pm  
+   
+
 
 *   Dance Studio
 
-*   Miss Ting Hann Sy  
-    Ms Ting Shi Yun
+*   Miss Ting Hann Sy (OIC) <br>
+    Mdm Ye Bijiao <br>
+		Ms Winnie Tay 
 		
 **KEY INFORMATION**
 
