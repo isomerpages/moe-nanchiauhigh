@@ -6,17 +6,17 @@ third_nav_title: Visual and Performing Arts
 variant: markdown
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSvFgN5wQvs-xzp_LZ38u6ydwlc649wn82WsjIJV1_weFyR6_T5X2zN40HhnMhukeXxLOZs1AK9pcol/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-
-*  Wednesday, 3.00pm – 6.00pm<br>
-    Friday: 3.00pm – 6.00pm
-
-*   Band Room, Comp Lab 1, ITR2 and Music Room
-
-*   Ms Chong Ka Wuei (Advisor) <br> 
-    Ms Chiang Wan Ling Angel (OIC)<br>
-		Mdm Tan Yan Yan <br>
-		Mr Liu Zhen Bo
-		
+Practice Sessions: <br>
+* Wednesday, 3.00pm – 6.00pm<br>
+* Friday: 3.00pm – 6.00pm <br>
+Venues: <br>
+* Band Room, Comp Lab 1, ITR2 and Music Room <br>
+Teachers-in-Charge:<br>
+* Ms Chong Ka Wuei (Advisor) <br> 
+* Ms Chiang Wan Ling Angel (OIC)<br>
+* Mdm Tan Yan Yan <br>
+* Mr Liu Zhen Bo
+	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Koyz3pE7G0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **KEY INFORMATION**
@@ -30,7 +30,7 @@ variant: markdown
 
 **CCA Description**
 
-Nan Chiau Wind Orchestra is a big family who pride themselves in their passion for excellent performance in music. Members continue to scale greater heights in music appreciation and achievements through regular practices, performances, music exchanges and competitions. Beyond developing students' musical skills, character development is highly regarded where promising members will be given opportunities to be groomed into confident leaders and excellent team players. This will be carried out through organising and planning for performances, exchanges as well as upkeeping the discipline and standards of every practice sessions. 
+Nan Chiau Wind Orchestra is a big family who pride themselves in their passion for excellent performance in music. Members continue to scale greater heights in music appreciation and achievements through regular practices, performances, music exchanges and competitions. Beyond developing students' musical skills, character development is highly regarded where promising members will be given opportunities to be groomed into confident leaders and excellent team players. This will be carried out through organising and planning for performances, exchanges as well as upkeeping the discipline and standards of every practice session. 
 
 **Highlight(s) of Activities**
 
