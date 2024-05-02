@@ -3,17 +3,19 @@ title: Wind Orchestra
 permalink: /co-curricular-activities/Performing-Arts/Wind-Orchestra/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSvFgN5wQvs-xzp_LZ38u6ydwlc649wn82WsjIJV1_weFyR6_T5X2zN40HhnMhukeXxLOZs1AK9pcol/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
-*  Wednesday, 3.30pm – 6.30pm<br>
-    Friday: 2.45pm – 5.45pm
+*  Wednesday, 3.00pm – 6.00pm<br>
+    Friday: 3.00pm – 6.00pm
 
-*   Band Room
+*   Band Room, Comp Lab 1, ITR2 and Music Room
 
-*   Ms Chong Ka Wuei (OIC)  
-    Ms Chiang Wan Ling Angel
-		<br>Mdm Tan Yan Yan
+*   Ms Chong Ka Wuei (Advisor) <br> 
+    Ms Chiang Wan Ling Angel (OIC)<br>
+		Mdm Tan Yan Yan <br>
+		Mr Liu Zhen Bo
 		
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Koyz3pE7G0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
@@ -24,7 +26,7 @@ third_nav_title: Visual and Performing Arts
 1.  To cultivate a sense of appreciation and passion for music, supporting a vibrant arts culture.
 2.  To build character rooted in sound moral values, instilling a sense of discipline and responsibility.
 3.  To develop leadership qualities, nuturing resilient individuals.
-4.  To contribute to the betterment of the community as confident and sincere individuals competent in social skills.
+4.  To contribute to the betterment of the wider community as confident and sincere individuals competent in social skills.
 
 **CCA Description**
 
