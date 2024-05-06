@@ -29,27 +29,31 @@ variant: markdown
 – The Visual Arts Club creates a platform for students to showcase their talent and expand their knowledge in art and art-making through different mediums, including ceramics, painting, illustration, digital art, charcoal and chalk, sculpture, printmaking and etc.<br>
 – Students also partake on field trips to museums to look at art exhibitions which help them to build appreciation and awareness of art around them.
 
-**Highlight(s) of Activities**
+**Highlight(s) of Activities** <br>
 
-– Mural Wall Painting<br>
-– Metal Tooling<br>
-– Paper Sculptures<br>
-– “Helmsmen of the Sea” Ceramic Collaboration work by VAC and CL Department<br>
-– Outdoor Drawing @ Gardens by the Bay<br>
-– Gelatin Pigment Print Workshop<br>
-– “SAP40” Commissioned artwork.<br>
-– Ceramic Workshop<br>
-– Watercolour painting<br>
-– Batik Painting<br>
-– Cyanotype Workshop<br>
-– Charcoal and Chalk Workshop<br>
-– Animation Workshop<br>
-– Art &amp; Science of Artwork Conservation talks by National Gallery of Singapore<br>
-– Art Exhibition at Sengkang West 12th Anniversary and Fernvale CC Ground Breaking Ceremony<br>
-– Art Learning Journeys<br>
-– Art Competitions<br>
-– CCA Camp<br>
-– Aesthetics Week
+- VAC I3 FUN! Activities <br>
+- Art Jamming<br>
+- Mobile Sculptures <br> 
+- Mural Wall Painting<br>
+- Wire Art <br>
+-  Metal Tooling<br>
+-  Paper Sculptures<br>
+- “Helmsmen of the Sea” Ceramic Collaboration work by VAC and CL Department<br>
+- Outdoor Drawing @ Gardens by the Bay<br>
+- Gelatin Pigment Print Workshop<br>
+- “SAP40” Commissioned artwork.<br>
+- Ceramic Workshop<br>
+- Watercolour painting<br>
+- Batik Painting<br>
+- Cyanotype Workshop<br>
+- Charcoal and Chalk Workshop<br>
+- Animation Workshop<br>
+- Art &amp; Science of Artwork Conservation talks by National Gallery of Singapore<br>
+- Art Learning Journeys<br>
+- CCA bonding activities <br>
+- Art Competitions<br>
+- CCA Camp<br>
+- Aesthetics Week
 
   
 
@@ -58,7 +62,7 @@ variant: markdown
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023 Live On Festival Design Competition – 2 Distinction, 1 Merit<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023 NC.VAC.LS Book Cover Design Competition – 5 awards <br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022 Live On Festival Design Competition - 5th Place and Merit Award<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022 SYF Art Competition - Certificate of Recognition<br>
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022 SYF Art Exhibition Competition - Certificate of Recognition<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022 “Feed My Trashemon” School Competition - 3rd Place and Finalist<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2021 Draw My Stamp Story Art Competition – Gold, 3 Silver, 3 Bronze award<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2021 NC 75th Anniversary Logo Design Competition – 2 Designs awarded Top 3<br>
@@ -66,6 +70,4 @@ variant: markdown
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2021 N.E.mation – Top 10 Teams<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2020 LIVE On Art Competition – 4th position and Higher Distinction award<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2020 SYF Stronger Together<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2020 SYF Art Competition – Certificate of Achievement<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019 East Zone Centre of Excellence for Creative Arts Young Illustrator Awards – Top&nbsp;6 Finalist<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019 ‘Pink Dolphin Refresh the Label’ Competition – 3 Designs shortlisted in Top 20&nbsp;(Junior category)
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2020 SYF Art Exhibition Competition – Certificate of Achievement<br>
