@@ -10,7 +10,7 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
 
 # **Important Information**
-# 
+ 
 1. Application for DSA-Sec must be submitted through the online DSA Sec Portal. The application starts on 7 May (11 am) and ends on 03 Jun 2024 (3 pm). No fee will be charged for the application. For more details, please refer to MOE website – [moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).<br>
 2. Nan Chiau High School is a MOE Special Assistance Plan (SAP) school. All students enrolled will read Higher Chinese Language.<br>
 3. Students successfully allocated to their DSA-Sec schools will NOT be allowed to participate in the annual S1 Posting Exercise to opt for secondary schools, and they are expected to honour the commitment to the allocated DSA-Sec school for the entire duration of the programme.<br>
@@ -30,7 +30,7 @@ Generally, students should have:<br>
 Talented students who are interested in NCHS are encouraged to apply for Direct School Admission. Click [HERE](https://www.moe.gov.sg/secondary/dsa/application?pt=Mainstream%20primary%20school) to apply. <br>
 
 # **For Clarifications**
-# 
+ 
 |  |  |
 | -------- | -------- | 
 | **Address**     | Nan Chiau High School  <br>20 Anchorvale Link  <br>Singapore 545079     | 
