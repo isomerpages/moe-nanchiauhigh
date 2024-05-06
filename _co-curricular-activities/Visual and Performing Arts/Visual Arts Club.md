@@ -52,8 +52,7 @@ variant: markdown
 - Art Learning Journeys<br>
 - CCA bonding activities <br>
 - Art Competitions<br>
-- CCA Camp<br>
-- Aesthetics Week
+
 
   
 
@@ -62,7 +61,7 @@ variant: markdown
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023 Live On Festival Design Competition – 2 Distinction, 1 Merit<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023 NC.VAC.LS Book Cover Design Competition – 5 awards <br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022 Live On Festival Design Competition - 5th Place and Merit Award<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022 SYF Art Exhibition Competition - Certificate of Recognition<br>
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022 SYF Art Exhibition - Certificate of Recognition<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022 “Feed My Trashemon” School Competition - 3rd Place and Finalist<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2021 Draw My Stamp Story Art Competition – Gold, 3 Silver, 3 Bronze award<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2021 NC 75th Anniversary Logo Design Competition – 2 Designs awarded Top 3<br>
@@ -70,4 +69,4 @@ variant: markdown
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2021 N.E.mation – Top 10 Teams<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2020 LIVE On Art Competition – 4th position and Higher Distinction award<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2020 SYF Stronger Together<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2020 SYF Art Exhibition Competition – Certificate of Achievement<br>
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2020 SYF Art Exhibition – Certificate of Achievement<br>
