@@ -23,7 +23,7 @@ Mr Tan Han Wen <br>
 Mr Johnson Ong <br>
 Ms Maizurah <br>
 Mr Eric Zhang Boyuan<br>
-Mr Ng Junxiong 
+Mr Ng Junxiong <br> 
 		 
 **KEY INFORMATION**
 
