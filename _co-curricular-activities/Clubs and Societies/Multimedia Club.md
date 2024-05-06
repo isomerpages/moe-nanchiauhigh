@@ -3,6 +3,7 @@ title: Multimedia Club
 permalink: /co-curricular-activities/Clubs-and-Societies/Multimedia-Club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThOTx2EwSArb374cWPYyHZX8ETzjOF9WMiVGP1_GPcXgtvyfE8pH09YIQatXu7N5COYYuw-6munHsP/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
@@ -21,8 +22,9 @@ D&amp;T Room 2
 Mr Tan Han Wen <br>
 Mr Johnson Ong <br>
 Ms Maizurah <br>
-Mr Eric Zhang BoYuan
-		
+Mr Eric Zhang Boyuan<br>
+Mr Ng Junxiong <br> 
+		 
 **KEY INFORMATION**
 
 **CCA Objectives**
