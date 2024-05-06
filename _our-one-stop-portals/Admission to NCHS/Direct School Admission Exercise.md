@@ -34,7 +34,7 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
 |  |  |
 | -------- | -------- | 
 | **Address**     | Nan Chiau High School  <br>20 Anchorvale Link  <br>Singapore 545079     | 
-|**Email**| nchs@moe.edu.sg<br>(Indicate in the subject field - DSA Enquiries  \) |
+|**Email**| nchs@moe.edu.sg<br>(Indicate in the subject field - DSA Enquiries) |
 |**Contact Numbers**|Telephone : +65 6489 7971  <br>Fax : +65 6489 7970|
 |**Operating Hours**|Monday to Friday: 9.00am to 5.00pm  <br>Saturday: Closed  <br>Sunday and Public Holidays: Closed |
 	
