@@ -42,9 +42,9 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
 	
 	
 # **DSA Domain**
-# 
+ 
 # **DSA Sports - Basketball**
-# 
+ 
 | DSA Domain| Talent Area | Criteria |
 | -------- | -------- | -------- |
 | **DSA/ Sports**     | Basketball     | -   Participation and achievements in the sport, including zonal, national and/or international level competitions.  <br>-   Consistent academic performance for P5 overall and P6 WA results, or its equivalent.     |
@@ -52,7 +52,7 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
 **For more information on Basketball click [HERE](https://www.nanchiauhigh.moe.edu.sg/co-curricular-activities/Sports-and-Games/Basketball/).**
 
 # **DSA Sports - Table Tennis**
-# 
+ 
 | DSA Domain| Talent Area | Criteria |
 | -------- | -------- | -------- |
 | **DSA/ Sports**     | Table Tennis     | -   Participation and achievements in the sport, including zonal, national and/or international level competitions.  <br>-   Consistent academic performance for P5 overall and P6 WA results, or its equivalent.     |
@@ -60,7 +60,7 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
 **For more information on Table Tennis, click [HERE](https://www.nanchiauhigh.moe.edu.sg/co-curricular-activities/Sports-and-Games/Table-Tennis/)**
 
 # **DSA Sports - Wushu**
-# 
+ 
 | DSA Domain| Talent Area | Criteria |
 | -------- | -------- | -------- |
 | **DSA/ Sports**     | Wushu    | -   Participation and achievements in the sport, national and/or international level competitions.  <br>-   Consistent academic performance for P5 overall and P6 WA results, or its equivalent.     |
@@ -68,7 +68,7 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
 **For more information on Wushu, click [HERE](https://www.nanchiauhigh.moe.edu.sg/co-curricular-activities/Sports-and-Games/Wushu/).**
 
 # **DSA Performing Arts - Chinese Dance**
-# 
+ 
 | DSA Domain| Talent Area | Criteria |
 | -------- | -------- | -------- |
 | **DSA/ Performing Arts**     |Chinese Dance (girls)  | -    Participation and achievements in related dance competitions and performances<br>-   Consistent academic performance for P5 overall and P6 WA results, or its equivalent,<br>and<br>_Preferably_<br>-   Represented their primary schools in Singapore Youth Festival (SYF) Arts Presentation.<br>-   Attained RAD/ CSTD or equivalent accreditation for dance.   |
@@ -76,7 +76,7 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
 **For more information on Chinese Dance, click [HERE](https://www.nanchiauhigh.moe.edu.sg/co-curricular-activities/Performing-Arts/Chinese-Dance/).**
 
 # **DSA Performing Arts - Chinese Orchestra**
-# 
+ 
 | DSA Domain| Talent Area | Criteria |
 | -------- | -------- | -------- |
 | **DSA/ Performing Arts**     |Chinese Orchestra  | -       Participation and achievements in related music competitions and performances.<br>-   Consistent academic performance for P5 overall and P6 WA results, or its equivalent,<br>   A video submission may be requested from all applicants for shortlisting purpose with enough notice given. The 3-5 minutes video can be filmed during the applicant's CCA session or own practice session.<br>and<br>_Preferably_<br>-  Represented their primary schools in Singapore Youth Festival (SYF) Arts Presentation.<br>-   Attained ABRSM or equivalent accreditation for music/ Chinese Instruments.<br><br>**A video submission may be requested from applicants for shortlisting purposes with enough notice given. The 3-5 mins video can be filmed during the applicant's CCA session or own practice session.** |
@@ -84,7 +84,7 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
 **For more information on Chinese Orchestra, click [HERE](https://www.nanchiauhigh.moe.edu.sg/co-curricular-activities/Performing-Arts/Chinese-Orchestra/).**
 
 # **DSA Visual Arts**
-# 
+
 | DSA Domain| Talent Area | Criteria |
 | -------- | -------- | -------- |
 | **DSA/  Art**     |Art | -    Participation and achievements in, competitions and exhibitions.<br>-   Consistent academic performance for P5 overall and P6 WA results, or its equivalent.<br>   - Preferably represented their primary schools in Singapore Youth Festival (SYF) Art Exhibition.<br><br> -   **An existing E-portfolio may be requested from all applicants for shortlisting purpose with enough notice given. E-portfolio should include 8-10 pieces of original artworks done in varying media by the applicant.**<br>
@@ -94,7 +94,7 @@ Prospective students who are enrolled via DSA Visual Arts will have Visual Arts 
 **For more information on Visual Arts, click [HERE](https://www.nanchiauhigh.moe.edu.sg/co-curricular-activities/Clubs-and-Societies/Visual-Arts-Club/).**
 
 # **DSA Bilingualism**
-# 
+ 
 | DSA Domain| Talent Area | Criteria |
 | -------- | -------- | -------- |
 | **DSA/  Bilingualism**     |Bilingualism | -   Consistent academic performance for P5 overall and P6 WA results, or its equivalent.<br>-   Applicants should have interest and passion for the Chinese and English languages.|
