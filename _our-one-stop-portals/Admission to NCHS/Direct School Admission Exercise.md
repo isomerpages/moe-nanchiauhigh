@@ -30,7 +30,7 @@ Generally, students should have:<br>
 
 Talented students who are interested in NCHS are encouraged to apply for Direct School Admission. Click [HERE](https://www.moe.gov.sg/secondary/dsa/application?pt=Mainstream%20primary%20school) to apply. <br>
 
-# **For Clarifications**
+ **For Clarifications**
 
 
 |  |  |
