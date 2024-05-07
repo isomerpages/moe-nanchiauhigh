@@ -11,6 +11,11 @@ variant: tiptap
 </p>
 <p>Parent Tip: Supporting your teen in Exploring Post-Sec Pathways <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.moe.gov.sg%2F-%2Fmedia%2Ffiles%2Fparent-kit%2Fparent-kit---supporting-your-teen-in-exploring-post-secondary-pathways.pdf&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw39nIbGQbCLzRx1-k6mBiUN" rel="noopener noreferrer nofollow" target="_blank">(Click Here)</a>
 </p>
+<p><strong>Curriculum Matters</strong> 
+<br><a href="https://drive.google.com/file/d/1b8krxJ72j3lbUuS3nMbaOVWm7i0duxhD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 NCHS Sec1 Academic Booklet</a> 
+<br><a href="https://drive.google.com/file/d/178wbYdnZMnd7FQuUgLNrunUdkUWDp_Mw/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024 NCHS Sec2 Academic Booklet </a>*<strong><em>NEW</em></strong> 
+<br><a href="https://drive.google.com/drive/folders/1fNZWmyxZSp6Dx7C7WDh0jQ_YeTaakdMi?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Weighted Assessment 2</a>
+</p>
 <p><strong>EdTech Resources for NCzens and Parents</strong> 
 <br><a href="https://sites.google.com/moe.edu.sg/nchs-edtechpop/home" rel="noopener noreferrer nofollow" target="_blank">NCzens &amp; Parents EdTECHpop</a> *<strong><em>NEW from 2024</em></strong> 
 <br>&gt;&gt; About this site: Access for latest resources on PLD and DMA matters
@@ -36,10 +41,7 @@ variant: tiptap
 <p><strong>Forms</strong> 
 <br><a href="https://go.gov.sg/nchs-loa" rel="noopener noreferrer nofollow" target="_blank">Application for LOA</a>
 </p>
-<p><strong>Curriculum Matters</strong> 
-<br><a href="https://drive.google.com/file/d/1b8krxJ72j3lbUuS3nMbaOVWm7i0duxhD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 NCHS Sec1 Academic Booklet </a>*<strong><em>NEW</em></strong> 
-<br><a href="https://drive.google.com/drive/folders/1fNZWmyxZSp6Dx7C7WDh0jQ_YeTaakdMi?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Weighted Assessment 2</a>
-</p>
+<p></p>
 <p><strong>MOE Resources</strong> 
 <br>
 </p>
