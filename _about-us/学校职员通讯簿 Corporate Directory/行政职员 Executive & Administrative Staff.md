@@ -5,13 +5,13 @@ description: ""
 third_nav_title: 学校职员通讯簿 Corporate Directory
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8a_SAT4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EAS_Directory_1.png">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EAS_Directory_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EAS_Directory_2a.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/8c_SAT.png">
