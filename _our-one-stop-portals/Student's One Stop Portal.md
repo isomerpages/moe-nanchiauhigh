@@ -4,18 +4,18 @@ permalink: /our-resources/Students-Resources/
 description: ""
 variant: tiptap
 ---
-<p><strong>Timetables</strong>
-</p>
-<p><a href="https://drive.google.com/file/d/16pZJjoig9-KBPAmfKmAeYBQ31PQL4i3z/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 EBP Schedule </a>*<strong><em>NEW</em></strong> 
+<p><strong>Timetables</strong> 
+<br><a href="https://drive.google.com/file/d/16pZJjoig9-KBPAmfKmAeYBQ31PQL4i3z/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 EBP Schedule </a>*<strong><em>NEW</em></strong> 
 <br><a href="https://drive.google.com/file/d/1QHvHTGwTd5YMJhDBc42IEFy_Pp6xMql4/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Term 2 Sec 1 Timetable</a> 
 <br><a href="https://drive.google.com/file/d/1R4X5L9Ot27v_mXzeJ8O2Ft3-XkLN_z3Z/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Term 2 Sec 2 Timetable</a> 
 <br><a href="https://drive.google.com/file/d/1SydKZCUdmPE9l6IHkeuo2uBMaDbu-DcY/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Term 2 Sec 3 Timetable</a> 
 <br><a href="https://drive.google.com/file/d/1EAGfxfifQgDFf7COjZWqlYA21mxvQhwE/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Term 2 Sec 4 Timetable</a>
 </p>
 <p></p>
-<p><strong>Parents' e-Briefing 2024</strong>
-<br>*<em>Coming soon</em>
-</p>
+<p><strong>Parents' e-Briefing 2024</strong> *<strong><em>NEW</em></strong> 
+<br><a href="https://www.nanchiauhigh.moe.edu.sg/sec2-parents-briefing-08-may-2024/" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Session on 08 May</a>
+<br>Sec 3 Session on 14 May (Available on 25 May from 0800h-1200h)
+<br>Sec 4 Session on 16 May (Available on 25 May from 0800h-1200h)</p>
 <p></p>
 <p><strong>EdTech Resources for NCzens and Parents</strong> 
 <br><a href="https://sites.google.com/moe.edu.sg/nchs-edtechpop/home" rel="noopener noreferrer nofollow" target="_blank">NCzens &amp; Parents EdTECHpop</a> *<strong><em>NEW from 2024</em></strong> 
