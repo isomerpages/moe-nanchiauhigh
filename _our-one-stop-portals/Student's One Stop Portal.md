@@ -4,7 +4,7 @@ permalink: /our-resources/Students-Resources/
 description: ""
 variant: tiptap
 ---
-<p><strong>Timetables</strong>
+<p><strong>Timetables</strong> 
 <br><a href="https://drive.google.com/file/d/16pZJjoig9-KBPAmfKmAeYBQ31PQL4i3z/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 EBP Schedule </a>*<strong><em>NEW</em></strong> 
 <br><a href="https://drive.google.com/file/d/1QHvHTGwTd5YMJhDBc42IEFy_Pp6xMql4/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Term 2 Sec 1 Timetable</a> 
 <br><a href="https://drive.google.com/file/d/1R4X5L9Ot27v_mXzeJ8O2Ft3-XkLN_z3Z/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Term 2 Sec 2 Timetable</a> 
