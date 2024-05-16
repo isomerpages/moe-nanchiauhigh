@@ -13,9 +13,10 @@ variant: tiptap
 <br><a href="https://drive.google.com/file/d/1EAGfxfifQgDFf7COjZWqlYA21mxvQhwE/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Term 2 Sec 4 Timetable</a>
 </p>
 <p></p>
-<p><strong>Parents' e-Briefing 2024</strong>
-<br>*<em>Coming soon</em>
-</p>
+<p><strong>Parents' e-Briefing 2024</strong> *<strong><em>NEW</em></strong>
+<br>Sec 2 Session on 08 May
+<br>Sec 3 Session on 14 May (Available on 25 May from 0800h-1200h)
+<br>Sec 4 Session on 16 May (Available on 25 May from 0800h-1200h)</p>
 <p></p>
 <p><strong>EdTech Resources for NCzens and Parents</strong> 
 <br><a href="https://sites.google.com/moe.edu.sg/nchs-edtechpop/home" rel="noopener noreferrer nofollow" target="_blank">NCzens &amp; Parents EdTECHpop</a> *<strong><em>NEW from 2024</em></strong> 
