@@ -14,10 +14,12 @@ description: ""
 <li>
 <p><a href="https://drive.google.com/file/d/1CdqMPpzaFGLuO3Kv9OM8rrBLqBnzuAC4/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Sec2 Parents e-Briefing on 08 May - Q&amp;A Report </a>
 <br>
+<br>
 </p>
 </li>
 <li>
-<p>Video Recording (Available only on 18 May, 0800h-1200h)</p>
+<p><a href="https://www.youtube.com/playlist?list=PLcXDDhI6dZc3kAqfLKU049UUWxed-i9dp" rel="noopener noreferrer nofollow" target="_blank">Video Recording</a>  <strong>(Available only on 18 May, 0800h-1200h)</strong>
+</p>
 </li>
 </ol>
 <p></p>
