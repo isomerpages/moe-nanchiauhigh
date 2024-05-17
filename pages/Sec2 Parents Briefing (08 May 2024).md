@@ -18,7 +18,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="https://www.youtube.com/playlist?list=PLcXDDhI6dZc3kAqfLKU049UUWxed-i9dp" rel="noopener noreferrer nofollow" target="_blank">Video Recording</a>  <strong>(Available only on 18 May, 0800h-1200h)</strong>
+<p><a href="https://sgmoe-my.sharepoint.com/:v:/r/personal/mak_kok_wei_john_schools_gov_sg/Documents/PTM%20Video/Sec%202%20Parents%20e-engagement.mp4?csf=1&amp;web=1&amp;nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;e=pqVCI4" rel="noopener noreferrer nofollow" target="_blank">Video Recording</a>  <strong>(Available only on 18 May, 0800h-1200h)</strong>
 </p>
 </li>
 </ol>
