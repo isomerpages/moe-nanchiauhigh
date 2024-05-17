@@ -8,9 +8,8 @@ variant: tiptap
 <br><a href="https://drive.google.com/file/d/1xSF5sB7cjBJNWbe7ayXdnvmyqw7AgoiR/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Sec1 Parent Engagement on 05 Jan 2024 </a>*<strong><em>NEW</em></strong> 
 <br><a href="https://drive.google.com/file/d/1W0eEp6ptoOOOvytrrd1YbfQdtwGJn84w/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Sec1 Parent Engagement Q&amp;A </a>*<strong><em>NEW</em></strong> 
 <br>Parent Tip: Supporting your teen in Exploring Post-Sec Pathways <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.moe.gov.sg%2F-%2Fmedia%2Ffiles%2Fparent-kit%2Fparent-kit---supporting-your-teen-in-exploring-post-secondary-pathways.pdf&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw39nIbGQbCLzRx1-k6mBiUN" rel="noopener noreferrer nofollow" target="_blank">(Click Here)</a> 
-<br><a href="https://www.nanchiauhigh.moe.edu.sg/sec2-parents-briefing-08-may-2024/" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Session on 08 May</a> 
-<br>Sec 3 Session on 14 May (Available on 25 May from 0800h-1200h)
-<br>Sec 4 Session on 16 May (Available on 25 May from 0800h-1200h)</p>
+<br>
+</p>
 <p><strong>Curriculum Matters</strong> 
 <br><a href="https://drive.google.com/file/d/1b8krxJ72j3lbUuS3nMbaOVWm7i0duxhD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 NCHS Sec1 Academic Booklet</a> 
 <br><a href="https://drive.google.com/file/d/178wbYdnZMnd7FQuUgLNrunUdkUWDp_Mw/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024 NCHS Sec2 Academic Booklet </a>*<strong><em>NEW</em></strong> 
