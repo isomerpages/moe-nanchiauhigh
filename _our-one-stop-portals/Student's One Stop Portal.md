@@ -13,7 +13,7 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong>Parents' e-Briefing 2024</strong> *<strong><em>NEW</em></strong> 
-<br><a href="https://www.nanchiauhigh.moe.edu.sg/sec2-parents-briefing-08-may-2024/" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Session on 08 May</a>
+<br><a href="https://www.nanchiauhigh.moe.edu.sg/sec2-parents-briefing-08-may-2024/" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Session on 08 May</a> 
 <br>Sec 3 Session on 14 May (Available on 25 May from 0800h-1200h)
 <br>Sec 4 Session on 16 May (Available on 25 May from 0800h-1200h)</p>
 <p></p>
