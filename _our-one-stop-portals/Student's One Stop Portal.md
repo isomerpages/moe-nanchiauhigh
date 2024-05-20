@@ -14,8 +14,9 @@ variant: tiptap
 <p></p>
 <p><strong>Parents' e-Briefing 2024</strong> *<strong><em>NEW</em></strong> 
 <br><a href="https://www.nanchiauhigh.moe.edu.sg/sec2-parents-briefing-08-may-2024/" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Session on 08 May</a> 
-<br>Sec 3 Session on 14 May (Available on 25 May from 0800h-1200h)
-<br>Sec 4 Session on 16 May (Available on 25 May from 0800h-1200h)</p>
+<br><a href="https://www.nanchiauhigh.moe.edu.sg/sec3-parents-briefing-14-may-2024/" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Session on 14 May</a> 
+<br><a href="https://www.nanchiauhigh.moe.edu.sg/sec4-parents-briefing-16-may-2024/" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Session on 16 May</a>
+</p>
 <p></p>
 <p><strong>EdTech Resources for NCzens and Parents</strong> 
 <br><a href="https://sites.google.com/moe.edu.sg/nchs-edtechpop/home" rel="noopener noreferrer nofollow" target="_blank">NCzens &amp; Parents EdTECHpop</a> *<strong><em>NEW from 2024</em></strong> 
