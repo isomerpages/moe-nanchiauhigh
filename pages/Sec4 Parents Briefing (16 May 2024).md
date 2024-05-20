@@ -6,13 +6,12 @@ description: ""
 ---
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1IG7gcxWWLF_HFTz0A2dhAhxGygIuAgx8/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 Parent E-Engagement Slides_For Sharing</a>
-</p>
+<p>2024 Sec 4 Parent E-Engagement Slides_For Sharing</p>
 </li>
 </ol>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1P2zXF8LILOmjrbwOP3kCG1_C2ezWkzhw/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Sec4 Parents e-Briefing on 16 May - Q&amp;A Report </a>
+<p><a href="https://drive.google.com/file/d/1P2zXF8LILOmjrbwOP3kCG1_C2ezWkzhw/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Sec4 Parents e-Briefing on 16 May - Q&amp;A Report</a>
 </p>
 </li>
 <li>
