@@ -14,11 +14,6 @@ description: ""
 <li>
 <p><a href="https://drive.google.com/file/d/1CdqMPpzaFGLuO3Kv9OM8rrBLqBnzuAC4/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Sec2 Parents e-Briefing on 08 May - Q&amp;A Report </a>
 <br>
-<br>
-</p>
-</li>
-<li>
-<p><a href="https://sgmoe-my.sharepoint.com/:v:/r/personal/mak_kok_wei_john_schools_gov_sg/Documents/PTM%20Video/Sec%202%20Parents%20e-engagement.mp4?csf=1&amp;web=1&amp;nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;e=pqVCI4" rel="noopener noreferrer nofollow" target="_blank">Video Recording</a>  <strong>(Available only on 18 May, 0800h-1200h)</strong>
 </p>
 </li>
 </ol>
