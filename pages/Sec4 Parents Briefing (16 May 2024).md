@@ -16,9 +16,5 @@ description: ""
 </p>
 <p></p>
 </li>
-<li>
-<p><a href="https://sgmoe-my.sharepoint.com/:v:/g/personal/mak_kok_wei_john_schools_gov_sg/EZSjySnWXgFDlmJHh1AW6voBwtgtz0x1D8zzN3N9E9ojww" rel="noopener noreferrer nofollow" target="_blank">Watch the recording here</a>  <strong>(Available till 25 May, 1200h)</strong>
-</p>
-</li>
 </ol>
 <p></p>
