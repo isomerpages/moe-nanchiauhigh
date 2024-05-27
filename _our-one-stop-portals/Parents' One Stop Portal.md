@@ -10,7 +10,7 @@ variant: tiptap
 <br>Parent Tip: Supporting your teen in Exploring Post-Sec Pathways <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.moe.gov.sg%2F-%2Fmedia%2Ffiles%2Fparent-kit%2Fparent-kit---supporting-your-teen-in-exploring-post-secondary-pathways.pdf&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw39nIbGQbCLzRx1-k6mBiUN" rel="noopener noreferrer nofollow" target="_blank">(Click Here)</a> 
 <br><a href="https://www.nanchiauhigh.moe.edu.sg/sec2-parents-briefing-08-may-2024/" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 Session on 08 May</a> 
 <br><a href="https://www.nanchiauhigh.moe.edu.sg/sec3-parents-briefing-14-may-2024/" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 Session on 14 May</a> 
-<br><a href="https://www.nanchiauhigh.moe.edu.sg/sec4-parents-briefing-16-may-2024/" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 Session on 16 May</a>
+<br><a href="https://www.nanchiauhigh.moe.edu.sg/sec4-parents-briefing-16-may-2024/" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 Session on 16 May</a> 
 <br>
 </p>
 <p><strong>Curriculum Matters</strong> 
