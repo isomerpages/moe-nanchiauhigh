@@ -17,10 +17,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3a.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8e_SAT2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4a.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8f_SAT1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5a.png">
 </div>
 <p></p>
