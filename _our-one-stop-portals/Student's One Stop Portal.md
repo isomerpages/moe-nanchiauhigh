@@ -7,10 +7,10 @@ variant: tiptap
 <p><strong>Timetables</strong> 
 <br><a href="https://drive.google.com/file/d/1ywHydhbW9cJFaSTomhf2oAwfEiiKaLc3/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 Prelim Examination Timetable</a>
 <br><a href="https://drive.google.com/file/d/16pZJjoig9-KBPAmfKmAeYBQ31PQL4i3z/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 EBP Schedule </a>*<strong><em>NEW</em></strong> 
-<br><a href="https://drive.google.com/file/d/1QHvHTGwTd5YMJhDBc42IEFy_Pp6xMql4/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Term 2 Sec 1 Timetable</a> 
-<br><a href="https://drive.google.com/file/d/1R4X5L9Ot27v_mXzeJ8O2Ft3-XkLN_z3Z/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Term 2 Sec 2 Timetable</a> 
-<br><a href="https://drive.google.com/file/d/1SydKZCUdmPE9l6IHkeuo2uBMaDbu-DcY/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Term 2 Sec 3 Timetable</a> 
-<br><a href="https://drive.google.com/file/d/1EAGfxfifQgDFf7COjZWqlYA21mxvQhwE/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Term 2 Sec 4 Timetable</a>
+<br><a href="https://drive.google.com/file/d/1M7UZ_z_shQHwajyLKfZMENNueTMyOOgp/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Term 3 Timetable (Sec 1)</a>
+<br><a href="https://drive.google.com/file/d/1VhVLtRYffVfKXHsu4z-nNu6wPW78oWyp/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Term 3 Timetable (Sec 2)</a>
+<br><a href="https://drive.google.com/file/d/1wTn7KMAZNCjSCvzMaoo4QXbz7qYgMcOY/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Term 3 Timetable (Sec 3)</a>
+<br><a href="https://drive.google.com/file/d/1d5cjMZVVqKgp6txzulgpCCw_KwJOViDX/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Term 3 Timetable (Sec 4)</a>
 <br>
 </p>
 <p><strong>Parents' e-Briefing 2024</strong> *<strong><em>NEW</em></strong> 
