@@ -49,15 +49,15 @@ Thank you for visiting Nan Chiau High School website. By accessing and using thi
 
 13\. Except as set forth below, caching and links to, and the framing of this Web Site or any of the Contents are prohibited.
 
-14\. You must secure permission from \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (school name) prior to hyperlinking to, or framing, this Web Site or any of the Contents, or engaging in similar activities. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (school name) reserves the right to impose conditions when permitting any hyperlinking to, or framing of this Web Site or any of the Contents.
+14\. You must secure permission from Nan Chiau High School prior to hyperlinking to, or framing, this Web Site or any of the Contents, or engaging in similar activities. Nan Chiau High School reserves the right to impose conditions when permitting any hyperlinking to, or framing of this Web Site or any of the Contents.
 
 15\. Your linking to, or framing any part of this Web Site or its Contents constitute acceptance of these Terms of Use. This is deemed to be the case even after the posting of any changes or modifications to these Terms of Use. If you do not accept these Terms of Use, you must discontinue linking to, or framing of this Web Site or any of the Contents.
 
-16\. In no circumstances shall \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (school name) be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on web sites that link to this Web Site or any of the Contents.
+16\. In no circumstances shall Nan Chiau High School be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on web sites that link to this Web Site or any of the Contents.
 
-17\. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (school name) reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.
+17\. Nan Chiau High School reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.
 
-18\. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (school name) reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Web Site or any of the Contents.
+18\. Nan Chiau High School reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Web Site or any of the Contents.
 
 **Governing Law**
 
