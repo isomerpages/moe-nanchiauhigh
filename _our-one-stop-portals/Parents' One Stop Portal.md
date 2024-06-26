@@ -18,7 +18,7 @@ variant: tiptap
 <br><a href="https://drive.google.com/file/d/1b8krxJ72j3lbUuS3nMbaOVWm7i0duxhD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 NCHS Sec1 Academic Booklet</a> 
 <br><a href="https://drive.google.com/file/d/178wbYdnZMnd7FQuUgLNrunUdkUWDp_Mw/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024 NCHS Sec2 Academic Booklet </a>*<strong><em>NEW</em></strong> 
 <br><a href="https://drive.google.com/file/d/1m6PO-xKc-QQNNzKjkMFgFfb5SHUp1b5x/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 NCHS Sec4 Academic Booklet </a>*<strong><em>NEW</em></strong> 
-<br><a href="https://drive.google.com/drive/folders/1bzmGAZqzmzdZ4X8yPbkqvvCbzH6j1JGp?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Weighted Assessment 3 </a>
+<br><a href="https://drive.google.com/drive/folders/1bzmGAZqzmzdZ4X8yPbkqvvCbzH6j1JGp?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Weighted Assessment 3</a>
 </p>
 <p><strong>EdTech Resources for NCzens and Parents</strong> 
 <br><a href="https://sites.google.com/moe.edu.sg/nchs-edtechpop/home" rel="noopener noreferrer nofollow" target="_blank">NCzens &amp; Parents EdTECHpop</a> *<strong><em>NEW from 2024</em></strong> 
