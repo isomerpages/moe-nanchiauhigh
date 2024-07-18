@@ -14,6 +14,7 @@ variant: tiptap
 <br>
 </p>
 <p><strong>Curriculum Matters</strong> 
+<br><a href="https://docs.google.com/spreadsheets/d/1oW2kunvRa5QJucxtEJB9DHYhEEf_KvcrxrqcKEEspqQ/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Home-Based Learning (HBL) Timetable: 23 Jul to 25 Jul 2024 </a>*<strong><em>NEW</em></strong> 
 <br><a href="https://drive.google.com/file/d/1ywHydhbW9cJFaSTomhf2oAwfEiiKaLc3/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 Prelim Examination Timetable</a> 
 <br><a href="https://drive.google.com/file/d/1b8krxJ72j3lbUuS3nMbaOVWm7i0duxhD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 NCHS Sec1 Academic Booklet</a> 
 <br><a href="https://drive.google.com/file/d/178wbYdnZMnd7FQuUgLNrunUdkUWDp_Mw/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024 NCHS Sec2 Academic Booklet </a>*<strong><em>NEW</em></strong> 
