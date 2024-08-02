@@ -84,7 +84,7 @@ which are of prime concern at this age.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1JpMcetbC7JYB4kfDKKP5o3nmh5vJs1Vl/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Sexuality Education Lessons</a>
+<p><a href="https://drive.google.com/file/d/1YlxXX3SdcgkDyxnqx1OWA1Jzlsh6U8HX/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Sexuality Education Lessons</a>
 </p>
 </li>
 <li>
