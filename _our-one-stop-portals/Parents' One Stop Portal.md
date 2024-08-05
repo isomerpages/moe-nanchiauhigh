@@ -15,8 +15,13 @@ variant: tiptap
 </p>
 <p><strong>Curriculum Matters</strong> 
 <br><a href="https://docs.google.com/spreadsheets/d/1oW2kunvRa5QJucxtEJB9DHYhEEf_KvcrxrqcKEEspqQ/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Home-Based Learning (HBL) Timetable: 23 Jul to 25 Jul 2024 </a>*<strong><em>NEW</em></strong> 
-<br><a href="https://drive.google.com/file/d/1ywHydhbW9cJFaSTomhf2oAwfEiiKaLc3/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 Prelim Examination Timetable</a> 
-<br><a href="https://drive.google.com/file/d/1b8krxJ72j3lbUuS3nMbaOVWm7i0duxhD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 NCHS Sec1 Academic Booklet</a> 
+<br><a href="https://drive.google.com/file/d/1ywHydhbW9cJFaSTomhf2oAwfEiiKaLc3/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 Prelim Examination Timetable</a>
+</p>
+<p><a href="https://drive.google.com/file/d/13lokOnswx5vo_AMGNNig2NmvLMBIT2_z/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 End of Year Exam Timetable (Sec 1)</a>*<strong><em>NEW </em></strong>
+<br><a href="https://drive.google.com/file/d/1d9UoCjxPsRWcUDF1H_PArVWrt8JTarFE/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 End of Year Exam Timetable (Sec 2)</a>*<strong><em>NEW </em></strong>
+<br><a href="https://drive.google.com/file/d/12HZaw9ScZ2kA7cZfLYZNdrs48G72MNZh/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 End of Year Exam Timetable (Sec 3)</a>*<strong><em>NEW</em></strong>
+</p>
+<p><a href="https://drive.google.com/file/d/1b8krxJ72j3lbUuS3nMbaOVWm7i0duxhD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 NCHS Sec1 Academic Booklet</a> 
 <br><a href="https://drive.google.com/file/d/178wbYdnZMnd7FQuUgLNrunUdkUWDp_Mw/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024 NCHS Sec2 Academic Booklet </a>*<strong><em>NEW</em></strong> 
 <br><a href="https://drive.google.com/file/d/1m6PO-xKc-QQNNzKjkMFgFfb5SHUp1b5x/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 NCHS Sec4 Academic Booklet </a>*<strong><em>NEW</em></strong> 
 <br><a href="https://drive.google.com/drive/folders/1bzmGAZqzmzdZ4X8yPbkqvvCbzH6j1JGp?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Weighted Assessment 3</a>
