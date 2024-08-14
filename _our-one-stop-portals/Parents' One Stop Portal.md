@@ -19,7 +19,7 @@ variant: tiptap
 </p>
 <p><a href="https://drive.google.com/file/d/13lokOnswx5vo_AMGNNig2NmvLMBIT2_z/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 End of Year Exam Timetable (Sec 1)</a>*<strong><em>NEW </em></strong>
 <br><a href="https://drive.google.com/file/d/1d9UoCjxPsRWcUDF1H_PArVWrt8JTarFE/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 End of Year Exam Timetable (Sec 2)</a>*<strong><em>NEW </em></strong>
-<br><a href="https://drive.google.com/file/d/12HZaw9ScZ2kA7cZfLYZNdrs48G72MNZh/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 End of Year Exam Timetable (Sec 3)</a>*<strong><em>NEW</em></strong>
+<br><a href="https://drive.google.com/file/d/1X9qzVMxFqISXTMpfhwJfKGZVc3pRP6aQ/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 End of Year Exam Timetable (Sec 3)</a>*<strong><em>NEW</em></strong>
 </p>
 <p><a href="https://drive.google.com/file/d/1b8krxJ72j3lbUuS3nMbaOVWm7i0duxhD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 NCHS Sec1 Academic Booklet</a> 
 <br><a href="https://drive.google.com/file/d/178wbYdnZMnd7FQuUgLNrunUdkUWDp_Mw/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024 NCHS Sec2 Academic Booklet </a>*<strong><em>NEW</em></strong> 
