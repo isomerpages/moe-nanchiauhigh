@@ -2,50 +2,294 @@
 title: 学校管理层 School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<center>
-	
-SHHK Affiliated Schools 45th SMC
-	
-	Chairman:
-	
-</center>
-
-<img src="/images/1_Mr_Chua_Kee_Seng_Thomas.jpg" style="width:25%">
-		 
-<center>
-Mr Chua Kee Seng Thomas 
-<br>蔡其生
-</center>
-
-<img src="/images/2_Mr_Lee_Cheng_Chye_William.jpg" style="width:25%;float:left">
-<img src="/images/3_Mr_Lim_Beng_Beng.jpg" style="width:25%;float:left">
-<img src="/images/4_Mr_Tan_Kang_Uei_Anthony.jpg" style="width:25%;float:left">
-<img src="/images/5_Mr_Ang_Jian_Kai.jpg" style="width:25%">
-
-
-| Honorary Secretary | Honorary Treasurer | Supervisor | Deputy Supervisor|
-| -------- | -------- | -------- |-------- |
-| **Mr Lee Cheng Chye William**<br>李清财    | **Mr Lim Beng Beng**<br>林铭铭   | **Mr Tan Kang Uei Anthony**<br>陈康威     | **Mr Ang Jian Kai**<br>洪健凯
-
-**Members:**
-
-<img src="/images/6_Mr_Loo_Lip_Giam_Paul.jpg" style="width:25%;float:left">
-<img src="/images/7_Mr_Lee_Sze_Leong.jpg" style="width:25%;float:left">
-<img src="/images/8_Mr_Neo_Kah_Kiat.jpg" style="width:25%;float:left">
-<img src="/images/9_Ms_Ng_Hsueh_Ling.jpg" style="width:25%;float:left">
-
-|  | |  | |
-| -------- | -------- | -------- |-------- |
-| **Mr Loo Lip Giam Paul**<br>吕立岩 |  **Mr Lee Sze Leong**<br>李思亮     |  **Mr Neo Kah Kiat**<br>梁佳吉    |**Ms Ng Hsueh Ling**<br>黄雪铃   |
-
-<img src="/images/10%20Lim%20Eng%20Koo%20Nelson.jpeg" style="width:20%;float:left">
-<img src="/images/11_Mr_Goi_Kok_Ming_Kenneth.jpg" style="width:20%;float:left">
-<img src="/images/12_Mr_Tan_Han_Tong_Lawrence.jpg" style="width:20%;float:left">
-<img src="/images/13_Mr_Yap_Kok_Cheng.jpg" style="width:20%;float:left">
-<img src="/images/14_Ms_Tan_Ee_Li_Joyce.jpg" style="width:20%;float:left">
-	
-|  | |  | | |
-| -------- | -------- | -------- |-------- |-------- |
-| **Mr Lim Eng Koo Nelson**<br>林永车 |  **Mr Kenneth Goi**<br>魏国铭     |  **Mr Lawrence Tan**<br>陈汉栋    |**Mr Yap Kok Cheng**<br>叶国清   |**Ms Tan Ee Li Joyce**<br>陈意莉   |
+<p><strong>SHHK Affiliated Schools 45th SMC</strong>
+</p>
+<p></p>
+<table style="minWidth: 300px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Chairman</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Chua Kee Seng Thomas </strong>蔡其生</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Honorary Secretary</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Honorary Treasurer</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Supervisor</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Deputy Supervisor</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lee Cheng Chye William</strong>
+<br>李清财</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lim Beng Beng</strong>
+<br>林铭铭</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Tan Kang Uei Anthony</strong>
+<br>陈康威</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Ang Jian Kai</strong>
+<br>洪健凯</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Members:</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Loo Lip Giam Paul</strong>
+<br>吕立岩</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lee Sze Leong</strong>
+<br>李思亮</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Neo Kah Kiat</strong>
+<br>梁佳吉</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Ng Hsueh Ling</strong>
+<br>黄雪铃</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lim Eng Koo Nelson</strong>
+<br>林永车</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Kenneth Goi</strong>
+<br>魏国铭</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lawrence Tan</strong>
+<br>陈汉栋</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Yap Kok Cheng</strong>
+<br>叶国清</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Tan Ee Li Joyce</strong>
+<br>陈意莉</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
