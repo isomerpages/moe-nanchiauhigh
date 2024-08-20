@@ -41,9 +41,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1MrChuaKeeSengThomas.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -119,7 +116,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Chua Kee Seng Thomas     </strong>蔡其生</p>
+<p><strong>Mr Chua Kee Seng Thomas </strong>蔡其生</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -142,7 +139,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong> </strong>
+<p>
 <br>
 </p>
 <table style="minWidth: 100px">
@@ -156,27 +153,15 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2MrLeeChengChyeWilliam.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3MrLimBengBeng.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4MrTanKangUeiAnthony.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5MrAngJianKai.jpg">
-</div>
 </td>
 </tr>
 <tr>
@@ -226,27 +211,15 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6MrLooLipGiamPaul.jpg">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7MrLeeSzeLeong.jpg">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8MrNeoKahKiat.jpg">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9MsNgHsuehLing.jpg">
-</div>
 </th>
 </tr>
 <tr>
@@ -281,33 +254,18 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10MrLimEngKooNelson.jpg">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/11MrGoiKokMingKenneth.jpg">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/12MrTanHanTongLawrence.jpg">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/13MrYapKokCheng.jpg">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/14MsTanEeLiJoyce.jpg">
-</div>
 </th>
 </tr>
 <tr>
