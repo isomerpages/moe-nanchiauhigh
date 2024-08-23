@@ -13,7 +13,8 @@ variant: tiptap
 <br><a href="https://drive.google.com/file/d/1d9UoCjxPsRWcUDF1H_PArVWrt8JTarFE/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 End of Year Exam Timetable (Sec 2)</a>*<strong><em>NEW </em></strong>
 <br><a href="https://drive.google.com/file/d/1X9qzVMxFqISXTMpfhwJfKGZVc3pRP6aQ/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 End of Year Exam Timetable (Sec 3)</a>*<strong><em>NEW</em></strong>
 </p>
-<p><a href="https://drive.google.com/file/d/1VhVLtRYffVfKXHsu4z-nNu6wPW78oWyp/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Term 3 Timetable (Sec 2)</a>
+<p><a href="https://drive.google.com/file/d/1M7UZ_z_shQHwajyLKfZMENNueTMyOOgp/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Term 3 Timetable (Sec 1)</a>
+<br><a href="https://drive.google.com/file/d/1VhVLtRYffVfKXHsu4z-nNu6wPW78oWyp/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Term 3 Timetable (Sec 2)</a>
 <br><a href="https://drive.google.com/file/d/1wTn7KMAZNCjSCvzMaoo4QXbz7qYgMcOY/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Term 3 Timetable (Sec 3)</a>
 <br><a href="https://drive.google.com/file/d/1d5cjMZVVqKgp6txzulgpCCw_KwJOViDX/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Term 3 Timetable (Sec 4)</a>
 <br>
