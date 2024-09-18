@@ -20,15 +20,13 @@ by future-ready, scalable, and reliable infrastructure.</p>
 <p><strong>DEPARTMENT DETAILS</strong>
 </p>
 <p><strong>Head of Department:</strong> 
-<br>Mr John Mak
-<br>
-</p>
+<br>Mr John Mak</p>
 <p><strong>Department ICT Champions (2024):</strong> 
+<br>Ms Doris Toh (Math Department) (SH/ Innovation [Internal])
 <br>Mdm Hani (Science Department) (ICT Committee 2IC)
 <br>Ms Angeline Yar Rumin (PE Department)
 <br>Ms Charlene Chen Ying (Humanities Department)
 <br>Ms Cherlene Lau (ELL Department)
-<br>Ms Doris Toh (Math Department)
 <br>Mr Esmond Tay Rong Yao (Science Department)
 <br>Mdm Ong Wen Hui (Aesthetics Department)
 <br>Ms Ting Hann Sy (MTL Department)</p>
@@ -38,7 +36,13 @@ by future-ready, scalable, and reliable infrastructure.</p>
 <br>Mr Tay Rong Yao Esmond
 <br>Ms Nur Maizurah
 <br>Mr Quah Ee Qiang</p>
-<p><strong>Our NCHS EdTECH Vision</strong>
+<p><strong>ICT Support Team (2024):</strong> 
+<br>Mr Koh Wei Tze John (ICT Manager)
+<br>Ms Kishmita (DE)
+<br>Mr Chua Jun Wei (DE)
+<br>Mr Simon Fung Ming Ching (ICT Executive)</p>
+<p></p>
+<p><strong><u>Our NCHS EdTECH Vision</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
