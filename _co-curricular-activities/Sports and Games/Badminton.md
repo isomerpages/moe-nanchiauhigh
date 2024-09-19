@@ -13,7 +13,7 @@ Monday: Boys &amp; Girls
 
 Wednesday: Boys<br>
 3pm – 6pm  
-Venue: School hall
+Venue: Anchor Green Primary School
 
 Friday: Girls<br>
 3pm – 6pm<br>
@@ -30,7 +30,7 @@ Venue: Nan Chiau Primary School
 
 Wednesday: 
 <br>Girls
-3pm – 6pm<br>  Venue: School Hall
+3pm – 6pm<br>  Venue: Anchor Green Primary School
 
 Friday: Boys
 <br>3pm – 6pm<br>
@@ -60,6 +60,9 @@ Study &amp; train hard persistently to give the best.
 
 **Highlight(s) of Activities**
 
+Annual CCA 2 Days Programme<br> 
+National School Games (NSG) Badminton (North Zone) for B Divisions<br>
+National School Games (NSG) Badminton League Pool for C Divisions<br>
 Annual CCA Camp<br>
 Umpiring workshop<br>
 Friendly matches<br>
