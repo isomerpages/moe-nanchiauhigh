@@ -14,9 +14,11 @@ variant: markdown
 •	Quadrangle &amp; Field <br>
 
 **Teachers-in-charge:**<br>
-•	Mr Teo Boon Heng <br>
-•	Mdm Ainul Hani <br>
-•	Ms Claire Low <br>
+•	Mr Teo Boon Heng<br>
+•	Ms Claire Low<br>
+•	Mdm Ainul Hani<br>
+•	Mr Yong Keen Whye<br>
+•	Mr Lin Wenwei<br>
 
 
 **KEY INFORMATION**<br>
@@ -48,13 +50,13 @@ As a result of our identification with the Singapore Police Force, TEACH us to a
 **Highlight(s) of Activities**<br>
 <br>
 **Parades:**<br>
-NPCC Annual Parade, School Anniversary Parade, National Day Observance Ceremony @ Sengkang West, NPCC Commemoration Day, Police Day Parade, National Day Parade <br>
+NPCC Annual Parade, School Anniversary Parade, National Day Observance Ceremony, NPCC Commemoration Day, Police Day Parade, National Day Parade <br>
 <br>
 **Inter-unit Competitions:**<br>
-Campcraft Competition, 0.22 Revolver Shooting Competition, Area 4 Games Day, Drills Competition <br>
+Campcraft Competition, 0.22 Revolver Shooting Competition, Area 4 Games Day, Inter-unit Drills Competition <br>
 
 **Exciting Camps:**<br>
-Unit-based camps: All Level Training Camp (March), Basic of Leadership Training Camp (November), Adventure Training Camp at Camp Resilience in Pulau Ubin, Harmony camp.<br>
+Unit-based camps: All Level Bonding Programme (March), Basic of Leadership Training Camp (November), Adventure Training Camp at Camp Resilience in Pulau Ubin, National camp.<br>
 
 **Interesting HQ Courses:**<br>
 Anti- Narcotics Course, Anti-Corruption Course, Civil Defence, Leadership and Mentoring Skills Course, Police Procedures and Home Front Security, Crime Scene Investigation, Community Safety and Security Programme, Police Youth Ambassador, Cybercrime, Basic Law, Road safety, Crime Prevention, SG Secure, Cadet Leader Course <br>
@@ -63,18 +65,18 @@ Anti- Narcotics Course, Anti-Corruption Course, Civil Defence, Leadership and Me
 Police Heritage Centre, Home Team Gallery, Sengkang Neighbourhood Police Centre, CID Police Establishment, K9 Police Establishment, HQ organized oversea education visits <br>
 
 Enrichment programs over and above normal training: <br>
-Dragonboating, Archery, Hiking, Air pistol shooting, Outdoor Orienteering, etc! <br>
+Kinball, Archery, Hiking, Air pistol shooting, Outdoor Orienteering, etc! <br>
 
 **Achievements**<br>
 
 **Unit Overall Proficiency Award**<br>
 •	GOLD (since 2007 to 2021) <br>
-•	Certificate of Distinction in 2022 <br>
+•	Certificate of Distinction in 2022 to 2023<br>
 
-**SPF-NPCC Badge Awardees 2023**<br>
-•	Audrey Mak Zi Ning (4 Humility) <br>
-•	Raeken Lee (4 Resilience) <br>
+**SPF-NPCC Badge Awardees 2024**<br>
+•	CHEW MEI JUN (4 Innovation) <br>
+•	NG SIANG TING (4 Innovation) <br>
 
-**Best Unit Cadet Awardees 2023**<br>
-•	Tan Jun Kai, Javier (3 Integrity) <br>
-•	Ng Siang Ting (3 Innovation)
+**Best Unit Cadet Awardees 2024**<br>
+•	ETHAN POH MING EN (3 Integrity) <br>
+•	KAYLENE HUANG (3 Resilence)
