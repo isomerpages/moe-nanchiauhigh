@@ -9,7 +9,7 @@ variant: markdown
 
 **Odd Week**<br>
 Monday: Boys &amp; Girls  
-3pm – 6pm <br> Venue: Nan Chiau Primary School  
+3pm – 6pm <br> Venue: Nan Chiau Primary School 
 
 Wednesday: Boys<br>
 3pm – 6pm  
