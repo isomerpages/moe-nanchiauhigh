@@ -1,5 +1,5 @@
 collections:
-  our-one-stop-portals:
+  resources-one-stop-portals:
     output: true
     order:
       - NCHS Calendar (For Public).md
