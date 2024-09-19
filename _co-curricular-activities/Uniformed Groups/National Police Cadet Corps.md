@@ -3,17 +3,17 @@ title: National Police Cadet Corps
 permalink: /co-curricular-activities/Uniformed-Groups/National-Police-Cadet-Corps/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTKC3uxcCrLiTOMbsz6EYzgPTSz9FIxx0vN212AA8rVgh01BznhGx7DoYUtvVUHoQX6giQpttypOmOO/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 **Training Day &amp; Time:**<br>
-•	Friday •	2.45pm – 6.00pm <br>
+•	Friday •	3.00pm – 6.00pm <br>
 
 **Venue:**<br>
 •	Quadrangle &amp; Field <br>
 
 **Teachers-in-charge:**<br>
-•	Ms Mak Xue Wei<br>
 •	Mr Teo Boon Heng <br>
 •	Mdm Ainul Hani <br>
 •	Ms Claire Low <br>
