@@ -8,7 +8,9 @@ variant: markdown
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/11QDgPJWCAQsujYA4mPaVvXpW_x5GYcpTfykdb28I0LM/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 
-*   **Training Time:** <br>Wednesday,  3.15pm – 6.00pm  <br>Friday, 3.15pm – 6.00pm
+*   **Training Time:** <br>
+Wednesday,  3.15pm – 6.00pm<br>
+Friday, 3.15pm – 6.00pm
 
 *   **Venue:**<br>
 D&amp;T room (odd Wednesdays)<br>
