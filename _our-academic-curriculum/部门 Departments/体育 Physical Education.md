@@ -147,6 +147,20 @@ Education)</p>
 <p>Track &amp; Field, Table-Tennis</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ryan Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bachelor of Science in Education (Physical Education)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball, Football, Ultimate Frisbee</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>Achievement:
@@ -158,21 +172,17 @@ Education)</p>
 outdoors. Beyond just sports, programmes planned enable students to lead
 a healthy lifestyle, and develop positive values and strength of character.</p>
 <p>
-<br>1. Sports Clinics
-<br>2. Mass Wushu Workout
-<br>3. Inter-Class Games
-<br>4. Outdoor Education
-<br>5. Annual Cross Country Championships
-<br>6. Annual Track and Field
-<br>7. Sec 3 Leadership Camp
-<br>8. National Youth Achievement Award (NYAA) / Silver
-<br>9. StayFit programme
-<br>10. Sports Leaders Programme
-<br>11. Sports Safety Programme
-<br>12. Sports Education Programme (SEP)
-<br>13. Modular Sports (Taekwondo, Golf, Swimming, etc.)
-<br>14. ActiveSG@NCHS
-<br>15. Students and Staff Bonding games</p>
+<br>1. Mass Wushu Workout
+<br>2. Inter-Class Games
+<br>3. Outdoor Education
+<br>4. Annual Cross Country Championships
+<br>5. Track and Field Meet
+<br>6. Sec 3 Leadership Camp
+<br>7. National Youth Achievement Award (NYAA) / Silver
+<br>8. Sports Leaders Programme
+<br>9. Sports Safety Programme
+<br>10. Sports Education Programme (SEP)
+<br>11. Modular Sports (Taekwondo, Golf, Swimming, etc.)</p>
 <p><strong>CCA @ NCHS</strong>
 </p>
 <p>1. Badminton
