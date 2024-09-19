@@ -8,8 +8,8 @@ variant: markdown
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ5VAzmtrTGubtTwYw_r3byP1FSCtjbeFyGrXjHgAbSG0TaJAF-M17tLWVkgVEIx8bsWYHTeBIefynx/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 <br>
 *   Friday,  
-    2.30pm – 6.15pm
-<br> Quadrangle
+    3.00pm – 5.45pm
+<br> Quadrangle, classrooms
 <br>
 
 Teachers in charge:
@@ -39,22 +39,20 @@ The Singapore Red Cross Youth (RCY) is part of the largest humanitarian network 
 
 **Highlight(s) of Activities**
 
-1\. National events which showcase students’ talents, such as: National Day Parade, SYF and National Camp
+1\. Showcasing Student Talent: Participate in national events like the National Day Parade and National Camp, where students proudly represent the school and showcase their skills. 
 
-2\. Activities which broaden students’ horizons, such as: International Exchange Programme, First Aid Competition
+2\. Expanding Horizons: Get involved in enriching activities such as First Aid Competitions and the Smoke-Free Ambassador Programme, which open doors to new experiences and learning opportunities. 
 
-3\. Interesting and useful life skills courses, such as Outdoor Activities Course. First Aid Workshop, School Camps and Community Service
+3\. Lifeskill Courses: Equip yourself with essential life-saving skills through workshops in First Aid, CPR and AED, as well as School Camps and Community Service projects. 
 
-4\. A wide range of community service projects, such as Red Cross Charity Draw &amp; Flag Day and Home Visits
-
-5\. Enrichment Activity: Dragon Boating, Rock Climbing
+4\. Community Service Opportunities: Engage in meaningful community service initiatives, including Grateful Hearts and Home Visits, where students make a positive impact on society.
 
 **Achievements**
 
-Excellent Unit Gold Award 2012 – 2022 <br>
+Excellent Unit Gold Award 2012 – 2023<br>
+First Aid Competition (FAC) Junior Category 2024 – Gold Award<br>
+First Aid Competition (FAC) Senior Category 2024 – Bronze Award <br>
 First Aid Competition (FAC) Junior Category 2023 – Gold Award <br>
 First Aid Competition (FAC) Senior Category 2023 – Silver Award <br>
 First Aid Competition (FAC) Junior Category 2022 – Silver Award <br>
-First Aid Competition (FAC) Senior Category 2022 – Silver Award <br>
-First Aid Competition (FAC) Junior Category 2021 – Gold Award <br>
-First Aid Competition (FAC) Senior Category 2021 – Silver Award<br>
+First Aid Competition (FAC) Senior Category 2022 – Silver Award<br>
