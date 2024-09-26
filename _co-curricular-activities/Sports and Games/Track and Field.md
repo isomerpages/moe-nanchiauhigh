@@ -54,8 +54,6 @@ NSG Cross Country<br>
 
 NSG Track &amp; Field Championships 4 X100M Semi finalist<br>
 - B Boys (Wang Yujing Kayven, Goh Ping Hong, Calix Han Zhong Sheng, Silas Lim Jun Xian)<br>
-
-NSG Track &amp; Field Championships 4 X100M Semi finalist<br>
 - B Girls (Yang Xin Yi, Chia Yi Xin Nina, Zhang Yi Xuan Alyssa, Jeanette Lim Kangting)<br>
 
 National School Games North Zone 2024<br>
