@@ -3,27 +3,32 @@ title: Robotics Club
 permalink: /co-curricular-activities/Clubs-and-Societies/Robotics-Club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRFD4NJ0g2Clky9ynv5ZSQuzM2FHqYW5Uj9KNFZ_OKuAX0bZNZo-FPRix-vbW_j_TTZY1MTYCAVPRsy/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
-*   Friday,  
-    3.00pm – 5.00pm
+**Code Builders Club**
 
-*   IT Resource Room 1
+**Training Venue**
+*   Friday,  3.30pm – 5.30pm
 
-*   Mr Goh Khan Sen
+*   Computer Lab and I<sup>3</sup> Space
 
-**KEY INFORMATION**
+**Teachers-in-Charge**
+
+*   Mr Goh Khan Sen (OIC)
+*   Mr Wong Foo Kit
+*   Ms Roxanne Lau
+
 
 **CCA Objectives**
 
-Robotics Club aims to train students who have the passion to excel in building and programming miniature robots to take part in National competitions.
+Code Builders Club aims to ignite students' passion for infocomm technology and robotics by providing ample opportunities to explore emerging technologies and hands-on experience in building and programming miniature robots. Members will deepen their learning, gain industry exposure, and develop essential skills such as problem-solving, teamwork, leadership, and event organization. Join us to fuel your curiosity and excel in exciting competitions!
 
-It aims at promoting problem-solving skills, team spirit, leadership skills and event organising skills.
 
 **CCA Description**
 
-Students learn the basics of building and programming miniature robots (EV3) using LEGO MINDSTORM (a very high level language) as well as Arduino programming (SKETCH) under the instructions of a robotics instructor. Students who have the potential to excel will be selected to undergo further intensive training to prepare them to take part in and win zonal or national competitions. Members will also have physical activities to maintain their physical health and fitness and also to break the usual training routine.
+Members learn to build and program miniature robots using LEGO MINDSTORM and Arduino, with potential candidates receiving intensive training for competitions. Collaborating with the Infocomm Media Development Authority (IMDA), the club provides opportunities in four key areas: Learn, Discover, Lead, and Excel. Members engage in courses on topics like Artificial Intelligence and Game Development, participate in real-world activities, and develop leadership skills through IMDA training. Additionally, students have the chance to participate in national competitions, in which they will gain exposure and interact with like-minded individuals. In Code Builders Club, students will develop their critical, adaptive and inventive thinking as well as improve their communication, collaboration and information skills.
 
 **Highlight(s) of Activities**
 
