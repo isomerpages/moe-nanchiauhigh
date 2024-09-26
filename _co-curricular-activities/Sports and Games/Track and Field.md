@@ -7,14 +7,15 @@ variant: markdown
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT8JneuzZOQNKio0jnFrcyj27HF9-Q8vFRNTAd6-85dDIW8Q69FGotlqAIz8Ixo-Z2VfhAxCCpnLa0z/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
-*   Saturday:  
-    8.00am – 10.00am  
+*   Tuesday or Thursday:  
+    3.30pm – 5.30pm  
  
 
 *   School /  
-    Hougang Stadium
+    Serangoon Stadium
 
-*   Mr Raffi Bin Buang
+*   Teacher in-charge:<br>
+     Mr Raffi Bin Buang
 
 **KEY INFORMATION**
 
@@ -42,6 +43,22 @@ Track &amp; Field, offered as a second CCA, aims to develop athletes’ resilien
 Our programme places great emphasis on commitment, determination and passion to develop a culture of excellence and team spirit through competitions such as National School Track &amp; Field Competition and National School Cross Country Championships.
 
 **Achievements**<br>
+
+2024
+
+NSG Track &amp; Field Champions 1500m <br>
+- C Boys 7th place (Wu Chuang Liang)<br>
+
+NSG Cross Country<br>
+- C Boys 16th place (Wu Chuang Liang)<br>
+
+NSG Track &amp; Field Championships 4 X100M Semi finalist<br>
+- B Boys (Wang Yujing Kayven, Goh Ping Hong, Calix Han Zhong Sheng, Silas Lim Jun Xian)<br>
+- B Girls (Yang Xin Yi, Chia Yi Xin Nina, Zhang Yi Xuan Alyssa, Jeanette Lim Kangting)<br>
+
+National School Games North Zone 2024<br>
+- ‘B’ Div Boys Top 4<br>
+
 2023 <br>
 National School Games Track &amp; Field Championships B Girls 100M Semi finalist - JEANETTE LIM KANGTING <br>
 
