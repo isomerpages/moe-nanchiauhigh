@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs and Societies/Code Builders Club.md
       - Clubs and Societies/Chinese Calligraphy.md
       - Clubs and Societies/Debate.md
       - Clubs and Societies/Green Club.md
