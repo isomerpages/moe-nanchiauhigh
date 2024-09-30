@@ -6,9 +6,8 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRFD4NJ0g2Clky9ynv5ZSQuzM2FHqYW5Uj9KNFZ_OKuAX0bZNZo-FPRix-vbW_j_TTZY1MTYCAVPRsy/embed?start=true&amp;amp;loop=true&amp;amp;delayms=5000"></iframe>
+<iframe height="467" width="780" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRFD4NJ0g2Clky9ynv5ZSQuzM2FHqYW5Uj9KNFZ_OKuAX0bZNZo-FPRix-vbW_j_TTZY1MTYCAVPRsy/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
-<p></p>
 <p><strong>Training Venue</strong>
 </p>
 <p>Friday, 3.30pm – 5.30pm</p>
