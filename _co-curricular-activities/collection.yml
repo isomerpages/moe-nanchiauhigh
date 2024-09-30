@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs and Societies/.keep
       - Clubs and Societies/Chinese Calligraphy.md
       - Clubs and Societies/Debate.md
       - Clubs and Societies/Green Club.md
@@ -9,7 +10,7 @@ collections:
       - Clubs and Societies/Library.md
       - Clubs and Societies/Multimedia Club.md
       - Clubs and Societies/Robotics Club.md
-      - Clubs and Societies/.keep
+      - Clubs and Societies/Code Builders Club.md
       - Visual and Performing Arts/.keep
       - Visual and Performing Arts/Chinese Dance.md
       - Visual and Performing Arts/Chinese Drama.md
