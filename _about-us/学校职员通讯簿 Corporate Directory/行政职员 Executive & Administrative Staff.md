@@ -34,7 +34,7 @@ variant: tiptap
 <p>Admin Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>loh_jasmine_A@moe.edu.sg</p>
+<p>loh_jasmine_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
