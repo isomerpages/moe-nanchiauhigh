@@ -20,8 +20,7 @@ variant: tiptap
 <p>Admin Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: <a href="mailto:loh_jasmine_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_jasmine_A@moe.edu.sg</a>
-</p>
+<p>Email: loh_jasmine_A@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -32,8 +31,7 @@ variant: tiptap
 <p>Admin Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: <a href="mailto:lim_tian_tian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_tian_tian@moe.edu.sg</a>
-</p>
+<p>Email: lim_tian_tian@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -44,8 +42,7 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: <a href="mailto:teo_nguan_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_nguan_wee@moe.edu.sg</a>
-</p>
+<p>Email: teo_nguan_wee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -56,8 +53,7 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: <a href="mailto:koh_wei_tze_john@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_wei_tze_john@moe.edu.sg</a>
-</p>
+<p>Email: koh_wei_tze_john@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -68,8 +64,7 @@ variant: tiptap
 <p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: <a href="mailto:aizuddin_hassan_shamsuddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aizuddin_hassan_shamsuddin@moe.edu.sg</a>
-</p>
+<p>Email: aizuddin_hassan_shamsuddin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -80,8 +75,7 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: <a href="mailto:woon_ai_gee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woon_ai_gee@moe.edu.sg</a>
-</p>
+<p>Email: woon_ai_gee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -92,8 +86,7 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: <a href="mailto:norwadiana_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norwadiana_ahmad@moe.edu.sg</a>
-</p>
+<p>Email: norwadiana_ahmad@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -104,8 +97,7 @@ variant: tiptap
 <p>Management Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: <a href="mailto:chua_siam_tiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_siam_tiang@moe.edu.sg</a>
-</p>
+<p>Email: chua_siam_tiang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -116,8 +108,7 @@ variant: tiptap
 <p>Technical Support Officer (Science Labs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: <a href="mailto:yee_may_may@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yee_may_may@moe.edu.sg</a>
-</p>
+<p>Email: yee_may_may@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -128,8 +119,7 @@ variant: tiptap
 <p>Technical Support Officer (Science Labs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: <a href="mailto:lim_zhenyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_zhenyi@moe.edu.sg</a>
-</p>
+<p>Email: lim_zhenyi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -140,8 +130,7 @@ variant: tiptap
 <p>Technical Support Officer (D&amp;T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: <a href="mailto:muhamad_kamel_hussein@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhamad_kamel_hussein@moe.edu.sg</a>
-</p>
+<p>Email: muhamad_kamel_hussein@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -163,8 +152,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: <a href="mailto:teo_swee_ling_elizabeth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_swee_ling_elizabeth@moe.edu.sg</a>
-</p>
+<p>Email: teo_swee_ling_elizabeth@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -219,8 +207,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: <a href="mailto:de-ncs7112sde@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">de-ncs7112sde@ncs.com.sg</a>
-</p>
+<p>Email: de-ncs7112sde@ncs.com.sg</p>
 </td>
 </tr>
 <tr>
@@ -231,8 +218,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: <a href="mailto:de-ncs7112sde@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">de-ncs7112sde@ncs.com.sg</a>
-</p>
+<p>Email: de-ncs7112sde@ncs.com.sg</p>
 </td>
 </tr>
 <tr>
@@ -243,8 +229,7 @@ variant: tiptap
 <p>ICT Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: <a href="mailto:fung_ming_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fung_ming_ching@moe.edu.sg</a>
-</p>
+<p>Email: fung_ming_ching@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -255,8 +240,7 @@ variant: tiptap
 <p>Receptionist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: <a href="mailto:lee_gek_neo_rina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_gek_neo_rina@moe.edu.sg</a>
-</p>
+<p>Email: lee_gek_neo_rina@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
