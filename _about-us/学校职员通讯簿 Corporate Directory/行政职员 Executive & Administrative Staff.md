@@ -31,7 +31,8 @@ variant: tiptap
 <p>Mdm Loh Jasmine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Admin Manager</p>
+<p><sub>Admin Manager</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>loh_jasmine_a@moe.edu.sg</p>
