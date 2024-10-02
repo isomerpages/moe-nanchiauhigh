@@ -14,248 +14,310 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Name</strong>
+<p><strong><sup>Name</sup></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Designation</strong>
+<p><strong><sup>Designation</sup></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Email</strong>
+<p><strong><sup>Email</sup></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Loh Jasmine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><sub>Admin Manager</sub>
+<p><sup>Mdm Loh Jasmine</sup>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>loh_jasmine_a@moe.edu.sg</p>
+<p><sup>Admin Manager</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>loh_jasmine_a@moe.edu.sg</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Tian Tian</p>
+<p><sup>Ms Lim Tian Tian</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Admin Manager</p>
+<p><sup>Admin Manager</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_tian_tian@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Teo Nguan Wee Jeff</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>teo_nguan_wee@moe.edu.sg</p>
+<p><sup>lim_tian_tian@moe.edu.sg</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Wei Tze John</p>
+<p><sup>Mr Teo Nguan Wee Jeff</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Manager</p>
+<p><sup>Operations Manager</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>koh_wei_tze_john@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Aizuddin Hassan Shamsuddin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Education Needs Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>aizuddin_hassan_shamsuddin@moe.edu.sg</p>
+<p><sup>teo_nguan_wee@moe.edu.sg</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Woon Ai Gee</p>
+<p><sup>Mr Koh Wei Tze John</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
+<p><sup>ICT Manager</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>woon_ai_gee@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Norwadiana Ahmad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>norwadiana_ahmad@moe.edu.sg</p>
+<p><sup>koh_wei_tze_john@moe.edu.sg</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Alice Chua Siam Tiang</p>
+<p><sup>Mr Aizuddin Hassan Shamsuddin</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Management Support Officer</p>
+<p><sup>Special Education Needs Officer</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: chua_siam_tiang@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Yee May May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Technical Support Officer (Science Labs)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yee_may_may@moe.edu.sg</p>
+<p><sup>aizuddin_hassan_shamsuddin@moe.edu.sg</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Zhenyi Crystal</p>
+<p><sup>Ms Woon Ai Gee</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer (Science Labs)</p>
+<p><sup>Administrative Executive</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_zhenyi@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Muhamad Kamel Hussein</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Technical Support Officer (D&amp;T)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>muhamad_kamel_hussein@moe.edu.sg</p>
+<p><sup>woon_ai_gee@moe.edu.sg</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Choo Swee Lock</p>
+<p><sup>Ms Norwadiana Ahmad</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
+<p><sup>Administrative Executive</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NIL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Teo Swee Ling Elizabeth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>teo_swee_ling_elizabeth@moe.edu.sg</p>
+<p><sup>norwadiana_ahmad@moe.edu.sg</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Shanmugavadivu</p>
+<p><sup>Mdm Alice Chua Siam Tiang</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
+<p><sup>Management Support Officer</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NIL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Gong Liping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NIL</p>
+<p><sup>Email: chua_siam_tiang@moe.edu.sg</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Chen Nai</p>
+<p><sup>Mdm Yee May May</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
+<p><sup>Technical Support Officer (Science Labs)</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NIL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Hong Choo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NIL</p>
+<p><sup>yee_may_may@moe.edu.sg</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Jun Wei</p>
+<p><sup>Ms Lim Zhenyi Crystal</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
+<p><sup>Technical Support Officer (Science Labs)</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>de-ncs7112sde@ncs.com.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Kismita</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>de-ncs7112sde@ncs.com.sg</p>
+<p><sup>lim_zhenyi@moe.edu.sg</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Fung Ming Ching Simon</p>
+<p><sup>Mr Muhamad Kamel Hussein</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Executive</p>
+<p><sup>Technical Support Officer (D&amp;T)</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>fung_ming_ching@moe.edu.sg</p>
+<p><sup>muhamad_kamel_hussein@moe.edu.sg</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Gek Neo Rina</p>
+<p><sup>Mr Choo Swee Lock</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Receptionist</p>
+<p><sup>Operations Support Officer</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_gek_neo_rina@moe.edu.sg</p>
+<p><sup>NIL</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sup>Mdm Teo Swee Ling Elizabeth</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>Operations Support Officer</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>teo_swee_ling_elizabeth@moe.edu.sg</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sup>Mdm Shanmugavadivu</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>Operations Support Officer</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>NIL</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sup>Mdm Gong Liping</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>Operations Support Officer</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>NIL</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sup>Mdm Chua Chen Nai</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>Operations Support Officer</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>NIL</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sup>Mdm Lee Hong Choo</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>Operations Support Officer</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>NIL</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sup>Mr Chua Jun Wei</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>Desktop Engineer</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>de-ncs7112sde@ncs.com.sg</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sup>Ms Kismita</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>Desktop Engineer</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>de-ncs7112sde@ncs.com.sg</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sup>Mr Fung Ming Ching Simon</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>ICT Executive</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>fung_ming_ching@moe.edu.sg</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sup>Mdm Lee Gek Neo Rina</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>Receptionist</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>lee_gek_neo_rina@moe.edu.sg</sup>
+</p>
 </td>
 </tr>
 </tbody>
