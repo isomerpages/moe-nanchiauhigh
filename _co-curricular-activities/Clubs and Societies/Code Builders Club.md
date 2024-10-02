@@ -10,7 +10,7 @@ third_nav_title: Clubs and Societies
 </div>
 <p><strong>Training Venue</strong>
 </p>
-<p>Friday, 3.30pm – 5.30pm</p>
+<p>Friday, 3 pm to 5.30 pm</p>
 <p>Computer Lab and I<sup>3</sup> Space</p>
 <p><strong>Teachers-in-Charge</strong>
 </p>
