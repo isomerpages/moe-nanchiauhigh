@@ -14,13 +14,27 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Loh Jasmine</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Admin Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: loh_jasmine_A@moe.edu.sg</p>
+<p>loh_jasmine_A@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -31,7 +45,7 @@ variant: tiptap
 <p>Admin Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: lim_tian_tian@moe.edu.sg</p>
+<p>lim_tian_tian@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -42,7 +56,7 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: teo_nguan_wee@moe.edu.sg</p>
+<p>teo_nguan_wee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +67,7 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: koh_wei_tze_john@moe.edu.sg</p>
+<p>koh_wei_tze_john@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +78,7 @@ variant: tiptap
 <p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: aizuddin_hassan_shamsuddin@moe.edu.sg</p>
+<p>aizuddin_hassan_shamsuddin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -75,7 +89,7 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: woon_ai_gee@moe.edu.sg</p>
+<p>woon_ai_gee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -86,7 +100,7 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: norwadiana_ahmad@moe.edu.sg</p>
+<p>norwadiana_ahmad@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +122,7 @@ variant: tiptap
 <p>Technical Support Officer (Science Labs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: yee_may_may@moe.edu.sg</p>
+<p>yee_may_may@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -119,7 +133,7 @@ variant: tiptap
 <p>Technical Support Officer (Science Labs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: lim_zhenyi@moe.edu.sg</p>
+<p>lim_zhenyi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -130,7 +144,7 @@ variant: tiptap
 <p>Technical Support Officer (D&amp;T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: muhamad_kamel_hussein@moe.edu.sg</p>
+<p>muhamad_kamel_hussein@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -141,7 +155,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: NIL</p>
+<p>NIL</p>
 </td>
 </tr>
 <tr>
@@ -152,7 +166,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: teo_swee_ling_elizabeth@moe.edu.sg</p>
+<p>teo_swee_ling_elizabeth@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -163,7 +177,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: NIL</p>
+<p>NIL</p>
 </td>
 </tr>
 <tr>
@@ -174,7 +188,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: NIL</p>
+<p>NIL</p>
 </td>
 </tr>
 <tr>
@@ -185,7 +199,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: NIL</p>
+<p>NIL</p>
 </td>
 </tr>
 <tr>
@@ -196,7 +210,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: NIL</p>
+<p>NIL</p>
 </td>
 </tr>
 <tr>
@@ -207,7 +221,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: de-ncs7112sde@ncs.com.sg</p>
+<p>de-ncs7112sde@ncs.com.sg</p>
 </td>
 </tr>
 <tr>
@@ -218,7 +232,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: de-ncs7112sde@ncs.com.sg</p>
+<p>de-ncs7112sde@ncs.com.sg</p>
 </td>
 </tr>
 <tr>
@@ -229,7 +243,7 @@ variant: tiptap
 <p>ICT Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: fung_ming_ching@moe.edu.sg</p>
+<p>fung_ming_ching@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -240,7 +254,7 @@ variant: tiptap
 <p>Receptionist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: lee_gek_neo_rina@moe.edu.sg</p>
+<p>lee_gek_neo_rina@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
