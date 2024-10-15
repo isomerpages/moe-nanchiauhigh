@@ -11,6 +11,7 @@ variant: tiptap
 <br>As there are limited parking spaces, guests are encouraged to park their
 vehicles at the nearby HDB multi-storey car parks (MSCP 304, MSCP 321 &amp;
 MSCP 319).</p>
+<p>No registration is need. All are welcome!!!</p>
 <p><strong>Frequently Asked Questions</strong>
 <br><a href="https://drive.google.com/file/d/1zUiOWKVFNCxPSeuWDCpbksodN4YTUOaL/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Click here to view</a>
 </p>
