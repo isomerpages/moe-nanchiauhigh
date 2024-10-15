@@ -17,8 +17,8 @@ sections:
         - title: Resources
           description: ""
           url: https://www.nanchiauhigh.moe.edu.sg/our-resources/Students-Resources/
-        - title: 2024 DSA Exercise
+        - title: NCHS Open House 2024
           description: ""
-          url: https://www.nanchiauhigh.moe.edu.sg/our-resources/Admission-to-NCHS/Direct-School-Admission-Exercise/
+          url: https://www.nanchiauhigh.moe.edu.sg/nchs-highlights/open-house-2024/
       background: /images/HR2_5mb.gif
 ---
