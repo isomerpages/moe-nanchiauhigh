@@ -4,6 +4,20 @@ permalink: /our-resources/Students-Resources/
 description: ""
 variant: tiptap
 ---
+<p><strong>Sec 3 Extended Programme (28 Oct to 8 Nov 2024) </strong>
+<br><a href="https://drive.google.com/file/d/1fEPTercVhBt0RF36MwRoypXIuFR-K9KD/view?usp=drive_link" rel="noopener nofollow" target="_blank"><u>Sec 3 Extended Programme (28 Oct to 8 Nov 2024)</u></a> *<strong><em>NEW</em></strong>
+<br><em>Instruction to students:<br></em>(1) All lessons are conducted in
+school unless stated otherwise.
+<br>(2) Be punctual for your all lessons.
+<br>(3) All lessons will be conducted in your own classroom unless stated
+otherwise.
+<br>(4) You are to wear school uniform or half-school uniform and school shoes
+when reporting to school for lessons.
+<br>(5) Students who are absent from lessons are to submit a picture of their
+Medical Certificate/ parents' letter to their FT.
+<br>(6) School Canteen will <strong>not</strong> be opened. Please bring along
+your own snack for break if necessary.</p>
+<p></p>
 <p><strong>Timetables</strong>
 </p>
 <p><a href="https://drive.google.com/file/d/1P6kGRuv3_Y7aW1myPbv4oZQQGOGuS08u/view?usp=drive_link" rel="noopener nofollow" target="_blank">2024 End of Year Post Exam Programme (Sec 1)</a> 
