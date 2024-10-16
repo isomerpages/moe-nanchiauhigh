@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <p><strong>Sec 3 Extended Programme (28 Oct to 8 Nov 2024) </strong>
-<br><a href="https://drive.google.com/file/d/1fEPTercVhBt0RF36MwRoypXIuFR-K9KD/view?usp=drive_link" rel="noopener nofollow" target="_blank">Sec 3 Extended Programme (28 Oct to 8 Nov 2024)</a> *<strong><em>NEW</em></strong>
+<br><a href="https://drive.google.com/file/d/1fEPTercVhBt0RF36MwRoypXIuFR-K9KD/view?usp=drive_link" rel="noopener nofollow" target="_blank">Programme</a> *<strong><em>NEW</em></strong>
 <br><em>Instruction to students:<br></em>(1) All lessons are conducted in
 school unless stated otherwise.
 <br>(2) Be punctual for your all lessons.
