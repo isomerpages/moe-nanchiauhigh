@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p><strong>(For 2024 Sec2 Students Only)</strong>
-<br><a href="https://forms.moe.edu.sg/forms/vXRyPx" rel="noopener nofollow" target="_blank">Sec3 Subject Combination Exercise</a>
+<br><a href="https://forms.moe.edu.sg/forms/vXRyPx" rel="noopener nofollow" target="_blank">Sec3 Subject Combinations Exercise</a>
 <br><strong><em>Note: This link opens from 1300h, 18 Oct 2024 (Fri) [after the subject combination exercise briefing] and closes on 1700h, 23 Oct 2024 (Wed).</em></strong>
 </p>
 <p></p>
