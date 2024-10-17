@@ -8,6 +8,9 @@ variant: tiptap
 <br><a href="https://forms.moe.edu.sg/forms/vXRyPx" rel="noopener nofollow" target="_blank">Sec3 Subject Combinations Exercise</a>
 <br><strong><em>Note: This link opens from 1300h, 18 Oct 2024 (Fri) [after the subject combination exercise briefing] and closes on 1700h, 23 Oct 2024 (Wed).</em></strong>
 </p>
+<p><strong>Results for Sec3 Subject Combinations Exercise: [Link not opened yet] </strong>
+<br><strong>Note: This link to results will only be released between 4 Nov and 6 Nov 2024.</strong>
+</p>
 <p></p>
 <p><strong>Sec 3 Extended Programme (28 Oct to 8 Nov 2024) </strong>
 <br><a href="https://drive.google.com/file/d/1fEPTercVhBt0RF36MwRoypXIuFR-K9KD/view?usp=drive_link" rel="noopener nofollow" target="_blank"><u>Programme</u></a> *<strong><em>NEW</em></strong>
