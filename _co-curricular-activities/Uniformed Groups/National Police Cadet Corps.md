@@ -18,7 +18,7 @@ variant: markdown
 •	Ms Claire Low<br>
 •	Mdm Ainul Hani<br>
 •	Mr Yong Keen Whye<br>
-•	Mr Lin Wenwei<br>
+
 
 
 **KEY INFORMATION**<br>
