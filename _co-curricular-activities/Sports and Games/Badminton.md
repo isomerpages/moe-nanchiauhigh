@@ -40,7 +40,7 @@ Venue: ISH2
 
 
 *  Mr Clarence Choo (OIC)  
-*    Mrs Chia (Kate)
+*    Mdm Meena Malinder (2025), Mrs Kate Chia (2024)
 		
 **KEY INFORMATION**
 
@@ -67,7 +67,6 @@ Annual CCA Camp<br>
 Umpiring workshop<br>
 Friendly matches<br>
 Fitness Conditioning<br>
-National School Games (NSG) Badminton (North Zone) for both B &amp; C Divisions<br>
 Modified Inter-Class Badminton Competition<br>
 Sports Education Programme (SEP)
 
