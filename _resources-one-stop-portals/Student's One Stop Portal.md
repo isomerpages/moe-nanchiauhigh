@@ -5,15 +5,9 @@ description: ""
 variant: tiptap
 ---
 <p><strong>(For 2024 Sec2 Students Only)</strong>
-<br><a href="https://forms.moe.edu.sg/forms/vXRyPx" rel="noopener nofollow" target="_blank">Sec3 Subject Combinations Exercise</a>
-<br><strong><em>Note: </em></strong>
-<br><strong><em>1. This link opens from 1300h, 18 Oct 2024 (Fri) [after the subject combination exercise briefing] and closes on <u>1400h, 25 Oct 2024 (Fri)</u>. </em></strong>
-<br><strong><em>2. Closing date for submission has been extended to 1400h, 25 Oct 2024 (Fri) instead.</em></strong>
-<br>
-</p>
-<p><strong>Results for 2025 Sec3 Subject Combinations Exercise: </strong>
-<br><strong><u>[Link will be released here] </u></strong>
-<br><strong>Note: This link to results will only be released between 4 Nov and 6 Nov 2024.</strong>
+<br><strong>Results for 2025 Sec3 Subject Combinations Exercise: </strong>
+<br><strong><u>[</u></strong><a href="https://forms.moe.edu.sg/forms/vV58Mz" rel="noopener nofollow" target="_blank">Click here to access the allocation results</a><strong><u>] </u></strong>
+<br><strong>Note: This link to results will only work from 0800h, 04 Nov 2024 (Mon).</strong>
 </p>
 <p></p>
 <p><strong>Sec 3 Extended Programme (28 Oct to 8 Nov 2024) </strong>
