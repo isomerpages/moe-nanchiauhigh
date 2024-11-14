@@ -40,21 +40,9 @@ and participate productively.</p>
 <p>This is enabled by the provision of a Personal Learning Device (PLD) for
 every student. The school has chosen iPad as the school prescribed PLD
 for our Secondary one student.</p>
-<p>Please read this <a href="https://sites.google.com/moe.edu.sg/nchs-edtechpop/pld-matters/letter-to-parents-for-2024-sec1-pld" rel="noopener noreferrer nofollow" target="_blank">letter</a> and&nbsp;
-<a href="https://sites.google.com/moe.edu.sg/nchs-edtechpop/pld-matters/pld-initiative" rel="noopener noreferrer nofollow" target="_blank">Infographic on the NCHS PLD Initiative 2024</a>&nbsp;on the important
-information about the PLD for your child/ward before submitting your option
-below.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>For Singapore Citizens,&nbsp;<a href="https://go.gov.sg/pdlpadmin" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;to indicate if you
-would like to purchase a PLD with the school bulk purchase by 31 Dec 2023.</p>
-</li>
-<li>
-<p>For Permanent Residents/International Students, we will send to your email
-indicated in the e-Registration form the softcopy letter to be printed,
-signed and passed to your child’s/ward’s Form Teacher by 03 Jan 2024 (Wed).</p>
-</li>
-</ul>
+<p>Our 2025 Sec1 students will only receive their PLDs in Term 2, 2025.</p>
+<p>We will send out more information about this purchase of the PLD with
+the school bulk purchase via Parents Gateway (PG) in Term 1, 2025.</p>
 <h1><strong>Section E: First Day of School</strong></h1>
 <p>Reporting time is at <strong>7.30am</strong> and dismissal for the 1st day
 of school (<strong>2 Jan 2024</strong>) will be at <strong>2.00pm</strong>.
