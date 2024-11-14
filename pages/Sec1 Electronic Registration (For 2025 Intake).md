@@ -45,7 +45,7 @@ for our Secondary one student.</p>
 the school bulk purchase via Parents Gateway (PG) in Term 1, 2025.</p>
 <h1><strong>Section E: First Day of School</strong></h1>
 <p>Reporting time is at <strong>7.30am</strong> and dismissal for the 1st day
-of school (<strong>2 Jan 2024</strong>) will be at <strong>2.00pm</strong>.
+of school (<strong>2 Jan 2025</strong>) will be at <strong>2.00pm</strong>.
 No visitors/parents are allowed in school. As the traffic is heavy, we
 encourage all students to arrive early and report at the school quadrangle,
 next to the canteen. Our Sec 1 teachers will be there to welcome the students.&nbsp;</p>
@@ -343,16 +343,16 @@ us at&nbsp;<a href="mailto:nchs@moe.edu.sg" rel="noopener noreferrer nofollow" t
 <p>Please provide details on your inquiry:</p>
 <h1><strong>For Appeal to NCHS</strong></h1>
 <p>Please submit your appeal form via the following link:&nbsp;<a href="https://go.gov.sg/nchs-s1appeal2024" rel="noopener noreferrer nofollow" target="_blank">Sec1 Appeal (for 2024 intake)</a>
-<br>(This link is only active from 20 Dec 2023 to 12p.m. on 26 Dec 2023.)</p>
+<br>(This link is only active from 20 Dec 2024 to 12p.m. on 26 Dec 2024.)</p>
 <p><strong><u>Notes:&nbsp;</u></strong>
 <br>1. The personal information provided in this form will be solely used
 for the purpose of appealing for secondary school transfer&nbsp;based on
 non-medical reasons.&nbsp; &nbsp;&nbsp;
-<br>2. The deadline for the submission of appeals is&nbsp;<strong><u>12p.m. on 26 Dec 2023</u></strong>.&nbsp;
+<br>2. The deadline for the submission of appeals is&nbsp;<strong><u>12p.m. on 26 Dec 2024</u></strong>.&nbsp;
 Late submission will not be allowed.&nbsp;
 <br>3. Schools will not disclose reasons for selection / non-selection of
 students.&nbsp;&nbsp;
 <br>4. Students should still report to the posted secondary school on 2 Jan
-2024.&nbsp;
+2025.&nbsp;
 <br>5. The application is deemed to be unsuccessful if you do not hear from
-the school by 2 Jan 2024.</p>
+the school by 2 Jan 2025.</p>
