@@ -30,12 +30,13 @@ uniform online and arrange for home delivery.</p>
 <h1><strong>Section D: Purchase of Personal Learning Device</strong></h1>
 <p>In alignment with the vision of the MOE EdTech Masterplan 2030 “Technology-transformed
 learning, to prepare students for a technology-transformed world", our
-NCHS NDLP creates opportunities and curates experiences for all Sec 1 to
-4 NCzens to develop their digital literacy competencies to create, curate
-and connect information in the digital networked environment. Regular engagement
-in these interactions will enable NCzens to develop an understanding of
-the social practices (tacit norms and skills) governing the Web and be
-equipped with the knowledge and skills to navigate and participate productively.</p>
+NCHS National Digital Literacy Programme creates opportunities and curates
+experiences for all Sec 1 to 4 NCzens to develop their digital literacy
+competencies to create, curate and connect information in the digital networked
+environment. Regular engagement in these interactions will enable NCzens
+to develop an understanding of the social practices (tacit norms and skills)
+governing the Web and be equipped with the knowledge and skills to navigate
+and participate productively.</p>
 <p>This is enabled by the provision of a Personal Learning Device (PLD) for
 every student. The school has chosen iPad as the school prescribed PLD
 for our Secondary one student.</p>
