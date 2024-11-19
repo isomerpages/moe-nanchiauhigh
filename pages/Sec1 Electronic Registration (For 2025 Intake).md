@@ -134,17 +134,19 @@ and/or Instagram page.</p>
 <p>Should there be a need to contact your child/ward during SOOC, you may
 contact the school general office directly.</p>
 <h1><strong>Section G: Sec One CCA exploRace</strong></h1>
-<p>As part of SOOC, all Sec 1s will join the CCA exploRACE, organised by
-Sec 3 FALCONS. Through hands-on activities, Sec 1s can achieve a deeper
-understanding about NCHS CCA culture and make a better informed decision
-for their CCA application.</p>
-<p>CCA exploRACE will be conducted on 4 Jan 2024 (SOOC Day 2) and 5 Jan 2024
-(SOOC Day 3). Reporting time is at 2.40pm in the Hall. Groupings will be
-disseminated on SOOC Day 2 to OGLs and pasted up in their respective classrooms.&nbsp;</p>
-<p><a href="https://sites.google.com/moe.edu.sg/cca-explorace?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Click here</a> to
-browse through the e-brochures and videos produced by our CCAs, and indicate
-preference for exploRACE groups.</p>
-<p>Note: exploRACE is a compulsory school event for all Sec 1s.</p>
+<p>The CCA exploRACE offers Secondary 1 students the chance to learn more
+about the various CCAs and their unique cultures at NCHS, helping them
+make informed decisions during the CCA application process. Organised and
+executed by their seniors, the Sec 3 FALCONS, including all CCA Presidents
+and Vice-Presidents, the Sec 1s will participate in a series of activities
+and sharings by their CCA seniors.</p>
+<p>The CCA exploRACE will be one of the key activities during SOOC 2025,
+taking place on 9 January 2025 (SOOC Day 2) and 10 January 2025 (SOOC Day
+3). Reporting time is at 2.40pm in the Hall on 9 Jan. Students will be
+grouped according to their classes, and will be guided by the FALCONS around
+the school to their respective venues.</p>
+<p><a href="https://sites.google.com/moe.edu.sg/cca-explorace?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a>&nbsp;to
+browse through the e-brochures and videos produced by our CCAs.</p>
 <h1><strong>Section H: Sec One Parent Engagement Session</strong></h1>
 <p>All parents of Sec 1 students are invited to an in-person engagement session
 on the last day of SOOC:</p>
@@ -212,10 +214,7 @@ connect with us, we love to hear from you!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 apply for the rental of lockers.</p>
 <h1><strong>Section K: POSB Smart Buddy (Optional)</strong></h1>
 <p><a href="https://www.nanchiauhigh.moe.edu.sg/files/POSB%20Smart%20Buddy_Intro%20Deck%20for%20Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;for
-the introduction deck to POSB Smart Buddy.
-<br>
-<br><a href="https://www.nanchiauhigh.moe.edu.sg/files/Smart%20Buddy%20Registration%20Letter%20(Secondary-Online).pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;for
-the application form for POSB Smart Buddy.</p>
+the introduction deck to POSB Smart Buddy.</p>
 <h1><strong>Further Enquiries</strong></h1>
 <p>You may check out our “FAQs for Parents” section and briefing resources&nbsp;
 <a href="https://sites.google.com/moe.edu.sg/sec1-admissions-faqs/faqs-for-parents" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
