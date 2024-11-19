@@ -50,13 +50,13 @@ The details of the class allocation will also be sent to your child’s iCON
 email address (or the one they indicated during this e-Registration) no
 later than Monday, 1st Jan 2025.</p>
 <h1><strong>Section F: Sec One Orientation Camp (SOOC)</strong></h1>
-<p>From 3 Jan to 5 Jan 2024, Sec 1s will follow a customized orientation
+<p>From 8 Jan to 10 Jan 2025, Sec 1s will follow a customized orientation
 programme instead of the official school timetable.&nbsp;</p>
 <p>The objectives of Sec One Orientation Camp:
-<br>1.To immerse into the vibrant NCHS school culture.&nbsp;
-<br>2.To establish meaningful relationships with peers, seniors and teachers.
-<br>3.To acquire functional knowledge and skills for a smooth transition into
-secondary school.&nbsp;</p>
+<br>1. To immerse in the vibrant NCHS school culture.&nbsp;
+<br>2. To establish meaningful relationships with peers, seniors and teachers.
+<br>3. To acquire functional knowledge and skills for a smooth transition
+into secondary school.&nbsp;</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
