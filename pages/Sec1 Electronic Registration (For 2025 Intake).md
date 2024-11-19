@@ -150,6 +150,15 @@ browse through the e-brochures and videos produced by our CCAs.</p>
 <h1><strong>Section H: Sec One Parent Engagement Session</strong></h1>
 <p>All parents of Sec 1 students are invited to an in-person engagement session
 on the last day of SOOC:</p>
+<p></p>
+<p><strong><u>Session with Special Educational Needs Officer (SENO), School Counsellor (SC), and Education Career Guidance Counsellor (ECGC)</u></strong>
+</p>
+<p>Time: 4:00 pm – 4:45 pm</p>
+<p>Venue: Level 4 Meeting Room (in-person) OR Level 2 classrooms by form
+class (via MS Teams)</p>
+<p></p>
+<p><strong><u>Session with the Principal, Assistant Year Head, HOD ICT, and SH PE &amp; CCA on student matters, including Form Teacher Interaction Time</u></strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -161,7 +170,7 @@ on the last day of SOOC:</p>
 <p>Date</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>5 Jan 2024 (Friday)</strong>
+<p><strong>10 Jan 2025 (Friday)</strong>
 </p>
 </td>
 </tr>
@@ -179,7 +188,7 @@ on the last day of SOOC:</p>
 <p>Location</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level 3 classrooms</p>
+<p>Level 2 classrooms by Form Class</p>
 </td>
 </tr>
 <tr>
@@ -187,40 +196,36 @@ on the last day of SOOC:</p>
 <p>Agenda</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sharing by Principal and HODs, as well as interactions with Form Teachers</p>
+<p>Principal’s Address
+<br>Student Development and Academic Sharing
+<br>ICT/PLD Matters
+<br>CCA Matters
+<br>Form Teacher Interaction
+<br>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>Please indicate your interest to attend the Parent Engagement Session
 via the Online Registration Form (in Section A).</p>
-<h1><strong>Section I: Parent Support Group</strong></h1>
-<p>The NCHS PSG Exco Team of 2023/2024 look forward to working in partnership
-with the school and parents to nurture the holistic development of our
-children. We connect with you through level chat groups as well as social
-media platforms to effectively share our valuable experiences and journeys
-as Parents of NCHS students. Do use the link <a href="https://docs.google.com/forms/d/1n5D8QqQJXXfBi-UMyu8YJIl_xjqip1b_GxkHAOEkaYQ/viewform?edit_requested=true" rel="noopener noreferrer nofollow" target="_blank"><u>here </u></a>&nbsp;or <em><u>QR code</u></em> to
-connect with us, we love to hear from you!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/2024_PSG.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024_PSG1.jpg">
 </div>
-<h1><strong>Section J: Rental of Lockers (Optional)</strong></h1>
+<h1><strong>Section I: Rental of Lockers (Optional)</strong></h1>
 <p>Lockers are not compulsory.&nbsp;
 <br><a href="https://docs.google.com/forms/d/e/1FAIpQLScQSBOtCXphFMbTBaz5jHnFkSgjSeklzHA2yR-cMLQ_-8RNjQ/closedform" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;to
 apply for the rental of lockers.</p>
-<h1><strong>Section K: POSB Smart Buddy (Optional)</strong></h1>
+<h1><strong>Section J: POSB Smart Buddy (Optional)</strong></h1>
 <p><a href="https://www.nanchiauhigh.moe.edu.sg/files/POSB%20Smart%20Buddy_Intro%20Deck%20for%20Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;for
 the introduction deck to POSB Smart Buddy.</p>
 <h1><strong>Further Enquiries</strong></h1>
-<p>You may check out our “FAQs for Parents” section and briefing resources&nbsp;
-<a href="https://sites.google.com/moe.edu.sg/sec1-admissions-faqs/faqs-for-parents" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>For any further enquiries (not related to appeal matters), you may email
-us at&nbsp;<a href="mailto:nchs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nchs@moe.edu.sg</a>&nbsp;(from
-21 Dec to 30 Dec 2023). You may use the format provided below:</p>
+us at&nbsp;<a href="mailto:nchs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nchs@moe.edu.sg</a>.
+You may use the format provided below:</p>
 <p>Name of parent/guardian:
 <br>Your Mobile Contact:
 <br>Your Email Contact:
@@ -234,13 +239,14 @@ us at&nbsp;<a href="mailto:nchs@moe.edu.sg" rel="noopener noreferrer nofollow" t
 <br>e) Others: (Please specify)</p>
 <p>Please provide details on your inquiry:</p>
 <h1><strong>For Appeal to NCHS</strong></h1>
-<p>Please submit your appeal form via the following link:&nbsp;<a href="https://go.gov.sg/nchs-s1appeal2024" rel="noopener noreferrer nofollow" target="_blank">Sec1 Appeal (for 2024 intake)</a>
-<br>(This link is only active from 20 Dec 2024 to 12p.m. on 26 Dec 2024.)</p>
+<p>Please submit your appeal form via the following link:&nbsp;<a href="https://go.gov.sg/nchs-s1appeal2025" rel="noopener noreferrer nofollow" target="_blank">Sec1 Appeal (for 2025 intake)</a>
+<br>(This link is only active from date of school posting results release
+for five calendar days.)</p>
 <p><strong><u>Notes:&nbsp;</u></strong>
 <br>1. The personal information provided in this form will be solely used
 for the purpose of appealing for secondary school transfer&nbsp;based on
 non-medical reasons.&nbsp; &nbsp;&nbsp;
-<br>2. The deadline for the submission of appeals is&nbsp;<strong><u>12p.m. on 26 Dec 2024</u></strong>.&nbsp;
+<br>2. The deadline for the submission of appeals is&nbsp;<strong><u>5 calendar days after the release of school posting results</u></strong>.&nbsp;
 Late submission will not be allowed.&nbsp;
 <br>3. Schools will not disclose reasons for selection / non-selection of
 students.&nbsp;&nbsp;
