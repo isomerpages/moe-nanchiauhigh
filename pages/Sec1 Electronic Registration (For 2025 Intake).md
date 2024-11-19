@@ -57,110 +57,10 @@ programme instead of the official school timetable.&nbsp;</p>
 <br>2. To establish meaningful relationships with peers, seniors and teachers.
 <br>3. To acquire functional knowledge and skills for a smooth transition
 into secondary school.&nbsp;</p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 Jan, Tue</p>
-<p><strong>Normal Lesson</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Jan, Wed</p>
-<p>SOOC Day 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4 Jan, Thu</p>
-<p>SOOC Day 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 Jan, Fri</p>
-<p>SOOC Day 3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Reporting Time</strong>
-</p>
-</td>
-<td rowspan="1" colspan="4">
-<p>7.30am</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Reporting Venue</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Quadrangle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Hall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Quadrangle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Quadrangle</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Reporting Attire</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCHS Uniform (White Shirt / Blouse)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PE Attire</p>
-<p>(T-shirt &amp; Shorts)</p>
-<p>
-<br>
-</p>
-<p>Bring along your school tie.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PE Attire</p>
-<p>(T-shirt &amp; Shorts)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SOOC Camp T-Shirt&nbsp;</p>
-<p>(to be distributed on 3rd Jan)</p>
-<p>&amp; PE Shorts</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Dismissal Time</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Follow timetable</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8.30pm</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Sec1_SOOC.png">
+</div>
 <p></p>
 <p><strong><u>Daily packing list for SOOC</u></strong>
 <br>In a small bag,</p>
@@ -175,7 +75,7 @@ into secondary school.&nbsp;</p>
 <p>Writing materials</p>
 </li>
 <li>
-<p>Money for meals – no more than $15 /day (Own purchases for 1 x Recess,
+<p>Money for meals – no more than $10 /day (Own purchases for 1 x Recess,
 1 x Lunch)</p>
 </li>
 <li>
@@ -196,7 +96,7 @@ SOOC!</p>
 <p>Date</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>5 Jan 2024 (Friday)</strong>
+<p><strong>10 Jan 2025 (Friday)</strong>
 </p>
 </td>
 </tr>
@@ -222,7 +122,8 @@ SOOC!</p>
 <p>Remarks</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Only light refreshment will be provided.</p>
+<p>Please bring along your own drinking water. Only light refreshment will
+be provided.</p>
 </td>
 </tr>
 </tbody>
