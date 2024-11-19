@@ -9,7 +9,7 @@ our Nan Chiau High family!</p>
 <p><strong>To prepare the start of your Secondary School journey with us, please look through the information detailed below and assist us with an online registration form to be filled by you/your child.</strong>
 </p>
 <h1><strong>Section A: Online Registration</strong></h1>
-<p>Please complete <a href="https://go.gov.sg/nchs-2025s1reg" rel="noopener noreferrer nofollow" target="_blank">this form</a>  <strong><u>by 5p.m. on 21 Dec 2024</u></strong>.
+<p>Please complete <a href="https://go.gov.sg/nchs-2025s1reg" rel="noopener noreferrer nofollow" target="_blank">this form</a>  <strong><u>by 5p.m. of the day after the day of release of School Posting results in Dec 2024</u></strong>.
 <br>(This link will only be active on the day of release of School Posting
 results.)</p>
 <h1><strong>Section B: Purchase of Textbooks and Stationery for Sec 1</strong></h1>
@@ -17,16 +17,8 @@ results.)</p>
 vendor, Overseas Associates Pte Ltd. You may place order via the online
 platform or make an appointment for walk-in or FAS appointments, at <a href="https://www.oapl.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.oapl.sg/</a>.</p>
 <h1><strong>Section C: Purchase of Uniform and PE attire for Sec 1</strong></h1>
-<p>Please note that our uniform and PE attire are supplied by our school
-uniform vendor, My Uniform Shop (ASIA) Pte Ltd. You may place order using
-the links below:</p>
-<p>Online Order Link: <a href="https://www.myuniformshop.com.sg/shop-now" rel="noopener noreferrer nofollow" target="_blank">https://www.myuniformshop.com.sg/shop-now</a>&nbsp;
-<br>Buying Guide: <a href="https://www.myuniformshop.com.sg/buying-guide" rel="noopener noreferrer nofollow" target="_blank">https://www.myuniformshop.com.sg/buying-guide</a>&nbsp;</p>
-<p>Information on uniform sales: <a href="https://drive.google.com/file/d/1cAoTkMzYZ9EvDU5yWyNiMh8MKc1JhZN3/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/1cAoTkMzYZ9EvDU5yWyNiMh8MKc1JhZN3/view?usp=drive_link</a>&nbsp;</p>
-<p>Please note that a new account needs to be created for the online purchase
-and the account verification processing time may take around 1-2 days.
-All parents and students are strongly encouraged to purchase the school
-uniform online and arrange for home delivery.</p>
+<p>Please click <a href="https://drive.google.com/file/d/1jOQC8AndPN0prz9kqL5UhRFyX62WU57_/view?usp=drive_link" rel="noopener nofollow" target="_blank">HERE</a> for
+the details.</p>
 <h1><strong>Section D: Purchase of Personal Learning Device</strong></h1>
 <p>In alignment with the vision of the MOE EdTech Masterplan 2030 “Technology-transformed
 learning, to prepare students for a technology-transformed world", our
