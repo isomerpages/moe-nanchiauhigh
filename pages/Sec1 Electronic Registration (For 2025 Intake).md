@@ -32,23 +32,23 @@ and participate productively.</p>
 <p>This is enabled by the provision of a Personal Learning Device (PLD) for
 every student. The school has chosen iPad as the school prescribed PLD
 for our Secondary one student.</p>
-<p>Our 2025 Sec1 students will only receive their PLDs in Term 2, 2025.</p>
 <p>We will send out more information about this purchase of the PLD with
-the school bulk purchase via Parents Gateway (PG) in Term 1, 2025.</p>
+the school bulk purchase via Parents Gateway (PG) in Term 1, 2025. Do note
+that our 2025 Sec1 students will only purchase and receive their PLDs in <strong>Term 2</strong>,
+2025.</p>
 <h1><strong>Section E: First Day of School</strong></h1>
-<p>Reporting time is at <strong>7.30am</strong> and dismissal for the 1st day
-of school (<strong>2 Jan 2025</strong>) will be at <strong>2.00pm</strong>.
-No visitors/parents are allowed in school. As the traffic is heavy, we
-encourage all students to arrive early and report at the school quadrangle,
-next to the canteen. Our Sec 1 teachers will be there to welcome the students.&nbsp;</p>
+<p>Reporting time is at <strong>7.30am</strong>. No visitors/parents are allowed
+in school. As the traffic is heavy, we encourage all students to arrive
+early and report at the school quadrangle, next to the canteen. Our Sec
+1 teachers will be there to welcome the students.&nbsp;</p>
 <p>All Sec 1 students are to wear our school uniform (i.e. white shirt/blouse
 and short pants/skirt with black shoes). However, if you are not able to
 buy our school uniform on time, you may come in your primary school uniform.</p>
-<p>The 2024 timetable will be published on our school website (under 'Resources'
-&gt; 'Student's One Stop Portal') no later than Monday, 1st January 2024.
+<p>The 2025 timetable will be published on our school website (under 'Resources'
+&gt; 'Student's One Stop Portal') no later than Monday, 1st January 2025.
 The details of the class allocation will also be sent to your child’s iCON
 email address (or the one they indicated during this e-Registration) no
-later than Monday, 1st Jan 2024.</p>
+later than Monday, 1st Jan 2025.</p>
 <h1><strong>Section F: Sec One Orientation Camp (SOOC)</strong></h1>
 <p>From 3 Jan to 5 Jan 2024, Sec 1s will follow a customized orientation
 programme instead of the official school timetable.&nbsp;</p>
