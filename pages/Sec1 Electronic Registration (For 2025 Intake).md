@@ -37,10 +37,13 @@ the school bulk purchase via Parents Gateway (PG) in Term 1, 2025. Do note
 that our 2025 Sec1 students will only purchase and receive their PLDs in <strong>Term 2</strong>,
 2025.</p>
 <h1><strong>Section E: First Day of School</strong></h1>
-<p>Reporting time is at <strong>7.30am</strong>. No visitors/parents are allowed
-in school. As the traffic is heavy, we encourage all students to arrive
-early and report at the school quadrangle, next to the canteen. Our Sec
-1 teachers will be there to welcome the students.&nbsp;</p>
+<p>All students are expected to be seated at the school quadrangle (next
+to the canteen) no later than <strong>7.30am (Mondays to Fridays) </strong>for
+the flag-raising ceremony which commence at 7.35am. Students who are not
+with their class during flag-raising ceremony will be considered late.</p>
+<p>No visitors/parents are allowed in school. As the traffic is heavy, we
+encourage all students to arrive early and report at the school quadrangle.
+Our Sec 1 teachers will be there to welcome the students.&nbsp;</p>
 <p>All Sec 1 students are to wear our school uniform (i.e. white shirt/blouse
 and short pants/skirt with black shoes). However, if you are not able to
 buy our school uniform on time, you may come in your primary school uniform.</p>
@@ -77,6 +80,9 @@ into secondary school.&nbsp;</p>
 <li>
 <p>Money for meals – no more than $10 /day (Own purchases for 1 x Recess,
 1 x Lunch)</p>
+</li>
+<li>
+<p>Healthy pre-packed snacks (e.g. buns, biscuits, granola bars etc)</p>
 </li>
 <li>
 <p>Medication (if necessary) - labelled with name&nbsp;</p>
@@ -133,7 +139,7 @@ Form (in Section A). You can also find timely updates on the school Facebook
 and/or Instagram page.</p>
 <p>Should there be a need to contact your child/ward during SOOC, you may
 contact the school general office directly.</p>
-<h1><strong>Section G: Sec One CCA exploRace</strong></h1>
+<h1><strong>Section G: Sec One CCA exploRACE</strong></h1>
 <p>The CCA exploRACE offers Secondary 1 students the chance to learn more
 about the various CCAs and their unique cultures at NCHS, helping them
 make informed decisions during the CCA application process. Organised and
@@ -209,12 +215,6 @@ class (via MS Teams)</p>
 </table>
 <p>Please indicate your interest to attend the Parent Engagement Session
 via the Online Registration Form (in Section A).</p>
-<div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/2024_PSG.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024_PSG1.jpg">
-</div>
 <h1><strong>Section I: Rental of Lockers (Optional)</strong></h1>
 <p>Lockers are not compulsory.&nbsp;
 <br><a href="https://docs.google.com/forms/d/e/1FAIpQLScQSBOtCXphFMbTBaz5jHnFkSgjSeklzHA2yR-cMLQ_-8RNjQ/closedform" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;to
