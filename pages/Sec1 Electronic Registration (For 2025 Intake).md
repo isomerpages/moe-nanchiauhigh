@@ -79,6 +79,9 @@ into secondary school.&nbsp;</p>
 1 x Lunch)</p>
 </li>
 <li>
+<p>Healthy pre-packed snacks (e.g. buns, biscuits, granola bars etc)</p>
+</li>
+<li>
 <p>Medication (if necessary) - labelled with name&nbsp;</p>
 </li>
 </ul>
