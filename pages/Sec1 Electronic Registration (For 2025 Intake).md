@@ -215,12 +215,6 @@ class (via MS Teams)</p>
 </table>
 <p>Please indicate your interest to attend the Parent Engagement Session
 via the Online Registration Form (in Section A).</p>
-<div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/2024_PSG.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024_PSG1.jpg">
-</div>
 <h1><strong>Section I: Rental of Lockers (Optional)</strong></h1>
 <p>Lockers are not compulsory.&nbsp;
 <br><a href="https://docs.google.com/forms/d/e/1FAIpQLScQSBOtCXphFMbTBaz5jHnFkSgjSeklzHA2yR-cMLQ_-8RNjQ/closedform" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;to
