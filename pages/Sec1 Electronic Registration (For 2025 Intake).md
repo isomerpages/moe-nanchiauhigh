@@ -37,10 +37,13 @@ the school bulk purchase via Parents Gateway (PG) in Term 1, 2025. Do note
 that our 2025 Sec1 students will only purchase and receive their PLDs in <strong>Term 2</strong>,
 2025.</p>
 <h1><strong>Section E: First Day of School</strong></h1>
-<p>Reporting time is at <strong>7.30am</strong>. No visitors/parents are allowed
-in school. As the traffic is heavy, we encourage all students to arrive
-early and report at the school quadrangle, next to the canteen. Our Sec
-1 teachers will be there to welcome the students.&nbsp;</p>
+<p>All students are expected to be seated at the school quadrangle (next
+to the canteen) no later than <strong>7.30am (Mondays to Fridays) </strong>for
+the flag-raising ceremony which commence at 7.35am. Students who are not
+with their class during flag-raising ceremony will be considered late.</p>
+<p>No visitors/parents are allowed in school. As the traffic is heavy, we
+encourage all students to arrive early and report at the school quadrangle.
+Our Sec 1 teachers will be there to welcome the students.&nbsp;</p>
 <p>All Sec 1 students are to wear our school uniform (i.e. white shirt/blouse
 and short pants/skirt with black shoes). However, if you are not able to
 buy our school uniform on time, you may come in your primary school uniform.</p>
