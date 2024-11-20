@@ -136,7 +136,7 @@ Form (in Section A). You can also find timely updates on the school Facebook
 and/or Instagram page.</p>
 <p>Should there be a need to contact your child/ward during SOOC, you may
 contact the school general office directly.</p>
-<h1><strong>Section G: Sec One CCA exploRace</strong></h1>
+<h1><strong>Section G: Sec One CCA exploRACE</strong></h1>
 <p>The CCA exploRACE offers Secondary 1 students the chance to learn more
 about the various CCAs and their unique cultures at NCHS, helping them
 make informed decisions during the CCA application process. Organised and
