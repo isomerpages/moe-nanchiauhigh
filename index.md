@@ -17,8 +17,8 @@ sections:
         - title: Resources
           description: ""
           url: https://www.nanchiauhigh.moe.edu.sg/our-resources/Students-Resources/
-        - title: NCHS Open House 2024
+        - title: 2025 Sec1 Information
           description: ""
-          url: https://www.nanchiauhigh.moe.edu.sg/nchs-highlights/open-house-2024/
+          url: https://www.nanchiauhigh.moe.edu.sg/information-for-2025-sec1-students/
       background: /images/HR2_5mb.gif
 ---

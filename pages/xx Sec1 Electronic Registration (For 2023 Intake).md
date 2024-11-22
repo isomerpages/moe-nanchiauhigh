@@ -1,7 +1,8 @@
 ---
-title: Sec1 Electronic Registration (For 2023 Intake)
-permalink: /our-one-stop-portals/Admission-to-NCHS/permalink/
+title: xx Sec1 Electronic Registration (For 2023 Intake)
+permalink: /our-one-stop-portals/admission-to-nchs/permalink/
 description: ""
+variant: tiptap
 ---
 On behalf of all staff and students, we welcome you and your child to our Nan Chiau High family! 
 
