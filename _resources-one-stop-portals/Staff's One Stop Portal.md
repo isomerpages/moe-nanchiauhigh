@@ -8,11 +8,11 @@ variant: tiptap
 </p>
 <ul>
 <li>
-<p><a href="https://sites.google.com/moe.edu.sg/nchsedtech/home" rel="noopener noreferrer nofollow" target="_blank">NCHS Staff EdTECHpop </a><strong><em>*New EdTECH site from 2024 onwards*</em></strong>
+<p><a href="https://go.gov.sg/17technchs" rel="noopener noreferrer nofollow" target="_blank">17TECH@NCHS for Staff </a><strong><em>*New EdTECH PD site*</em></strong>
 </p>
 </li>
 <li>
-<p><a href="https://sites.google.com/moe.edu.sg/nchs-edtechpop/home" rel="noopener noreferrer nofollow" target="_blank">NCzens &amp; Parents' EdTECHpop</a>  <strong><em>*NEW from 2024 onwards*</em></strong> 
+<p><a href="https://sites.google.com/moe.edu.sg/nchs-edtechpop/home" rel="noopener noreferrer nofollow" target="_blank">NCzens &amp; Parents' EdTECHpop</a> 
 <br>--&gt; Available also in Students' and Parents' One Stop portals, this
 gives access to latest resources on PLD and DMA matters, and self-paced
 Digital and AI Literacy SLS lessons.</p>
