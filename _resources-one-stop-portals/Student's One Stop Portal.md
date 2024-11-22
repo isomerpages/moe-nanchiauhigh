@@ -8,7 +8,6 @@ variant: tiptap
 <br><a href="https://drive.google.com/file/d/1EEdDr3v6iG8sgkT2LyMWfLe5elYhM11K/view?usp=drive_link" rel="noopener nofollow" target="_blank">2024 End of Year Post Exam Programme</a> 
 <br>
 </p>
-<p></p>
 <p><strong>EdTech Resources for NCzens and Parents</strong> 
 <br><a href="https://sites.google.com/moe.edu.sg/nchs-edtechpop/home" rel="noopener noreferrer nofollow" target="_blank">NCzens &amp; Parents EdTECHpop</a> 
 <br>&gt;&gt; *About this site: Access for latest resources on PLD and DMA
