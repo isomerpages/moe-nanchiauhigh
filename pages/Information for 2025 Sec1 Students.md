@@ -9,7 +9,7 @@ Wednesday, 18 December 2024 and Friday, 20 December 2024 (<a href="https://www.m
 &nbsp;&nbsp;</p>
 <p><strong>Incoming 2025 Secondary 1 (S1) students DO NOT need to report to school on release of school posting day. </strong>Instead,
 registration for all students, including DSA students, will be done&nbsp;<u>online only</u> via&nbsp;
-<a href="https://www.acsindep.moe.edu.sg/admissions/s1-posting-exercise/" class="x_OWAAutoLink" rel="noopener noreferrer nofollow" target="_blank"><u>this webpage</u>
+<a href="https://www.nanchiauhigh.moe.edu.sg/permalink/nchs-2025s1/" class="x_OWAAutoLink" rel="noopener noreferrer nofollow" target="_blank"><u>this webpage</u>
 </a>. The registration form will be available ONLY FROM 10am onwards on the
 day of the release of posting results.&nbsp;</p>
 <p>Registration will run for three calendar days, closing at 10am on the
