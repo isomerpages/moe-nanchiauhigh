@@ -6,12 +6,13 @@ variant: tiptap
 ---
 <p>On behalf of all staff and students, we welcome you and your child to
 our Nan Chiau High family!</p>
-<p><strong>To prepare the start of your Secondary School journey with us, please look through the information detailed below and assist us with an online registration form to be filled by you/your child.</strong>
+<p><strong>To prepare the start of your Secondary School journey with us, please look through the information detailed below and complete the online registration form in Section A.</strong>
 </p>
 <h1><strong>Section A: Online Registration</strong></h1>
-<p>Please complete <a href="https://go.gov.sg/nchs-2025s1reg" rel="noopener noreferrer nofollow" target="_blank">this form</a>  <strong><u>by 5p.m. of the day after the day of release of School Posting results in Dec 2024</u></strong>.
-<br>(This link will only be active on the day of release of School Posting
-results.)</p>
+<p>Click here to complete <a href="https://go.gov.sg/nchs-2025s1reg" rel="noopener noreferrer nofollow" target="_blank">the online registration</a>.
+<br>(This link will be available ONLY FROM 10am onwards on the day of the
+release of posting results.&nbsp;This registration link will run for three
+calendar days, closing at 10am on the third day.)&nbsp;</p>
 <h1><strong>Section B: Purchase of Textbooks and Stationery for Sec 1</strong></h1>
 <p>Please note that our books and stationery are supplied by our school bookshop
 vendor, Overseas Associates Pte Ltd. You may place order via the online
