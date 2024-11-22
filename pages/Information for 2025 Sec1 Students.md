@@ -14,5 +14,5 @@ registration for all students, including DSA students, will be done&nbsp;<u>onli
 day of the release of posting results.&nbsp;</p>
 <p>Registration will run for three calendar days, closing at 10am on the
 third day.&nbsp;</p>
-<p>The booklist and information on the textbook and uniform vendors will
-also be available on the same webpage.</p>
+<p>The booklist and information on the uniform vendors will also be available
+on the same webpage.</p>
