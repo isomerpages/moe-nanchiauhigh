@@ -4,7 +4,7 @@ permalink: /information-for-2025-sec1-students/
 variant: tiptap
 description: ""
 ---
-<p>As announced by MOE, the S1 Posting Results will be made available on <strong>Wednesday, 18 December 2024</strong>  <strong>from 9am onwards</strong>,
+<p>As announced by MOE, the S1 Posting Results will be made available on <strong>Wednesday, 18 Dec 2024</strong>  <strong>from 9am onwards</strong>,
 to parents and students through the following channels:
 <br><strong>a.</strong> Short Message Service (SMS) via applicants’ local mobile
 number (if provided by applicant during the school choice submission period)
@@ -15,8 +15,8 @@ school choices - From 18 December 2024, 9am to 23 December 2024, 3pm.
 <p><strong>Incoming 2025 Secondary 1 (S1) students DO NOT need to report to school on release of school posting day. </strong>Instead,
 registration for all students, including DSA students, will be done&nbsp;online
 only via <a href="https://www.nanchiauhigh.moe.edu.sg/permalink/nchs-2025s1/" class="x_OWAAutoLink" rel="noopener noreferrer nofollow" target="_blank"><u>this webpage</u></a>.
-The registration form will be available on <strong>Wednesday, 18 December 2024</strong>  <strong>from 9am onwards</strong>.&nbsp;</p>
-<p>Registration will run for three calendar days, closing at 10am on the
-third day.&nbsp;</p>
+The registration link will be available <strong>from 9am, 18 Dec 2024 (Wed)</strong>&nbsp;and
+will <strong>close at 9am, 21 Dec 2024 (Sat)</strong>. Parents who miss
+this registration period will be required to write in to <a href="mailto:nchs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nchs@moe.edu.sg</u></a>.&nbsp;</p>
 <p>The booklist and information on the uniform vendors will also be available
 on the same webpage.</p>
