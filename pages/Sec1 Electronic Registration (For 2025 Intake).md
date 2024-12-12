@@ -10,9 +10,9 @@ our Nan Chiau High family!</p>
 </p>
 <h1><strong>Section A: Online Registration</strong></h1>
 <p>Click here to complete <a href="https://go.gov.sg/nchs-2025s1reg" rel="noopener noreferrer nofollow" target="_blank">the online registration</a>.
-<br>(This link will be available ONLY FROM 10am onwards on the day of the
-release of posting results.&nbsp;This registration link will run for three
-calendar days, closing at 10am on the third day.)&nbsp;</p>
+<br>This registration link will be available <strong>from 9am, 18 Dec 2024 (Wed)</strong>&nbsp;and
+will <strong>close at 9am on 21 Dec 2024 (Sat)</strong>. Parents who miss
+this registration period will be required to write in to <a href="mailto:nchs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nchs@moe.edu.sg</a>.&nbsp;</p>
 <h1><strong>Section B: Purchase of Textbooks and Stationery for Sec 1</strong></h1>
 <p>Please note that our books and stationery are supplied by our school bookshop
 vendor, Overseas Associates Pte Ltd. You may place order via the online
@@ -241,13 +241,13 @@ You may use the format provided below:</p>
 <p>Please provide details on your inquiry:</p>
 <h1><strong>For Appeal to NCHS</strong></h1>
 <p>Please submit your appeal form via the following link:&nbsp;<a href="https://go.gov.sg/nchs-s1appeal2025" rel="noopener noreferrer nofollow" target="_blank">Sec1 Appeal (for 2025 intake)</a>
-<br>(This link is only active from date of school posting results release
-for five calendar days.)</p>
+<br><strong>Note: This link is only active from 9am, 18 Dec 2024 (Wed) to 10pm, 22 Dec 2024 (Sun).</strong>
+</p>
 <p><strong><u>Notes:&nbsp;</u></strong>
 <br>1. The personal information provided in this form will be solely used
-for the purpose of appealing for secondary school transfer&nbsp;based on
-non-medical reasons.&nbsp; &nbsp;&nbsp;
-<br>2. The deadline for the submission of appeals is&nbsp;<strong><u>5 calendar days after the release of school posting results</u></strong>.&nbsp;
+for the purpose of appealing for secondary school transfer&nbsp;based on <u>non-medical reasons</u>.&nbsp;
+&nbsp;&nbsp;
+<br>2. The deadline for the submission of appeals is&nbsp;<strong><u>10pm, 22 Dec 2024 (Sun)</u></strong>.&nbsp;
 Late submission will not be allowed.&nbsp;
 <br>3. Schools will not disclose reasons for selection / non-selection of
 students.&nbsp;&nbsp;
