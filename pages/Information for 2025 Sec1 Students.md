@@ -13,10 +13,9 @@ using student’s BC/FIN and S1 PIN which was used for submission of the
 school choices - From 18 December 2024, 9am to 23 December 2024, 3pm.
 <br><strong>c.</strong> Students’ primary school &nbsp;&nbsp;</p>
 <p><strong>Incoming 2025 Secondary 1 (S1) students DO NOT need to report to school on release of school posting day. </strong>Instead,
-registration for all students, including DSA students, will be done&nbsp;<u>online only</u> via&nbsp;
-<a href="https://www.nanchiauhigh.moe.edu.sg/permalink/nchs-2025s1/" class="x_OWAAutoLink" rel="noopener noreferrer nofollow" target="_blank"><u>this webpage</u>
-</a>. The registration form will be available ONLY FROM 10am onwards on the
-day of the release of posting results.&nbsp;</p>
+registration for all students, including DSA students, will be done&nbsp;online
+only via <a href="https://www.nanchiauhigh.moe.edu.sg/permalink/nchs-2025s1/" class="x_OWAAutoLink" rel="noopener noreferrer nofollow" target="_blank"><u>this webpage</u></a>.
+The registration form will be available on <strong>Wednesday, 18 December 2024</strong>  <strong>from 9am onwards</strong>.&nbsp;</p>
 <p>Registration will run for three calendar days, closing at 10am on the
 third day.&nbsp;</p>
 <p>The booklist and information on the uniform vendors will also be available
