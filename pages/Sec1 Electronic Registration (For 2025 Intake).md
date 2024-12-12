@@ -245,8 +245,8 @@ You may use the format provided below:</p>
 </p>
 <p><strong><u>Notes:&nbsp;</u></strong>
 <br>1. The personal information provided in this form will be solely used
-for the purpose of appealing for secondary school transfer&nbsp;based on
-non-medical reasons.&nbsp; &nbsp;&nbsp;
+for the purpose of appealing for secondary school transfer&nbsp;based on <u>non-medical reasons</u>.&nbsp;
+&nbsp;&nbsp;
 <br>2. The deadline for the submission of appeals is&nbsp;<strong><u>10pm, 22 Dec 2024 (Sun)</u></strong>.&nbsp;
 Late submission will not be allowed.&nbsp;
 <br>3. Schools will not disclose reasons for selection / non-selection of
