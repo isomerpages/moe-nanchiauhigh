@@ -241,13 +241,13 @@ You may use the format provided below:</p>
 <p>Please provide details on your inquiry:</p>
 <h1><strong>For Appeal to NCHS</strong></h1>
 <p>Please submit your appeal form via the following link:&nbsp;<a href="https://go.gov.sg/nchs-s1appeal2025" rel="noopener noreferrer nofollow" target="_blank">Sec1 Appeal (for 2025 intake)</a>
-<br>(This link is only active from date of school posting results release
-for five calendar days.)</p>
+<br><strong>Note: This link is only active from 9am, 18 Dec 2024 (Wed) to 10pm, 22 Dec 2024 (Sun).</strong>
+</p>
 <p><strong><u>Notes:&nbsp;</u></strong>
 <br>1. The personal information provided in this form will be solely used
 for the purpose of appealing for secondary school transfer&nbsp;based on
 non-medical reasons.&nbsp; &nbsp;&nbsp;
-<br>2. The deadline for the submission of appeals is&nbsp;<strong><u>9am, 21 Dec 2024 (Sat)</u></strong>.&nbsp;
+<br>2. The deadline for the submission of appeals is&nbsp;<strong><u>10pm, 22 Dec 2024 (Sun)</u></strong>.&nbsp;
 Late submission will not be allowed.&nbsp;
 <br>3. Schools will not disclose reasons for selection / non-selection of
 students.&nbsp;&nbsp;
