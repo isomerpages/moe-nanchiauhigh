@@ -146,7 +146,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Miss Nur Maizurah Binte Rosle</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -207,7 +206,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Yi Chiann (AYH 2)</p>
+<p>Mdm Tan Yi Chiann (AYH)</p>
 </td>
 </tr>
 <tr>
@@ -278,7 +277,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jimmy Goh (YH 1)</p>
+<p>Mr Jimmy Goh (LT)</p>
 </td>
 </tr>
 <tr>
@@ -288,7 +287,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Xiaowei Chney (AYH 4)</p>
+<p>Ms Chen Xiaowei Chney (AYH)</p>
 </td>
 </tr>
 <tr>
@@ -369,7 +368,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Neo Choong Wei Dalvey (YH 3)</p>
+<p>Mr Neo Choong Wei Dalvey (YH)</p>
 </td>
 </tr>
 <tr>
@@ -380,11 +379,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Abdul Rahim (ST/History)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Mak Xue Wei (History)</p>
 </td>
 </tr>
 <tr>
@@ -441,11 +435,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Ngo Ming Kee Angie (ST/Art)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Johnson Ong (Art)</p>
 </td>
 </tr>
 <tr>
