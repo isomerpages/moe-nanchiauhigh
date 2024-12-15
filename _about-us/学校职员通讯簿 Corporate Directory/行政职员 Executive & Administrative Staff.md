@@ -266,7 +266,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sup>Ms Kismita</sup>
+<p><sup>Ms Kishmita</sup>
 </p>
 </td>
 <td rowspan="1" colspan="1">
