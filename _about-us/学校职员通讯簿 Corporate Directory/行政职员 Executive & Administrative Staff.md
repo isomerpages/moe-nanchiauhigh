@@ -28,20 +28,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sup>Mdm Loh Jasmine</sup>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><sup>Admin Manager</sup>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><sup>loh_jasmine_a@moe.edu.sg</sup>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><sup>Ms Lim Tian Tian</sup>
 </p>
 </td>
@@ -280,7 +266,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sup>Ms Kismita</sup>
+<p><sup>Ms Kishmita</sup>
 </p>
 </td>
 <td rowspan="1" colspan="1">
