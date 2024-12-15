@@ -5,9 +5,65 @@ description: ""
 third_nav_title: 学校职员通讯簿 Corporate Directory
 variant: tiptap
 ---
-| **Mdm Ler Jia Luen** | Principal | **Email:**[nchs@moe.edu.sg](mailto:nchs@moe.edu.sg) |
-| -------- | -------- | -------- |
-| **Mdm Chow Nyet Yoon** | **Vice Principal (Academic)** | **Email:**[nchs@moe.edu.sg](mailto:nchs@moe.edu.sg) |
-| **Dr Oh Bee Leng Hester** | **Vice Principal (Academic)** | **Email:**[nchs@moe.edu.sg](mailto:nchs@moe.edu.sg) |
-| **Mr Cheong Kit Chong** | **Vice Principal (Administration)** | **Email:**[nchs@moe.edu.sg](mailto:nchs@moe.edu.sg) |
-| -------- | -------- | -------- |
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mdm Ler Jia Luen</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Principal</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Email:</strong><a href="mailto:nchs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nchs@moe.edu.sg</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Chow Nyet Yoon</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Vice Principal (Academic)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email:</strong><a href="mailto:nchs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nchs@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Dr Oh Bee Leng Hester</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Vice Principal (Academic)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email:</strong><a href="mailto:nchs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nchs@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>--------</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>--------</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>--------</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
