@@ -25,7 +25,7 @@ your ICT frustrations when any arises!</p>
 </li>
 </ul>
 <p><strong>School Resources</strong> 
-<br><a href="https://drive.google.com/drive/folders/1wu9OVEz7I4xxgH6IRVTTjInJEqMerZrR?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024 Student Handbook </a>*<strong><em>NEW: Requires iCON login to view</em></strong> 
+<br><a href="https://drive.google.com/file/d/1rM85t083WhBL33IlerbqynB9SVqz_Qa0/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2025 Student Handbook </a>*<strong><em>NEW: Requires iCON login to view</em></strong> 
 <br><a href="https://drive.google.com/file/d/1b8krxJ72j3lbUuS3nMbaOVWm7i0duxhD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 NCHS Sec1 Academic Booklet </a>*<strong><em>NEW</em></strong> 
 <br><a href="https://www.nanchiauhigh.moe.edu.sg/Financial-Assistance-and-Bursaries/" rel="noopener noreferrer nofollow" target="_blank">Financial Assistance and Bursaries</a> 
 <br><a href="https://www.google.com/url?q=https%3A%2F%2Fschoolibrary.moe.edu.sg%2Fnanchiauhigh%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FWPAC%2FHOME&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0rI74OclwQ5RVSxfT5t-xL" rel="noopener noreferrer nofollow" target="_blank">NCHS Online Public Access Catalogue (OPAC)</a>
