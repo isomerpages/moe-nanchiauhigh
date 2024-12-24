@@ -4,6 +4,8 @@ permalink: /information-for-2025-sec1-students/
 variant: tiptap
 description: ""
 ---
+<h4><strong><u>Update on 24 Dec 2024:</u> <em>Parents may now check their child/ward's class allocation via Parents Gateway (PG). For parents/wards with no PG access, they may write in to <a href="mailto:nchs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nchs@moe.edu.sg</a> to enquire. Thank you.</em></strong></h4>
+<p></p>
 <p>As announced by MOE, the S1 Posting Results will be made available on <strong>Wednesday, 18 Dec 2024</strong>  <strong>from 9am onwards</strong>,
 to parents and students through the following channels:
 <br><strong>a.</strong> Short Message Service (SMS) via applicants’ local mobile
