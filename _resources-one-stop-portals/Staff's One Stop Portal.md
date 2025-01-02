@@ -23,7 +23,7 @@ Digital and AI Literacy SLS lessons.</p>
 </p>
 <ul>
 <li>
-<p><a href="https://docs.google.com/spreadsheets/d/1giuIvaIWS57pp_q27rC2WbYud6Edr94fgDD0n_jSZIE/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">CCE, TSI and Assembly Calendars (2024)</a>
+<p><a href="https://docs.google.com/spreadsheets/d/122xAziU_-bugdRKBhx77PXtYads_61nqfV_qS6RVABM/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">CCE, TSI and Assembly Calendars (2025)</a>
 </p>
 </li>
 <li>
