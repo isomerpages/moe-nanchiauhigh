@@ -55,6 +55,9 @@ activities and events organised by the school.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/waves_newletter_pic.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -77,7 +80,8 @@ activities and events organised by the school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://drive.google.com/file/d/1JStQDNsk0Oztk4dVaF-0W2W00ZfYKW1R/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024- Waves 2.pdf</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/file/d/1M_BElQePZj8hPMTlRoR7yPNh0hqpEU8r/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024- Waves 1.pdf</a>
