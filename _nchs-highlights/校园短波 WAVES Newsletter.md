@@ -56,7 +56,7 @@ activities and events organised by the school.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/waves_newletter_pic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/waves_newletter_photo.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
