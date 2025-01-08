@@ -9,8 +9,8 @@ variant: markdown
 
 
 *   **Training Time:** <br>
-Wednesday,  3.15pm – 6.00pm<br>
-Friday, 3.15pm – 6.00pm
+Wednesday,  3.00pm – 6.00pm<br>
+Friday, 3.00pm – 6.00pm
 
 *   **Venue:**<br>
 D&amp;T room (odd Wednesdays)<br>
@@ -19,6 +19,7 @@ Dance Studio (Fridays and even Wednesdays)
 *   **Teachers-In-Charge:** 
 <br>Ms Charlene Chen Ying (OIC)
 <br>Ms Hayati
+<br>Ms Lau Shze Enn
 		
 **KEY INFORMATION**
 
