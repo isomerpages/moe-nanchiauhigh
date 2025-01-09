@@ -59,7 +59,8 @@ variant: markdown
 
 **Achievements**<br>
 
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023 Live On Festival 2024 - 2nd Place and Distinction Awards<br>
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2024 Live On Festival Design Competition – School of the Year (Design Competition)<br>
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2024 Live On Festival Design Competition – 2nd Place and Distinction Awards<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SYF 2024 Art Exhibition - Certificate of Recognition<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023 Live On Festival Design Competition – 2 Distinction, 1 Merit<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023 NC.VAC.LS Book Cover Design Competition – 5 awards <br>
