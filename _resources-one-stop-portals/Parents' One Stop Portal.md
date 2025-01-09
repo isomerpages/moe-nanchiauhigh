@@ -5,24 +5,17 @@ description: ""
 variant: tiptap
 ---
 <p><strong>Timetable</strong>
-<br><a href="https://drive.google.com/file/d/1P6kGRuv3_Y7aW1myPbv4oZQQGOGuS08u/view?usp=drive_link" rel="noopener nofollow" target="_blank">2024 End of Year Post Exam Programme</a> 
-<br>
+<br><a href="https://drive.google.com/drive/folders/1vIvigNMO8hmvYraSZ30nDhHglCE3J6uq?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Timetable (Term 1)</a> 
 </p>
 <p><strong>Curriculum Matters</strong> 
-<br><a href="https://drive.google.com/file/d/1b8krxJ72j3lbUuS3nMbaOVWm7i0duxhD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 NCHS Sec1 Academic Booklet</a> 
-<br><a href="https://drive.google.com/file/d/178wbYdnZMnd7FQuUgLNrunUdkUWDp_Mw/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024 NCHS Sec2 Academic Booklet </a>*<strong><em>NEW</em></strong> 
-<br><a href="https://drive.google.com/file/d/1m6PO-xKc-QQNNzKjkMFgFfb5SHUp1b5x/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 NCHS Sec4 Academic Booklet </a>*<strong><em>NEW</em></strong> 
-<br>
+<br><a href="https://drive.google.com/file/d/1O_ODqEQJg6yjqQAsKXAr-rPc0MXETMJT/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2025 Student Handbook </a>*<strong><em>NEW: Requires iCON login to view</em></strong> 
+<br><a href="https://drive.google.com/file/d/1VSOYTAQJ7LnXa1kR3DUre5PgKKb4Q00o/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2025 NCHS Sec1 Academic Booklet </a>*<strong><em>NEW</em></strong> 
 </p>
 <p><strong>Parent Engagement Resources</strong> 
-<br><a href="https://drive.google.com/file/d/1xSF5sB7cjBJNWbe7ayXdnvmyqw7AgoiR/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Sec1 Parent Engagement on 05 Jan 2024 </a>*<strong><em>NEW</em></strong> 
-<br><a href="https://drive.google.com/file/d/1W0eEp6ptoOOOvytrrd1YbfQdtwGJn84w/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 Sec1 Parent Engagement Q&amp;A </a>*<strong><em>NEW</em></strong> 
+<br>2025 Sec1 Parents Engagement (Will be uploaded from 13 Jan)
 <br>Parent Tip: Supporting your teen in Exploring Post-Sec Pathways <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.moe.gov.sg%2F-%2Fmedia%2Ffiles%2Fparent-kit%2Fparent-kit---supporting-your-teen-in-exploring-post-secondary-pathways.pdf&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw39nIbGQbCLzRx1-k6mBiUN" rel="noopener noreferrer nofollow" target="_blank">(Click Here)</a> 
-<br><a href="https://www.nanchiauhigh.moe.edu.sg/sec2-parents-briefing-08-may-2024/" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 Session on 08 May</a> 
-<br><a href="https://www.nanchiauhigh.moe.edu.sg/sec3-parents-briefing-14-may-2024/" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 Session on 14 May</a> 
-<br><a href="https://www.nanchiauhigh.moe.edu.sg/sec4-parents-briefing-16-may-2024/" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 Session on 16 May</a> 
+<br>
 </p>
-<p></p>
 <p><strong>EdTech Resources for NCzens and Parents</strong> 
 <br><a href="https://sites.google.com/moe.edu.sg/nchs-edtechpop/home" rel="noopener noreferrer nofollow" target="_blank">NCzens &amp; Parents EdTECHpop</a> 
 <br>&gt;&gt; About this site: Access for latest resources on PLD and DMA matters
