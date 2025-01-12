@@ -5,14 +5,14 @@ description: ""
 variant: tiptap
 ---
 <p><strong>Timetable</strong>
-<br><a href="https://drive.google.com/drive/folders/1vIvigNMO8hmvYraSZ30nDhHglCE3J6uq?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Timetable (Term 1)</a> 
+<br><a href="https://drive.google.com/drive/folders/1vIvigNMO8hmvYraSZ30nDhHglCE3J6uq?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Timetable (Term 1)</a>
 </p>
 <p><strong>Curriculum Matters</strong> 
 <br><a href="https://drive.google.com/file/d/1O_ODqEQJg6yjqQAsKXAr-rPc0MXETMJT/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2025 Student Handbook </a>*<strong><em>NEW: Requires iCON login to view</em></strong> 
-<br><a href="https://drive.google.com/file/d/1VSOYTAQJ7LnXa1kR3DUre5PgKKb4Q00o/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2025 NCHS Sec1 Academic Booklet </a>*<strong><em>NEW</em></strong> 
+<br><a href="https://drive.google.com/file/d/1VSOYTAQJ7LnXa1kR3DUre5PgKKb4Q00o/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2025 NCHS Sec1 Academic Booklet </a>*<strong><em>NEW</em></strong>
 </p>
 <p><strong>Parent Engagement Resources</strong> 
-<br>2025 Sec1 Parents Engagement (Will be uploaded from 13 Jan)
+<br><a href="https://drive.google.com/file/d/16jr2ZAMYjUzsh-NbIRvZ-xQN6gmk41oe/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Sec1 Parent Engagement (10 Jan)</a> 
 <br>Parent Tip: Supporting your teen in Exploring Post-Sec Pathways <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.moe.gov.sg%2F-%2Fmedia%2Ffiles%2Fparent-kit%2Fparent-kit---supporting-your-teen-in-exploring-post-secondary-pathways.pdf&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw39nIbGQbCLzRx1-k6mBiUN" rel="noopener noreferrer nofollow" target="_blank">(Click Here)</a> 
 <br>
 </p>
