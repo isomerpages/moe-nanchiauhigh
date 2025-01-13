@@ -12,6 +12,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://go.gov.sg/nchsecg25" rel="noopener nofollow" target="_blank">NCHS ECG Resources </a><strong><em>*New </em></strong>
+</p>
+</li>
+<li>
 <p><a href="https://sites.google.com/moe.edu.sg/growandglowatnc/home" rel="noopener nofollow" target="_blank">Grow and Glow PD Series</a>
 </p>
 </li>
