@@ -22,9 +22,12 @@ variant: tiptap
 <br>
 </p>
 <p><strong>Cyber Wellness and Mental Health Resources for Parents</strong> 
-<br>
 </p>
 <ul>
+<li>
+<p><a href="https://go.gov.sg/nchsecg25" rel="noopener nofollow" target="_blank">NCHS ECG Resources</a>
+</p>
+</li>
 <li>
 <p>Cyber Wellness Resources for Parents <a href="https://sites.google.com/moe.edu.sg/nchs-parents/cyber-wellness-resources-for-parents?authuser=0" rel="noopener noreferrer nofollow" target="_blank">(Click Here)</a>
 </p>
