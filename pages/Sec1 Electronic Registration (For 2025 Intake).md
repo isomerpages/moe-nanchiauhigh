@@ -9,10 +9,7 @@ our Nan Chiau High family!</p>
 <p><strong>To prepare the start of your Secondary School journey with us, please look through the information detailed below and complete the online registration form in Section A.</strong>
 </p>
 <h1><strong>Section A: Online Registration</strong></h1>
-<p>Click here to complete <a href="https://go.gov.sg/nchs-2025s1reg" rel="noopener noreferrer nofollow" target="_blank">the online registration</a>.
-<br>This registration link will be available <strong>from 9am, 18 Dec 2024 (Wed)</strong>&nbsp;and
-will <strong>close at 9am on 21 Dec 2024 (Sat)</strong>. Parents who miss
-this registration period will be required to write in to <a href="mailto:nchs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nchs@moe.edu.sg</a>.&nbsp;</p>
+<p>Online Registration has ended. Thank you.&nbsp;</p>
 <h1><strong>Section B: Purchase of Textbooks and Stationery for Sec 1</strong></h1>
 <p>Please note that our books and stationery are supplied by our school bookshop
 vendor, Overseas Associates Pte Ltd. You may place order via the online
@@ -33,9 +30,10 @@ and participate productively.</p>
 <p>This is enabled by the provision of a Personal Learning Device (PLD) for
 every student. The school has chosen iPad as the school prescribed PLD
 for our Secondary one student.</p>
-<p>We will send out more information about this purchase of the PLD with
-the school bulk purchase via Parents Gateway (PG) in Term 1, 2025. Do note
-that our 2025 Sec1 students will only purchase and receive their PLDs in <strong>Term 2</strong>,
+<p>We have sent out follow-up information about this purchase of the PLD
+with the school bulk purchase via Parents Gateway (PG) on 13 Jan 2025 after
+our Parents Engagement Session on 10 Jan 2025. Do note that our 2025 Sec1
+students will only purchase and receive their PLDs in <strong>Term 2</strong>,
 2025.</p>
 <h1><strong>Section E: First Day of School</strong></h1>
 <p>All students are expected to be seated at the school quadrangle (next
@@ -240,7 +238,7 @@ You may use the format provided below:</p>
 <br>e) Others: (Please specify)</p>
 <p>Please provide details on your inquiry:</p>
 <h1><strong>For Appeal to NCHS</strong></h1>
-<p>Please submit your appeal form via the following link:&nbsp;<a href="https://go.gov.sg/nchs-s1appeal2025" rel="noopener noreferrer nofollow" target="_blank">Sec1 Appeal (for 2025 intake)</a>
+<p>Appeal has ended. Thank you.
 <br><strong>Note: This link is only active from 9am, 18 Dec 2024 (Wed) to 10pm, 22 Dec 2024 (Sun).</strong>
 </p>
 <p><strong><u>Notes:&nbsp;</u></strong>
