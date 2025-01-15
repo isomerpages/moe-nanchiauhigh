@@ -4,6 +4,10 @@ permalink: /our-resources/Students-Resources/
 description: ""
 variant: tiptap
 ---
+<p><strong>Sec 1 CCA Selection Exercise 2025</strong>
+<br><a href="https://drive.google.com/file/d/1wsabw8x52MpfHOyOdR1YlsdcDYeSuTYi/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">CCA Selection Exercise</a> *<strong><em>NEW</em></strong> 
+<br>
+</p>
 <p><strong>Timetable</strong>
 <br><a href="https://drive.google.com/drive/folders/1vIvigNMO8hmvYraSZ30nDhHglCE3J6uq?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Timetable (Term 1)</a> 
 <br><u>Important Note: <br></u><strong>Dear Students, Lesson will follow Day 9 Timetable on 2 Jan 2025 (Thursday).<br></strong>
@@ -25,8 +29,8 @@ your ICT frustrations when any arises!</p>
 </li>
 </ul>
 <p><strong>School Resources</strong> 
-<br><a href="https://drive.google.com/file/d/1O_ODqEQJg6yjqQAsKXAr-rPc0MXETMJT/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2025 Student Handbook </a>*<strong><em>NEW: Requires iCON login to view</em></strong> 
-<br><a href="https://drive.google.com/file/d/1VSOYTAQJ7LnXa1kR3DUre5PgKKb4Q00o/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2025 NCHS Sec1 Academic Booklet </a>*<strong><em>NEW</em></strong> 
+<br><a href="https://drive.google.com/file/d/1O_ODqEQJg6yjqQAsKXAr-rPc0MXETMJT/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2025 Student Handbook</a>  <strong><em>Requires iCON login to view</em></strong> 
+<br><a href="https://drive.google.com/file/d/1VSOYTAQJ7LnXa1kR3DUre5PgKKb4Q00o/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2025 NCHS Sec1 Academic Booklet</a>
 <br><a href="https://go.gov.sg/nchsecg25" rel="noopener nofollow" target="_blank">NCHS ECG Resources</a>
 <br><a href="https://www.nanchiauhigh.moe.edu.sg/Financial-Assistance-and-Bursaries/" rel="noopener noreferrer nofollow" target="_blank">Financial Assistance and Bursaries</a> 
 <br><a href="https://www.google.com/url?q=https%3A%2F%2Fschoolibrary.moe.edu.sg%2Fnanchiauhigh%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FWPAC%2FHOME&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0rI74OclwQ5RVSxfT5t-xL" rel="noopener noreferrer nofollow" target="_blank">NCHS Online Public Access Catalogue (OPAC)</a>
