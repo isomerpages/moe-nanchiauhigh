@@ -116,7 +116,7 @@ decision-making and seeking help. Abstinence and upholding family values
 are the key messages.</p>
 <p><strong>At Nan Chiau High School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
 </p>
-<p><a href="https://drive.google.com/file/d/1XoURdhFOMTXCE6HcsSeUE05lLEO8_SRF/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">eTeens Programme Lessons</a>
+<p><a href="https://drive.google.com/file/d/1pUut_bdpJNir0ck2yq2tadOqRvdaMe--/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">eTeens Programme Lessons</a>
 </p>
 <p></p>
 <p><strong>Information for Parents</strong>
