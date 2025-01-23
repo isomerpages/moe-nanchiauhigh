@@ -68,7 +68,7 @@ activities and events organised by the school.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1JStQDNsk0Oztk4dVaF-0W2W00ZfYKW1R/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024- Waves 2</a>
+<p><a href="https://drive.google.com/file/d/1qHSJRFKUoB7urQ9DQLJyPCTqq5Bey8A6/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024- Waves 2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
