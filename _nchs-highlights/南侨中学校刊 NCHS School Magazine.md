@@ -62,6 +62,9 @@ school events and members of the school community.</p>
 </td>
 <td rowspan="1" colspan="3">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yearbooks.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -69,16 +72,13 @@ school events and members of the school community.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1tles8At8vQxjyY3xgV9CUlypjnPu-W8e/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Nan Chiau High School Yearbook 2024</a>
-</p>
+<p>Nan Chiau High School Yearbook 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1BukoV1cmoCf41hxm_snsljcTaYsnAURh/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Nan Chiau High School Yearbook 2023</a>
-</p>
+<p>Nan Chiau High School Yearbook 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/14MHx4nzoIl5pXNU81l1r62Uz6S3Jg0u1/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Nan Chiau High School Yearbook 2022</a>
-</p>
+<p>Nan Chiau High School Yearbook 2022</p>
 </td>
 </tr>
 </tbody>
