@@ -20,7 +20,6 @@ D&amp;T Room 2
 
 **Teachers-in-Charge**<br>
 Mr Tan Han Wen <br>
-Mr Johnson Ong <br>
 Ms Maizurah <br>
 Mr Eric Zhang Boyuan<br>
 Mr Ng Junxiong <br> 
