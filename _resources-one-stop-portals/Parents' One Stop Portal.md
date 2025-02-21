@@ -4,6 +4,9 @@ permalink: /our-resources/Parents-Resources/
 description: ""
 variant: tiptap
 ---
+<p><strong>Student GPA Claims</strong>
+<br><a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener nofollow" target="_blank">Claims Portal</a>
+</p>
 <p><strong>Timetable</strong>
 <br><a href="https://drive.google.com/drive/folders/1vIvigNMO8hmvYraSZ30nDhHglCE3J6uq?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Timetable (Term 1)</a>
 </p>
@@ -21,7 +24,7 @@ variant: tiptap
 <br>&gt;&gt; About this site: Access for latest resources on PLD and DMA matters
 <br>
 </p>
-<p><strong>Cyber Wellness and Mental Health Resources for Parents</strong> 
+<p><strong>Cyber Wellness and Mental Health Resources for Parents</strong>
 </p>
 <ul>
 <li>
