@@ -2,6 +2,7 @@ collections:
   nchs-highlights:
     output: true
     order:
+      - 学校周年 NCHS School Anniversary.md
       - 南侨中学校刊 NCHS School Magazine.md
       - 学校开放日 NCHS Open House 2024.md
       - 学校宣传手册 NCHS Publicity Brochure.md
