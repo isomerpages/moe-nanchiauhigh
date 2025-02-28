@@ -33,7 +33,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Under Construction</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/78anniversary_w_QR.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -44,7 +47,8 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://heyzine.com/flip-book/8f64104c93.html#page/1" rel="noopener nofollow" target="_blank">78th School Anniversary</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
