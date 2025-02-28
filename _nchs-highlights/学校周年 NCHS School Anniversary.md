@@ -35,7 +35,7 @@ description: ""
 <td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/78anniversary_w_QR.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/78anniversary_w_QRlink.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
