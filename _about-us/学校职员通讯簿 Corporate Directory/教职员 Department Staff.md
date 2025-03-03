@@ -5,7 +5,7 @@ description: ""
 third_nav_title: 学校职员通讯簿 Corporate Directory
 variant: tiptap
 ---
-<p>(Updated on 15 Dec 2024)</p>
+<p>(Updated on 04 Mar 2025)</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -459,16 +459,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Yong Keen Whye (Art)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Truman See Qi Heng (Music)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Ong Wen Hui (FCE)</p>
 </td>
 </tr>
@@ -486,11 +476,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>PE Dept</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Arthur Lim Heng Boon (HOD/PE &amp; CCA)</p>
 </td>
 </tr>
 <tr>
