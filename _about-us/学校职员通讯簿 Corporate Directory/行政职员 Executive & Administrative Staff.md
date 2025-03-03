@@ -280,21 +280,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sup>Mr Fung Ming Ching Simon</sup>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><sup>ICT Executive</sup>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><sup>fung_ming_ching@moe.edu.sg</sup>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><sup>Mdm Lee Gek Neo Rina</sup>
+<p><sup>Mdm Irene See</sup>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -302,7 +288,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><sup>lee_gek_neo_rina@moe.edu.sg</sup>
+<p><sup>nchs@moe.edu.sg</sup>
 </p>
 </td>
 </tr>
