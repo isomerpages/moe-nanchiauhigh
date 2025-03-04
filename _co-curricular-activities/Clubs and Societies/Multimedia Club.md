@@ -9,7 +9,7 @@ variant: markdown
 
 **Training Date &amp; Time**<br>
 Monday, 7.10am – 7.55am <br>
-Monday, 3.30pm – 5.30pm <br>
+Monday, 3.00pm – 5.00pm <br>
 Tuesday, 7.10am – 7.55am <br>
 Wednesday, 7.10am – 7.55am <br>
 Thursday, 7.10am – 7.55am <br>
