@@ -146,30 +146,55 @@ to support charities and uplift the communities.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annual_Shines_in_Harmony_01.jpg">
 </div>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annual_Shines_in_Harmony_02.jpg">
 </div>
-<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annual_Shines_in_Harmony_03.jpg">
 </div>
-<p>
-<br>
-</p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annual_Shines_in_Harmony_04.jpg">
 </div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annual_Shines_in_Harmony_05.jpg">
 </div>
-<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annual_Shines_in_Harmony_06.jpg">
 </div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/From_Our_Hearts_to_Yours_2025_01.jpg">
