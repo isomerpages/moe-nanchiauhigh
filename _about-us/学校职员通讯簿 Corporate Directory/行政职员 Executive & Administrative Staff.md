@@ -134,7 +134,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><sup>Email: chua_siam_tiang@moe.edu.sg</sup>
+<p><sup>chua_siam_tiang@moe.edu.sg</sup>
 </p>
 </td>
 </tr>
