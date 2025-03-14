@@ -4,13 +4,13 @@ permalink: /our-resources/Students-Resources/
 description: ""
 variant: tiptap
 ---
+<p><strong>Timetable</strong>
+<br><a href="https://drive.google.com/drive/folders/1vIvigNMO8hmvYraSZ30nDhHglCE3J6uq?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Timetable (Term 2)</a> 
+</p>
+<p></p>
 <p><strong>Sec 1 CCA Selection Exercise 2025</strong>
 <br><a href="https://drive.google.com/file/d/1wsabw8x52MpfHOyOdR1YlsdcDYeSuTYi/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">CCA Selection Exercise</a> *<strong><em>NEW</em></strong> 
 <br>
-</p>
-<p><strong>Timetable</strong>
-<br><a href="https://drive.google.com/drive/folders/1vIvigNMO8hmvYraSZ30nDhHglCE3J6uq?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Timetable (Term 1)</a> 
-<br><u>Important Note: <br></u><strong>Dear Students, Lesson will follow Day 9 Timetable on 2 Jan 2025 (Thursday).<br></strong>
 </p>
 <p><strong>EdTech Resources for NCzens and Parents</strong> 
 <br><a href="https://sites.google.com/moe.edu.sg/nchs-edtechpop/home" rel="noopener noreferrer nofollow" target="_blank">NCzens &amp; Parents EdTECHpop</a> 
