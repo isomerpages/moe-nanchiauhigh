@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p><strong>Timetable</strong>
-<br><a href="https://drive.google.com/drive/folders/1vIvigNMO8hmvYraSZ30nDhHglCE3J6uq?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Timetable (Term 2)</a> *<strong><em>NEW</em></strong> 
+<br><a href="https://drive.google.com/drive/folders/1vIvigNMO8hmvYraSZ30nDhHglCE3J6uq?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Timetable (Term 2)</a> *<strong><em>NEW</em></strong>
 </p>
 <p></p>
 <p><strong>Sec 1 CCA Selection Exercise 2025</strong>
