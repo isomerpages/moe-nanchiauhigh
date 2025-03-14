@@ -5,11 +5,11 @@ description: ""
 variant: tiptap
 ---
 <p><strong>Timetable</strong>
-<br><a href="https://drive.google.com/drive/folders/1vIvigNMO8hmvYraSZ30nDhHglCE3J6uq?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Timetable (Term 2)</a> 
+<br><a href="https://drive.google.com/drive/folders/1vIvigNMO8hmvYraSZ30nDhHglCE3J6uq?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Timetable (Term 2)</a> *<strong><em>NEW</em></strong>
 </p>
 <p></p>
 <p><strong>Sec 1 CCA Selection Exercise 2025</strong>
-<br><a href="https://drive.google.com/file/d/1wsabw8x52MpfHOyOdR1YlsdcDYeSuTYi/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">CCA Selection Exercise</a> *<strong><em>NEW</em></strong> 
+<br><a href="https://drive.google.com/file/d/1wsabw8x52MpfHOyOdR1YlsdcDYeSuTYi/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">CCA Selection Exercise</a> 
 <br>
 </p>
 <p><strong>EdTech Resources for NCzens and Parents</strong> 
