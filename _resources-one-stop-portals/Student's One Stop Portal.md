@@ -9,7 +9,7 @@ variant: tiptap
 <br>
 </p>
 <p><strong>Timetable</strong>
-<br><a href="https://drive.google.com/drive/folders/1vIvigNMO8hmvYraSZ30nDhHglCE3J6uq?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Timetable (Term 1)</a> 
+<br><a href="https://drive.google.com/drive/folders/1vIvigNMO8hmvYraSZ30nDhHglCE3J6uq?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Timetable (Term 2)</a> 
 <br><u>Important Note: <br></u><strong>Dear Students, Lesson will follow Day 9 Timetable on 2 Jan 2025 (Thursday).<br></strong>
 </p>
 <p><strong>EdTech Resources for NCzens and Parents</strong> 
