@@ -84,20 +84,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sup>Ms Woon Ai Gee</sup>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><sup>Administrative Executive</sup>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><sup>woon_ai_gee@moe.edu.sg</sup>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><sup>Ms Norwadiana Ahmad</sup>
 </p>
 </td>
