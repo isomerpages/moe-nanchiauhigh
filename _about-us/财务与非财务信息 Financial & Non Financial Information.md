@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 ## **Financial Information** 
-Please refer to this [link](https://www.moe.gov.sg/-/media/files/about-us/financial-summary/2022/nan-chiau-high-school.pdf) for financial information.
+Please refer to this [link](https://drive.google.com/file/d/1kJW8SjbupaIY9-yK5N3Ic0MR4tqrlMoP/view?usp=drive_link) for financial information.
 
 
 ## **Non-Financial Information**
@@ -16,7 +16,7 @@ Please refer to this [link](https://www.moe.gov.sg/-/media/files/about-us/finan
 
 **Contact Information:**
 
-*   Name of Contact Person: Mr Jeff Teo Nguan Wee (Administration Manager)
+*   Name of Contact Person: Ms Lim Tian Tian (Administration Manager)
 *   Telephone No: 6489 7971
 *   Fax No: 6489 7970
 *   Email Address: nchs@moe.edu.sg
