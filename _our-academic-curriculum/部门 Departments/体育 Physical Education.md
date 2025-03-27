@@ -45,21 +45,6 @@ and social well-being.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Arthur Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD PE/CCA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bachelor in Business Administration &amp; Post Diploma in Education (Physical
-Education)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Basketball, Table Tennis, Badminton, Volleyball, Football</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Raffi Buang</p>
 </td>
 <td rowspan="1" colspan="1">
