@@ -5,9 +5,6 @@ description: ""
 third_nav_title: 部门 Departments
 variant: tiptap
 ---
-<div class="iframe-wrapper">
-<iframe height="467" width="780" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQcur9S8hGz8aRUzFkpZ4kkGkEL3N2Wp5U7OIqkzQ16sqwuPY-sRoeKChcy4rBABHqc5cUSn2aJKq4Z/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
 <p><strong>Vision</strong>
 <br>Aesthetically Ingrained NCzens
 <br>
@@ -28,7 +25,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Food and Consumer Science
+<p>Nutrition and Food Science
 <br>
 </p>
 </li>
@@ -47,25 +44,27 @@ or Music as their elective subject.
 skills and concepts through authentic learning experiences.
 <br>
 </p>
-<p><strong>Staff List (2024):</strong>
-<br>Ms Jane Hoe (HOD)
-<br>Mr Lee Heng Leong (SH/ICT) (D&amp;T)
-<br>Mdm Angie Ngo (ST) (ART)
-<br>Mr Johnson Ong (Art)
-<br>Mr Teo Boon Heng (D&amp;T Co-ordinator)
-<br>Mr Tan Han Wen (D&amp;T)
-<br>Mr Kamel (D&amp;T)
-<br>Mr Truman See Qi Heng (Music Co-ordinator)
-<br>Ms Low Zhen Yan Claire (FCE)
-<br>Ms Ong Wen Hui (FCE)
-<br>Ms Tan Ji Mei Melinda (Art)
-<br>Mr Yong Keen Whye (Art)
+<p><strong>Staff List (2025):</strong>
+<br>Ms. Jane Hoe (HOD)
+<br>Mr. Lee Heng Leong (D&amp;T)
+<br>Mdm. Angie Ngo (ST) (ART)
+<br>Mr. Teo Boon Heng (D&amp;T Coordinator)
+<br>Mr. Tan Han Wen (D&amp;T)
+<br>Mr. Kamel (D&amp;T)
+<br>Mdm. Choo Yue Ling Reyna (D&amp;T)
+<br>Ms. Low Zhen Yan Claire (FCE Coordinator)
+<br>Ms. Ong Wen Hui (FCE)
+<br>Ms. Tan Ji Mei Melinda (Art)
 <br>
 </p>
 <p><strong>ACHIEVEMENT</strong>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -79,40 +78,46 @@ skills and concepts through authentic learning experiences.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2020</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- 2020 SYF Art Exhibition (2 COA, 1 COP)
-<br>- LIVE On Design Art Competition 2020 (1st , 4th , 2 Higher Distinction)
-<br>- I-LEAP Logo Design (Winner)
-<br>- N.E.mation! 2021 (Top 10)
-<br>- Innovation Program Project (1 COD, 1 COM)
-<br>- E-Science &amp; Technology Challenge (5th )</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>- Draw My Stamp Story Art Competition by National Heritage Board (1 Gold,
-3 Silver, 3 Bronze)
-<br>- LIVE On Design Art Competition 20201(1 Higher Distinction, 2 Distinction,
-2 Merit)
-<br>- NC75 Anniversary Logo Design Competition (1st, 2nd)
-<br>- Innovation Programme 2021 (2 Distinction, 3 Merit)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Hokkien Huay Kuan "Save Our Sea" Creative Drawing Competition
+(1st, 2nd, and 3rd Place)</p>
+</li>
+<li>
+<p>Live On Festival 2024 (3 Distinctions, 2nd Place, Awarded School of the
+Year for LOF 2024 – Design Competition)</p>
+</li>
+<li>
+<p>2024 SYF Art Exhibition (Certificate of Recognition)</p>
+</li>
+<li>
+<p>Tan Kah Kee Young Inventor Award (Merit)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022</p>
+<p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- "Feed My Trashemon” Art Competition 2021-2 (2nd , 3rd , 1 Finalist)
-<br>- Live On Art Competition 2022 (5th , 2 Merit)
-<br>- 2022 SYF Art Exhibition (2 COR)
-<br>- D&amp;T Award (Creative award)
-<br>- MEP40 Showcase (2 entries)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tan Kah Kee Young Inventor Award (Encouragement Award)</p>
+</li>
+<li>
+<p>Trash to Treasure Miniature Contest 2023 (3 Consolation Prizes)</p>
+</li>
+<li>
+<p>Live On Festival 2023 (2 Distinctions, 1 Merit)</p>
+</li>
+<li>
+<p>SG75 Singapore Our Home (2nd Place)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -127,11 +132,6 @@ skills and concepts through authentic learning experiences.
 </li>
 <li>
 <p><a href="https://sites.google.com/moe.edu.sg/unitquelyncart/ncart-talent-development/art-talent-programme-atp" rel="noopener noreferrer nofollow" target="_blank">Art Talent Programme</a>
-<br>
-</p>
-</li>
-<li>
-<p>Music Talent Programme
 <br>
 </p>
 </li>
