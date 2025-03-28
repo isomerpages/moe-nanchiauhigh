@@ -45,18 +45,55 @@ skills and concepts through authentic learning experiences.
 <br>
 </p>
 <p><strong>Staff List (2025):</strong>
-<br>Ms. Jane Hoe (HOD)
-<br>Mr. Lee Heng Leong (D&amp;T)
-<br>Mdm. Angie Ngo (ST) (ART)
-<br>Mr. Teo Boon Heng (D&amp;T Coordinator)
-<br>Mr. Tan Han Wen (D&amp;T)
-<br>Mr. Kamel (D&amp;T)
-<br>Mdm. Choo Yue Ling Reyna (D&amp;T)
-<br>Ms. Low Zhen Yan Claire (FCE Coordinator)
-<br>Ms. Ong Wen Hui (FCE)
-<br>Ms. Tan Ji Mei Melinda (Art)
+</p>
+<p>Art</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Jane Hoe (HOD)</p>
+</li>
+<li>
+<p>Mdm Angie Ngo (ST/ART)</p>
+</li>
+<li>
+<p>Ms Tan Ji Mei Melinda</p>
+</li>
+<li>
+<p>Ms Insyirah
 <br>
 </p>
+</li>
+</ul>
+<p>D&amp;T</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Teo Boon Heng (D&amp;T Coordinator)</p>
+</li>
+<li>
+<p>Mr Lee Heng Leong (SH/ICT)</p>
+</li>
+<li>
+<p>Mr Tan Han Wen</p>
+</li>
+<li>
+<p>Mdm Choo Yue Ling Reyna</p>
+</li>
+<li>
+<p>Mr Kamel</p>
+</li>
+</ul>
+<p>Nutrition and Food Science</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Low Zhen Yan Claire (FCE Coordinator)</p>
+</li>
+<li>
+<p>Ms Ong Wen Hui</p>
+</li>
+<li>
+<p>Ms Michel Chua</p>
+</li>
+</ul>
+<p></p>
 <p><strong>ACHIEVEMENT</strong>
 <br>
 </p>
