@@ -58,7 +58,7 @@ skills and concepts through authentic learning experiences.
 <p>Ms Tan Ji Mei Melinda</p>
 </li>
 <li>
-<p>Ms Insyirah
+<p>Ms Insyirah Binte Imran
 <br>
 </p>
 </li>
@@ -78,7 +78,7 @@ skills and concepts through authentic learning experiences.
 <p>Mdm Choo Yue Ling Reyna</p>
 </li>
 <li>
-<p>Mr Kamel</p>
+<p>Mr Muhamad Kamel Bin Hussein</p>
 </li>
 </ul>
 <p>Nutrition and Food Science</p>
