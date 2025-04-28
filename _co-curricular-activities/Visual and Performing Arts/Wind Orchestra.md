@@ -29,7 +29,7 @@ variant: tiptap
 <p>Ms Chong Ka Wuei (Advisor)</p>
 </li>
 <li>
-<p>Ms Chiang Wan Ling Angel (OIC)</p>
+<p>Ms Chiang Wan Lin Angel (OIC)</p>
 </li>
 <li>
 <p>Mdm Tan Yan Yan</p>
@@ -135,43 +135,18 @@ March 2019)
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Asia_Pacific Band Festival 2024 (Gold with Distinction, Champion in Secondary
+<p>SYF Arts Presentation for Concert Bands (Certificate of Distinction (2025))</p>
+</li>
+<li>
+<p>Asia-Pacific Band Festival 2024 (Gold with Distinction, Champion in Secondary
 School Division)</p>
 </li>
 <li>
-<p>SYF Arts Presentation for Concert Bands (Certificate of Distinction (2023))</p>
+<p>SYF Arts Presentation for Concert Bands (Certificate of Distinction (2023,
+2021, 2019))</p>
 </li>
 <li>
-<p>Singapore International Band Festival (Silver (2022))
-<br>
-</p>
-</li>
-<li>
-<p>SYF Arts Presentation for Concert Bands (Certificate of Distinction (2021))
-<br>
-</p>
-</li>
-<li>
-<p>SYF Arts Presentation for Concert Bands (Certificate of Distinction (2019))
-<br>
-</p>
-</li>
-<li>
-<p>SYF Arts Presentation for Concert Bands (Certificate of Accomplishment
-(2017))
-<br>
-</p>
-</li>
-<li>
-<p>Singapore International Band Festival (Silver (2016))
-<br>
-</p>
-</li>
-<li>
-<p>SYF Arts Presentation for Concert Bands (Certificate of Distinction (2013
-&amp; 2015))
-<br>
-</p>
+<p>Singapore International Band Festival (Silver (2022))</p>
 </li>
 </ol>
 <p></p>
