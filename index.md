@@ -17,5 +17,8 @@ sections:
         - title: Resources
           description: ""
           url: https://www.nanchiauhigh.moe.edu.sg/our-resources/Students-Resources/
+        - title: DSA Exercise
+          description: ""
+          url: /our-resources/Admission-to-NCHS/Direct-School-Admission-Exercise/
       background: /images/HR2_5mb.gif
 ---
