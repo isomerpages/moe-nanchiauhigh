@@ -41,8 +41,9 @@ School Anniversary Celebrations<br>
 Mid-Autumn Festival<br>
 External performances (e.g. Singapore Hokkien Huey Kuan, Chinese Dance Fiesta)
 
-**Achievements**
-
+**Achievements** <br>
+Singapore Youth Festival Arts Presentation: Distinction (2025) <br>
+Singapore Youth Festival Arts Presentation: Distinction (2023) <br>
 Singapore Youth Festival Arts Presentation: Distinction (2021)  <br>
 Singapore Youth Festival Arts Presentation: Distinction (2019)<br>
 Singapore Youth Festival Arts Presentation: Distinction (2017)<br>
