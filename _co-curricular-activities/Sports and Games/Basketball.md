@@ -15,7 +15,10 @@ Fri  3pm - 6pm (Competition Season)<br><br>
 <br>
 **Venue:**<br>ISH 1 / Outdoor Basketball Court
 
-**Teachers-in-Charge:**<br>Mr Arthur Lim  (Advisor)<br>Ms Alison Tan (Overall Teacher-In-Charge)<br>Mr Gary Lim (Teacher-In-Charge)<br>Mr Ji Wen (Teacher-In-Charge)
+**Teachers-in-Charge:**<br>
+Ms Alison Tan (Overall Teacher-In-Charge)<br>
+Mr Gary Lim (Teacher-In-Charge)<br>
+Mr Ji Wen (Teacher-In-Charge)
 		
 		
 **KEY INFORMATION**<br>
@@ -37,7 +40,7 @@ Nationals&nbsp; Zone C’ Division Basketball Championship (April - May, July - 
 BMU16 Basketball Tournament (November)<br>
 
 
-**Achievements (2022 - 2024)**<br>
+**Achievements**<br>
 2024 National Schools Games Basketball ‘B’ Div Girls - 3rd Runner Up<br>
 2024 National Schools Games Basketball ‘B’ Div Boys - 2nd Runner Up<br>
 2023 BMU16 Basketball Tournament Girls - 2nd Runner Up <br>
