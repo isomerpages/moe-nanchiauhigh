@@ -8,6 +8,26 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="467" width="780" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRCfc6x5PzsvZEu-RCdZb5rFzed0Lr6Q43jryXthJiONqptkl6qLcKGneHdAoDcUhSpicBvhax64KLy/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/544d574c_3e9f_45ab_b7ee_03fd8a5627da.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>Training Dates and Time</u></strong>
 </p>
 <ul>
