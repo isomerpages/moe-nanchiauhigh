@@ -140,16 +140,57 @@ Dragon Boating, Rockclimbing etc.</p>
 </p>
 </li>
 </ul>
-<p><strong>2025 National Schools Games Wushu Championships</strong>
+<p><strong>2024 National Schools Games Wushu Championships</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>‘C’ Division</p>
+<p>‘C’ Division Girls, 1st International Changquan, 2nd Position.</p>
+</li>
+<li>
+<p>‘C’ Division Girls, 1st International Sword, 2nd Position.</p>
+</li>
+<li>
+<p>‘C’ Division Girls, 1st International Spear, 1st Position.</p>
+</li>
+<li>
+<p>‘B’ Division Boys, 1st International Changquan, 1st Position.</p>
 </li>
 </ul>
 <p></p>
+<p><strong>2023 National Schools Games Wushu Championships</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>‘C’ Division Girls,1st International Changquan, 3rd Position</p>
+</li>
+<li>
+<p>‘C’ Division Girls, 1st International Sword, 2nd Position.</p>
+</li>
+<li>
+<p>‘B’ Division Girls,1st International Nan Dao, 3rd Position</p>
+</li>
+<li>
+<p>‘B’ Division Girls, 1st International Nanquan, 1st Position.</p>
+</li>
+<li>
+<p>‘B’ Division Girls, 1st International Nangun, 1st Position.</p>
+</li>
+<li>
+<p>‘B’ Division Girls, 1st International Sword, 4th Position.</p>
+</li>
+<li>
+<p>‘B’ Division Boys, 1st International Changquan, 1st Position.</p>
+</li>
+<li>
+<p>‘B’ Division Boys, 1st International Sword, 1st Position.</p>
+</li>
+<li>
+<p>‘B’ Division Boys, 1st International Spear, 1st Position.</p>
+</li>
+</ul>
 <p></p>
-<p></p>
+<p><strong>2022 National Schools Games Wushu Championships</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>‘B’ Div Boys – 2nd International Sword, 3rd Position</p>
@@ -170,7 +211,7 @@ Dragon Boating, Rockclimbing etc.</p>
 <p>‘C’ Boys – 1st International Changquan,1st Position</p>
 </li>
 <li>
-<p>‘C’ Boys &nbsp;– 1st&nbsp; International Sword, 1st Position</p>
+<p>‘C’ Boys&nbsp; – 1st&nbsp; International Sword, 1st Position</p>
 </li>
 <li>
 <p>‘C’ Girls –&nbsp; Formulated 5 Duan Nanquan, 2nd position</p>
@@ -182,36 +223,4 @@ Dragon Boating, Rockclimbing etc.</p>
 <p>‘C’ Girls –&nbsp; Formulated 5 Duan Sword, 4th Position</p>
 </li>
 </ul>
-<p><strong>2019</strong>
-<br>• B Division Girls 1st International Changquan, NICOLE LIN ZI LU, class:
-3E, position 8/20
-<br>• B Division Girls 1st International Sword, NICOLE LIN ZI LU, class: 3E,
-position 7/24
-<br>• B Division Boys 1st International Spear, GARETH TEO YI XI, class: 3G,
-position 7/25
-<br>• B Division Girls Group Weapon, position 7/17, TAN CHING YEE, class:
-3F, GOH YI XIAN, class: 4C, ELYSE NG QIAN YING, class: 3F, CHUA JIA YI
-CLARABELLE, class: 3F, GWEN KU JIA YE, class: 4F. NICOLE LIN ZI LU, class:
-3E</p>
-<p><strong>2018</strong>
-<br>• 3E Xylon Chan Yi Chong, National Interschool Wushu Championships, 8th,
-‘B’ Div Boys, Spear (1st International).</p>
-<p><strong>2017</strong>
-<br>• 4B Trina Toh Pei Jie, Singapore School Sports Council Sportsmanship
-Award.
-<br>• 4B Trina Toh Pei Jie, National Interschool Wushu Championships, 7th,
-‘B’ Div Girls, Sword (2nd International).
-<br>• 2H Xylon Chan Yi Chong, National Interschool Wushu Championships, 5th,
-‘C’ Div Boys, Spear (1st International).
-<br>• 1A Nicole Lin Zi Lu, National Interschool Wushu Championships, 7th,
-‘C’ Div Girls, Sword (1st International).
-<br>• 2B Goh Yi Xian, National Wushu &amp; Sanda Championships, 2nd, ‘Under
-14’ Girls, Cudgel (2nd International).
-<br>• 2B Gwen Ku Jia Ye, National Wushu &amp; Sanda Championships, 2nd, ‘Under
-14’ Girls, Sword (1st International)
-<br>• 1A Nicole Lin Zi Lu, National Wushu &amp; Sanda Championships, 3rd,
-‘Under 14’ Girls, Sword (1st International).
-<br>• 1H Clarabelle Chua Jia Yi, National Wushu &amp; Sanda Championships,
-2nd, ‘Under 14’ Girls, Broadsword (1st International)
-<br>• 1H Gareth Teo Yi Xi, National Wushu &amp; Sanda Championships, 2nd,
-‘Under 14’ Boys, Spear (1st International).</p>
+<p></p>
