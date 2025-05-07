@@ -12,7 +12,10 @@ variant: tiptap
 </p>
 <p><strong>Curriculum Matters</strong> 
 <br><a href="https://drive.google.com/file/d/1O_ODqEQJg6yjqQAsKXAr-rPc0MXETMJT/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2025 Student Handbook </a>*<strong><em>NEW: Requires iCON login to view</em></strong> 
-<br><a href="https://drive.google.com/file/d/1VSOYTAQJ7LnXa1kR3DUre5PgKKb4Q00o/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2025 NCHS Sec1 Academic Booklet </a>*<strong><em>NEW</em></strong>
+<br><a href="https://drive.google.com/file/d/1VSOYTAQJ7LnXa1kR3DUre5PgKKb4Q00o/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2025 NCHS Sec1 Academic Booklet </a>
+<br><a href="https://drive.google.com/file/d/1hxothm7CD4oi7ooJntuBo9iqs2vTeEnd/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 NCHS Sec2 Academic Booklet </a>*<strong><em>NEW</em></strong>
+<br><a href="https://drive.google.com/file/d/1_E84LBzkl3HrBfdM46yzi3JQcPGbfd0r/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 NCHS Sec4 Academic Booklet </a>*<strong><em>NEW</em></strong>
+<br>
 </p>
 <p><strong>Parent Engagement Resources</strong> 
 <br><a href="https://drive.google.com/file/d/16jr2ZAMYjUzsh-NbIRvZ-xQN6gmk41oe/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Sec1 Parent Engagement (10 Jan)</a> 
