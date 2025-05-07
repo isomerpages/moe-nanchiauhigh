@@ -5,11 +5,9 @@ description: ""
 third_nav_title: Sports and Games
 variant: tiptap
 ---
-<div class="iframe-wrapper">
-<iframe height="467" width="780" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRCfc6x5PzsvZEu-RCdZb5rFzed0Lr6Q43jryXthJiONqptkl6qLcKGneHdAoDcUhSpicBvhax64KLy/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
@@ -17,14 +15,15 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/544d574c_3e9f_45ab_b7ee_03fd8a5627da.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_Wushu01_6_May_2025.jpg">
 </div>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p></p>
-</td>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_Wushu02_6_May_2025.jpg">
+</div>
+</th>
 </tr>
 </tbody>
 </table>
