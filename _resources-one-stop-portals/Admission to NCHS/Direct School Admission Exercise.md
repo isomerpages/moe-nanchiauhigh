@@ -115,3 +115,5 @@ Prospective students who are enrolled via DSA-Bilingualism will be groomed in th
 In addition, DSA-Bilingualism students will have to take the Chinese Language Elective Programme – Secondary (CLEP-Sec) in Secondary 3 (i.e. they will have to take Chinese Literature, either as a full or elective subject.)
 
 **For more information on CLEP-Sec, click [HERE](https://www.nanchiauhigh.moe.edu.sg/our-talent-development/chinese-language-elective-programme-clep/).**
+
+**For more information on DSA matters, click 
