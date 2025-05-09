@@ -46,7 +46,7 @@ questions to help the panel better understand the child’s motivation and
 suitability.
 <br>
 <br><u>Bilingualism</u>
-<br><strong><u>Short-listed applicants</u></strong>&nbsp;for Student Leadership
+<br><strong><u>Short-listed applicants</u></strong>&nbsp;for Bilingualism
 will be invited to attend an interview by a panel of staff members to determine
 if they will be a good fit for the school.</p>
 <p><strong>4.&nbsp;&nbsp;&nbsp; How will the applicants be short-listed?</strong>
@@ -71,8 +71,8 @@ areas will be assessed.</p>
 sport will be assessed. Applicants are to be dressed in appropriate sports
 attire.</p>
 <p><strong>7.&nbsp;&nbsp;&nbsp; When is the selection and when will the outcome be known?</strong>
-<br>Selection for short-listed applicants will take place between 14 July
-to 24 August. All short-listed applicants will receive a reply of the selection
+<br>Selection for short-listed applicants will take place between 11 July
+and 31 July. All short-listed applicants will receive a reply of the selection
 outcome via email between 25 August and 4 September.</p>
 <p></p>
 <p><strong>8.&nbsp;&nbsp;&nbsp; What happens after an applicant receives an offer?</strong>
@@ -109,13 +109,13 @@ the time and effort participating in multiple trials and interviews.</p>
 <p><strong>12. How many years do the DSA applicants need to commit to the CCA in Nan Chiau High School?</strong>
 <br>They are required to honour the commitment to the allocated CCA for the
 entire duration of their schooling years in Nan Chiau High School.</p>
-<p><strong>14. How many offers will my child receive from a DSA-Sec school if my child has applied to two talent areas from the same school?</strong>
+<p><strong>13. How many offers will my child receive from a DSA-Sec school if my child has applied to two talent areas from the same school?</strong>
 <br>If your child has applied to two talent areas in a school, the school
 will make <u>only one DSA offer </u>in a specific talent area. The offer
 will be made based on school's assessment of your child's talent and the
 school's judgement on which talent area the school can better develop your
 child in.</p>
-<p><strong>15. If my child with Wait List offer from School A indicates the school as a choice during School Preference Submission and is allocated to the school, does my child still have another chance to accept or reject the allocation?</strong>
+<p><strong>14. If my child with Wait List offer from School A indicates the school as a choice during School Preference Submission and is allocated to the school, does my child still have another chance to accept or reject the allocation?</strong>
 <br>By submitting the school preference, you have agreed for your child to
 commit to the DSA-Sec school that is allocated to them. If your child is
 successfully admitted via DSA-Sec, they will not be allowed to transfer
@@ -124,7 +124,7 @@ secondary schools after the release of PSLE results.
 <br>
 <br>If you do not wish your child to commit to the DSA school, you should
 not submit any school preference during the School Preference Submission.</p>
-<p><strong>16. My child only received one Wait List (WL) offer. Should my child still submit the preference since the chance of getting into that school may be quite slim?</strong>
+<p><strong>15. My child only received one Wait List (WL) offer. Should my child still submit the preference since the chance of getting into that school may be quite slim?</strong>
 <br>Your child can submit his/her preference if he/she is still keen on admission
 into the school via DSA-Sec. If the school has enough remaining DSA-Sec
 places after the other students given Confirmed Offers have made their
@@ -134,10 +134,10 @@ PSLE results qualify him/her for an academic course offered by the school.
 <br>If your child is successfully admitted, he/she will not be allowed to
 transfer to another school after the release of PSLE results or participate
 in Secondary 1 Posting to opt for secondary schools.</p>
-<p><strong>17. What should I do if my child’s application is unsuccessful in the DSA-Sec?</strong>
+<p><strong>16. What should I do if my child’s application is unsuccessful in the DSA-Sec?</strong>
 <br>If your child is currently studying in an MOE school and unsuccessful
 in DSA-Sec, they will participate in the centralised S1 Posting.</p>
-<p><strong>18. For more information you may refer to the following links to the MOE webpage on DSA:</strong>
+<p><strong>17. For more information you may refer to the following links to the MOE webpage on DSA:</strong>
 </p>
 <p><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank"><u>Direct School Admission (DSA-Sec) | Ministry of Education</u></a>
 <br>
