@@ -97,9 +97,8 @@ to secondary school.</p>
 <br>To be successfully admitted to a DSA-Sec school, your child's Primary
 School Leaving Examination (PSLE) results must qualify them for a course
 that the school offers.</p>
-<p><strong>11. How many applicants will be admitted under the DSA exercise for Hua Yi Sec School?</strong>
-<br>About 20% of the 2026 Secondary One cohort.</p>
-<p><strong>12. How many schools can my child apply to through the DSA-Sec portal?</strong>
+<p></p>
+<p><strong>11. How many schools can my child apply to through the DSA-Sec portal?</strong>
 <br>Your child can indicate up to three choices during the application. For
 each choice, your child needs to choose a secondary school and a talent
 area from that school.
@@ -107,9 +106,9 @@ area from that school.
 with different talent areas.
 <br>Your child is encouraged to consider his/her choices carefully and manage
 the time and effort participating in multiple trials and interviews.</p>
-<p><strong>13. How many years do the DSA applicants need to commit to the CCA in Hua Yi?</strong>
+<p><strong>12. How many years do the DSA applicants need to commit to the CCA in Nan Chiau High School?</strong>
 <br>They are required to honour the commitment to the allocated CCA for the
-entire duration of their schooling years in Hua Yi.</p>
+entire duration of their schooling years in Nan Chiau High School.</p>
 <p><strong>14. How many offers will my child receive from a DSA-Sec school if my child has applied to two talent areas from the same school?</strong>
 <br>If your child has applied to two talent areas in a school, the school
 will make <u>only one DSA offer </u>in a specific talent area. The offer
