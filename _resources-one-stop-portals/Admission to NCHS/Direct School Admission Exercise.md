@@ -116,4 +116,4 @@ In addition, DSA-Bilingualism students will have to take the Chinese Language El
 
 **For more information on CLEP-Sec, click [HERE](https://www.nanchiauhigh.moe.edu.sg/our-talent-development/chinese-language-elective-programme-clep/).**
 
-**For more information on DSA matters, click 
+**For the FAQs on DSA matters, click [HERE](https://www.nanchiauhigh.moe.edu.sg/faqs-for-dsa/).**
