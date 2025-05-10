@@ -12,7 +12,7 @@ Parents and students are encouraged to choose schools wisely based on the studen
 # **Important Information**
 
 
-1. Application for DSA-Sec must be submitted through the online DSA Sec Portal. The application starts on 7 May (11 am) and ends on 3 Jun 2025 (3 pm). No fee will be charged for the application. For more details, please refer to MOE website – [moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).<br>
+1. Application for DSA-Sec must be submitted through the online DSA Sec Portal. The application starts on 7 May 2025 (11 am) and ends on 3 Jun 2025 (3 pm). No fee will be charged for the application. For more details, please refer to MOE website – [moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).<br>
 2. Nan Chiau High School is a MOE Special Assistance Plan (SAP) school. All students enrolled will read Higher Chinese Language.<br>
 3. Students successfully allocated to their DSA-Sec schools will **NOT** be allowed to participate in the annual S1 Posting Exercise to opt for secondary schools, and they are expected to honour the commitment to the allocated DSA-Sec school for the entire duration of the programme.<br>
 4. They will also **NOT** be allowed to transfer to another school after the release of the PSLE results.<br>
@@ -88,7 +88,7 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
  
 | DSA Domain | Talent Area | Criteria |
 | ---------- | -------- | -------- |
-| **Performing Arts**     |Chinese Orchestra (Boys and Girls)  | -       Participation and achievements in related music competitions and performances.<br>-   Consistent academic performance for P5 overall and P6 WA results, or its equivalent,<br>   A video submission may be requested from all applicants for shortlisting purpose with enough notice given. The 3-5 minutes video can be filmed during the applicant's CCA session or own practice session.<br>and<br>_Preferably_<br>-  Represented their primary schools in Singapore Youth Festival (SYF) Arts Presentation.<br>-   Attained ABRSM or equivalent accreditation for music/ Chinese Instruments.<br><br>**A video submission may be requested from shortlisted applicants for selection purposes with enough notice given. The 3-5 mins video can be filmed during the applicant's CCA session or own practice session.** |
+| **Performing Arts**     |Chinese Orchestra (Boys and Girls)  | -       Participation and achievements in related music competitions and performances.<br>-   Consistent academic performance for P5 overall and P6 WA results, or its equivalent,<br>   and<br>_Preferably_<br>-  Represented their primary schools in Singapore Youth Festival (SYF) Arts Presentation.<br>-   Attained ABRSM or equivalent accreditation for music/ Chinese Instruments.<br>- able to perform using an instrument that is part of Chinese orchestra.<br><br>**A video submission may be requested from shortlisted applicants for selection purposes with enough notice given. The 3-5 mins video can be filmed during the applicant's CCA session or own practice session.  Detailed instructions regarding the video requirements will be communicated via email only for shortlisted applicants.** |
 
 **For more information on Chinese Orchestra, click [HERE](https://www.nanchiauhigh.moe.edu.sg/co-curricular-activities/Performing-Arts/Chinese-Orchestra/).**
 
