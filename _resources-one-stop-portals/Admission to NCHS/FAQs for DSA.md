@@ -115,7 +115,7 @@ will make <u>only one DSA offer </u>in a specific talent area. The offer
 will be made based on school's assessment of your child's talent and the
 school's judgement on which talent area the school can better develop your
 child in.</p>
-<p><strong>14. If my child with Wait List offer from School A indicates the school as a choice during School Preference Submission and is allocated to the school, does my child still have another chance to accept or reject the allocation?</strong>
+<p><strong>14. If my child with Wait List (WL) offer from School A indicates the school as a choice during School Preference Submission and is allocated to the school, does my child still have another chance to accept or reject the allocation?</strong>
 <br>By submitting the school preference, you have agreed for your child to
 commit to the DSA-Sec school that is allocated to them. If your child is
 successfully admitted via DSA-Sec, they will not be allowed to transfer
@@ -138,8 +138,7 @@ in Secondary 1 Posting to opt for secondary schools.</p>
 <br>If your child is currently studying in an MOE school and unsuccessful
 in DSA-Sec, they will participate in the centralised S1 Posting.</p>
 <p><strong>17. For more information you may refer to the following links to the MOE webpage on DSA:</strong>
-</p>
-<p><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank"><u>Direct School Admission (DSA-Sec) | Ministry of Education</u></a>
+<br><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank"><u>Direct School Admission (DSA-Sec) | Ministry of Education</u></a>
 <br>
 <br><strong>MOE DSA-Sec FAQ:</strong>
 <br><a href="https://www.moe.gov.sg/faq?categoryid=A7E58A2D93C34D10B448DB6B1AC244D4" rel="noopener noreferrer nofollow" target="_blank"><u>Frequently asked questions (FAQ) | MOE</u></a>
