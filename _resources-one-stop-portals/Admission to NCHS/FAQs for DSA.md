@@ -61,13 +61,10 @@ their selected talent area.</p>
 July to attend an interview/audition/sports trial.</p>
 <p><strong>6.&nbsp;&nbsp;&nbsp; What do my child need to do during the audition or sports trial?</strong>
 <br><u>Performing Arts</u>
-</p>
-<p>At the Audition, applicants’ level of proficiency in the relevant talent
-areas will be assessed.</p>
-<p>
-<br><u>Sports and Games&nbsp;</u>
-</p>
-<p>At the selection trials, applicants’ level of proficiency for the specific
+<br>At the Audition, applicants’ level of proficiency in the relevant talent
+areas will be assessed.
+<br><u>Sports and Games</u>
+<br>At the selection trials, applicants’ level of proficiency for the specific
 sport will be assessed. Applicants are to be dressed in appropriate sports
 attire.</p>
 <p><strong>7.&nbsp;&nbsp;&nbsp; When is the selection and when will the outcome be known?</strong>
@@ -96,7 +93,10 @@ to secondary school.</p>
 <p><strong>10. If my child is offered a DSA-Sec place in a secondary school, does my child have to meet the school’s indicative cut-off point for Secondary One posting?</strong>
 <br>To be successfully admitted to a DSA-Sec school, your child's Primary
 School Leaving Examination (PSLE) results must qualify them for a course
-that the school offers.</p>
+that the school offers. Students offered placement in a DSA-Sec school
+still need a PSLE score that qualifies them for the&nbsp;<a href="https://www.moe.gov.sg/secondary/s1-posting/how-to-choose/considerations#posting-group" rel="noopener noreferrer nofollow" target="_blank">Posting Group</a> offered
+by the school, which is <strong>Posting Group 3</strong> for Nan Chiau High
+School.</p>
 <p></p>
 <p><strong>11. How many schools can my child apply to through the DSA-Sec portal?</strong>
 <br>Your child can indicate up to three choices during the application. For
