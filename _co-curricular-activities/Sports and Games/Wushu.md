@@ -24,7 +24,7 @@ variant: tiptap
 </p>
 <ul>
 <li>
-<p>Hall in</p>
+<p>Hall</p>
 </li>
 <li>
 <p>Indoor Sports Hall 2</p>
