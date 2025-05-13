@@ -63,7 +63,6 @@ Study &amp; train hard persistently to give the best.
 Annual CCA 2 Days Programme<br> 
 National School Games (NSG) Badminton (North Zone) for B Divisions<br>
 National School Games (NSG) Badminton League Pool for C Divisions<br>
-Annual CCA Camp<br>
 Umpiring workshop<br>
 Friendly matches<br>
 Fitness Conditioning<br>
@@ -73,7 +72,8 @@ Sports Education Programme (SEP)
 **Achievements**<br>
 National School Games<br>
          
-
+*   2025 – C Division Boys &amp; Girls – Relegated to NSG League 3
+*   2025 – Participated in NSG (NZ) for B Div Boys &amp; Girls (clinched Top 6)
 *   2024 – C Division Boys &amp; Girls – NSG League 2 
 *   2024 - Participated in NSG (NZ) for B Div Boys &amp; Girls
 *   2023 - B Division Girls clinched 4th position for the first time in NCHS history
@@ -81,4 +81,3 @@ National School Games<br>
 *   2022 - C Division Boys clinched NZ Top 6
 *   2022 - Participated in NSG (NZ) for all Boys &amp; Girls
 *   2021 – Participated in NSG (NZ) only B Div Boys &amp; Girls
-*   2020 – Participated in NSG (NZ)
