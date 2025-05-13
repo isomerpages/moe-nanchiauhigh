@@ -5,28 +5,10 @@ description: ""
 third_nav_title: Sports and Games
 variant: tiptap
 ---
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_Wushu01_6_May_2025.jpg">
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRCfc6x5PzsvZEu-RCdZb5rFzed0Lr6Q43jryXthJiONqptkl6qLcKGneHdAoDcUhSpicBvhax64KLy/embed?start=true&amp;amp;loop=true&amp;amp;delayms=5000"></iframe>
 </div>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_Wushu02_6_May_2025.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <p><strong><u>Training Dates and Time</u></strong>
 </p>
 <ul>
