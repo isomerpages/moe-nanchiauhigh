@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/nchsecg25" rel="noopener nofollow" target="_blank">NCHS ECG Resources </a><strong><em>*New </em></strong>
+<p><a href="https://go.gov.sg/nchsecg25" rel="noopener nofollow" target="_blank">NCHS ECG Resources </a><strong><em>*New</em></strong>
 </p>
 </li>
 <li>
@@ -55,7 +55,7 @@ Staff submission)</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Ficthelpccc&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3YAma3bWkRvpHvgKSwHL44" rel="noopener noreferrer nofollow" target="_blank">[CCC Form] ICT (including AV) Equipment Defect and Loan Request</a>
+<p><a href="https://go.gov.sg/nchsccc" rel="noopener noreferrer nofollow" target="_blank">[CCC Form] ICT (including AV) Equipment Defect and Loan Request</a>
 </p>
 </li>
 <li>
