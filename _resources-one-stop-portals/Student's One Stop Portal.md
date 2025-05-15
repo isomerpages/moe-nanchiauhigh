@@ -18,7 +18,7 @@ variant: tiptap
 matters
 <br><a href="https://learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a> 
 <br><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student Google Workspace</a> 
-<br><a href="https://go.gov.sg/nchs-ict-defects" rel="noopener noreferrer nofollow" target="_blank">Report ICT Defects in Classrooms</a> 
+<br><a href="https://go.gov.sg/nchscccstu" rel="noopener noreferrer nofollow" target="_blank">Report ICT Defects in Classrooms</a> 
 <br><a href="https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-create-curate-connect%2Ftechpop&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2Obot5AyPr9eJW12G_XD7s" rel="noopener noreferrer nofollow" target="_blank">NCHS TechPOP Newsletters 2020 to 2023</a>
 </p>
 <ul data-tight="true" class="tight">
