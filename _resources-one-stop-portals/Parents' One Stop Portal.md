@@ -20,7 +20,7 @@ variant: tiptap
 <p><strong>Parent Engagement Resources</strong> 
 <br><a href="https://drive.google.com/file/d/16jr2ZAMYjUzsh-NbIRvZ-xQN6gmk41oe/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Sec1 Parent Engagement (10 Jan)</a> 
 <br><a href="https://drive.google.com/file/d/1b_HehiRc5vSm5WJIGuBsYhLqur63hA83/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Sec4 Parent Engagement (13 May)</a>&gt;&gt;
-<a href="https://drive.google.com/file/d/1ooKC_ya6NbvoviNw7RtDO_1SrFfZ8AHc/view?usp=drive_link" rel="noopener nofollow" target="_blank">Briefing</a>
+<a href="https://youtu.be/aUsoND5ZOXo" rel="noopener nofollow" target="_blank">Briefing</a>
 <br>Parent Tip: Supporting your teen in Exploring Post-Sec Pathways <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.moe.gov.sg%2F-%2Fmedia%2Ffiles%2Fparent-kit%2Fparent-kit---supporting-your-teen-in-exploring-post-secondary-pathways.pdf&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw39nIbGQbCLzRx1-k6mBiUN" rel="noopener noreferrer nofollow" target="_blank">(Click Here)</a> 
 <br>
 </p>
