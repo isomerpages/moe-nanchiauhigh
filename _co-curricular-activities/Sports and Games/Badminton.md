@@ -40,7 +40,7 @@ Venue: ISH2
 
 
 *  Mr Clarence Choo (OIC)  
-*    Mdm Meena Malinder (2025), Mrs Kate Chia (2024)
+*    Mdm Meena Malinder (2025)
 		
 **KEY INFORMATION**
 
