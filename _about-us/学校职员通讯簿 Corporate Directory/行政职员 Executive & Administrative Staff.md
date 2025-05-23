@@ -60,7 +60,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><sup>ICT Manager</sup>
+<p><sup>Adjunct ICT Manager</sup>
 </p>
 </td>
 <td rowspan="1" colspan="1">
