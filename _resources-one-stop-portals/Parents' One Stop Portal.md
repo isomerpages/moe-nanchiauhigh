@@ -21,8 +21,10 @@ variant: tiptap
 <br><a href="https://drive.google.com/file/d/1b_HehiRc5vSm5WJIGuBsYhLqur63hA83/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Sec4 Parent Engagement (13 May)</a>
 <br>2025 Sec3 Parent Engagement (20 May)
 <br>&gt;&gt; <a href="https://youtu.be/kB9IeAQz0X8" rel="noopener nofollow" target="_blank">Briefing </a>[Available
-on 24 May, 0900h-1200h]
-<br>2025 Sec2 Parent Engagement (22 May) [Slides will be available by 23 May]
+on 31 May, 0900h-1200h]
+<br>2025 Sec2 Parent Engagement (22 May)
+<br>&gt;&gt; <a href="https://youtu.be/XLg3w9vr1pU" rel="noopener nofollow" target="_blank">Briefing</a> [Available
+on 31 May, 0900h-1200h]
 <br><a href="https://drive.google.com/file/d/16jr2ZAMYjUzsh-NbIRvZ-xQN6gmk41oe/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Sec1 Parent Engagement (10 Jan)</a>
 </p>
 <p>
