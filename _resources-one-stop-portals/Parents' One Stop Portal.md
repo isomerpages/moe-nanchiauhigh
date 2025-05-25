@@ -23,6 +23,7 @@ variant: tiptap
 <br>&gt;&gt; <a href="https://drive.google.com/file/d/1vIQgGzrsD8xPE5l0gUxuXlQ2NvU1zGuv/view?usp=drive_link" rel="noopener nofollow" target="_blank">Q&amp;A</a>
 <br>&gt;&gt; <a href="https://youtu.be/kB9IeAQz0X8" rel="noopener nofollow" target="_blank">Briefing </a>[Available
 on 31 May, 0900h-1200h]
+<br>&gt;&gt; <a href="https://drive.google.com/file/d/13A7Q5--_xRXJ8Kd6p9AzTC5ybirVWrR8/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec3 Camp Video Montage</a> 
 <br>2025 Sec2 Parent Engagement (22 May)
 <br>&gt;&gt; <a href="https://youtu.be/XLg3w9vr1pU" rel="noopener nofollow" target="_blank">Briefing</a> [Available
 on 31 May, 0900h-1200h]
