@@ -126,6 +126,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><sup>Ms Hamizah Binte Sapuan</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>Administrative Executive</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>hamizah_sapuan@moe.edu.sg</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><sup>Mdm Alice Chua Siam Tiang</sup>
 </p>
 </td>
