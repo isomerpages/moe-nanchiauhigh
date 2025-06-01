@@ -22,13 +22,8 @@ variant: tiptap
 <br><a href="https://drive.google.com/file/d/1b_HehiRc5vSm5WJIGuBsYhLqur63hA83/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Sec4 Parent Engagement (13 May)</a>
 <br><a href="https://drive.google.com/file/d/1wqE5WsBpd4QY2oC19zk4pSbxKGOHmeR8/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Sec3 Parent Engagement (20 May)</a> 
 <br>&gt;&gt; <a href="https://drive.google.com/file/d/1vIQgGzrsD8xPE5l0gUxuXlQ2NvU1zGuv/view?usp=drive_link" rel="noopener nofollow" target="_blank">Q&amp;A</a>
-<br>&gt;&gt; <a href="https://youtu.be/kB9IeAQz0X8" rel="noopener nofollow" target="_blank">Briefing </a>[Available
-on 31 May, 0900h-1200h]
-<br>&gt;&gt; <a href="https://drive.google.com/file/d/13A7Q5--_xRXJ8Kd6p9AzTC5ybirVWrR8/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec3 Camp Video Montage</a> 
 <br><a href="https://drive.google.com/file/d/189DO_rsLRjM1Q9pZhdqE-qHScwWW2HYa/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Sec2 Parent Engagement (22 May)</a> 
 <br>&gt;&gt; <a href="https://drive.google.com/file/d/1wHDvdvJylgNTrSc9qc4qPnodrfuCcRSE/view?usp=drive_link" rel="noopener nofollow" target="_blank">Q&amp;A</a>
-<br>&gt;&gt; <a href="https://youtu.be/XLg3w9vr1pU" rel="noopener nofollow" target="_blank">Briefing</a> [Available
-on 31 May, 0900h-1200h]
 <br><a href="https://drive.google.com/file/d/16jr2ZAMYjUzsh-NbIRvZ-xQN6gmk41oe/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Sec1 Parent Engagement (10 Jan)</a>
 </p>
 <p>
