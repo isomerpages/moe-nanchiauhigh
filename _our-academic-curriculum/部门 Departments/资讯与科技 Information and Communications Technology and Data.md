@@ -66,7 +66,5 @@ by future-ready, scalable, and reliable infrastructure.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCC_Use(FINAL).png">
 </div>
-<p></p>
-<p></p>
 <p><strong>ICT Innovations @ NCHS=</strong>
 </p>
