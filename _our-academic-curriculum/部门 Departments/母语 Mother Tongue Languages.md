@@ -22,7 +22,7 @@ in their Mother Tongue Language</p>
 <p>To strengthen our students’ sense of cultural heritage and identity</p>
 <p>3、拓展学生的国际观以及双文化视野</p>
 <p>To broaden our students’ global awareness and Bicultural perspective</p>
-<p><strong>DEPARTMENT DETAILS (2024)</strong>
+<p><strong>DEPARTMENT DETAILS (2025)</strong>
 </p>
 <p>HOD/MTL: Mr Goh Lam Chye
 <br>HOD/SAP: Ms Chong Ka Wuei
