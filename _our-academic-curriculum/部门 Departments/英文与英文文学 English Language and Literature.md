@@ -13,7 +13,7 @@ variant: tiptap
 <p>For students to: read, understand, and appreciate, a variety of texts;
 think critically; and to communicate responsibly their thoughts and feelings
 as informed and caring citizens.</p>
-<p><strong>DEPARTMENT DETAILS (2024)</strong>
+<p><strong>DEPARTMENT DETAILS (2025)</strong>
 <br>Mdm Anna Yap – Head of Department
 <br>Mr Fu Kaidi – Subject Head of English
 <br>Mdm Shahnaaz Sidik – Senior Teacher / Literature
