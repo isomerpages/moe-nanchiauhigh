@@ -25,7 +25,6 @@ for excellence.</p>
 <br>Mr Neo Choong Wei Dalvey – Year Head (Sec 3)
 <br>Ms Hung Xue Er Christabel – SH/Humanities
 <br>Mr Abdul Rahim – Senior Teacher History
-<br>Mr Lim Jian Ming Gary – Teacher (History/Social Studies)
 <br>Ms. Periya Sundaram – Teacher (Geography/Social Studies)
 <br>Mr Lok Liang Min - Teacher (Geography/English)
 <br>Ms Charlene Chen Ying – Teacher (Geography)
