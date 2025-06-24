@@ -20,9 +20,11 @@ by future-ready, scalable, and reliable infrastructure.</p>
 <p><strong>DEPARTMENT DETAILS</strong>
 </p>
 <p><strong>Head of Department:</strong> 
-<br>Mr John Mak</p>
+<br>Mr John Mak
+<br>
+<br><strong>SH/Innovation:</strong>
+<br>Ms Doris Toh</p>
 <p><strong>Department ICT Champions (2025):</strong> 
-<br>Ms Doris Toh (Math Department) (Ag. SH/ Innovation)
 <br>Mdm Hani (Science Department) (ICT Committee 2IC)
 <br>Ms Angeline Yar Rumin (PE Department)
 <br>Ms Charlene Chen Ying (Humanities Department)
@@ -64,14 +66,7 @@ by future-ready, scalable, and reliable infrastructure.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCC_Use(FINAL).png">
 </div>
-<p><strong>Cyber Security &amp; Wellness</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCC%20Cyber%20Wellness.png">
-</div>
-<p><strong>ICT Innovations @ NCHS</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="467" width="780" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRoP_r_ozmlQLliOKsJ-OFfxsIcj4X8XVNjPyV4mRhAbMclW0VWKLSaEN3XV70q7Isz8VTWWuOlShB/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
 <p></p>
+<p></p>
+<p><strong>ICT Innovations @ NCHS=</strong>
+</p>
