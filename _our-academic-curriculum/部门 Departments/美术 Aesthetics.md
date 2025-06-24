@@ -55,7 +55,10 @@ skills and concepts through authentic learning experiences.
 <p>Ms Tan Ji Mei Melinda</p>
 </li>
 <li>
-<p>Ms Insyirah Binte Imran
+<p>Ms Insyirah Binte Imran</p>
+</li>
+<li>
+<p>Mr Muhammad Faizal Bin Mohamed Ali
 <br>
 </p>
 </li>
@@ -88,6 +91,12 @@ skills and concepts through authentic learning experiences.
 </li>
 <li>
 <p>Ms Michel Chua</p>
+</li>
+</ul>
+<p>Music</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Kwong Jie Bao</p>
 </li>
 </ul>
 <p></p>
