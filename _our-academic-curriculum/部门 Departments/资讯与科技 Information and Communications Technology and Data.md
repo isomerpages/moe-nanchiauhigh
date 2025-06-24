@@ -10,9 +10,11 @@ variant: tiptap
 </div>
 <p><strong>Vision</strong>
 </p>
-<p>To propel NCHS towards an agile EdTech learning ecosystem that is secure,
-inclusive and innovative.</p>
-<p>推动南侨建立一个安全，包容和创新的敏捷ICT学习生态系统。</p>
+<p>"To nurture a digitally intelligent school community where staff and students
+collaboratively embrace emerging technologies, including AI, fostering
+a secure and innovative learning environment that prepares future-ready
+learners."</p>
+<p>培育数智校园共同体，让师生携手拥抱人工智能等新兴科技，营造安全创新的学习环境，培养面向未来的终身学习者。</p>
 <p><strong>Mission</strong>&nbsp;</p>
 <p>To support quality teaching and learning anytime and anywhere undergirded
 by future-ready, scalable, and reliable infrastructure.</p>
