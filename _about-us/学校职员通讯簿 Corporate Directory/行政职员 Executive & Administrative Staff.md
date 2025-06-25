@@ -196,20 +196,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sup>Mr Choo Swee Lock</sup>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><sup>Operations Support Officer</sup>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><sup>NIL</sup>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><sup>Mdm Teo Swee Ling Elizabeth</sup>
 </p>
 </td>

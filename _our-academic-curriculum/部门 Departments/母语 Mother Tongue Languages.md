@@ -29,7 +29,6 @@ in their Mother Tongue Language</p>
 <br>
 <br>Chinese Unit:
 <br>Mr Tan Jia Hao (SH/CL)
-<br>Ms Cheong Zheng Yin Agnes (SH/CCE)
 <br>Mdm Ting Hann Sy
 <br>Miss Kim Lay Tin
 <br>Mdm Ye Bijiao
