@@ -3,17 +3,19 @@ title: Choir
 permalink: /co-curricular-activities/Performing-Arts/Choir/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTcn0_OHwrDxluXvzk9d6liIoy17TNWL91wZdwyT9wvoT5dS1-7NK8KcDkQjvqim8aWanGzVf4Klfuu/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
-*   Tuesday,  
-    3.30pm – 6.00pm  
-    Thursday,  
-    4.00pm – 6.30pm  
+*   Wednesday,  
+    3.00pm – 5.30pm  
+    Friday,  
+    3.00pm – 5.30pm  
     
-*   Music Room, Auditorium, IT Resource Room 3
+*   Auditorium and IT Resource Room 3
 
-*   Ms Periya Sundaram (OIC)<br>Mr Truman See
+*   Ms Periya Sundaram (OIC)<br>
+*   Ms Qu Mei
 
 **KEY INFORMATION**
 
@@ -28,13 +30,9 @@ third_nav_title: Visual and Performing Arts
 
 The NCHS Choir was formed in 2001 with a vision of developing students with the passion for choral singing while, at the same time, providing a platform for students to discover and hone their music capability. Today, the NCHS Choir stands firm in her belief in raising the standards of singing and has since embarked on a rich and eventful journey.
 
- 
-
 The Choir has been actively participating in school and public performances ranging from the school musical – “Equilibrium” in 2012 to its first ticketed concert as part of the Limelight series by Esplanade Theatres on the Bay in 2018. The Choir has also participated in overseas competitions and clinched Gold Awards in the 21st Century International Choral Festival cum Competition 2007 and Winter Choral Festival 2010. Locally, the Choir has been awarded Gold and Certificate of Distinction for Singapore Youth Festival since 2007.
 
-  
-
-Bonded by teamwork, self- discipline and resilience, we aspire to take NCHS Choir to greater heights under the baton of our Choral Director Mr. Benedict Goh.
+ Bonded by teamwork, self- discipline and resilience, we aspire to take NCHS Choir to greater heights under the baton of our choral conductors Mr Phua Ee Kia and Ms Ethel Poh Qian Ting.
 
 **Highlight(s) of Activities**
 
