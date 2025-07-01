@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTKC3uxcCrLiTOMbsz6EYzgPTSz9FIxx0vN212AA8rVgh01BznhGx7DoYUtvVUHoQX6giQpttypOmOO/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/1d3VFc7vfFjZ7yrRuJXpjL-O-7TzABOGg/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 **Training Day &amp; Time:**<br>
 •	Friday •	3.00pm – 6.00pm <br>
