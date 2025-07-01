@@ -17,10 +17,10 @@ variant: tiptap
 and humanity in science curriculum.</p>
 <p><strong>DEPARTMENT DETAILS (2025)</strong>
 <br>Mdm Ng Mui Hoon (HOD)
-<br>Mr Jimmy Goh Giam Hwee (Physics, YH)
-<br>Mr Goh Khan Sen (Subject Head/Science Research)
+<br>Mr Jimmy Goh Giam Hwee (Physics, LT)
+<br>Mr Goh Khan Sen (Subject Head / Physics)
 <br>Ms Chen Xiaowei (Chemistry, AYH)
-<br>Mdm Ainul Hani (Senior Teacher/Chemistry)
+<br>Mdm Ainul Hani (Senior Teacher / Chemistry)
 <br>Ms Nurhaida Bte Ramli (Chemistry)
 <br>Mr Chen Yingjie Jason (Biology)
 <br>Mr Leng Chengda Gabriel (Biology)
