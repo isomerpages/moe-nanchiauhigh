@@ -6,7 +6,7 @@ third_nav_title: Sports and Games
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="467" width="780" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRCfc6x5PzsvZEu-RCdZb5rFzed0Lr6Q43jryXthJiONqptkl6qLcKGneHdAoDcUhSpicBvhax64KLy/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe height="467" width="780" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/173M3WiQ7Kn8bG1th2LiQ9U1wqyAiydTb0hpk7wLxk8s/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p><strong><u>Training Dates and Time</u></strong>
 </p>
