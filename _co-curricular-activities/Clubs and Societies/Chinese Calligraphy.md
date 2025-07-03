@@ -3,8 +3,9 @@ title: Chinese Calligraphy
 permalink: /co-curricular-activities/Clubs-and-Societies/Chinese-Calligraphy/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTRRfACzWW2H0_CgLDMLSVWbdGffRVAJH_iQRKzTSriAXI1AGypXwEsPC1coX_6d-2f61F7fx6hPiKT/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="780" height="467" allowfullscreen="true"></iframe>
+
 
 **Training Date &amp; Time**<br>
 Friday,  
