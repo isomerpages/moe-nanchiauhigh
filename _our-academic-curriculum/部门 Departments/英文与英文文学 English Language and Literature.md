@@ -5,9 +5,6 @@ description: ""
 third_nav_title: 部门 Departments
 variant: tiptap
 ---
-<div class="iframe-wrapper">
-<iframe height="480" width="767" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbIBM9DDYF2q6iDQttS7tOMt-LyuzVE_MgImeF--ywaKlMXoWrqGEx3XYAn9A6KsNyhfFczA9RPm7f/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
 <p><strong>Mission</strong>
 </p>
 <p>For students to: read, understand, and appreciate, a variety of texts;
