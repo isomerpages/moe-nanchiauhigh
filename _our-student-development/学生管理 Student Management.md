@@ -4,7 +4,7 @@ permalink: /our-student-development/student-management/
 description: ""
 variant: markdown
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTUTT5HjhYb6wKCWTTwRLXTrxAg29ZnFszW77fvmy2HjHJBf_s3dvaQ7MWQbS083bdWNvWwAaNs9jP2/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="767" height="480" allowfullscreen="true"></iframe>
+
 
 **Vision**<br>
 Caring Leaders with Values and Character 
