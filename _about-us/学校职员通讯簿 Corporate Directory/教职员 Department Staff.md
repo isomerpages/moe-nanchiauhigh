@@ -105,11 +105,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheong Zheng Yin Agnes (SH/CCE)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Kim Lay Tin</p>
 </td>
 </tr>
@@ -160,11 +155,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Tay Jing Ying Winnie</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Chan Siew Min</p>
 </td>
 </tr>
@@ -211,6 +201,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Doris Toh Ming Li (SH/Innovation)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Tan Yi Chiann (AYH)</p>
 </td>
 </tr>
@@ -241,17 +236,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Doris Toh Ming Li</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Ng Su Peng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Eric Zhang Boyuan</p>
 </td>
 </tr>
 </tbody>
@@ -277,17 +262,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Neewyn Neo (SSD)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Jimmy Goh (LT)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Khan Sen (SH/Sci Research)</p>
+<p>Mr Goh Khan Sen (SH/Physics)</p>
 </td>
 </tr>
 <tr>
@@ -345,11 +325,6 @@ variant: tiptap
 <p>Ms Roxanne Lau Shu Xin (Bio)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ryan Loh (Chem)</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>
@@ -388,11 +363,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Jian Ming Gary (History)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Charlene Chen Ying (Geo)</p>
 </td>
 </tr>
@@ -425,11 +395,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Aesthetics Dept</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Jane Hoe (HOD)</p>
 </td>
 </tr>
 <tr>
