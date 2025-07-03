@@ -7,9 +7,6 @@ variant: tiptap
 ---
 <p><strong>Learning Experiences</strong>
 </p>
-<div class="iframe-wrapper">
-<iframe height="467" width="780" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBHNvFpYFG_fN2X2nniepBGStPpKZFgUDwe6ggGnTE6GAVetubRJavtserV8oALWgJQOyHBiH73Kni/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
 <p><strong>Vision</strong>
 </p>
 <p>Every NCzens possesses an analytical and inquisitive mind to appreciate
