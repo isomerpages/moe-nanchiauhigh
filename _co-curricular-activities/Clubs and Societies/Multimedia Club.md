@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: markdown
 ---
-<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThOTx2EwSArb374cWPYyHZX8ETzjOF9WMiVGP1_GPcXgtvyfE8pH09YIQatXu7N5COYYuw-6munHsP/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
 
 **Training Date &amp; Time**<br>
 Monday, 7.10am – 7.55am <br>
