@@ -5,9 +5,6 @@ description: ""
 third_nav_title: 部门 Departments
 variant: tiptap
 ---
-<div class="iframe-wrapper">
-<iframe height="467" width="780" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRgC6Z-reSBPQ1IcGBMUo8luUSYaGT-BZEBOpx_Innu5rQ6hgxFbUhB8IluUgZ0jz4-Aq4submz0op2/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
 <p><strong>Vision</strong>
 </p>
 <p>A critical thinker and a confident problem solver</p>
