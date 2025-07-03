@@ -3,6 +3,7 @@ title: NCYM
 permalink: /our-partners/NC-Alumni-Assocation/NCYM/
 description: ""
 third_nav_title: 南侨中学校友会 NC Alumni Assocation
+variant: markdown
 ---
 A**bout NCYM:** 
 
@@ -44,4 +45,3 @@ A bridge between NCzens of past and present 
     
 *   Tertiary education sharing by students of various JCs and Polytechnics (Allowing current student body to make a more informed pathway choice for post NCHS)
 
-![](/images/Modern%20Art%20Diagonal%20Lines%20Black%20and%20White%20Poster%202_page-0001.jpeg)
