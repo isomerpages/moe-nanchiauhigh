@@ -70,6 +70,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><sup>Mdm Lai Hew Wing Jodi</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>School Counsellor</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>lai_hew_wing@moe.edu.sg</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><sup>Mr Aizuddin Hassan Shamsuddin</sup>
 </p>
 </td>
