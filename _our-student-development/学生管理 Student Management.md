@@ -4,8 +4,6 @@ permalink: /our-student-development/student-management/
 description: ""
 variant: markdown
 ---
-
-
 **Vision**<br>
 Caring Leaders with Values and Character 
 
@@ -19,8 +17,6 @@ Ms Tan Yi Chiann (Student Council OIC)<br>
 Ms Christabel Hung (Student Council 2IC)<br>
 Ms Periya d/o Sundaram (Sec 3 DLC)<br>
 Mr Tan Han Wen (Sec 4 DLC)<br>
-Mr Eric Zhang Boyuan<br>
-Mr Ryan Loh<br>
 Mr Lok Liang Min<br>
 Ms Tan Wan Ting<br>
 
