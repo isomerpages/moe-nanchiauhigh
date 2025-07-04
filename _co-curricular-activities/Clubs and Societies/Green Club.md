@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: markdown
 ---
-
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/19gc4JGtzJXvdEkyg4y_6XymzF52hqtnw2r6w2yV6M-U/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 *   Friday,  
     3.00pm – 5.30pm
