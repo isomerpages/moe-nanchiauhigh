@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ5VAzmtrTGubtTwYw_r3byP1FSCtjbeFyGrXjHgAbSG0TaJAF-M17tLWVkgVEIx8bsWYHTeBIefynx/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/1z1XQmjE74PnX5J1NPyRYpOoU72GctI5OXevDJxRxIJs/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 <br>
 *   Friday,  
     3.00pm – 5.45pm

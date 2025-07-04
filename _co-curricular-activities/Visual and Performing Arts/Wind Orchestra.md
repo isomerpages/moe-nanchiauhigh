@@ -6,7 +6,7 @@ third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="467" width="780" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSvFgN5wQvs-xzp_LZ38u6ydwlc649wn82WsjIJV1_weFyR6_T5X2zN40HhnMhukeXxLOZs1AK9pcol/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe height="467" width="780" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1kb66S9dZIMXNlpLr_IdpRsGTj2d6CpxfRU6iNeXzoIA/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p>Practice Sessions:</p>
 <ul data-tight="true" class="tight">

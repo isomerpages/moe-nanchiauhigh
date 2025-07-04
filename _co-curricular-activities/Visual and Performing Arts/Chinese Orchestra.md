@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: markdown
 ---
-<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-QYw_dmdrFOMkuazxiNgRBuHeherq89L5DQUGmxit8-aXaZ5-BpfSIALF-efTpQYLj5vbKuODFVM5/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/1_PM2Xfx3GhHZKEY49tDylBaxtDTKhQopl_R9dsLAho4/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 *   **Training Time:**<br> Monday:  3.00 pm – 6.00 pm  
     Wednesday:  3.00 pm – 6.00 pm  
