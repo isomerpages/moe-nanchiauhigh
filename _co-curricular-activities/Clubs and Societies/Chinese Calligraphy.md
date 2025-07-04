@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: markdown
 ---
-
+<iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/10pQknXwk1_WD3Bpwo_h83tW1-C7jZhJhw43_Kcp1vjE/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 **Training Date &amp; Time**<br>
 Friday,  
