@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs and Societies
 ---
+<div class="iframe-wrapper">
+<iframe height="467" width="780" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1W6YNmKA-jjVwwkDELAm14TqFZC_WVQ70aV-CYty19Fc/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <p><strong>Training Venue</strong>
 </p>
 <p>Friday, 3 pm to 5.30 pm</p>
