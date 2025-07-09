@@ -59,7 +59,7 @@ activities and events organised by the school.</p>
 <td rowspan="1" colspan="3">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/23_to_24_Waves.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/24_to_25_Waves_01.jpg">
 </div>
 </td>
 </tr>
@@ -68,15 +68,15 @@ activities and events organised by the school.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1qHSJRFKUoB7urQ9DQLJyPCTqq5Bey8A6/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024- Waves 2</a>
+<p><a href="https://drive.google.com/file/d/1lwJ100YlvIACQQvoQoDgeLwb8r7ULgOu/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2025- Waves 1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1M_BElQePZj8hPMTlRoR7yPNh0hqpEU8r/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024-Waves 1</a>
+<p><a href="https://drive.google.com/file/d/1qHSJRFKUoB7urQ9DQLJyPCTqq5Bey8A6/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024-Waves 2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1kw1p-Ata7q3F5DFPqjiiqE9HEoBplvm-/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2023- Waves 2</a>
+<p><a href="https://drive.google.com/file/d/1M_BElQePZj8hPMTlRoR7yPNh0hqpEU8r/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024- Waves 1</a>
 </p>
 </td>
 </tr>
