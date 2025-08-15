@@ -7,6 +7,7 @@ variant: tiptap
 <p><strong>Timetable</strong>
 <br><a href="https://drive.google.com/drive/folders/1vIvigNMO8hmvYraSZ30nDhHglCE3J6uq?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Timetable (Term 3)</a> 
 <br><a href="https://drive.google.com/file/d/1L7VGRuB-AtTVhZ0dJk723QBMyVAOpSQV/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Sec4 Prelim Exam Schedule</a>
+<br><a href="https://drive.google.com/drive/folders/1TixK8yxamTCox4ibVuaixktYxgTX3SVu?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Sec1 to 3 Exam Schedule</a>
 </p>
 <p><strong>Sec 1 CCA Selection Exercise 2025</strong>
 <br><a href="https://drive.google.com/file/d/1wsabw8x52MpfHOyOdR1YlsdcDYeSuTYi/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">CCA Selection Exercise</a> 
