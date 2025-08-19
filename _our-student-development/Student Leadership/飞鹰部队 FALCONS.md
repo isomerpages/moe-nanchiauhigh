@@ -88,8 +88,6 @@ FALCONS was one of the best opportunities in NCHS for me to grow and mature as a
 
 
 **Our Staff:**
-<br>Mr Lim Heng Boon Arthur (HOD)
-<br>Mr Zhang Boyuan, Eric (Student Leadership 2IC)
 <br>Ms Chean Kai Xian Annette
 <br>Mr Ryan Loh
 <br>Ms Sheena Lee
