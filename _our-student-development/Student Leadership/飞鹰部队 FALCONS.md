@@ -89,7 +89,6 @@ FALCONS was one of the best opportunities in NCHS for me to grow and mature as a
 
 **Our Staff:**
 <br>Ms Chean Kai Xian Annette
-<br>Mr Ryan Loh
 <br>Ms Sheena Lee
 <br>Mr Lin Wenwei
 <br>Mr Ng Jun Xiong
