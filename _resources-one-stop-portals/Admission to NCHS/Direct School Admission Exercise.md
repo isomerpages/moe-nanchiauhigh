@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Admission to NCHS
 variant: markdown
 ---
+# **Important Announcement:** <br>
+* Schools will inform all applicants on the DSA-Sec outcomes **by Thursday, 4 September 2025**, including **both successful and unsuccessful applications**.<br>
+* The notification will be sent via **email** with an official letter with the school letterhead as an attachment.
+
+-----------------------------------------------------
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
 
