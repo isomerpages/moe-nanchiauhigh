@@ -69,8 +69,10 @@ sport will be assessed. Applicants are to be dressed in appropriate sports
 attire.</p>
 <p><strong>7.&nbsp;&nbsp;&nbsp; When is the selection and when will the outcome be known?</strong>
 <br>Selection for short-listed applicants will take place between 11 July
-and 31 July. All short-listed applicants will receive a reply of the selection
-outcome via email between 25 August and 4 September.</p>
+and 31 July. Schools will inform all applicants on the DSA-Sec outcomes
+by Thursday, 4 September 2025,&nbsp;<u>including both successful and unsuccessful applications</u>.
+<br>The notification will be sent via email with an official letter with the
+school letterhead as an attachment.</p>
 <p></p>
 <p><strong>8.&nbsp;&nbsp;&nbsp; What happens after an applicant receives an offer?</strong>
 <br>Applicants with at least one confirmed offer or are on the waiting list
