@@ -32,7 +32,7 @@ in their Mother Tongue Language</p>
 <br>Mdm Ye Bijiao
 <br>Mdm Zhang Chunyu
 <br>Ms Tay Jing Ying Winnie
-<br>Mr Wang Zhe
+<br>Dr Wang Zhe
 <br>Mr Ng Jun Xiong
 <br>Ms Lau Shze Enn</p>
 <p></p>
