@@ -10,7 +10,6 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong>Timetable</strong> 
-<br><a href="https://drive.google.com/file/d/1L7VGRuB-AtTVhZ0dJk723QBMyVAOpSQV/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Sec4 Prelim Exam Schedule</a>
 <br><a href="https://drive.google.com/drive/folders/1TixK8yxamTCox4ibVuaixktYxgTX3SVu?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Sec1 to 3 Exam Schedule</a>
 </p>
 <p></p>
