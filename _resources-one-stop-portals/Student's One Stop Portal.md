@@ -4,15 +4,15 @@ permalink: /our-resources/Students-Resources/
 description: ""
 variant: tiptap
 ---
-<p><strong>Timetable</strong>
-<br><a href="https://drive.google.com/drive/folders/1vIvigNMO8hmvYraSZ30nDhHglCE3J6uq?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Timetable (Term 3)</a> 
-<br><a href="https://drive.google.com/file/d/1L7VGRuB-AtTVhZ0dJk723QBMyVAOpSQV/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Sec4 Prelim Exam Schedule</a>
+<p><strong>(For 2025 Sec2 Students Only)</strong>
+<br><a href="https://forms.moe.edu.sg/forms/oab6OA" rel="noopener noreferrer nofollow" target="_blank">Sec3 Subject Combinations Exercise</a> 
+<br><strong><sub>This link will open on 24 Oct (Fri), 0700h, and close on 27 Oct (Mon), 0900h.</sub></strong>
+</p>
+<p></p>
+<p><strong>Timetable</strong> 
 <br><a href="https://drive.google.com/drive/folders/1TixK8yxamTCox4ibVuaixktYxgTX3SVu?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Sec1 to 3 Exam Schedule</a>
 </p>
-<p><strong>Sec 1 CCA Selection Exercise 2025</strong>
-<br><a href="https://drive.google.com/file/d/1wsabw8x52MpfHOyOdR1YlsdcDYeSuTYi/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">CCA Selection Exercise</a> 
-<br>
-</p>
+<p></p>
 <p><strong>EdTech Resources for NCzens and Parents</strong> 
 <br><a href="https://sites.google.com/moe.edu.sg/nchs-edtechpop/home" rel="noopener noreferrer nofollow" target="_blank">NCzens &amp; Parents EdTECHpop</a> 
 <br>&gt;&gt; *About this site: Access for latest resources on PLD and DMA

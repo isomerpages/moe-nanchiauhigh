@@ -8,8 +8,7 @@ variant: tiptap
 <br><a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener nofollow" target="_blank">Claims Portal</a>
 </p>
 <p><strong>Timetable</strong>
-<br><a href="https://drive.google.com/drive/folders/1vIvigNMO8hmvYraSZ30nDhHglCE3J6uq?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Timetable (Term 3)</a>
-<br><a href="https://drive.google.com/file/d/1L7VGRuB-AtTVhZ0dJk723QBMyVAOpSQV/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Sec4 Prelim Exam Schedule</a>
+<br><a href="https://drive.google.com/drive/folders/1TixK8yxamTCox4ibVuaixktYxgTX3SVu?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Sec1 to 3 Exam Schedule</a>
 </p>
 <p><strong>Curriculum Matters</strong> 
 <br><a href="https://drive.google.com/file/d/1O_ODqEQJg6yjqQAsKXAr-rPc0MXETMJT/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2025 Student Handbook </a>*<strong><em>NEW: Requires iCON login to view</em></strong> 
