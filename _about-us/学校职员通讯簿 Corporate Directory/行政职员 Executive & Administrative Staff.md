@@ -42,6 +42,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><sup>Ms Chua Pei Lee</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>Admin Manager</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>chua_pei_lee@moe.edu.sg</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><sup>Mr Teo Nguan Wee Jeff</sup>
 </p>
 </td>
@@ -308,7 +322,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sup>Mdm Irene See</sup>
+<p><sup>Ms Amutha D/O V Rajoo</sup>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -316,7 +330,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><sup>nchs@moe.edu.sg</sup>
+<p><sup>amutha_v_rajoo_1@moe.edu.sg</sup>
 </p>
 </td>
 </tr>
