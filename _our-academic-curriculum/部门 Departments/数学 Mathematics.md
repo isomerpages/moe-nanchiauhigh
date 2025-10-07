@@ -27,6 +27,7 @@ with critical thinking and creative problem solving skills</p>
 <br>Mr Quah Ee Qiang
 <br>Mdm Siak Chock Kwun
 <br>Mdm Tan Yan Yan
+<br>Mdm Jaime Tan Chen Lin
 <br>
 </p>
 <p><strong>Our Goals:</strong>
