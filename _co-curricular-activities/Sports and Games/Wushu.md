@@ -15,6 +15,9 @@ variant: tiptap
 <p>Monday, 3.00pm – 5.30pm</p>
 </li>
 <li>
+<p>Wednesday, 3.00pm – 5.00pm (Competition Season)</p>
+</li>
+<li>
 <p>Friday, 2.30pm – 5.30pm
 <br><a href="https://drive.google.com/drive/folders/144U8xPQCm4oY06dXSjfz7PRYYTxjcfOT" rel="noopener noreferrer nofollow" target="_blank">CCA Schedule</a>
 </p>
@@ -34,10 +37,10 @@ variant: tiptap
 </p>
 <ul>
 <li>
-<p>Mdm Angeline Yar</p>
+<p>Mdm Angeline Yar (Overall Teacher-In-Charge)</p>
 </li>
 <li>
-<p>Mdm Siak Chock Kwun</p>
+<p>Mdm Siak Chock Kwun (Teacher-In-Charge)</p>
 </li>
 </ul>
 <h4><strong>KEY INFORMATION</strong></h4>
