@@ -27,6 +27,7 @@ with critical thinking and creative problem solving skills</p>
 <br>Mr Quah Ee Qiang
 <br>Mdm Siak Chock Kwun
 <br>Mdm Tan Yan Yan
+<br>Mdm Jaime Tan Chen Lin
 <br>
 </p>
 <p><strong>Our Goals:</strong>
@@ -69,5 +70,5 @@ in their primary schools.</p>
 </ul>
 <p>Students may also be invited to join the programme in Secondary Two or
 Three upon recommendations by their mathematics teachers.&nbsp;</p>
-<p>Click&nbsp;<a href="/our-talent-development/Department-Talent-Programmes/Mathematics-Talent-Programme" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+<p>Click&nbsp;<a href="https://www.nanchiauhigh.moe.edu.sg/our-talent-development/department-talent-programmes/mathematics-talent-programme/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information.</p>
