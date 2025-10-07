@@ -19,7 +19,6 @@ Dance Studio (Fridays and even Wednesdays)
 *   **Teachers-In-Charge:** 
 <br>Ms Charlene Chen Ying (OIC)
 <br>Ms Hayati
-<br>Ms Lau Shze Enn
 		
 **KEY INFORMATION**
 
@@ -35,19 +34,20 @@ Contemporary dance is a style of expressive dance that combines elements of seve
 
 **Highlight(s) of Activities**
 
-1\. Internal and external dance performances<br>
-2\. Nan Chiau High School and Meridian Secondary School SYF Inter-School Mass Dance Choreography Project (2019)<br>
-3\. School Exchange with Jurong West Secondary School<br>
-4\. Annual CCA bonding camp
+1\. Showcasing talent through internal and external dance performances – providing opportunities for dancers to express creativity and build stage confidence.<br>
+2\. School exchange programme with partner schools – fostering collaboration and sharing of dance techniques between schools.<br>
+3\. CCA exchange with Chinese Dance CCA – encouraging appreciation of different dance genres and styles.<br>
+4\. Masterclasses conducted by experienced industry professionals and the MOE Arts Branch – enriching dancers’ skills and exposure through expert-led training.<br>
+5\. Annual CCA bonding camp – strengthening teamwork, friendships, and passion for dance.<br>
 
 **Achievements**
 
+SYF Arts presentation (2025): Certificate of Distinction<br>
 SYF Arts presentation (2023): Certificate of Accomplishment<br>
 SYF Arts presentation (2021): Certificate of Distinction<br>
 SYF Arts presentation (2019): Certificate of Accomplishment<br>
 SYF Arts presentation (2017): Certificate of Distinction<br>
 SYF Arts presentation (2015) : Certificate of Distinction<br>
 SYF Arts Presentation (2013): Certificate of Distinction<br>
-21st Century
-Arts Festival in Genting: Silver<br>
+21st Century Arts Festival in Genting: Silver<br>
 North Zone NE Dance Competition: 1st
