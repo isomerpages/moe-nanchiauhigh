@@ -43,8 +43,15 @@ Members are also selected and trained to take part in various school functions a
 5. Drama Appreciation
 
 **Achievements**<br>
-2023 – The Certificate of Accomplishment for the SYF Arts Presentations for Drama<br>
-2022 - 3rd Prize (Youth Category) for the first Poetry Festival Singapore: Chinese Poetry Recitation Competition (首届新加坡诗歌节——华文诗歌朗诵比赛) - Teo Zhi Ling 张之龄<br>
+2025 - The Certificate of Accomplishment for the SYF Arts Presentations for Drama<br>
+2025 - Happy Teahouse Singapore: Chinese Poetry Recitation Competition<br> 
+2025 (第四届新加坡茶乐轩——华文诗歌朗诵比赛) - Chung Hee Chee 曾熹慈 (Commendation Prize)<br>
+2024 - Happy Teahouse Singapore: Chinese Poetry Recitation Competition<br> 
+2024 (第三届新加坡茶乐轩——华文诗歌朗诵比赛) - Zhang Jiayu 张嘉雨 (Commendation Prize)<br>
+2023 -  The Certificate of Accomplishment for the SYF Arts Presentations for Drama<br>
+2023 -  Poetry Festival Singapore: Chinese Poetry Recitation Competition<br> 
+2023 (第二届新加坡诗歌节——华文诗歌朗诵比赛) - Teo Zhi Ling 张之龄 (First Runner-Up) &amp; Iren Sun Yuqiao (Commendation Prize)<br>
+2022 - First Poetry Festival Singapore: Chinese Poetry Recitation Competition (首届新加坡诗歌节——华文诗歌朗诵比赛) - Teo Zhi Ling 张之龄 (Second Runner-Up)<br>
 2021 – The Certificate of Accomplishment for the SYF Arts Presentations for Drama  
 2019 – The Certificate of Distinction for the SYF Arts Presentations for Drama  
 2018 – Merit Award in the “Best Script Award” Category and The Most Potential Award for Script It Right Radio Drama Writing Competition  
