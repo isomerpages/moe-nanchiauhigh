@@ -687,7 +687,7 @@ a subsidy of The Ngee Ann Kongsi</p>
 <br>S4
 <br>优胜奖（Consolation Prize)：
 <br>• 张恺恩 THIO KAI EN @ CLARA HARDONO （4 Gratitude)
-<br>• 黄婧 HUANG JING （4 Gratitude)
+<br>• 黄婧 HUANG JING（4 Gratitude)
 <br>• 陶思睿TAO SIRUI (4 Resilience)
 <br>
 <br>第三名（Third place)：
@@ -695,7 +695,7 @@ a subsidy of The Ngee Ann Kongsi</p>
 <br>• 金妧芯 INES KIM YUAN XIN (4 Excellence )
 <br>
 <br>第二名（Second place):
-<br>• 余劭维ER SEAN WEE （4 Sincerity)
+<br>• 余劭维 ER SEAN WEE（4 Sincerity)
 <br>• 林宛萱 LUM YIUN SHYN (4 Innovation)
 <br>
 <br>第一名（Champion):
@@ -725,7 +725,8 @@ a subsidy of The Ngee Ann Kongsi</p>
 <br>第三名（Third place)：
 <br>• 陈静如 TAN JING RU （4 Innovation）
 <br>
-<br>第二名（Second place)： • 华函 HUA HAN （4 Integrity）
+<br>第二名（Second place)：
+<br>• 华函 HUA HAN （4 Integrity）
 <br>
 <br>第一名（Champion)：
 <br>• 吴坤桦 WU KUNHUA （4 Resilience）</p>
@@ -737,8 +738,8 @@ a subsidy of The Ngee Ann Kongsi</p>
 <br>33th National Student Calligraphy Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>华函 Hua Han (S4-Integrity)
-<br>吴坤桦 WU KUNHUA(S4-Resilience)
+<p>华函 HUA HAN (S4 Integrity)
+<br>吴坤桦 WU KUNHUA(S4 Resilience)
 <br><strong>获中学组毛笔书法优胜奖</strong>
 <br><strong>Brush Calligraphy, Merit Award of Secondary School</strong>
 </p>
@@ -751,7 +752,7 @@ a subsidy of The Ngee Ann Kongsi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>中学毛笔组优胜奖 华函</strong> 
-<br>Hua Han (S4-Integrity)</p>
+<br>HUA HAN (S4 Integrity)</p>
 </td>
 </tr>
 <tr>
@@ -766,7 +767,7 @@ a subsidy of The Ngee Ann Kongsi</p>
 <br>
 <br><strong>中学毛笔组鼓励奖</strong>
 <br>陈思洁 ANGELA TAN SI JIE (3 Gratitude)
-<br>华函 Hua Han (4 Integrity)</p>
+<br>华函 HUA HAN (4 Integrity)</p>
 </td>
 </tr>
 <tr>
