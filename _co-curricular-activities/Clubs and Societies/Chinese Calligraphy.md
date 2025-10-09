@@ -63,25 +63,26 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>南侨中学2025年校内挥春比赛获奖名单</p>
 <p>(Chinese Calligraphy Competition 2025)</p>
-<p>硬笔组Pen Calligraphy</p>
+<p><strong>硬笔组 Pen Calligraphy</strong>
+</p>
 <p>中一年级</p>
 <p>优胜奖（Consolation Prize）：</p>
 <p>• CAITLIN CHUA PEI EN 蔡佩恩 (1 Innovation)</p>
-<p>• TAN XIN RU陈欣孺(1 Perseverance)</p>
+<p>• TAN XIN RU 陈欣孺 (1 Perseverance)</p>
 <p>第三名（Third place）：</p>
-<p>• TAN ZHONG XUAN, MYKELL 陈忠宣(1 Excellence)</p>
+<p>• TAN ZHONG XUAN, MYKELL 陈忠宣 (1 Excellence)</p>
 <p>第二名（Second place）：</p>
-<p>• CASSANDRA TIONG XIAO XUAN 张晓暄（1 Gratitude）</p>
+<p>• CASSANDRA TIONG XIAO XUAN 张晓暄 (1 Gratitude）</p>
 <p>第一名（Champion）：</p>
-<p>• TAN HUI EN CODY陈慧恩 (1 Perseverance)</p>
+<p>• TAN HUI EN CODY 陈慧恩 (1 Perseverance)</p>
 <p>中二年级</p>
 <p>优胜奖（Consolation Prize）：</p>
-<p>• CLARISS NG QIWEN 黄琦雯(2 Gratitude)</p>
-<p>• SAM LIXUAN岑立轩（2 Perseverance）</p>
+<p>• CLARISS NG QIWEN 黄琦雯 (2 Gratitude)</p>
+<p>• SAM LIXUAN 岑立轩（2 Perseverance）</p>
 <p>第三名（Third place）：</p>
 <p>• CHEN XIAOTONG 陈晓彤 (2 Gratitude)</p>
 <p>第二名（Second place）：</p>
-<p>• DASHIELL KOH ZONG ZE許鐘澤（2 Sincerity）</p>
+<p>• DASHIELL KOH ZONG ZE 許鐘澤（2 Sincerity）</p>
 <p>第一名（Champion）：</p>
 <p>• CHEN ZITONG 陈梓彤（2 Perseverance）</p>
 <p>中三年级</p>
@@ -103,7 +104,7 @@ variant: tiptap
 <p>第二名（Second place）：</p>
 <p>VERNICE OR JI YING 柯子盈（4 Innovation）</p>
 <p>第一名（Champion）：</p>
-<p>FOO KAI EN 符愷恩（4 Gratitude）</p>
+<p>FOO KAI EN 符愷恩 (4 Gratitude）</p>
 <p>毛笔组：Brush Calligraphy</p>
 <p>优胜奖（Consolation Prize）：</p>
 <p>TAN ZO LYNN 陈楚霖（4 Sincerity）</p>
@@ -177,7 +178,7 @@ Calligraphy Competition</p>
 <p>LEE MING RUI DARYL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3Innovation</p>
+<p>3 Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -191,7 +192,7 @@ Calligraphy Competition</p>
 <p>LAI YIN KEI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3Innovation</p>
+<p>3 Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -205,7 +206,7 @@ Calligraphy Competition</p>
 <p>PHOEBE TAN YU TONG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2Gratitude</p>
+<p>2 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -219,7 +220,7 @@ Calligraphy Competition</p>
 <p>LEE CHANG HENG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1Excellence</p>
+<p>1 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -247,7 +248,7 @@ Calligraphy Competition</p>
 <p>QUAN KAH KENG ERNEST</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2Humility</p>
+<p>2 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -303,7 +304,7 @@ Calligraphy Competition</p>
 <p>NATALIE TAN JIA XUEN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4Resilience</p>
+<p>4 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -317,7 +318,7 @@ Calligraphy Competition</p>
 <p>WONG YU KIAT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4Sincerity</p>
+<p>4 Sincerity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -331,7 +332,7 @@ Calligraphy Competition</p>
 <p>TAN ZHONG XUAN, MYKELL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1Excellence</p>
+<p>1 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -401,7 +402,7 @@ Calligraphy Competition</p>
 <p>WU SHUANG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3Sincerity</p>
+<p>3 Sincerity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -415,7 +416,7 @@ Calligraphy Competition</p>
 <p>GUO HAOTIAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3Sincerity</p>
+<p>3 Sincerity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -429,7 +430,7 @@ Calligraphy Competition</p>
 <p>LYU CHENG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3Sincerity</p>
+<p>3 Sincerity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -443,7 +444,7 @@ Calligraphy Competition</p>
 <p>SNG JIAQI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4Integrity</p>
+<p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -485,7 +486,7 @@ Calligraphy Competition</p>
 <p>WEI SHENGJIE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3Sincerity</p>
+<p>3 Sincerity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -527,7 +528,7 @@ Calligraphy Competition</p>
 <p>TAN LOK WUN, SARAH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3Sincerity</p>
+<p>3 Sincerity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -565,9 +566,7 @@ Calligraphy Competition</p>
 a subsidy of The Ngee Ann Kongsi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>符愷恩 FOO KAI EN
-<br>4 Gratitude
-<br>中学组鼓励奖</p>
+<p>符愷恩 FOO KAI EN 4 Gratitude 中学组鼓励奖</p>
 </td>
 </tr>
 <tr>
@@ -583,9 +582,7 @@ a subsidy of The Ngee Ann Kongsi</p>
 <p>5月25日</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>柯子盈 VERNICE OR JI YING
-<br>4 Innovation
-<br>毛笔组优胜奖</p>
+<p>柯子盈 VERNICE OR JI YING 4 Innovation 毛笔组优胜奖</p>
 </td>
 </tr>
 <tr>
@@ -600,13 +597,9 @@ a subsidy of The Ngee Ann Kongsi</p>
 <p>organised by THE CHINESE CALLIGRAPHY SOCIETY OF SINGAPORE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>符愷恩 FOO KAI EN
-<br>3 Gratitude
-<br>优胜奖
+<p>符愷恩 FOO KAI EN 3 Gratitude 优胜奖
 <br>
-<br>孙家琦 SNG JIAQI
-<br>3 Integrity
-<br>优胜奖</p>
+<br>孙家琦 SNG JIAQI 3 Integrity 优胜奖</p>
 </td>
 </tr>
 </tbody>
