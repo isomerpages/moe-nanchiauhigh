@@ -72,17 +72,17 @@ variant: tiptap
 <p>第三名（Third place）：</p>
 <p>• TAN ZHONG XUAN, MYKELL 陈忠宣 (1 Excellence)</p>
 <p>第二名（Second place）：</p>
-<p>• CASSANDRA TIONG XIAO XUAN 张晓暄（1 Gratitude）</p>
+<p>• CASSANDRA TIONG XIAO XUAN 张晓暄 (1 Gratitude）</p>
 <p>第一名（Champion）：</p>
-<p>• TAN HUI EN CODY陈慧恩 (1 Perseverance)</p>
+<p>• TAN HUI EN CODY 陈慧恩 (1 Perseverance)</p>
 <p>中二年级</p>
 <p>优胜奖（Consolation Prize）：</p>
-<p>• CLARISS NG QIWEN 黄琦雯(2 Gratitude)</p>
-<p>• SAM LIXUAN岑立轩（2 Perseverance）</p>
+<p>• CLARISS NG QIWEN 黄琦雯 (2 Gratitude)</p>
+<p>• SAM LIXUAN 岑立轩（2 Perseverance）</p>
 <p>第三名（Third place）：</p>
 <p>• CHEN XIAOTONG 陈晓彤 (2 Gratitude)</p>
 <p>第二名（Second place）：</p>
-<p>• DASHIELL KOH ZONG ZE許鐘澤（2 Sincerity）</p>
+<p>• DASHIELL KOH ZONG ZE 許鐘澤（2 Sincerity）</p>
 <p>第一名（Champion）：</p>
 <p>• CHEN ZITONG 陈梓彤（2 Perseverance）</p>
 <p>中三年级</p>
@@ -104,7 +104,7 @@ variant: tiptap
 <p>第二名（Second place）：</p>
 <p>VERNICE OR JI YING 柯子盈（4 Innovation）</p>
 <p>第一名（Champion）：</p>
-<p>FOO KAI EN 符愷恩（4 Gratitude）</p>
+<p>FOO KAI EN 符愷恩 (4 Gratitude）</p>
 <p>毛笔组：Brush Calligraphy</p>
 <p>优胜奖（Consolation Prize）：</p>
 <p>TAN ZO LYNN 陈楚霖（4 Sincerity）</p>
