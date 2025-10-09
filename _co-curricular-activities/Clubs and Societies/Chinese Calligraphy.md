@@ -178,7 +178,7 @@ Calligraphy Competition</p>
 <p>LEE MING RUI DARYL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3Innovation</p>
+<p>3 Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -192,7 +192,7 @@ Calligraphy Competition</p>
 <p>LAI YIN KEI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3Innovation</p>
+<p>3 Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -206,7 +206,7 @@ Calligraphy Competition</p>
 <p>PHOEBE TAN YU TONG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2Gratitude</p>
+<p>2 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -220,7 +220,7 @@ Calligraphy Competition</p>
 <p>LEE CHANG HENG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1Excellence</p>
+<p>1 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -248,7 +248,7 @@ Calligraphy Competition</p>
 <p>QUAN KAH KENG ERNEST</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2Humility</p>
+<p>2 Humility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -304,7 +304,7 @@ Calligraphy Competition</p>
 <p>NATALIE TAN JIA XUEN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4Resilience</p>
+<p>4 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -318,7 +318,7 @@ Calligraphy Competition</p>
 <p>WONG YU KIAT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4Sincerity</p>
+<p>4 Sincerity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -332,7 +332,7 @@ Calligraphy Competition</p>
 <p>TAN ZHONG XUAN, MYKELL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1Excellence</p>
+<p>1 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -402,7 +402,7 @@ Calligraphy Competition</p>
 <p>WU SHUANG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3Sincerity</p>
+<p>3 Sincerity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -416,7 +416,7 @@ Calligraphy Competition</p>
 <p>GUO HAOTIAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3Sincerity</p>
+<p>3 Sincerity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -430,7 +430,7 @@ Calligraphy Competition</p>
 <p>LYU CHENG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3Sincerity</p>
+<p>3 Sincerity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -444,7 +444,7 @@ Calligraphy Competition</p>
 <p>SNG JIAQI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4Integrity</p>
+<p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -486,7 +486,7 @@ Calligraphy Competition</p>
 <p>WEI SHENGJIE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3Sincerity</p>
+<p>3 Sincerity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -528,7 +528,7 @@ Calligraphy Competition</p>
 <p>TAN LOK WUN, SARAH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3Sincerity</p>
+<p>3 Sincerity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Representing the school in competitions</p>
@@ -566,9 +566,7 @@ Calligraphy Competition</p>
 a subsidy of The Ngee Ann Kongsi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>符愷恩 FOO KAI EN
-<br>4 Gratitude
-<br>中学组鼓励奖</p>
+<p>符愷恩 FOO KAI EN 4 Gratitude 中学组鼓励奖</p>
 </td>
 </tr>
 <tr>
@@ -584,9 +582,7 @@ a subsidy of The Ngee Ann Kongsi</p>
 <p>5月25日</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>柯子盈 VERNICE OR JI YING
-<br>4 Innovation
-<br>毛笔组优胜奖</p>
+<p>柯子盈 VERNICE OR JI YING 4 Innovation 毛笔组优胜奖</p>
 </td>
 </tr>
 <tr>
@@ -601,13 +597,9 @@ a subsidy of The Ngee Ann Kongsi</p>
 <p>organised by THE CHINESE CALLIGRAPHY SOCIETY OF SINGAPORE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>符愷恩 FOO KAI EN
-<br>3 Gratitude
-<br>优胜奖
+<p>符愷恩 FOO KAI EN 3 Gratitude 优胜奖
 <br>
-<br>孙家琦 SNG JIAQI
-<br>3 Integrity
-<br>优胜奖</p>
+<br>孙家琦 SNG JIAQI 3 Integrity 优胜奖</p>
 </td>
 </tr>
 </tbody>
