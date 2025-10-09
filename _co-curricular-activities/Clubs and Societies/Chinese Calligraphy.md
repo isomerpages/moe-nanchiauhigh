@@ -565,8 +565,7 @@ Calligraphy Competition</p>
 a subsidy of The Ngee Ann Kongsi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>符愷恩
-<br>FOO KAI EN
+<p>符愷恩 FOO KAI EN
 <br>4 Gratitude
 <br>中学组鼓励奖</p>
 </td>
@@ -584,8 +583,7 @@ a subsidy of The Ngee Ann Kongsi</p>
 <p>5月25日</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>柯子盈
-<br>VERNICE OR JI YING
+<p>柯子盈 VERNICE OR JI YING
 <br>4 Innovation
 <br>毛笔组优胜奖</p>
 </td>
@@ -602,13 +600,11 @@ a subsidy of The Ngee Ann Kongsi</p>
 <p>organised by THE CHINESE CALLIGRAPHY SOCIETY OF SINGAPORE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>符愷恩
-<br>FOO KAI EN
+<p>符愷恩 FOO KAI EN
 <br>3 Gratitude
 <br>优胜奖
 <br>
-<br>孙家琦
-<br>SNG JIAQI
+<br>孙家琦 SNG JIAQI
 <br>3 Integrity
 <br>优胜奖</p>
 </td>
