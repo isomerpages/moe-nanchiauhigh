@@ -61,60 +61,61 @@ variant: tiptap
 <p>农历新年</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>南侨中学2025年校内挥春比赛获奖名单</p>
-<p>(Chinese Calligraphy Competition 2025)</p>
+<p>南侨中学2025年校内挥春比赛获奖名单
+<br>(Chinese Calligraphy Competition 2025)</p>
 <p><strong>硬笔组 Pen Calligraphy</strong>
 </p>
 <p>中一年级</p>
-<p>优胜奖（Consolation Prize）：</p>
-<p>• CAITLIN CHUA PEI EN 蔡佩恩 (1 Innovation)</p>
-<p>• TAN XIN RU 陈欣孺 (1 Perseverance)</p>
-<p>第三名（Third place）：</p>
-<p>• TAN ZHONG XUAN, MYKELL 陈忠宣 (1 Excellence)</p>
-<p>第二名（Second place）：</p>
-<p>• CASSANDRA TIONG XIAO XUAN 张晓暄 (1 Gratitude）</p>
-<p>第一名（Champion）：</p>
-<p>• TAN HUI EN CODY 陈慧恩 (1 Perseverance)</p>
+<p>优胜奖（Consolation Prize）：
+<br>• CAITLIN CHUA PEI EN 蔡佩恩 (1 Innovation)
+<br>• TAN XIN RU 陈欣孺 (1 Perseverance)</p>
+<p>第三名（Third place）：
+<br>• TAN ZHONG XUAN, MYKELL 陈忠宣 (1 Excellence)</p>
+<p>第二名（Second place）：
+<br>• CASSANDRA TIONG XIAO XUAN 张晓暄 (1 Gratitude）</p>
+<p>第一名（Champion）：
+<br>• TAN HUI EN CODY 陈慧恩 (1 Perseverance)</p>
 <p>中二年级</p>
-<p>优胜奖（Consolation Prize）：</p>
-<p>• CLARISS NG QIWEN 黄琦雯 (2 Gratitude)</p>
-<p>• SAM LIXUAN 岑立轩（2 Perseverance）</p>
-<p>第三名（Third place）：</p>
-<p>• CHEN XIAOTONG 陈晓彤 (2 Gratitude)</p>
-<p>第二名（Second place）：</p>
-<p>• DASHIELL KOH ZONG ZE 許鐘澤（2 Sincerity）</p>
-<p>第一名（Champion）：</p>
-<p>• CHEN ZITONG 陈梓彤（2 Perseverance）</p>
+<p>优胜奖（Consolation Prize）：
+<br>• CLARISS NG QIWEN 黄琦雯 (2 Gratitude)
+<br>• SAM LIXUAN 岑立轩（2 Perseverance）</p>
+<p>第三名（Third place）：
+<br>• CHEN XIAOTONG 陈晓彤 (2 Gratitude)</p>
+<p>第二名（Second place）：
+<br>• DASHIELL KOH ZONG ZE 許鐘澤（2 Sincerity）</p>
+<p>第一名（Champion）：
+<br>• CHEN ZITONG 陈梓彤（2 Perseverance）</p>
 <p>中三年级</p>
-<p>优胜奖（Consolation Prize）：</p>
-<p>• REBECCA TAN PECK SIN 陈柏欣（3 Excellence）</p>
-<p>• WU SHUANG 吴双（3 Sincerity）</p>
-<p>第三名（Third place）：</p>
-<p>• LIU XINYI 刘欣宜（3 Excellence）</p>
-<p>第二名（Second place）：</p>
-<p>• GUO HAOTIAN 郭昊天（3 Sincerity）</p>
-<p>第一名（Champion）：</p>
-<p>• LYU CHENG 吕澄（3 Sincerity） 　</p>
+<p>优胜奖（Consolation Prize）：
+<br>• REBECCA TAN PECK SIN 陈柏欣（3 Excellence）
+<br>• WU SHUANG 吴双（3 Sincerity）</p>
+<p>第三名（Third place）：
+<br>• LIU XINYI 刘欣宜（3 Excellence）</p>
+<p>第二名（Second place）：
+<br>• GUO HAOTIAN 郭昊天（3 Sincerity）</p>
+<p>第一名（Champion）：
+<br>• LYU CHENG 吕澄（3 Sincerity） 　</p>
 <p>中四年级</p>
-<p>优胜奖（Consolation Prize）：</p>
-<p>PING PEIQI 平珮绮（4 Resilience）</p>
-<p>NATALIE TAN JIA XUEN 陈家萱（4 Resilience）</p>
-<p>第三名（Third place）：</p>
-<p>KWAN XINLIN 关馨琳（4 Resilience）</p>
-<p>第二名（Second place）：</p>
-<p>VERNICE OR JI YING 柯子盈（4 Innovation）</p>
-<p>第一名（Champion）：</p>
-<p>FOO KAI EN 符愷恩 (4 Gratitude）</p>
-<p>毛笔组：Brush Calligraphy</p>
-<p>优胜奖（Consolation Prize）：</p>
-<p>TAN ZO LYNN 陈楚霖（4 Sincerity）</p>
-<p>FOO KAI EN 符愷恩（4 Gratitude）</p>
-<p>第三名（Third place）：</p>
-<p>VERNICE OR JI YING 柯子盈（4 Innovation）</p>
-<p>第二名（Second place）：</p>
-<p>LYU CHENG 吕澄（3 Sincerity）</p>
-<p>第一名（Champion）：</p>
-<p>LEE YUN TING 李云婷（3 Humility）</p>
+<p>优胜奖（Consolation Prize）：
+<br>• PING PEIQI 平珮绮（4 Resilience）
+<br>• NATALIE TAN JIA XUEN 陈家萱（4 Resilience）</p>
+<p>第三名（Third place）：
+<br>• KWAN XINLIN 关馨琳（4 Resilience）</p>
+<p>第二名（Second place）：
+<br>• VERNICE OR JI YING 柯子盈（4 Innovation）</p>
+<p>第一名（Champion）：
+<br>• FOO KAI EN 符愷恩 (4 Gratitude）</p>
+<p><strong>毛笔组：Brush Calligraphy</strong>
+</p>
+<p>优胜奖（Consolation Prize）：
+<br>• TAN ZO LYNN 陈楚霖（4 Sincerity）
+<br>• FOO KAI EN 符愷恩（4 Gratitude）</p>
+<p>第三名（Third place）：
+<br>• VERNICE OR JI YING 柯子盈（4 Innovation）</p>
+<p>第二名（Second place）：
+<br>• LYU CHENG 吕澄（3 Sincerity）</p>
+<p>第一名（Champion）：
+<br>• LEE YUN TING 李云婷（3 Humility）</p>
 </td>
 </tr>
 <tr>
@@ -578,7 +579,7 @@ a subsidy of The Ngee Ann Kongsi</p>
 <p>2025 13th Singapore Brush and Hard Pen Calligraphy Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>organised by THE CHINESE CALLIGRAPHY SOCIETY OF SINGAPORE</p>
+<p>Organised by THE CHINESE CALLIGRAPHY SOCIETY OF SINGAPORE</p>
 <p>5月25日</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -594,7 +595,7 @@ a subsidy of The Ngee Ann Kongsi</p>
 <p>2024 Singapore "NATIONAL PLEDGE " Hard Pen Calligraphy Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>organised by THE CHINESE CALLIGRAPHY SOCIETY OF SINGAPORE</p>
+<p>Organised by THE CHINESE CALLIGRAPHY SOCIETY OF SINGAPORE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>符愷恩 FOO KAI EN 3 Gratitude 优胜奖
