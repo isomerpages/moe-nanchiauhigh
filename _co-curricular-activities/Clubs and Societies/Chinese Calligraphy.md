@@ -63,13 +63,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>南侨中学2025年校内挥春比赛获奖名单</p>
 <p>(Chinese Calligraphy Competition 2025)</p>
-<p>硬笔组Pen Calligraphy</p>
+<p><strong>硬笔组 Pen Calligraphy</strong>
+</p>
 <p>中一年级</p>
 <p>优胜奖（Consolation Prize）：</p>
 <p>• CAITLIN CHUA PEI EN 蔡佩恩 (1 Innovation)</p>
-<p>• TAN XIN RU陈欣孺(1 Perseverance)</p>
+<p>• TAN XIN RU 陈欣孺 (1 Perseverance)</p>
 <p>第三名（Third place）：</p>
-<p>• TAN ZHONG XUAN, MYKELL 陈忠宣(1 Excellence)</p>
+<p>• TAN ZHONG XUAN, MYKELL 陈忠宣 (1 Excellence)</p>
 <p>第二名（Second place）：</p>
 <p>• CASSANDRA TIONG XIAO XUAN 张晓暄（1 Gratitude）</p>
 <p>第一名（Champion）：</p>
