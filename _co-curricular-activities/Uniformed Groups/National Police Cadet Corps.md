@@ -8,7 +8,8 @@ variant: markdown
 <iframe allowfullscreen="true" height="467" width="780" frameborder="0" src="https://docs.google.com/presentation/d/1d3VFc7vfFjZ7yrRuJXpjL-O-7TzABOGg/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 **Training Day &amp; Time:**<br>
-•	Friday •	3.00pm – 6.00pm <br>
+•	Friday<br>
+•	3.00pm – 6.00pm <br>
 
 **Venue:**<br>
 •	Quadrangle &amp; Field <br>
@@ -17,7 +18,7 @@ variant: markdown
 •	Mr Teo Boon Heng<br>
 •	Ms Claire Low<br>
 •	Mdm Ainul Hani<br>
-•	Mr Yong Keen Whye<br>
+•	Ms Insyirah<br>
 
 
 
@@ -71,12 +72,11 @@ Kinball, Archery, Hiking, Air pistol shooting, Outdoor Orienteering, etc! <br>
 
 **Unit Overall Proficiency Award**<br>
 •	GOLD (since 2007 to 2021) <br>
-•	Certificate of Distinction in 2022 to 2023<br>
+•	Certificate of Distinction in 2022 to 2024<br>
 
-**SPF-NPCC Badge Awardees 2024**<br>
-•	CHEW MEI JUN (4 Innovation) <br>
-•	NG SIANG TING (4 Innovation) <br>
+**SPF-NPCC Badge Awardees 2025**<br>
+•	Ethan Poh Ming En (4 Integrity) <br>
 
-**Best Unit Cadet Awardees 2024**<br>
-•	ETHAN POH MING EN (3 Integrity) <br>
-•	KAYLENE HUANG (3 Resilence)
+**Best Unit Cadet Awardees 2025**<br>
+•	Aloysius Lee (3 Resilence) <br>
+•	Wong Xue Qin Neva (3 Innovation)
