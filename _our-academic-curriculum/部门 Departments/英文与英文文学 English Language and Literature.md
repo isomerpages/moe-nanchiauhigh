@@ -48,11 +48,7 @@ theatre industry
 <p><strong>Talent Development</strong>
 <br>– Live On Festival Essay Competition
 <br>– Creative Arts Programme
-<br>– Unity Writers' Festival
 <br>– National Schools' Literature Festival
 <br>– Creative Writing and Choral/Public Speaking competitions
-<br>– Chrysalis Publication</p>
-<p><strong>Collaborations</strong>
-<br>– Bilingual DSA
-<br>– 'Read, Annotate, Debate' Interschool Literature Festival
-<br>– Contemporary Singaporean Issues Forum (CSI)</p>
+<br>– Chrysalis Publication
+<br>– Bilingual DSA</p>
