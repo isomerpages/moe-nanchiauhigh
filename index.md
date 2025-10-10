@@ -19,6 +19,6 @@ sections:
           url: https://www.nanchiauhigh.moe.edu.sg/our-resources/Students-Resources/
         - title: Open House
           description: ""
-          url: ""
+          url: https://www.nanchiauhigh.moe.edu.sg/nchs-highlights/open-house-2025/
       background: /images/HR2_5mb.gif
 ---
