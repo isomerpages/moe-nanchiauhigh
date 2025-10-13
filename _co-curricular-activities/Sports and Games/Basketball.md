@@ -17,9 +17,9 @@ Fri  3pm - 6pm (Competition Season)<br><br>
 
 **Teachers-in-Charge:**<br>
 Ms Alison Tan (Overall Teacher-In-Charge)<br>
-Mr Gary Lim (Teacher-In-Charge)<br>
-Mr Ji Wen (Teacher-In-Charge)
-		
+Mr Ji Wen (Teacher-In-Charge)<br>
+Mr Lin Wen Wei (Teacher-In-Charge) <br>
+Mr Ong Sao Kai Richie (Teacher-in-Charge)<br>
 		
 **KEY INFORMATION**<br>
 **CCA Objectives**
