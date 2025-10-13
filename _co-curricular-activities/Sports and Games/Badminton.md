@@ -71,7 +71,8 @@ Sports Education Programme (SEP)
 
 **Achievements**<br>
 National School Games<br>
-         
+*   2026 – C Division Boys – Relegated to League 4
+*   2026 – C Division Girls – NSG League 3
 *   2025 – C Division Boys &amp; Girls – Relegated to NSG League 3
 *   2025 – Participated in NSG (NZ) for B Div Boys &amp; Girls (clinched Top 6)
 *   2024 – C Division Boys &amp; Girls – NSG League 2 
@@ -80,4 +81,3 @@ National School Games<br>
 *   2023 – C Division Boys &amp; Girls – NZ Q-Finals
 *   2022 - C Division Boys clinched NZ Top 6
 *   2022 - Participated in NSG (NZ) for all Boys &amp; Girls
-*   2021 – Participated in NSG (NZ) only B Div Boys &amp; Girls
