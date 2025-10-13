@@ -57,7 +57,7 @@ in their Mother Tongue Language</p>
 <br>2025年：优胜奖 (Commendation Award)
 <br>2024年：第二名 (First Runner-Up), 第三名 (Second Runner-Up)</p>
 <p>3. 全国双语创意写作比赛
-<br>National Bilingual Creative Writing Competition Award
+<br>National Bilingual Creative Writing Competition
 <br>2025年：优胜奖 （Accomplishment Prize）
 <br>
 <br>4. 全国初院/中学组华文诗歌创作比赛
@@ -67,40 +67,38 @@ in their Mother Tongue Language</p>
 <br>Poetry Festival SG - National Poetry Competition
 <br>2024年：优胜奖 (Commendation Award)
 <br>
-<br>6. 全国双语创意写作比赛
-<br>National Bilingual Creative Writing Competition Award
-<br>2025年：优胜奖 (Accomplishment Prize)</p>
-<p>7. 全国中学编采比赛
+</p>
+<p>6. 全国中学编采比赛
 <br>Create Your Own Newspaper Competition
 <br>2025年：高年级/二等奖 (Upper Secondary – Second Prize)
 <br>2024年：高年级/二等奖 (Upper Secondary – Second Prize)
 <br>低年级/优秀奖 (Lower Sec – Commendation Award)
 <br>
-<br>8. 《新空下》新谣歌曲填词创作比赛
+<br>7. 《新空下》新谣歌曲填词创作比赛
 <br>“Xin Kong Xia” Xinyao Singing and Songwriting Competition Grand Finals
 <br>2024年：冠军 (First Prize)
 <br>
-<br>9. 全国中学 / 高中华语演讲比赛
+<br>8. 全国中学 / 高中华语演讲比赛
 <br>National Mandarin Oratorical Competition for Secondary Schools and Junior
 Colleges
 <br>2025年： 优胜奖 (Commendation Award)
 <br>2024年： 优胜奖 (Commendation Award)
 <br>
-<br>10. 讲华语运动《我的故事》华语演说比赛
+<br>9. 讲华语运动《我的故事》华语演说比赛
 <br>Speak Mandarin Campaign My Story Public Speaking Competition
 <br>2025年：季军 (Third Prize)、优胜奖 (Commendation Award)
 <br>
-<br>11. 早报校园新星挑战赛
+<br>10. 早报校园新星挑战赛
 <br>ZBSchools Pro Challenge
 <br>2024年：季军 (Second Runner-Up)
 <br>
-<br>12. 华文大比拼
+<br>11. 华文大比拼
 <br>National Chinese Language Challenge
 <br>
-<br>13. 全国学生华语辩论比赛
+<br>12. 全国学生华语辩论比赛
 <br>National Schools Chinese Debate Competition
 <br>
-<br>14. 社区华文阅读计划
+<br>13. 社区华文阅读计划
 <br>Community Chinese Reading Project</p>
 <p>Malay Unit
 <br>1. Tik Tok and Gen G Video Competition <em>(Organised by Berita Harian)</em>
