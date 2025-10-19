@@ -7,6 +7,7 @@ variant: tiptap
 <p><strong>(For 2025 Sec2 Students Only)</strong>
 <br><a href="https://forms.moe.edu.sg/forms/oab6OA" rel="noopener noreferrer nofollow" target="_blank">Sec3 Subject Combinations Exercise</a> 
 <br><strong><sub>This link will open on 24 Oct (Fri), 0700h, and close on 27 Oct (Mon), 0900h.</sub></strong>
+<br><strong><sub>Refer here for briefing Slides on 21 Oct.</sub></strong>
 </p>
 <p></p>
 <p><strong>Timetable</strong> 
