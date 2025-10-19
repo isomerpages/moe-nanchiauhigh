@@ -2,6 +2,7 @@ collections:
   resources-one-stop-portals:
     output: true
     order:
+      - 2025 Sec2 Subject Combination Briefing.md
       - NCHS Calendar (For Public).md
       - NCHS Staff Calendar (For Staff Only).md
       - Staff's One Stop Portal.md
