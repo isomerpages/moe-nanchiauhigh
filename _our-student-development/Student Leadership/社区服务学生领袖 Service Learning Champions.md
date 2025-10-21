@@ -18,7 +18,7 @@ service
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Executive_Committee_Members.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Executive_Committee_Members_2025.jpg">
 </div>
 <p>From Left to Right: Charis Neo Wei En&nbsp; (Shines-in-Harmony In-Charge),
 Nicole Ho Sze Mun (Vice-Chairperson), Desiree Tan Jia Yi (Heritage In-Charge),
