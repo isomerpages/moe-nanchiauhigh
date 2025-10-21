@@ -40,7 +40,7 @@ Venue: ISH2
 
 
 *  Mr Clarence Choo (OIC)  
-*    Mdm Meena Malinder (2025)
+*  Mdm Siak Chock Kwun (2IC)
 		
 **KEY INFORMATION**
 
