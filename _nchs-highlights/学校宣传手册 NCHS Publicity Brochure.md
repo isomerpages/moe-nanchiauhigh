@@ -5,6 +5,9 @@ description: ""
 image: /images/a01-coverpage.jpeg
 variant: tiptap
 ---
-For optimal view, click on the three dots below the image to select "Full Screen".
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRaPr3FKFXonA-htW7skOGwfISiK93eJYEBY6pm2DN_Zyo5Utqvol26kkxrU3IQj_95UlZ76gsTm7AO/embed?start=true&amp;loop=true&amp;delayms=60000" frameborder="0" width="810" height="500" allowfullscreen="true"></iframe>
+<p>For optimal view, click on the three dots below the image to select "Full
+Screen".</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR5Eka34AngMV9AbyMd8gtNNb3JZ_neJtLrWNAHIPbTgbS6TnTv3GE-zkLzxePvBFzMmyA5Svb1VeXJ/pubembed?start=true&amp;loop=true&amp;delayms=30000"></iframe>
+</div>
+<p></p>
