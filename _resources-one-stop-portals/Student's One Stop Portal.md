@@ -7,7 +7,8 @@ variant: tiptap
 <p><strong>(For 2025 Sec2 Students Only)</strong>
 <br><a href="https://forms.moe.edu.sg/forms/oab6OA" rel="noopener noreferrer nofollow" target="_blank">Sec3 Subject Combinations Exercise</a> 
 <br><strong><sub>This link will open on 24 Oct (Fri), 0700h, and close on 27 Oct (Mon), 0900h.</sub></strong>
-<br><strong><sub>Refer </sub></strong><a href="https://www.nanchiauhigh.moe.edu.sg/2025-sec2-subject-combination-briefing/" rel="noopener nofollow" target="_blank">here</a><strong><sub> for briefing Slides on 21 Oct.</sub></strong>
+<br><strong><sub>Refer </sub></strong><a href="https://www.nanchiauhigh.moe.edu.sg/2025-sec2-subject-combination-briefing/" rel="noopener nofollow" target="_blank">here</a><strong><sub> for briefing Slides on 21 Oct (Requires Login).</sub></strong>
+<br><sub>[If applicable] Click </sub><a href="https://forms.moe.edu.sg/forms/J5D0Vp" rel="noopener nofollow" target="_blank">here</a><sub> for appeal from 04 Nov to 05 Nov, 1700h.</sub>
 </p>
 <p></p>
 <p><strong>Timetable</strong> 
