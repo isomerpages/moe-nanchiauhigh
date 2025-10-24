@@ -6,13 +6,13 @@ variant: markdown
 ---
 Dear Students and Parents,
 
-If you are interested in applying for the following financial assistance support, please click on the respective links and submit your completed forms and supporting documents (in hardcopy) to the general office or Mr Jimmy Goh (Year Head), before the deadlines.
+If you are interested in applying for the following financial assistance support, please click on the respective links or download the forms, complete them, and submit them along with the required supporting documents.
 <br>
 <br>
 
 | S/No | Title | Applicable for | Eligibility Criteria | Application period | Click the following links for more details |
 | - | - | - | - | - | - |
-| 1 | MOE Financial Assistance Scheme (FAS) | All students | 1. GHI &lt; $3000, <br><br>or <br><br>2. PCI &lt; $750 | Jan - Oct | [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)<br><br> [Annex A - MOE-FAS-application-form](https://drive.google.com/file/d/1DBKk3LvHk2D0iAmrPhoyMo1L8TRo5yAM/view?usp=drive_link) |
+| 1 | MOE Financial Assistance Scheme (FAS) | All students | 1. GHI ≤ $4000 <br><br>or <br><br>2. PCI ≤ $1000 | Jan - Oct | [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)<br><br> [Annex A - MOE-FAS-application-form](https://drive.google.com/file/d/1DBKk3LvHk2D0iAmrPhoyMo1L8TRo5yAM/view?usp=drive_link) |
 | 2 | School-based Financial Assistance Scheme (FAS) | All students | 1. PCI &lt; $1000 | Jan - Oct | [Annex A - MOE-FAS-application-form](https://drive.google.com/file/d/1DBKk3LvHk2D0iAmrPhoyMo1L8TRo5yAM/view?usp=drive_link) <br>(evaluation will be based on school criteria) |
 | 3 | Straits Times School Pocket Money Fund, STSPMF (2024 Round 2) | Only 2024 Sec 1 students | 1. Singapore Citizens  or Singapore PR<br><br>2. Staying in HDB 4-rm or smaller unit<br><br>3. PCI &lt;= $750<br><br>4. Not receiving other school pocket money fund, except for MOE/School FAS<br><br>5. Did not receive 24-mth STSPMF assistance during Pri &amp; Sec | 10 Jan 2024 - 7 Feb 2024 |[Annex B - 2023 STSPMF Application Form for schools](https://drive.google.com/file/d/1wLTt4f4YuEx-7yQSIfyWQ0_1BoX1WNxs/view?usp=drive_link) | 
 | 4 | Singapore Hokkien Huay Kuan (SHHK) Bursary - 2nd batch | All students | 1.	GHI &lt; $3000 or PCI &lt; $800<br><br>2.	Overall average academic result &gt; 50%<br><br>3.	Must not be currently holding any scholarships and/or bursaries (may be considered on case-by-case basis) | 5 Feb - 8 Mar 2024 | [Annex C - SHHK Bursary (2nd batch) application form](https://drive.google.com/file/d/18Kfv5mnKLCuh__QPi2qUQulzcVH-1Ok3/view?usp=drive_link) |
