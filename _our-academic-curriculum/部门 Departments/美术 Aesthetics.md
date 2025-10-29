@@ -69,9 +69,6 @@ skills and concepts through authentic learning experiences.
 <p>Mr Teo Boon Heng (D&amp;T Coordinator)</p>
 </li>
 <li>
-<p>Mr Lee Heng Leong (SH/ICT)</p>
-</li>
-<li>
 <p>Mr Tan Han Wen</p>
 </li>
 <li>
