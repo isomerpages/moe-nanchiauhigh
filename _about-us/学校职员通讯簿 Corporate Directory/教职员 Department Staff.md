@@ -5,7 +5,7 @@ description: ""
 third_nav_title: 学校职员通讯簿 Corporate Directory
 variant: tiptap
 ---
-<p>(Updated on 14 Mar 2025)</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -395,11 +395,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Aesthetics Dept</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Heng Leong (SH/ICT and Data)</p>
 </td>
 </tr>
 <tr>

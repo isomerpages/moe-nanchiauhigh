@@ -44,7 +44,7 @@ or Music as their elective subject.
 skills and concepts through authentic learning experiences.
 <br>
 </p>
-<p><strong>Staff List (2025):</strong>
+<p><strong>Staff List:</strong>
 </p>
 <p>Art</p>
 <ul data-tight="true" class="tight">
@@ -67,9 +67,6 @@ skills and concepts through authentic learning experiences.
 <ul data-tight="true" class="tight">
 <li>
 <p>Mr Teo Boon Heng (D&amp;T Coordinator)</p>
-</li>
-<li>
-<p>Mr Lee Heng Leong (SH/ICT)</p>
 </li>
 <li>
 <p>Mr Tan Han Wen</p>
