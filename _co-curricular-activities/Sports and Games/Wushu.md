@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 <ul>
 <li>
-<p>Monday, 3.00pm – 5.30pm</p>
+<p>Monday, 3.00pm – 6.00pm</p>
 </li>
 <li>
 <p>Wednesday, 3.00pm – 5.00pm (Competition Season)</p>
