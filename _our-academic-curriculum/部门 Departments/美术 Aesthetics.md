@@ -90,12 +90,7 @@ skills and concepts through authentic learning experiences.
 <p>Ms Michel Chua</p>
 </li>
 </ul>
-<p>Music</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Ms Kwong Jie Bao</p>
-</li>
-</ul>
+<p></p>
 <p></p>
 <p><strong>ACHIEVEMENT</strong>
 <br>
