@@ -9,7 +9,7 @@ our Nan Chiau High family!</p>
 <p><strong>To prepare the start of your Secondary School journey with us, please look through the information detailed below and complete the online registration form in Section A.</strong>
 </p>
 <h1><strong>Section A: Online Registration</strong></h1>
-<p>Online Registration has ended. Thank you.&nbsp;</p>
+<p>Online Registration has not started. Thank you.&nbsp;</p>
 <h1><strong>Section B: Purchase of Textbooks and Stationery for Sec 1</strong></h1>
 <p>Please note that our books and stationery are supplied by our school bookshop
 vendor, Overseas Associates Pte Ltd. You may place order via the online
