@@ -13,10 +13,17 @@ number (if provided by applicant during the school choice submission period)
 using student’s BC/FIN and S1 PIN which was used for submission of the
 school choices
 <br><strong>c.</strong> Students’ primary school &nbsp;&nbsp;</p>
-<p><strong>Incoming 2026 Secondary 1 (S1) students DO NOT need to report to school on release of school posting day. </strong>
+<p><strong>Incoming 2026 Secondary 1 (S1) students DO NOT need to report to school on release of school posting day.</strong>
 </p>
 <p>Instead, registration for all students, including DSA students, will be
-done&nbsp;online only via <strong>(link will be released closer to the S1 Posting results day)</strong>.
-The registration link will be available <strong>from 9am, S1 Posting Results day</strong>&nbsp;and
-will <strong>close at 9am, two days after</strong>. Parents who miss this
-registration period will be required to write in to <a href="mailto:nchs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nchs@moe.edu.sg</u></a>.&nbsp;</p>
+done&nbsp;<strong><u>online</u></strong>. The registration link will be
+sent via Parents Gateway (PG) to all parents of students posted to our
+school. This link will be available <strong>from 9am, S1 Posting Results day</strong>&nbsp;and
+will <strong>close at 9am, two days after</strong>.</p>
+<p>Parents who do not have Parents Gateway access or miss this registration
+period will be required to write in to <a href="mailto:nchs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nchs@moe.edu.sg</u></a>, indicating your
+child's full name, NRIC, and Primary School.&nbsp;</p>
+<p>For appeal cases, your cut-off point must meet our school cut-off for
+the posting year, Posting Group 3, and you <strong><u>must offer Chinese Language as a PSLE subject</u></strong>.
+The appeal link will be released here nearer the date.</p>
+<p></p>
