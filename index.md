@@ -17,8 +17,8 @@ sections:
         - title: Resources
           description: ""
           url: https://www.nanchiauhigh.moe.edu.sg/our-resources/Students-Resources/
-        - title: Open House
+        - title: 2026 Sec1 e-Registration
           description: ""
-          url: https://www.nanchiauhigh.moe.edu.sg/nchs-highlights/open-house-2025/
+          url: https://www.nanchiauhigh.moe.edu.sg/information-for-2026-sec1-students/
       background: /images/HR2_5mb.gif
 ---
