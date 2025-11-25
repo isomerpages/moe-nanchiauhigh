@@ -31,7 +31,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Vice Principal (Academic)</strong>
+<p><strong>Vice-Principal (Academic)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -45,7 +45,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Vice Principal (Academic)</strong>
+<p><strong>Vice-Principal (Academic)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,13 +55,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>--------</p>
+<p><strong>Mr Lin Ganfeng</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>--------</p>
+<p><strong>Vice-Principal (Administration)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>--------</p>
+<p><strong>Email:</strong><a href="mailto:nchs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nchs@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
