@@ -25,5 +25,6 @@ period will be required to write in to <a href="mailto:nchs@moe.edu.sg" rel="noo
 child's full name, NRIC, and Primary School.&nbsp;</p>
 <p>For appeal cases, your cut-off point must meet our school cut-off for
 the posting year, Posting Group 3, and you <strong><u>must offer Chinese Language as a PSLE subject</u></strong>.
-The appeal link will be released here nearer the date.</p>
+Click <a href="https://go.gov.sg/nchs-2026s1-appeal-info" rel="noopener nofollow" target="_blank">here</a> for
+more information on how to appeal.</p>
 <p></p>
