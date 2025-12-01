@@ -19,7 +19,7 @@ school choices
 done&nbsp;<strong><u>online</u></strong>. The registration link will be
 sent via Parents Gateway (PG) to all parents of students posted to our
 school. This link will be available <strong>from 9am, S1 Posting Results day</strong>&nbsp;and
-will <strong>close at 9am, two days after</strong>.</p>
+will <strong>close at 9am, two calendar days after</strong>.</p>
 <p>Parents who do not have Parents Gateway access or miss this registration
 period will be required to write in to <a href="mailto:nchs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nchs@moe.edu.sg</u></a>, indicating your
 child's full name, NRIC, and Primary School.&nbsp;</p>
