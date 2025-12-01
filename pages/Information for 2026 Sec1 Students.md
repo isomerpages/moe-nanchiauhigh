@@ -19,11 +19,12 @@ school choices
 done&nbsp;<strong><u>online</u></strong>. The registration link will be
 sent via Parents Gateway (PG) to all parents of students posted to our
 school. This link will be available <strong>from 9am, S1 Posting Results day</strong>&nbsp;and
-will <strong>close at 9am, two days after</strong>.</p>
+will <strong>close at 9am, two calendar days after</strong>.</p>
 <p>Parents who do not have Parents Gateway access or miss this registration
 period will be required to write in to <a href="mailto:nchs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nchs@moe.edu.sg</u></a>, indicating your
 child's full name, NRIC, and Primary School.&nbsp;</p>
 <p>For appeal cases, your cut-off point must meet our school cut-off for
 the posting year, Posting Group 3, and you <strong><u>must offer Chinese Language as a PSLE subject</u></strong>.
-The appeal link will be released here nearer the date.</p>
+Click <a href="https://go.gov.sg/nchs-2026s1-appeal-info" rel="noopener nofollow" target="_blank">here</a> for
+more information on how to appeal.</p>
 <p></p>
