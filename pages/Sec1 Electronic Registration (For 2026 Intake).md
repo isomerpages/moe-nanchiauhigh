@@ -14,6 +14,8 @@ our Nan Chiau High family!</p>
 <p>Please note that our books and stationery are supplied by our school bookshop
 vendor, Overseas Associates Pte Ltd. You may place order via the online
 platform or make an appointment for walk-in or FAS appointments, at <a href="https://www.oapl.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.oapl.sg/</a>.</p>
+<p>Please click <a href="https://drive.google.com/file/d/1vb-tisvandllndytJL-mGGh6bxIwENAl/view?usp=drive_link" rel="noopener nofollow" target="_blank"><u>HERE</u></a> for
+the booklist.</p>
 <h1><strong>Section C: Purchase of Uniform and PE attire for Sec 1</strong></h1>
 <p>Please click <a href="https://drive.google.com/file/d/1jOQC8AndPN0prz9kqL5UhRFyX62WU57_/view?usp=drive_link" rel="noopener nofollow" target="_blank">HERE</a> for
 the details.</p>
