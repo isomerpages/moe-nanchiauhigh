@@ -399,6 +399,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Kwok Kai Hwei (HOD)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Ngo Ming Kee Angie (ST/Art)</p>
 </td>
 </tr>
@@ -446,6 +451,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>PE Dept</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Han Cheng Kwang (HOD/PE &amp; CCA)</p>
 </td>
 </tr>
 <tr>
