@@ -481,3 +481,23 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School Staff Developer (SSD)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chan Yan Qing Daphne</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
