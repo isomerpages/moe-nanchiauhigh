@@ -186,11 +186,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Ai Tee Cheryl (HOD/CCE)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr John Mak (HOD/ICT and Data)</p>
 </td>
 </tr>
