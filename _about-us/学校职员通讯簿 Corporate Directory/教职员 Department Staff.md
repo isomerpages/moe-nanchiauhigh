@@ -39,17 +39,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Michelle Yeong Xin Yi (SH/CCE)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Lee Wei Ling</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Lenden Su Mei</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Michelle Yeong Xin Yi</p>
 </td>
 </tr>
 <tr>
@@ -267,7 +267,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Xiaowei Chney (AYH)</p>
+<p>Ms Chen Xiaowei Chney (YH)</p>
 </td>
 </tr>
 <tr>
