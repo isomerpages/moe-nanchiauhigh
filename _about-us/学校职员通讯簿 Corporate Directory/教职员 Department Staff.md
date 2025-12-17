@@ -163,6 +163,11 @@ variant: tiptap
 <p>Ms Qu Mei</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sun Yanan</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>
@@ -320,6 +325,11 @@ variant: tiptap
 <p>Ms Roxanne Lau Shu Xin (Bio)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chew Kit Har (Bio)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>
@@ -430,6 +440,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Insyirah (Art)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Glady Seow (Music)</p>
 </td>
 </tr>
 </tbody>
