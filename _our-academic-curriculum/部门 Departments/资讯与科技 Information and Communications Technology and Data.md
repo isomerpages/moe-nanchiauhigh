@@ -20,44 +20,51 @@ innovative pedagogy, meaningful tech integration, and collaborative learning,
 empowering our school community to be ethical users and creators of technology
 in an AI-enabled world."</p>
 <p>我们通过创新教学法、有意义的科技整合和协作学习，培养数码素养和网络健康意识，使我们的校园社群在人工智能时代成为负责任的科技使用者和创造者。</p>
+<p></p>
+<h2><strong>Our NCHS Educational Philosophy on AI</strong></h2>
+<p>At Nan Chiau High School, we recognise artificial intelligence as a powerful
+learning tool that, when used responsibly and ethically, can enhance educational
+experiences and develop future-ready competencies.</p>
+<p>Our approach to AI usage is grounded in the principles of academic integrity,
+responsible digital citizenship, and meaningful learning that cultivates
+critical thinking, creativity, and ethical decision-making.</p>
 <h2><strong>DEPARTMENT DETAILS</strong></h2>
 <p><strong>Head of Department:</strong> Mr John Mak
 <br><strong>SH/Innovation: </strong>Ms Doris Toh</p>
-<p><strong>Department ICT Champions (2025):</strong> 
-<br>Mdm Hani (Science Department) (ICT Committee 2IC)
+<p><strong>Department ICT Champions (2026):</strong> 
+<br>Mdm Hani (Science Department)
 <br>Ms Angeline Yar Rumin (PE Department)
-<br>Ms Charlene Chen Ying (Humanities Department)
 <br>Ms Cherlene Lau (ELL Department)
 <br>Mr Esmond Tay Rong Yao (Science Department)
+<br>Mr Lok Liang Min (Humanities Department)
 <br>Mdm Ong Wen Hui (Aesthetics Department)
-<br>Ms Ting Hann Sy (MTL Department)</p>
-<p><strong>Data Committee (2025):</strong> 
+<br>Ms Sun Yanan (MTL Department)</p>
+<p><strong>Data Committee (2026):</strong> 
 <br>Mdm Siak Chock Kwun
 <br>Ms Doris Toh
 <br>Mr Tay Rong Yao Esmond
 <br>Ms Nur Maizurah
 <br>Mr Quah Ee Qiang
 <br>Ms Angeline Yar Rumin</p>
-<p><strong>ICT Support Team (2025):</strong> 
+<p><strong>ICT Support Team (2026):</strong> 
 <br>Mr Koh Wei Tze John (ICT Manager)
 <br>Ms Kishmita (DE)
 <br>Mr Chua Jun Wei (DE)
 <br>
 </p>
 <p></p>
-<h2><strong>Our Create-Curate-Connect Programme </strong></h2>
+<h2><strong>Our Create-Curate-Connect Programme</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Every student a creator (Create), a contributor (Curate) and a connector (Connect).</strong>
-</p>
+<p>Every student a creator (Create), a contributor (Curate) and a connector
+(Connect).</p>
 </li>
 <li>
-<p><strong>Every teacher a designer, enabler and facilitator of meaningful and impactful learning experiences.</strong>
-</p>
+<p>Every teacher a designer, enabler and facilitator of meaningful and impactful
+learning experiences.</p>
 </li>
 <li>
-<p><strong>Every staff an effective and efficient contributor to the teaching fraternity.&nbsp;</strong>
-</p>
+<p>Every staff an effective and efficient contributor to the teaching fraternity.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCC_Use(FINAL).png">
 </div>
