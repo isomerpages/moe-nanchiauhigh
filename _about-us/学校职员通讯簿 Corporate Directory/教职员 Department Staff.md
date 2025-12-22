@@ -44,6 +44,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Miss Sheena Lee Jia En (Covering SH/Student Leadership)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Lee Wei Ling</p>
 </td>
 </tr>
@@ -60,11 +65,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Cherlene Lau Suet Ling</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Sheena Lee Jia En</p>
 </td>
 </tr>
 <tr>
