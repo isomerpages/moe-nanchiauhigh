@@ -56,6 +56,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><sup>Mrs Nguee Sin Ee</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>Admin Manager</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>nguee_sin_ee@moe.edu.sg</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><sup>Mr Teo Nguan Wee Jeff</sup>
 </p>
 </td>
