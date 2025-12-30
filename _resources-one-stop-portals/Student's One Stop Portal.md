@@ -10,9 +10,8 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong>Timetable</strong> 
-<br><a href="https://drive.google.com/drive/folders/1TixK8yxamTCox4ibVuaixktYxgTX3SVu?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Sec1 to 3 Exam Schedule</a>
+<br><a href="https://drive.google.com/drive/folders/1TixK8yxamTCox4ibVuaixktYxgTX3SVu?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Sec1 to 4 Timetable</a> *<strong><em>NEW</em></strong>
 </p>
-<p></p>
 <p><strong>EdTech Resources for NCzens and Parents</strong> 
 <br><a href="https://sites.google.com/moe.edu.sg/nchs-edtechpop/home" rel="noopener noreferrer nofollow" target="_blank">NCzens &amp; Parents EdTECHpop</a> 
 <br>&gt;&gt; *About this site: Access for latest resources on PLD and DMA
