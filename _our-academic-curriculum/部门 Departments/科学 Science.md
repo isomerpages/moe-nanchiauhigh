@@ -72,5 +72,5 @@ critical and inventive thinking. These platforms are very useful for students
 to challenge themselves in the scientific knowledge and skills and it also
 seeks to promote the excitement of learning and doing the different experiments
 in science.</p>
-<p>Click&nbsp;<a href="/our-talent-development/Department-Talent-Programmes/Science-Talent-Programme" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+<p>Click&nbsp;<a href="https://www.nanchiauhigh.moe.edu.sg/our-talent-development/department-talent-programmes/science-talent-programme/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information.</p>
