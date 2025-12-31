@@ -75,7 +75,7 @@ Staff submission)</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fmmcrequest&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3eH_wlOXftisNXHw58I6VI" rel="noopener noreferrer nofollow" target="_blank">MMC Support Request Form</a>
+<p><a href="https://go.gov.sg/mmcnchs" rel="noopener noreferrer nofollow" target="_blank">MMC Support Request Form</a>
 </p>
 </li>
 <li>
