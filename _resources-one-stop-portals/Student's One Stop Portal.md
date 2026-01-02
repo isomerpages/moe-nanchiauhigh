@@ -4,6 +4,11 @@ permalink: /our-resources/Students-Resources/
 description: ""
 variant: tiptap
 ---
+<p><strong>[By 7<sup>th</sup> January 2026, 12pm] Sec 1 CCA exploRACE Signups</strong>
+</p>
+<p><sub>Click </sub><a href="https://forms.moe.edu.sg/forms/JAz1My" rel="noopener nofollow" target="_blank">here</a><sub> to sign up</sub>
+</p>
+<p></p>
 <p><strong>(For 2025 Sec2 Students Only) </strong>
 <br><strong><sub>Sec3 Subject Combination Appeal:</sub></strong><sub> Click </sub>
 <a href="https://forms.moe.edu.sg/forms/J5D0Vp" rel="noopener nofollow" target="_blank">here</a><sub> for appeal from 04 Nov 2025 to 05 Nov 2025, 1700h only.</sub>
