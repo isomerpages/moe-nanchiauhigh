@@ -5,8 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p><strong>[By 7<sup>th</sup> January 2026, 12pm] Sec 1 CCA exploRACE Signups</strong>
-</p>
-<p><sub>Click </sub><a href="https://forms.moe.edu.sg/forms/JAz1My" rel="noopener nofollow" target="_blank">here</a><sub> to sign up</sub>
+<br><sub>Click </sub><a href="https://forms.moe.edu.sg/forms/JAz1My" rel="noopener nofollow" target="_blank">here</a><sub> to sign up</sub>
 </p>
 <p></p>
 <p><strong>(For 2025 Sec2 Students Only) </strong>
