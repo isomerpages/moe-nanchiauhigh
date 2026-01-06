@@ -8,10 +8,7 @@ variant: tiptap
 <br><sub>Click </sub><a href="https://forms.moe.edu.sg/forms/JAz1My" rel="noopener nofollow" target="_blank">here</a><sub> to sign up</sub>
 </p>
 <p></p>
-<p><strong>(For 2025 Sec2 Students Only) </strong>
-<br><strong><sub>Sec3 Subject Combination Appeal:</sub></strong><sub> Click </sub>
-<a href="https://forms.moe.edu.sg/forms/J5D0Vp" rel="noopener nofollow" target="_blank">here</a><sub> for appeal from 04 Nov 2025 to 05 Nov 2025, 1700h only.</sub>
-</p>
+<p></p>
 <p></p>
 <p><strong>Timetable</strong> 
 <br><a href="https://drive.google.com/drive/folders/1TixK8yxamTCox4ibVuaixktYxgTX3SVu?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Sec1 to 4 Timetable</a> *(02
@@ -34,9 +31,9 @@ your ICT frustrations when any arises!</p>
 </ul>
 <p><strong>School Resources</strong> 
 <br><a href="https://drive.google.com/file/d/1FeQjZzt9Nimq-WEQAZ9yzWZfHQJd0f1h/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2026 Student Handbook</a> *<strong><em>NEW: Requires iCON login to view</em></strong> 
-<br><a href="https://drive.google.com/file/d/1VSOYTAQJ7LnXa1kR3DUre5PgKKb4Q00o/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2025 NCHS Sec1 Academic Booklet</a>
+<br><a href="https://drive.google.com/file/d/1pfsQtMxiVw49pt56Yr80-64JS0csXgYN/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2026 NCHS Sec1 Academic Booklet</a> *<strong><em>NEW</em></strong>
 <br><a href="https://drive.google.com/file/d/1hxothm7CD4oi7ooJntuBo9iqs2vTeEnd/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 NCHS Sec2 Academic Booklet</a>
-<br><a href="https://drive.google.com/file/d/1_E84LBzkl3HrBfdM46yzi3JQcPGbfd0r/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 NCHS Sec4 Academic Booklet </a>*<strong><em>NEW</em></strong>
+<br><a href="https://drive.google.com/file/d/1_E84LBzkl3HrBfdM46yzi3JQcPGbfd0r/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 NCHS Sec4 Academic Booklet</a>
 <br><a href="https://go.gov.sg/nchsecg25" rel="noopener nofollow" target="_blank">NCHS ECG Resources</a>
 <br><a href="https://www.nanchiauhigh.moe.edu.sg/Financial-Assistance-and-Bursaries/" rel="noopener noreferrer nofollow" target="_blank">Financial Assistance and Bursaries</a> 
 <br><a href="https://www.google.com/url?q=https%3A%2F%2Fschoolibrary.moe.edu.sg%2Fnanchiauhigh%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FWPAC%2FHOME&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0rI74OclwQ5RVSxfT5t-xL" rel="noopener noreferrer nofollow" target="_blank">NCHS Online Public Access Catalogue (OPAC)</a>
