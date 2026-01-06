@@ -12,9 +12,9 @@ variant: tiptap
 Jan 2026 (Fri) shall follow Day 10 timetable)</p>
 <p><strong>Curriculum Matters</strong> 
 <br><a href="https://drive.google.com/file/d/1FeQjZzt9Nimq-WEQAZ9yzWZfHQJd0f1h/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2026 Student Handbook </a>*<strong><em>NEW: Requires iCON login to view</em></strong> 
-<br><a href="https://drive.google.com/file/d/1VSOYTAQJ7LnXa1kR3DUre5PgKKb4Q00o/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2025 NCHS Sec1 Academic Booklet </a>
+<br><a href="https://drive.google.com/file/d/1pfsQtMxiVw49pt56Yr80-64JS0csXgYN/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2026 NCHS Sec1 Academic Booklet </a>*<strong><em>NEW</em></strong>
 <br><a href="https://drive.google.com/file/d/1hxothm7CD4oi7ooJntuBo9iqs2vTeEnd/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 NCHS Sec2 Academic Booklet</a>
-<br><a href="https://drive.google.com/file/d/1_E84LBzkl3HrBfdM46yzi3JQcPGbfd0r/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 NCHS Sec4 Academic Booklet </a>*<strong><em>NEW</em></strong>
+<br><a href="https://drive.google.com/file/d/1_E84LBzkl3HrBfdM46yzi3JQcPGbfd0r/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 NCHS Sec4 Academic Booklet</a>
 <br>
 </p>
 <p><strong>Parent Engagement Resources</strong> 
