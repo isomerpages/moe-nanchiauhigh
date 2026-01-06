@@ -260,7 +260,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><sup>NIL</sup>
+<p><sup>shanmugavadivu_thanabalan@moe.edu.sg</sup>
 </p>
 </td>
 </tr>
@@ -274,7 +274,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><sup>NIL</sup>
+<p><sup>gong_liping@moe.edu.sg</sup>
 </p>
 </td>
 </tr>
@@ -336,7 +336,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sup>Ms Amutha D/O V Rajoo</sup>
+<p><sup>Mr Tan Song Hou</sup>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -344,7 +344,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><sup>amutha_v_rajoo_1@moe.edu.sg</sup>
+<p><sup>tan_song_hou_1@moe.edu.sg</sup>
 </p>
 </td>
 </tr>
