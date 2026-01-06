@@ -8,10 +8,7 @@ variant: tiptap
 <br><sub>Click </sub><a href="https://forms.moe.edu.sg/forms/JAz1My" rel="noopener nofollow" target="_blank">here</a><sub> to sign up</sub>
 </p>
 <p></p>
-<p><strong>(For 2025 Sec2 Students Only) </strong>
-<br><strong><sub>Sec3 Subject Combination Appeal:</sub></strong><sub> Click </sub>
-<a href="https://forms.moe.edu.sg/forms/J5D0Vp" rel="noopener nofollow" target="_blank">here</a><sub> for appeal from 04 Nov 2025 to 05 Nov 2025, 1700h only.</sub>
-</p>
+<p></p>
 <p></p>
 <p><strong>Timetable</strong> 
 <br><a href="https://drive.google.com/drive/folders/1TixK8yxamTCox4ibVuaixktYxgTX3SVu?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Sec1 to 4 Timetable</a> *(02
