@@ -4,12 +4,6 @@ permalink: /our-resources/Students-Resources/
 description: ""
 variant: tiptap
 ---
-<p><strong>[By 7<sup>th</sup> January 2026, 12pm] Sec 1 CCA exploRACE Signups</strong>
-<br><sub>Click </sub><a href="https://forms.moe.edu.sg/forms/JAz1My" rel="noopener nofollow" target="_blank">here</a><sub> to sign up</sub>
-</p>
-<p></p>
-<p></p>
-<p></p>
 <p><strong>Timetable</strong> 
 <br><a href="https://drive.google.com/drive/folders/1TixK8yxamTCox4ibVuaixktYxgTX3SVu?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Sec1 to 4 Timetable</a> *(02
 Jan 2026 (Fri) shall follow Day 10 timetable)</p>
