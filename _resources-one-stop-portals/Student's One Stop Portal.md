@@ -28,7 +28,7 @@ your ICT frustrations when any arises!</p>
 <br><a href="https://drive.google.com/file/d/1pfsQtMxiVw49pt56Yr80-64JS0csXgYN/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2026 NCHS Sec1 Academic Booklet</a> *<strong><em>NEW</em></strong>
 <br><a href="https://drive.google.com/file/d/1hxothm7CD4oi7ooJntuBo9iqs2vTeEnd/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 NCHS Sec2 Academic Booklet</a>
 <br><a href="https://drive.google.com/file/d/1_E84LBzkl3HrBfdM46yzi3JQcPGbfd0r/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 NCHS Sec4 Academic Booklet</a>
-<br><a href="https://go.gov.sg/nchsecg25" rel="noopener nofollow" target="_blank">NCHS ECG Resources</a>
+<br><a href="https://padlet.com/nanchiauhigh/nchs-ecg-resources-2026-xhf01rdrglmqbzpd" rel="noopener nofollow" target="_blank">NCHS ECG Resources</a>
 <br><a href="https://www.nanchiauhigh.moe.edu.sg/Financial-Assistance-and-Bursaries/" rel="noopener noreferrer nofollow" target="_blank">Financial Assistance and Bursaries</a> 
 <br><a href="https://www.google.com/url?q=https%3A%2F%2Fschoolibrary.moe.edu.sg%2Fnanchiauhigh%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FWPAC%2FHOME&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0rI74OclwQ5RVSxfT5t-xL" rel="noopener noreferrer nofollow" target="_blank">NCHS Online Public Access Catalogue (OPAC)</a>
 </p>
