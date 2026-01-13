@@ -444,7 +444,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Glady Seow (Music)</p>
+<p>Ms Gladys Seow (Music)</p>
 </td>
 </tr>
 </tbody>
