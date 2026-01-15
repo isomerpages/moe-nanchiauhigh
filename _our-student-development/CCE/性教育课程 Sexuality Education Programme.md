@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCE
 ---
-<p><strong>Information on MOE Sexuality Education to be posted on Secondary Schools’ Websites for 2025</strong>
+<p><strong>Information on MOE Sexuality Education to be posted on Secondary Schools’ Websites for 2026</strong>
 </p>
 <p><strong>NAN CHIAU HIGH SCHOOL</strong>
 </p>
@@ -47,7 +47,7 @@ before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of Nan Chiau High School’s Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of Nan Chiau High School’s Sexuality Education Programme for 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
@@ -80,23 +80,23 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p><strong>At Nan Chiau High School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
+<p><strong>At Nan Chiau High School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1vIEXKHrtIeS1eMrpyDq1f7GM32WLJYKI/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Sexuality Education Lessons</a>
+<p><a href="https://drive.google.com/file/d/1zLy0a9HDO-srgTKKpkC99DinPTf6LJZG/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Sexuality Education Lessons</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1J50sLuyzl3owXaYe6KL_zlPHvUvkVjJS/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Sexuality Education Lessons</a>
+<p><a href="https://drive.google.com/file/d/1GUJzk6ExOwcKNSXXViR1QKOOpUsEeJc_/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Sexuality Education Lessons</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1Sv6UApD-3x4hA3tcHAyMIMVzhPTuMtXv/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Sexuality Education Lessons</a>
+<p><a href="https://drive.google.com/file/d/1TwLJEEY_G0mw5ATEpro2ZPF-sfuK8Dcv/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Sexuality Education Lessons</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1EinUzlqCd0vkkpZygOL9KUoFIQafITMp/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Sexuality Education Lessons</a>
+<p><a href="https://drive.google.com/file/d/1Fno0Il7OAOv2atsYRAJIBcyCt30rfKXg/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Sexuality Education Lessons</a>
 </p>
 </li>
 </ul>
@@ -104,19 +104,22 @@ which are of prime concern at this age.</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme developed
 by Health Promotion Board, in collaboration with the Ministry of Education,
 to provide Secondary 3 students with accurate information on STIs, HIV
-and protection from a health perspective. <em>eTeens</em> is conducted in
-two segments – a mass talk segment and a classroom-based programme. The
-desired outcome of the <em>eTeens</em> programme is that students are empowered
-to make wise, informed and sensible decisions.</p>
+and protection from a health perspective. With the formation of the Communicable
+Diseases Agency (CDA) on 1 April 2025, the programme would now be managed
+by CDA’s Training and Education Division instead of HPB. <em>eTeens</em> is
+conducted in two segments – a mass talk segment and a classroom-based programme.
+The desired outcome of the <em>eTeens</em> programme is that students are
+empowered to make wise, informed and sensible decisions to protect themselves
+from sexually transmitted infectious diseases.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught skills such
 as decision-making, assertiveness and negotiation to say “no” to sex and
 negative peer pressure. They also learn that the impact of STIs/HIV extends
 beyond themselves and involves their family, and the importance of responsible
 decision-making and seeking help. Abstinence and upholding family values
 are the key messages.</p>
-<p><strong>At Nan Chiau High School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
+<p><strong>At Nan Chiau High School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
-<p><a href="https://drive.google.com/file/d/1pUut_bdpJNir0ck2yq2tadOqRvdaMe--/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">eTeens Programme Lessons</a>
+<p><a href="https://drive.google.com/file/d/1PL5aLlGVd3NBrQZFfn1tEeYq_iANK2Q8/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">eTeens Programme Lessons</a>
 </p>
 <p></p>
 <p><strong>Information for Parents</strong>
@@ -127,15 +130,15 @@ education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong>Sexuality Education lessons</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <a href="https://go.gov.sg/nchs-sed-optout2025" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed form
-is to be submitted by 28/02/2025.</p>
+of the year and is also downloadable <a href="https://form.gov.sg/696623b51b3c148b27e3cd73" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
+form is to be submitted by 28/02/2026.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
-the year and is also downloadable <a href="https://go.gov.sg/nchseteens2025" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed form is
-to be submitted by 28/02/2025.</p>
+the year and is also available <a href="https://form.gov.sg/6966264d95c6d51ec1dc7c22" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
+form is to be submitted by 28/02/2026.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
-<a href="mailto:Nchs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nchs@moe.edu.sg</a>for discussion or to seek clarification about the school’s
+<a href="mailto:Nchs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nchs@moe.edu.sg</a>for discussion or to seek clarification about the school’s
 Sexuality Education programme.</p>
 <p>
 <br>
