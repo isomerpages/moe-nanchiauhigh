@@ -24,7 +24,11 @@ Jan 2026 (Fri) shall follow Day 10 timetable)</p>
 <br>&gt;&gt; <a href="https://drive.google.com/file/d/1vIQgGzrsD8xPE5l0gUxuXlQ2NvU1zGuv/view?usp=drive_link" rel="noopener nofollow" target="_blank">Q&amp;A</a>
 <br><a href="https://drive.google.com/file/d/189DO_rsLRjM1Q9pZhdqE-qHScwWW2HYa/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Sec2 Parent Engagement (22 May)</a> 
 <br>&gt;&gt; <a href="https://drive.google.com/file/d/1wHDvdvJylgNTrSc9qc4qPnodrfuCcRSE/view?usp=drive_link" rel="noopener nofollow" target="_blank">Q&amp;A</a>
-<br><a href="https://drive.google.com/file/d/16jr2ZAMYjUzsh-NbIRvZ-xQN6gmk41oe/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 Sec1 Parent Engagement (10 Jan)</a>
+<br><a href="https://drive.google.com/file/d/1W33GYlTMw6RizrhANc4xUx2EdrraC8LD/view?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Sec1 Parent Engagement Part 1 (9 Jan)</a> *<strong><em>NEW</em></strong>
+</p>
+<p><a href="https://drive.google.com/file/d/1EZvFqAdP3A-JzPdwP6Q06kzUF8zU-VQR/view?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Sec1 Parent Engagement Part 2 (9 Jan)</a> *<strong><em>NEW</em></strong>
+</p>
+<p>&gt;&gt; <a href="https://drive.google.com/file/d/1KeidwHatXb2WDSbk8A1NXRreAe8MFWIf/view?usp=drive_link" rel="noopener nofollow" target="_blank">Q&amp;A</a> *<strong><em>NEW</em></strong>
 </p>
 <p>
 <br>Parent Tip: Supporting your teen in Exploring Post-Sec Pathways <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.moe.gov.sg%2F-%2Fmedia%2Ffiles%2Fparent-kit%2Fparent-kit---supporting-your-teen-in-exploring-post-secondary-pathways.pdf&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw39nIbGQbCLzRx1-k6mBiUN" rel="noopener noreferrer nofollow" target="_blank">(Click Here)</a> 
