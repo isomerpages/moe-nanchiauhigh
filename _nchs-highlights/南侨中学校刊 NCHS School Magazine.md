@@ -4,9 +4,6 @@ permalink: /nchs-highlights/permalink/
 variant: tiptap
 description: ""
 ---
-<p>Click <strong><a href="https://drive.google.com/file/d/1BukoV1cmoCf41hxm_snsljcTaYsnAURh/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> to
-download the school magazine.</p>
-<p></p>
 <p>Campus Life @ NCHS</p>
 <p>The Nan Chiau High School Yearbook is an annual publication that features
 school events and members of the school community.</p>
@@ -63,7 +60,7 @@ school events and members of the school community.</p>
 <td rowspan="1" colspan="3">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yearbooks.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yearbooks_2025.jpg">
 </div>
 </td>
 </tr>
@@ -72,13 +69,16 @@ school events and members of the school community.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nan Chiau High School Yearbook 2024</p>
+<p><a href="https://drive.google.com/file/d/1vZrx69F7pa-C-D1-RuNiW9wjjpmvK3_8/view?usp=drive_link" rel="noopener nofollow" target="_blank">Nan Chiau High School Yearbook 2025</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nan Chiau High School Yearbook 2023</p>
+<p><a href="https://drive.google.com/file/d/1tles8At8vQxjyY3xgV9CUlypjnPu-W8e/view?usp=drive_link" rel="noopener nofollow" target="_blank">Nan Chiau High School Yearbook 2024</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nan Chiau High School Yearbook 2022</p>
+<p><a href="https://drive.google.com/file/d/1BukoV1cmoCf41hxm_snsljcTaYsnAURh/view?usp=drive_link" rel="noopener nofollow" target="_blank">Nan Chiau High School Yearbook 2023</a>
+</p>
 </td>
 </tr>
 </tbody>
