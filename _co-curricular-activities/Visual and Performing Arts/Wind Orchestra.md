@@ -6,7 +6,7 @@ third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="467" width="780" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1kb66S9dZIMXNlpLr_IdpRsGTj2d6CpxfRU6iNeXzoIA/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="467" width="780" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1kb66S9dZIMXNlpLr_IdpRsGTj2d6CpxfRU6iNeXzoIA/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p>Practice Sessions:</p>
 <ul data-tight="true" class="tight">
@@ -37,9 +37,12 @@ variant: tiptap
 <li>
 <p>Mr Liu Zhen Bo</p>
 </li>
+<li>
+<p>Mrs Tan Jie Ying</p>
+</li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7Koyz3pE7G0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7Koyz3pE7G0"></iframe>
 </div>
 <p><strong>KEY INFORMATION</strong>
 </p>
