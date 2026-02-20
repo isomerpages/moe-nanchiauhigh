@@ -34,17 +34,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Shahnaaz Bte Sidik (ST/Lit)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Michelle Yeong Xin Yi (SH/CCE)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Sheena Lee Jia En (Covering SH/Student Leadership)</p>
+<p>Mdm Shahnaaz Bte Sidik (ST/Lit)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sheena Lee Jia En (Covering SH/Student Leadership)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chong Hui Yin Elaine</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lenden Su Mei</p>
 </td>
 </tr>
 <tr>
@@ -54,22 +64,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lenden Su Mei</p>
+<p>Ms Cherlene Lau</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Meena Malinder Kaur</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sim Kian Ming</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Jie Ying</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Cherlene Lau Suet Ling</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chong Hui Yin Elaine</p>
 </td>
 </tr>
 </tbody>
