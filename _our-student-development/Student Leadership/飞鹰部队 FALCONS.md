@@ -88,12 +88,11 @@ FALCONS was one of the best opportunities in NCHS for me to grow and mature as a
 
 
 **Our Staff:**
+<br>Ms Sheena Lee Jia En
+<br>Mr Tan Jia Hao
 <br>Ms Chean Kai Xian Annette
-<br>Ms Sheena Lee
-<br>Mr Lin Wenwei
 <br>Mr Ng Jun Xiong
-
-**Advisory Panel:**
+<br>Ms Lee Zhen Yi Cheryl
 <br>Ms Tan Yi Chiann (Student Council OIC)
-<br>Ms Christabel Hung (Student Council 2IC)
-<br>Mr Lok Liang Min
+<br>Ms Hung Xue Er Christabel (Student Council 2IC)
+<br>Mr Lok Liang Min (Student Council)
