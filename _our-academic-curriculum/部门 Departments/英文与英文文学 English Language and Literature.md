@@ -13,17 +13,18 @@ as informed and caring citizens.</p>
 <p><strong>DEPARTMENT DETAILS</strong>
 <br>Mdm Anna Yap – Head of Department
 <br>Mr Fu Kaidi – Subject Head of English
-<br>Mdm Shahnaaz Sidik – Senior Teacher / Literature
 <br>Ms Angel Chiang - Subject Head of English Literature
-<br>Mrs Elaine Lim
-<br>Mr Sim Kian Ming
-<br>Ms Su Mei Lenden-Hitchcock
-<br>Ms Michelle Yeong
-<br>Mrs Tan Jie Ying
-<br>Ms Cherlene Lau
+<br>Mdm Michelle Yeong - Acting Subject Head of CCE
+<br>Mdm Shahnaaz Sidik – Senior Teacher / Literature
 <br>Ms Sheena Lee
+<br>Mdm Chong Hui Yin Elaine
+<br>Ms Lenden Su Mei
 <br>Mdm Lee Wei Ling
-<br>Ms Meena Malinder Kaur</p>
+<br>Ms Cherlene Lau
+<br>Ms Meena Malinder Kaur
+<br>Mr Sim Kian Ming
+<br>Mdm Tan Jie Ying</p>
+<p></p>
 <p><strong>Enrichment Activities:</strong>
 </p>
 <ul data-tight="true" class="tight">
