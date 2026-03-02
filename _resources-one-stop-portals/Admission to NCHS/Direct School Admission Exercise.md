@@ -5,26 +5,19 @@ description: ""
 third_nav_title: Admission to NCHS
 variant: markdown
 ---
-# **Important Announcement:** <br>
-* Schools will inform all applicants on the DSA-Sec outcomes **by Thursday, 4 September 2025**, including **both successful and unsuccessful applications**.<br>
-* The notification will be sent via **email** with an official letter with the school letterhead as an attachment.
-
------------------------------------------------------
-Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
-
-
-
 # **Important Information**
 
 
-1. Application for DSA-Sec must be submitted through the online DSA Sec Portal. The application starts on 7 May 2025 (11 am) and ends on 3 Jun 2025 (3 pm). No fee will be charged for the application. For more details, please refer to MOE website – [moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).<br>
+1. Application for DSA-Sec must be submitted through the online DSA Sec Portal. The application timeline for 2026 will be released by MOE. No fee will be charged for the application. For more details, please refer to MOE website – [moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).<br>
 2. Nan Chiau High School is a MOE Special Assistance Plan (SAP) school. All students enrolled will read Higher Chinese Language.<br>
 3. Students successfully allocated to their DSA-Sec schools will **NOT** be allowed to participate in the annual S1 Posting Exercise to opt for secondary schools, and they are expected to honour the commitment to the allocated DSA-Sec school for the entire duration of the programme.<br>
 4. They will also **NOT** be allowed to transfer to another school after the release of the PSLE results.<br>
 5. **Meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer.**<br>
+6. Schools will inform all applicants on the DSA-Sec outcomes in September 2026, including **both successful and unsuccessful applications**.<br> 
+7. The notification will be sent via **email** with an official letter with the school letterhead as an attachment.
 
 # **NCHS DSA Exercise**<br>
-NCHS is looking for promising Primary 6 students who demonstrate talent and ability in Bilingualism (Boys and Girls), Chinese Dance (Girls only), Chinese Orchestra (Boys and Girls), Basketball (Boys and Girls), Table-Tennis (Boys and Girls), Wushu (Boys and Girls), and Visual Arts (Boys and Girls). Successful applicants will join NCHS in January 2026.<br>
+NCHS is looking for promising Primary 6 students who demonstrate talent and ability in Bilingualism (Boys and Girls), Chinese Dance (Girls only), Chinese Orchestra (Boys and Girls), Basketball (Boys and Girls), Badminton (Boys and Girls), Table-Tennis (Boys and Girls), Wushu (Boys and Girls), and Visual Arts (Boys and Girls). Successful applicants will join NCHS in January 2027.<br>
 
 Generally, students should have:<br>
 *   High level of motivation and commitment to the talent areas, and in other academic and co-curricular programmes offered by the school;<br>
@@ -51,6 +44,14 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
 	
 	
 # **DSA Domain**
+# **DSA Sports &amp; Games -Badminton**
+
+
+| DSA Domain| Talent Area | Criteria |
+| -------- | -------- | -------- |
+| **Sports and Games**     | Badminton (Boys and Girls)  | -   Participation and achievements in the sport, including zonal, national and/or international level competitions.  <br>-   Consistent academic performance for P5 overall and P6 WA results, or its equivalent.     |
+
+**For more information on Badminton click [HERE](https://www.nanchiauhigh.moe.edu.sg/co-curricular-activities/Sports-and-Games/Badminton/).**
  
 # **DSA Sports &amp; Games -Basketball**
 
