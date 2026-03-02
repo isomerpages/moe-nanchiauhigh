@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Admission to NCHS
 ---
+<p>Note: The following FAQs are intended for the DSA exercise conducted in
+2025. Information will be updated for 2026 after MOE public announcement
+on DSA application.</p>
 <p><strong>1.&nbsp;&nbsp;&nbsp; What is DSA-Sec?</strong>
 </p>
 <p>DSA-Sec is an admission exercise to allow participating schools to select
