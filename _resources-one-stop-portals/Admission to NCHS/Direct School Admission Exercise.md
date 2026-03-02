@@ -51,6 +51,14 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
 	
 	
 # **DSA Domain**
+# **DSA Sports &amp; Games -Badminton**
+
+
+| DSA Domain| Talent Area | Criteria |
+| -------- | -------- | -------- |
+| **Sports and Games**     | Badminton (Boys and Girls)  | -   Participation and achievements in the sport, including zonal, national and/or international level competitions.  <br>-   Consistent academic performance for P5 overall and P6 WA results, or its equivalent.     |
+
+**For more information on Badminton click [HERE](https://www.nanchiauhigh.moe.edu.sg/co-curricular-activities/Sports-and-Games/Badminton/).**
  
 # **DSA Sports &amp; Games -Basketball**
 
