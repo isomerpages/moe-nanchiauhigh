@@ -17,5 +17,8 @@ sections:
         - title: Resources
           description: ""
           url: https://www.nanchiauhigh.moe.edu.sg/our-resources/Students-Resources/
+        - title: DSA Info
+          description: ""
+          url: ""
       background: /images/HR2_5mb.gif
 ---
