@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Admission to NCHS
 variant: markdown
 ---
-
-
 # **Important Information**
 
 
