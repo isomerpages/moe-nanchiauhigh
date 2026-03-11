@@ -13,6 +13,7 @@ Jan 2026 (Fri) shall follow Day 10 timetable)</p>
 matters
 <br><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a> 
 <br><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student Google Workspace</a> 
+<br><a href="https://www.google.com/url?q=https%3A%2F%2Fform.gov.sg%2F6279c4d743b1c300128b5088&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0TlArOOu9EtRHoOk5mWN3T" rel="noopener noreferrer nofollow" target="_blank">Report NCHS Defects (Non ICT related) Reporting</a>
 <br><a href="https://go.gov.sg/nchscccstu" rel="noopener noreferrer nofollow" target="_blank">Report ICT Defects in Classrooms</a> 
 <br><a href="https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fmoe.edu.sg%2Fnchs-create-curate-connect%2Ftechpop&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2Obot5AyPr9eJW12G_XD7s" rel="noopener noreferrer nofollow" target="_blank">NCHS TechPOP Newsletters 2020 to 2023</a>
 </p>
