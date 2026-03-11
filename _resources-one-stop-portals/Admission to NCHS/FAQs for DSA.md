@@ -99,7 +99,7 @@ to secondary school.</p>
 <br>To be successfully admitted to a DSA-Sec school, your child's Primary
 School Leaving Examination (PSLE) results must qualify them for a course
 that the school offers. Students offered placement in a DSA-Sec school
-still need a PSLE score that qualifies them for the&nbsp;<a href="https://www.moe.gov.sg/secondary/s1-posting/how-to-choose/considerations#posting-group" rel="noopener noreferrer nofollow" target="_blank">Posting Group</a> offered
+still need a PSLE score that qualifies them for the&nbsp;<a href="https://www.moe.gov.sg/secondary/s1-posting/school-choices/participation-question" rel="noopener noreferrer nofollow" target="_blank">Posting Group</a> offered
 by the school, which is <strong>Posting Group 3</strong> for Nan Chiau High
 School.</p>
 <p></p>
