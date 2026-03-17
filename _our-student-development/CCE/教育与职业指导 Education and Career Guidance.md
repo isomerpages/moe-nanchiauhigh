@@ -47,10 +47,10 @@ entrepreneur during ECG Day</p>
 on the needs and experiences of different jobs.</p>
 <p><strong>ECG Resources</strong>
 </p>
-<p>The&nbsp;<a href="https://www.moe.gov.sg/-/media/files/programmes/myskillsfuture-student-portal-brochure-digital.pdf?la=en&amp;hash=CD3B2E8DED37E7B383339007D960CF161F03F789" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture</a>&nbsp;portal
+<p>The&nbsp;<a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture</a>&nbsp;portal
 is a one-stop portal with information and tools to explore various education
 and career pathways for NCzens.&nbsp;</p>
-<p>Parents may also explore&nbsp;<a href="https://www.moe.gov.sg/-/media/files/programmes/myskillsfuture-student-portal-brochure-digital.pdf?la=en&amp;hash=CD3B2E8DED37E7B383339007D960CF161F03F789" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture</a>&nbsp;&nbsp;portal
+<p>Parents may also explore&nbsp;<a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture</a>&nbsp;&nbsp;portal
 with NCzens, to learn how to support their children in their education
 and career journey.</p>
 <p>NCzens may also book an ECG Counselling Session (assessments, analysis
