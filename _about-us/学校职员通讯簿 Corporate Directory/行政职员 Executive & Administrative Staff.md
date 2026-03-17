@@ -238,20 +238,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sup>Mdm Teo Swee Ling Elizabeth</sup>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><sup>Operations Support Officer</sup>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><sup>teo_swee_ling_elizabeth@moe.edu.sg</sup>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><sup>Mdm Shanmugavadivu</sup>
 </p>
 </td>
