@@ -63,7 +63,7 @@ Staff submission)</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.google.com/url?q=https%3A%2F%2Fform.gov.sg%2F6279c4d743b1c300128b5088&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0TlArOOu9EtRHoOk5mWN3T" rel="noopener noreferrer nofollow" target="_blank">NCHS Defect Reporting</a>
+<p><a href="https://form.gov.sg/69c1f8dfca724685b5534f56" rel="noopener noreferrer nofollow" target="_blank">NCHS Defect Reporting</a>
 </p>
 </li>
 <li>
