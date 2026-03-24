@@ -38,7 +38,8 @@ in their Mother Tongue Language</p>
 <br>Ms Chan Siew Min
 <br>Ms Qu Mei
 <br>Ms Lau Shze Enn
-<br>Mdm Tan Miow Qin</p>
+<br>Mdm Tan Miow Qin
+<br>Ms Shim Wing Yan</p>
 <p></p>
 <p>Malay (Special Programme) Unit:
 <br>Mdm Nor Hayati Bt Abdullah
