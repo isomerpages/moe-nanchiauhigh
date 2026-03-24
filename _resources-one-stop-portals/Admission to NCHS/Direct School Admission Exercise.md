@@ -85,7 +85,7 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
  
 | DSA Domain| Talent Area | Criteria |
 | -------- | -------- | -------- |
-| **Performing Arts**     |Chinese Dance **(Girls only)**  | -    Participation and achievements in related dance competitions and performances<br>-   Consistent academic performance for P5 overall and P6 WA results, or its equivalent,<br>and<br>_Preferably_<br>-   Represented their primary schools in Singapore Youth Festival (SYF) Arts Presentation.<br>-   Attained RAD/ CSTD or equivalent accreditation for dance.   |
+| **Performing Arts**     |Chinese Dance **(Girls only)**  | -    Participation and achievements in related dance competitions and performances<br>-   Consistent academic performance for P5 overall and P6 WA results, or its equivalent,<br>and<br>_Preferably_<br>-   Represented their primary schools in Singapore Youth Festival (SYF) Arts Presentation or equivalent.<br>-   Attained RAD/ CSTD or equivalent accreditation for dance.   |
 
 **For more information on Chinese Dance, click [HERE](https://www.nanchiauhigh.moe.edu.sg/co-curricular-activities/Performing-Arts/Chinese-Dance/).**
 
