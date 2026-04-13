@@ -8,7 +8,7 @@ variant: markdown
 # **Important Information**
 
 
-1. Application for DSA-Sec must be submitted through the online DSA Sec Portal between 6 May and 2 June. The application timeline for 2026 is as released by MOE. No fee will be charged for the application. For more details, please refer to MOE website – [moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).<br>
+1. Application for DSA-Sec must be submitted through the online DSA Sec Portal between 6 May and 2 June 2026. The application timeline for 2026 is as released by MOE. No fee will be charged for the application. For more details, please refer to MOE website – [moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).<br>
 2. Nan Chiau High School is a MOE Special Assistance Plan (SAP) school. All students enrolled will read Higher Chinese Language.<br>
 3. Students successfully allocated to their DSA-Sec schools will **NOT** be allowed to participate in the annual S1 Posting Exercise to opt for secondary schools, and they are expected to honour the commitment to the allocated DSA-Sec school for the entire duration of the programme.<br>
 4. They will also **NOT** be allowed to transfer to another school after the release of the PSLE results.<br>
@@ -85,7 +85,7 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
  
 | DSA Domain| Talent Area | Criteria |
 | -------- | -------- | -------- |
-| **Performing Arts**     |Chinese Dance **(Girls only)**  | -    Participation and achievements in related dance competitions and performances<br>-   Consistent academic performance for P5 overall and P6 WA results, or its equivalent,<br>and<br>_Preferably_<br>-   Represented their primary schools in Singapore Youth Festival (SYF) Arts Presentation or equivalent.<br>-   Attained RAD/ CSTD or equivalent accreditation for dance.   |
+| **Performing Arts**     |Chinese Dance **(Girls only)**  | -    Participation and achievements in dance competitions and performances at national, regional, or international levels.<br>-   Consistent academic performance for P5 overall and P6 WA results, or its equivalent,<br>and<br>_Preferably_<br>-   Attained RAD/ CSTD or equivalent accreditation for dance.   |
 
 **For more information on Chinese Dance, click [HERE](https://www.nanchiauhigh.moe.edu.sg/co-curricular-activities/Performing-Arts/Chinese-Dance/).**
 
