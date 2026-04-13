@@ -103,7 +103,7 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
 
 | DSA Domain| Talent Area | Criteria |
 | -------- | -------- | -------- |
-| **Visual Arts, Design and Media**     |Visual Arts (Boys and Girls) | -    Participation and achievements in, competitions and exhibitions.<br>-   Consistent academic performance for P5 overall and P6 WA results, or its equivalent.<br>   - Preferably represented their primary schools in Singapore Youth Festival (SYF) Art Exhibition or equivalent.<br><br> -   **An existing E-portfolio may be requested from shortlisted applicants for selection purpose with enough notice given. E-portfolio should include 8-10 pieces of original artworks done in varying media by the applicant.**<br>
+| **Visual Arts, Design and Media**     |Visual Arts (Boys and Girls) | -    Participation and achievements in Art competitions and exhibitions at national, regional, or international levels.<br>-   Consistent academic performance for P5 overall and P6 WA results, or its equivalent.<br>   <br> -   **An existing E-portfolio may be requested from shortlisted applicants for selection purpose with enough notice given. E-portfolio should include 8-10 pieces of original artworks done in varying media by the applicant.**<br>
 
 **Note:** Prospective students who are enrolled via DSA Visual Arts will have Visual Arts Club as their CCA. They will be offered [Enhanced Art Programme](https://sites.google.com/moe.edu.sg/unitquelyncart/ncart-talent-development/enhanced-art-programme-eap) at Upper Sec, taking Art as an O-Level subject.
 
