@@ -5,9 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Admission to NCHS
 ---
-<p>Note: The following FAQs are intended for the DSA exercise conducted in
-2025. Information will be updated for 2026 after MOE public announcement
-on DSA application.</p>
 <p><strong>1.&nbsp;&nbsp;&nbsp; What is DSA-Sec?</strong>
 </p>
 <p>DSA-Sec is an admission exercise to allow participating schools to select
@@ -27,7 +24,7 @@ results. Students who are not ready to commit to studying in a particular
 school to develop their chosen talent areas may wish to consider the S1
 Posting instead, in which students are admitted based on their PSLE scores.
 <br>
-<br><strong>2.&nbsp;&nbsp;&nbsp; What is the DSA process in 2025?</strong>
+<br><strong>2.&nbsp;&nbsp;&nbsp; What is the DSA process in 2026?</strong>
 <br>The selection exercise will be conducted in person with shortlisted students
 in the DSA-Sec school. The session may consist of interview components
 and/or performance tasks (e.g. demonstration of skills such as the applicant’s
@@ -60,8 +57,8 @@ areas. Applicants should include in their application any relevant certificates
 or documentation that indicates their competencies or skills relevant to
 their selected talent area.</p>
 <p><strong>5.&nbsp;&nbsp;&nbsp; After my child has submitted the application form, when will my child know if he/she has been short-listed for the interviews?</strong>
-<br>Only shortlisted applicants will be informed by the first two weeks of
-July to attend an interview/audition/sports trial.</p>
+<br>Only shortlisted applicants will be informed in July or August to attend
+an interview/audition/sports trial.</p>
 <p><strong>6.&nbsp;&nbsp;&nbsp; What do my child need to do during the audition or sports trial?</strong>
 <br><u>Performing Arts</u>
 <br>At the Audition, applicants’ level of proficiency in the relevant talent
@@ -71,9 +68,9 @@ areas will be assessed.
 sport will be assessed. Applicants are to be dressed in appropriate sports
 attire.</p>
 <p><strong>7.&nbsp;&nbsp;&nbsp; When is the selection and when will the outcome be known?</strong>
-<br>Selection for short-listed applicants will take place between 11 July
-and 31 July. Schools will inform all applicants on the DSA-Sec outcomes
-by Thursday, 4 September 2025,&nbsp;<u>including both successful and unsuccessful applications</u>.
+<br>Selection for short-listed applicants will take place in July and August.
+Schools will inform all applicants on the DSA-Sec outcomes by 28 August
+2026,&nbsp;<u>including both successful and unsuccessful applications</u>.
 <br>The notification will be sent via email with an official letter with the
 school letterhead as an attachment.</p>
 <p></p>

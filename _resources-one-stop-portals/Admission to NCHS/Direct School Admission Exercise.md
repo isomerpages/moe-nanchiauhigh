@@ -8,12 +8,12 @@ variant: markdown
 # **Important Information**
 
 
-1. Application for DSA-Sec must be submitted through the online DSA Sec Portal. The application timeline for 2026 will be released by MOE. No fee will be charged for the application. For more details, please refer to MOE website – [moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).<br>
+1. Application for DSA-Sec must be submitted through the online DSA Sec Portal. The application timeline for 2026 is as released by MOE. No fee will be charged for the application. For more details, please refer to MOE website – [moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).<br>
 2. Nan Chiau High School is a MOE Special Assistance Plan (SAP) school. All students enrolled will read Higher Chinese Language.<br>
 3. Students successfully allocated to their DSA-Sec schools will **NOT** be allowed to participate in the annual S1 Posting Exercise to opt for secondary schools, and they are expected to honour the commitment to the allocated DSA-Sec school for the entire duration of the programme.<br>
 4. They will also **NOT** be allowed to transfer to another school after the release of the PSLE results.<br>
 5. **Meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer.**<br>
-6. Schools will inform all applicants on the DSA-Sec outcomes in September 2026, including **both successful and unsuccessful applications**.<br> 
+6. Schools will inform all applicants on the DSA-Sec outcomes in end August 2026, including **both successful and unsuccessful applications**.<br> 
 7. The notification will be sent via **email** with an official letter with the school letterhead as an attachment.
 
 # **NCHS DSA Exercise**<br>
@@ -85,7 +85,7 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
  
 | DSA Domain| Talent Area | Criteria |
 | -------- | -------- | -------- |
-| **Performing Arts**     |Chinese Dance **(Girls only)**  | -    Participation and achievements in related dance competitions and performances<br>-   Consistent academic performance for P5 overall and P6 WA results, or its equivalent,<br>and<br>_Preferably_<br>-   Represented their primary schools in Singapore Youth Festival (SYF) Arts Presentation or equivalent.<br>-   Attained RAD/ CSTD or equivalent accreditation for dance.   |
+| **Performing Arts**     |Chinese Dance **(Girls only)**  | -    Participation and achievements in dance competitions and performances at national, regional, or international levels.<br>-   Consistent academic performance for P5 overall and P6 WA results, or its equivalent,<br>and<br>_Preferably_<br>-   Attained RAD/ CSTD or equivalent accreditation for dance.   |
 
 **For more information on Chinese Dance, click [HERE](https://www.nanchiauhigh.moe.edu.sg/co-curricular-activities/Performing-Arts/Chinese-Dance/).**
 
@@ -94,7 +94,7 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
  
 | DSA Domain | Talent Area | Criteria |
 | ---------- | -------- | -------- |
-| **Performing Arts**     |Chinese Orchestra (Boys and Girls)  | -       Participation and achievements in related music competitions and performances.<br>-   Consistent academic performance for P5 overall and P6 WA results, or its equivalent,<br>   and<br>_Preferably_<br>-  Represented their primary schools in Singapore Youth Festival (SYF) Arts Presentation or equivalent.<br>-   Attained ABRSM or equivalent accreditation for music/ Chinese Instruments.<br>- able to perform using an instrument that is part of Chinese orchestra.<br><br>**A video submission may be requested from shortlisted applicants for selection purposes with enough notice given. The 3-5 mins video can be filmed during the applicant's CCA session or own practice session.  Detailed instructions regarding the video requirements will be communicated via email only for shortlisted applicants.** |
+| **Performing Arts**     |Chinese Orchestra (Boys and Girls)  | -       Participation and achievements in related music competitions and performances at national, regional, or international levels.<br>-   Consistent academic performance for P5 overall and P6 WA results, or its equivalent,<br>   and<br>_Preferably_<br>- Attained ABRSM or equivalent accreditation for music/ Chinese Instruments.<br>- able to perform using an instrument that is part of Chinese orchestra.<br><br>**A video submission may be requested from shortlisted applicants for selection purposes with enough notice given. The 3-5 mins video can be filmed during the applicant's CCA session or own practice session.  Detailed instructions regarding the video requirements will be communicated via email only for shortlisted applicants.** |
 
 **For more information on Chinese Orchestra, click [HERE](https://www.nanchiauhigh.moe.edu.sg/co-curricular-activities/Performing-Arts/Chinese-Orchestra/).**
 
@@ -103,7 +103,7 @@ Talented students who are interested in NCHS are encouraged to apply for Direct 
 
 | DSA Domain| Talent Area | Criteria |
 | -------- | -------- | -------- |
-| **Visual Arts, Design and Media**     |Visual Arts (Boys and Girls) | -    Participation and achievements in, competitions and exhibitions.<br>-   Consistent academic performance for P5 overall and P6 WA results, or its equivalent.<br>   - Preferably represented their primary schools in Singapore Youth Festival (SYF) Art Exhibition or equivalent.<br><br> -   **An existing E-portfolio may be requested from shortlisted applicants for selection purpose with enough notice given. E-portfolio should include 8-10 pieces of original artworks done in varying media by the applicant.**<br>
+| **Visual Arts, Design and Media**     |Visual Arts (Boys and Girls) | -    Participation and achievements in Art competitions and exhibitions at national, regional, or international levels.<br>-   Consistent academic performance for P5 overall and P6 WA results, or its equivalent.<br>   <br> -   **An existing E-portfolio may be requested from shortlisted applicants for selection purpose with enough notice given. E-portfolio should include 8-10 pieces of original artworks done in varying media by the applicant.**<br>
 
 **Note:** Prospective students who are enrolled via DSA Visual Arts will have Visual Arts Club as their CCA. They will be offered [Enhanced Art Programme](https://sites.google.com/moe.edu.sg/unitquelyncart/ncart-talent-development/enhanced-art-programme-eap) at Upper Sec, taking Art as an O-Level subject.
 
