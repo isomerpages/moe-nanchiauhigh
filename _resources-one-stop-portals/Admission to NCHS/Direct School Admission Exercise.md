@@ -8,12 +8,12 @@ variant: markdown
 # **Important Information**
 
 
-1. Application for DSA-Sec must be submitted through the online DSA Sec Portal. The application timeline for 2026 will be released by MOE. No fee will be charged for the application. For more details, please refer to MOE website – [moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).<br>
+1. Application for DSA-Sec must be submitted through the online DSA Sec Portal between 6 May and 2 June. The application timeline for 2026 is as released by MOE. No fee will be charged for the application. For more details, please refer to MOE website – [moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).<br>
 2. Nan Chiau High School is a MOE Special Assistance Plan (SAP) school. All students enrolled will read Higher Chinese Language.<br>
 3. Students successfully allocated to their DSA-Sec schools will **NOT** be allowed to participate in the annual S1 Posting Exercise to opt for secondary schools, and they are expected to honour the commitment to the allocated DSA-Sec school for the entire duration of the programme.<br>
 4. They will also **NOT** be allowed to transfer to another school after the release of the PSLE results.<br>
 5. **Meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer.**<br>
-6. Schools will inform all applicants on the DSA-Sec outcomes in September 2026, including **both successful and unsuccessful applications**.<br> 
+6. Schools will inform all applicants on the DSA-Sec outcomes in end August 2026, including **both successful and unsuccessful applications**.<br> 
 7. The notification will be sent via **email** with an official letter with the school letterhead as an attachment.
 
 # **NCHS DSA Exercise**<br>
