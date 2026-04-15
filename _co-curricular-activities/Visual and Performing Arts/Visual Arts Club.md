@@ -58,10 +58,14 @@ variant: markdown
   
 
 **Achievements**<br>
-
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2025  Lions International 38th Peace Poster Contest - Champion School<br>
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2025 Lions International 38th Peace Poster Contest - Grand Prize Winner and <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore’s representative at the Global Finals &amp; 2 Merits Award (International)<br>
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2025 4th MacPherson Youth Lions Contest - 1st Place<br>
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2025 Live On Festival Design Competition – 3rd Place, Distinction and Merit<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2024 Live On Festival Design Competition – School of the Year (Design Competition)<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2024 Live On Festival Design Competition – 2nd Place and Distinction Awards<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SYF 2024 Art Exhibition - Certificate of Recognition<br>
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2024 SYF Art Exhibition - Certificate of Recognition<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023 Live On Festival Design Competition – 2 Distinction, 1 Merit<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023 NC.VAC.LS Book Cover Design Competition – 5 awards <br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022 Live On Festival Design Competition - 5th Place and Merit Award<br>
@@ -71,6 +75,3 @@ variant: markdown
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2021 NC 75th Anniversary Logo Design Competition – 2 Designs awarded Top 3<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2021 LIVE On Festival Design Competition – Higher Distinction award<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2021 N.E.mation – Top 10 Teams<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2020 LIVE On Art Competition – 4th position and Higher Distinction award<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2020 SYF Stronger Together<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2020 SYF Art Exhibition – Certificate of Achievement<br>
