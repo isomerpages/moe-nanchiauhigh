@@ -19,7 +19,7 @@ Fri  3pm - 6pm (Competition Season)<br><br>
 Ms Alison Tan (Overall Teacher-In-Charge)<br>
 Mr Ji Wen (Teacher-In-Charge)<br>
 Mr Lin Wen Wei (Teacher-In-Charge) <br>
-Mr Ong Sao Kai Richie (Teacher-in-Charge)<br>
+Mr Richie Ong (Teacher-in-Charge)<br>
 		
 **KEY INFORMATION**<br>
 **CCA Objectives**
@@ -34,18 +34,17 @@ The Basketball CCA aims to develop in our students a disciplined mind, outstandi
 
 **Highlight(s) of Activities**
 
-Nationals B’ Division Basketball Championship (January till April) <br>
-BMU14 Basketball Tournament (June)  <br>
-Nationals&nbsp; Zone C’ Division Basketball Championship (April - May, July - August)<br>
+NSG North Zone B Division Basketball Championship (January till April) <br>
+BMU14 Basketball Tournament (March/June)  <br>
+NSG Nationals C Division Basketball Championship (April - May, July - August)<br>
 BMU16 Basketball Tournament (November)<br>
 
 
 **Achievements**<br>
-2024 National Schools Games Basketball ‘B’ Div Girls - 3rd Runner Up<br>
-2024 National Schools Games Basketball ‘B’ Div Boys - 2nd Runner Up<br>
-2023 BMU16 Basketball Tournament Girls - 2nd Runner Up <br>
-2023 BMU16 Basketball Tournament Boys - 3rd Runner Up <br>
-2022 National Schools Games Basketball ‘B’ Div Girls – 3rd Runner Up <br>
-2022 National Schools Games Basketball ‘C’ Div Girls – 3rd Runner Up <br>
-2022 National Schools Games Basketball ‘C’ Div Boys – 2nd Runner Up<br>
-2022 BMU14 Basketball Tournament Boys - 1st Runner Up<br>
+2026 NSG North Zone B Division Basketball Championship Girls - 3rd Runner Up<br>
+2025 BMU16 Basketball Tournament Boys - 1st Runner Up<br>
+2025 BMU16 Basketball Tournament Girls - 3rd Runner Up<br>
+2024 NSG North Zone B Division Basketball Championship Girls - 3rd Runner Up<br>
+2024 NSG North Zone B Division Basketball Championship Boys - 2nd Runner Up<br>
+2023 BMU16 Basketball Tournament Girls - 2nd Runner Up<br>
+2023 BMU16 Basketball Tournament Boys - 3rd Runner Up<br>
