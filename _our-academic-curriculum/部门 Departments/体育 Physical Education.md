@@ -147,9 +147,8 @@ and social well-being.</p>
 </tr>
 </tbody>
 </table>
-<p>Achievement:
-<br>Coming Soon...</p>
-<p><strong>DEPARTMENT PROGRAMMES</strong>
+<p>
+<br><strong>DEPARTMENT PROGRAMMES</strong>
 </p>
 <p><strong>Sports @ NCHS</strong>
 <br>PE department seeks to ignite the students’ passion for sports and the
