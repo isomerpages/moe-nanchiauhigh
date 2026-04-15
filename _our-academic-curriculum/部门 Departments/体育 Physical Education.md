@@ -6,7 +6,7 @@ third_nav_title: 部门 Departments
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="467" width="780" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1JFkWmJCjUI-T_QyOSi0VoMoeeiMqUPEkEKYBiqUWJZs/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="467" width="780" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1JFkWmJCjUI-T_QyOSi0VoMoeeiMqUPEkEKYBiqUWJZs/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p><strong>Vision</strong>
 </p>
@@ -16,8 +16,6 @@ variant: tiptap
 <p>To nurture in NCzens correct values and social aptitudes, and encourage
 healthy living by equipping them with knowledge and skills for their physical
 and social well-being.</p>
-<p><strong><a href="https://drive.google.com/drive/folders/0B0NLoi7jhnNmM2hJWDVnaUxYWWM?resourcekey=0-45bq6JNoH8n1RCfpR7WqSA" rel="noopener noreferrer nofollow" target="_blank">PE Department Google Drive Link</a></strong>
-</p>
 <p><strong>DEPARTMENT DETAILS</strong>
 </p>
 <p>Staff List:</p>
@@ -42,6 +40,21 @@ and social well-being.</p>
 <th rowspan="1" colspan="1">
 <p>Areas of Specialisation</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Han Cheng Kwang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD PE/CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bachelor in Accountancy</p>
+<p>Post Diploma in Education (Physical Education)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cross Country, Volleyball, Softball</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -132,20 +145,6 @@ and social well-being.</p>
 <p>Track &amp; Field, Table-Tennis</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ryan Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PE Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bachelor of Science in Education (Physical Education)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Basketball, Football, Ultimate Frisbee</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>Achievement:
@@ -165,9 +164,8 @@ a healthy lifestyle, and develop positive values and strength of character.</p>
 <br>6. Sec 3 Leadership Camp
 <br>7. National Youth Achievement Award (NYAA) / Silver
 <br>8. Sports Leaders Programme
-<br>9. Sports Safety Programme
-<br>10. Sports Education Programme (SEP)
-<br>11. Modular Sports (Taekwondo, Golf, Swimming, etc.)</p>
+<br>9. Sports Education Programme (SEP)
+<br>10. Modular Sports (Taekwondo, Golf, Swimming, etc.)</p>
 <p><strong>CCA @ NCHS</strong>
 </p>
 <p>1. Badminton
