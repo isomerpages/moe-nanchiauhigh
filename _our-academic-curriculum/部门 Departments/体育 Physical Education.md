@@ -165,30 +165,4 @@ a healthy lifestyle, and develop positive values and strength of character.</p>
 <br>8. Sports Leaders Programme
 <br>9. Sports Education Programme (SEP)
 <br>10. Modular Sports (Taekwondo, Golf, Swimming, etc.)</p>
-<p><strong>CCA @ NCHS</strong>
-</p>
-<p>1. Badminton
-<br>2. Basketball
-<br>3. Table Tennis
-<br>4. Wushu
-<br>5. Chinese Dance
-<br>6. Chinese Orchestra
-<br>7. Choir
-<br>8. English Drama
-<br>9. Chinese Drama
-<br>10. Contemporary Dance
-<br>11. Wind Orchestra
-<br>12. String Orchestra
-<br>13. Green Club
-<br>14. Infocomm Club
-<br>15. Robotics Club
-<br>16. Multimedia Club
-<br>17. Library
-<br>18. Debate Club
-<br>19. Chinese Calligraphy
-<br>20. Mind Games (Chinese Chess &amp; Weiqi)
-<br>21. Visual Arts Club
-<br>22. NPCC
-<br>23. NCC
-<br>24. Scouts
-<br>25. Red Cross</p>
+<p></p>
