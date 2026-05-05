@@ -28,7 +28,7 @@ your ICT frustrations when any arises!</p>
 <br><a href="https://drive.google.com/file/d/1FeQjZzt9Nimq-WEQAZ9yzWZfHQJd0f1h/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2026 Student Handbook</a> *<strong><em>NEW: Requires iCON login to view</em></strong> 
 <br><a href="https://drive.google.com/drive/folders/1yCHf9f_HCCiRkOlTxfWRRKMezjQKhoP0?usp=drive_link" rel="noopener nofollow" target="_blank">Weighted Assessment 1 schedule</a>
 <br><a href="https://drive.google.com/file/d/1pfsQtMxiVw49pt56Yr80-64JS0csXgYN/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2026 NCHS Sec1 Academic Booklet</a>
-<br><a href="https://drive.google.com/file/d/1pfsQtMxiVw49pt56Yr80-64JS0csXgYN/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2026 NCHS Sec2 Academic Booklet</a> *<strong><em>NEW</em></strong>
+<br><a href="https://drive.google.com/file/d/1FGYMDRYuHpJiEMdsil2WcJwJL3_GZYf3/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2026 NCHS Sec2 Academic Booklet</a> *<strong><em>NEW</em></strong>
 <br><a href="https://drive.google.com/file/d/1E_wxObgHc5uei64jDc1KtEXW-z-M-7bB/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2026 NCHS Sec4 Academic Booklet</a> *<strong><em>NEW</em></strong>
 <br><a href="https://padlet.com/nanchiauhigh/nchs-ecg-resources-2026-xhf01rdrglmqbzpd" rel="noopener nofollow" target="_blank">NCHS ECG Resources</a>
 <br><a href="https://www.nanchiauhigh.moe.edu.sg/Financial-Assistance-and-Bursaries/" rel="noopener noreferrer nofollow" target="_blank">Financial Assistance and Bursaries</a> 
