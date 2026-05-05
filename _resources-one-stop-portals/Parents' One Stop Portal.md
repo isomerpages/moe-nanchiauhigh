@@ -12,14 +12,16 @@ variant: tiptap
 Jan 2026 (Fri) shall follow Day 10 timetable)</p>
 <p><strong>Curriculum Matters</strong> 
 <br><a href="https://drive.google.com/file/d/1FeQjZzt9Nimq-WEQAZ9yzWZfHQJd0f1h/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2026 Student Handbook </a>*<strong><em>NEW: Requires iCON login to view</em></strong> 
-<br><a href="https://drive.google.com/drive/folders/1yCHf9f_HCCiRkOlTxfWRRKMezjQKhoP0?usp=drive_link" rel="noopener nofollow" target="_blank">Weighted Assessment 1 schedule</a> *<strong><em>NEW</em></strong>
-<br><a href="https://drive.google.com/file/d/1pfsQtMxiVw49pt56Yr80-64JS0csXgYN/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2026 NCHS Sec1 Academic Booklet </a>*<strong><em>NEW</em></strong>
+<br><a href="https://drive.google.com/drive/folders/1yCHf9f_HCCiRkOlTxfWRRKMezjQKhoP0?usp=drive_link" rel="noopener nofollow" target="_blank">Weighted Assessment 1 schedule</a> 
+<br><a href="https://drive.google.com/file/d/1pfsQtMxiVw49pt56Yr80-64JS0csXgYN/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2026 NCHS Sec1 Academic Booklet</a>
+<br><a href="https://drive.google.com/file/d/1FGYMDRYuHpJiEMdsil2WcJwJL3_GZYf3/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2026 NCHS Sec2 Academic Booklet </a>*<strong><em>NEW</em></strong>
+<br><a href="https://drive.google.com/file/d/1E_wxObgHc5uei64jDc1KtEXW-z-M-7bB/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2026 NCHS Sec4 Academic Booklet </a>*<strong><em>NEW</em></strong>
 <br>
 </p>
 <p><strong>Parent Engagement Resources</strong> 
-<br><a href="https://drive.google.com/file/d/1W33GYlTMw6RizrhANc4xUx2EdrraC8LD/view?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Sec1 Parent Engagement Part 1 (9 Jan)</a> *<strong><em>NEW</em></strong>
-<br><a href="https://drive.google.com/file/d/1EZvFqAdP3A-JzPdwP6Q06kzUF8zU-VQR/view?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Sec1 Parent Engagement Part 2 (9 Jan)</a> *<strong><em>NEW</em></strong>
-<br>&gt;&gt; <a href="https://drive.google.com/file/d/1KeidwHatXb2WDSbk8A1NXRreAe8MFWIf/view?usp=drive_link" rel="noopener nofollow" target="_blank">Q&amp;A</a> *<strong><em>NEW</em></strong>
+<br><a href="https://drive.google.com/file/d/1W33GYlTMw6RizrhANc4xUx2EdrraC8LD/view?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Sec1 Parent Engagement Part 1 (9 Jan)</a>
+<br><a href="https://drive.google.com/file/d/1EZvFqAdP3A-JzPdwP6Q06kzUF8zU-VQR/view?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Sec1 Parent Engagement Part 2 (9 Jan)</a> 
+<br>&gt;&gt; <a href="https://drive.google.com/file/d/1KeidwHatXb2WDSbk8A1NXRreAe8MFWIf/view?usp=drive_link" rel="noopener nofollow" target="_blank">Q&amp;A</a>
 <br>Parent Tip: Supporting your teen in Exploring Post-Sec Pathways <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.moe.gov.sg%2F-%2Fmedia%2Ffiles%2Fparent-kit%2Fparent-kit---supporting-your-teen-in-exploring-post-secondary-pathways.pdf&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw39nIbGQbCLzRx1-k6mBiUN" rel="noopener noreferrer nofollow" target="_blank">(Click Here)</a> 
 <br>
 </p>
