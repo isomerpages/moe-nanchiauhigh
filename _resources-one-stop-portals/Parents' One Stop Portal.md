@@ -26,8 +26,10 @@ Jan 2026 (Fri) shall follow Day 10 timetable)</p>
 <br><a href="https://drive.google.com/file/d/1XvpGUfizng17nDGwKVHKz1Y-O1-MWhKW/view?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Sec3 Parent Engagement (14 May)</a> *<strong><em>NEW</em></strong>
 <br><a href="https://drive.google.com/file/d/1POk5kRb5wx4K2sXe5edY_jRU4aQvDhYK/view?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Sec4 Parent Engagement (12 May)</a> *<strong><em>NEW</em></strong>
 <br>
-<br>
-<br>
+<br>Recordings (8am to 12pm)
+<br><a href="https://drive.google.com/file/d/173Z3A9uWlpI3y7KAArSzB3mqqBQSntxx/view?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Sec2 Parent Engagement (19 May) recording</a> *<strong><em>NEW</em></strong>
+<br><a href="https://drive.google.com/file/d/1xS8u9Ryc00_EnZbhnDEFEnKdSQLqtRko/view?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Sec3 Parent Engagement (14 May) recording</a> *<strong><em>NEW</em></strong>
+<br><a href="https://drive.google.com/file/d/1FRd5lMkbVTBevxM0d8_JtPE34y-g1IBl/view?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Sec4 Parent Engagement (12 May) recording</a> *<strong><em>NEW</em></strong>
 <br>
 <br>Parent Tip: Supporting your teen in Exploring Post-Sec Pathways <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.moe.gov.sg%2F-%2Fmedia%2Ffiles%2Fparent-kit%2Fparent-kit---supporting-your-teen-in-exploring-post-secondary-pathways.pdf&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw39nIbGQbCLzRx1-k6mBiUN" rel="noopener noreferrer nofollow" target="_blank">(Click Here)</a>
 <br><a href="https://drive.google.com/file/d/1JfjShy5t3ssHVqAIwRmZQ0tJ8-IuE1Vv/view?usp=drive_link" rel="noopener nofollow" target="_blank">AI Webinar 2026</a> *<strong><em>NEW</em></strong>
