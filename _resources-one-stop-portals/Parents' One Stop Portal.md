@@ -22,7 +22,13 @@ Jan 2026 (Fri) shall follow Day 10 timetable)</p>
 <br><a href="https://drive.google.com/file/d/1W33GYlTMw6RizrhANc4xUx2EdrraC8LD/view?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Sec1 Parent Engagement Part 1 (9 Jan)</a>
 <br><a href="https://drive.google.com/file/d/1EZvFqAdP3A-JzPdwP6Q06kzUF8zU-VQR/view?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Sec1 Parent Engagement Part 2 (9 Jan)</a> 
 <br>&gt;&gt; <a href="https://drive.google.com/file/d/1KeidwHatXb2WDSbk8A1NXRreAe8MFWIf/view?usp=drive_link" rel="noopener nofollow" target="_blank">Q&amp;A</a>
-<br><a href="https://drive.google.com/file/d/1wXsp7esxlNk17iwCmOtZUYgSMkR5ddZ4/view?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Sec2 Parent Engagement Part 1 (19 May)</a> *<strong><em>NEW</em></strong>
+<br><a href="https://drive.google.com/file/d/1wXsp7esxlNk17iwCmOtZUYgSMkR5ddZ4/view?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Sec2 Parent Engagement (19 May)</a> *<strong><em>NEW</em></strong>
+<br><a href="https://drive.google.com/file/d/1XvpGUfizng17nDGwKVHKz1Y-O1-MWhKW/view?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Sec3 Parent Engagement (14 May)</a> *<strong><em>NEW</em></strong>
+<br><a href="https://drive.google.com/file/d/1POk5kRb5wx4K2sXe5edY_jRU4aQvDhYK/view?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Sec4 Parent Engagement (12 May)</a> *<strong><em>NEW</em></strong>
+<br>
+<br>
+<br>
+<br>
 <br>Parent Tip: Supporting your teen in Exploring Post-Sec Pathways <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.moe.gov.sg%2F-%2Fmedia%2Ffiles%2Fparent-kit%2Fparent-kit---supporting-your-teen-in-exploring-post-secondary-pathways.pdf&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw39nIbGQbCLzRx1-k6mBiUN" rel="noopener noreferrer nofollow" target="_blank">(Click Here)</a>
 <br><a href="https://drive.google.com/file/d/1JfjShy5t3ssHVqAIwRmZQ0tJ8-IuE1Vv/view?usp=drive_link" rel="noopener nofollow" target="_blank">AI Webinar 2026</a> *<strong><em>NEW</em></strong>
 <br>
