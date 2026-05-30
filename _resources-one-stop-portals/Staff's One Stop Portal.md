@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/nchsecg25" rel="noopener nofollow" target="_blank">NCHS ECG Resources </a><strong><em>*New</em></strong>
+<p><a href="https://go.gov.sg/nchsecg25" rel="noopener nofollow" target="_blank">NCHS ECG Resources </a>
 </p>
 </li>
 <li>
