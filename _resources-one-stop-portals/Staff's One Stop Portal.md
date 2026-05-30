@@ -45,7 +45,11 @@ Staff submission)</p>
 </ul>
 <p><strong>School Forms for Staff</strong>
 </p>
-<ul>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/nchsseasonparking" rel="noopener nofollow" target="_blank">Season Parking Application Form </a><strong><em>*New</em></strong>
+</p>
+</li>
 <li>
 <p><a href="https://go.gov.sg/bus-booking-request-form" rel="noopener noreferrer nofollow" target="_blank">Bus Booking Request</a>
 </p>
