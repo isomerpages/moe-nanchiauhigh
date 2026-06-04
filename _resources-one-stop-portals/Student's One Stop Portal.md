@@ -25,7 +25,7 @@ your ICT frustrations when any arises!</p>
 </li>
 </ul>
 <p><strong>School Resources</strong> 
-<br><a href="https://drive.google.com/file/d/1FeQjZzt9Nimq-WEQAZ9yzWZfHQJd0f1h/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2026 Student Handbook</a>  <strong><em>Requires iCON login to view</em></strong> 
+<br><a href="https://drive.google.com/file/d/1IJNRPBNx8PfsTYZQI2q6mu-ExqqO74aw/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2026 Student Handbook</a>  <strong><em>Requires iCON login to view</em></strong> 
 <br><a href="https://drive.google.com/file/d/1FElC0gcQTl4OqQ08CfHY4Jhq-R78DmK4/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 4 Prelim Exam Timetable</a> *<strong><em>NEW</em></strong>
 <br><a href="https://drive.google.com/drive/folders/1yCHf9f_HCCiRkOlTxfWRRKMezjQKhoP0?usp=drive_link" rel="noopener nofollow" target="_blank">Weighted Assessment 1 schedule</a>
 <br><a href="https://drive.google.com/file/d/1pfsQtMxiVw49pt56Yr80-64JS0csXgYN/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2026 NCHS Sec1 Academic Booklet</a>
