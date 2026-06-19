@@ -126,20 +126,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sup>Ms Goh Chew Teng</sup>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><sup>Administrative Executive</sup>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><sup>goh_chew_teng@moe.edu.sg</sup>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><sup>Ms Hany Feryna Binte Jasmi</sup>
 </p>
 </td>
@@ -247,20 +233,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><sup>shanmugavadivu_thanabalan@moe.edu.sg</sup>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><sup>Mdm Gong Liping</sup>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><sup>Operations Support Officer</sup>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><sup>gong_liping@moe.edu.sg</sup>
 </p>
 </td>
 </tr>
