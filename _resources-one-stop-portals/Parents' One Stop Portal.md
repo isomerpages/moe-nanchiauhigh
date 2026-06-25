@@ -8,8 +8,8 @@ variant: tiptap
 <br><a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener nofollow" target="_blank">Claims Portal</a>
 </p>
 <p><strong>Timetable</strong>
-<br><a href="https://drive.google.com/drive/folders/1TixK8yxamTCox4ibVuaixktYxgTX3SVu?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Sec1 to 4 Timetable</a> *(02
-Jan 2026 (Fri) shall follow Day 10 timetable)</p>
+<br><a href="https://drive.google.com/drive/folders/1TixK8yxamTCox4ibVuaixktYxgTX3SVu?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Sec1 to 4 Timetable</a> *<strong><em>NEW</em></strong>
+</p>
 <p><strong>Curriculum Matters</strong> 
 <br><a href="https://drive.google.com/file/d/1w40HK2lKdiwl-TUYZ4ESoGb8XHInZW2G/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2026 Student Handbook </a>*<strong><em>NEW: Requires iCON login to view</em></strong> 
 <br><a href="https://drive.google.com/drive/folders/1yCHf9f_HCCiRkOlTxfWRRKMezjQKhoP0?usp=drive_link" rel="noopener nofollow" target="_blank">Weighted Assessment 1 schedule</a> 
