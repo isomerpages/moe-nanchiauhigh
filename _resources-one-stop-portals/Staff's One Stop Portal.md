@@ -35,7 +35,7 @@ Digital and AI Literacy SLS lessons.</p>
 </p>
 </li>
 <li>
-<p><a href="https://sites.google.com/moe.edu.sg/nchsgreenmovement/home" rel="noopener noreferrer nofollow" target="_blank">Green Movement</a><strong><em> *New</em></strong>
+<p><a href="https://sites.google.com/moe.edu.sg/nchsgreenmovement/home" rel="noopener noreferrer nofollow" target="_blank">Digital Staff Movement Chart</a><strong><em> *New</em></strong>
 </p>
 </li>
 <li>
@@ -44,11 +44,11 @@ Staff submission) <strong><em>*New</em></strong>
 </p>
 </li>
 <li>
-<p><a href="https://sites.google.com/moe.edu.sg/nchs-staffmovement/home" rel="noopener noreferrer nofollow" target="_blank">Digital Staff Movement Chart</a>
+<p><em><s><a href="https://sites.google.com/moe.edu.sg/nchs-staffmovement/home" rel="noopener noreferrer nofollow" target="_blank"><sub>Digital Staff Movement Chart</sub></a></s></em>
 </p>
 </li>
 <li>
-<p><a href="https://www.google.com/url?q=http%3A%2F%2Fgo.gov.sg%2Fonleave&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1I1Y5PjygOP0tYdmGiL92m" rel="noopener noreferrer nofollow" target="_blank">Digital Staff Movement Form</a>
+<p><em><s><a href="https://www.google.com/url?q=http%3A%2F%2Fgo.gov.sg%2Fonleave&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1I1Y5PjygOP0tYdmGiL92m" rel="noopener noreferrer nofollow" target="_blank"><sub>Digital Staff Movement Form</sub></a></s></em>
 </p>
 </li>
 </ul>
