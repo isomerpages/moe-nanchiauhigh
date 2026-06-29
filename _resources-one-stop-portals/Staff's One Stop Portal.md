@@ -35,12 +35,21 @@ Digital and AI Literacy SLS lessons.</p>
 </p>
 </li>
 <li>
-<p><a href="https://sites.google.com/moe.edu.sg/nchsgreenmovement/home" rel="noopener noreferrer nofollow" target="_blank">Digital Staff Movement Chart</a>
+<p><a href="https://sites.google.com/moe.edu.sg/nchsgreenmovement/home" rel="noopener noreferrer nofollow" target="_blank">Green Movement</a><strong><em> *New</em></strong>
 </p>
 </li>
 <li>
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdSSVhWWtcf5vPYwb4q0uyuhToV7vgaJfsqx5poWEAjdhZmMA/viewform?usp=sharing&amp;ouid=111210575524725561693" rel="noopener noreferrer nofollow" target="_blank">Green Form</a> (For
-Staff submission)</p>
+Staff submission) <strong><em>*New</em></strong>
+</p>
+</li>
+<li>
+<p><a href="https://sites.google.com/moe.edu.sg/nchs-staffmovement/home" rel="noopener noreferrer nofollow" target="_blank">Digital Staff Movement Chart</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.google.com/url?q=http%3A%2F%2Fgo.gov.sg%2Fonleave&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1I1Y5PjygOP0tYdmGiL92m" rel="noopener noreferrer nofollow" target="_blank">Digital Staff Movement Form</a>
+</p>
 </li>
 </ul>
 <p><strong>School Forms for Staff</strong>
