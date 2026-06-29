@@ -42,14 +42,7 @@ Digital and AI Literacy SLS lessons.</p>
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdSSVhWWtcf5vPYwb4q0uyuhToV7vgaJfsqx5poWEAjdhZmMA/viewform?usp=sharing&amp;ouid=111210575524725561693" rel="noopener noreferrer nofollow" target="_blank">Green Form</a> (For
 Staff submission) <strong><em>*New</em></strong>
 </p>
-</li>
-<li>
-<p><em><s><a href="https://sites.google.com/moe.edu.sg/nchs-staffmovement/home" rel="noopener noreferrer nofollow" target="_blank"><sub>Digital Staff Movement Chart</sub></a></s></em>
-</p>
-</li>
-<li>
-<p><em><s><a href="https://www.google.com/url?q=http%3A%2F%2Fgo.gov.sg%2Fonleave&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1I1Y5PjygOP0tYdmGiL92m" rel="noopener noreferrer nofollow" target="_blank"><sub>Digital Staff Movement Form</sub></a></s></em>
-</p>
+<p></p>
 </li>
 </ul>
 <p><strong>School Forms for Staff</strong>
@@ -192,5 +185,14 @@ Virtual School Library</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/technical%20and%20account%20issues%20chart%20june2023%20staff.png">
 </div>
-<p></p>
+<ul>
+<li>
+<p><em><s><a href="https://sites.google.com/moe.edu.sg/nchs-staffmovement/home" rel="noopener noreferrer nofollow" target="_blank"><sub>Movement Chart</sub></a></s></em>
+</p>
+</li>
+<li>
+<p><em><s><a href="https://www.google.com/url?q=http%3A%2F%2Fgo.gov.sg%2Fonleave&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1I1Y5PjygOP0tYdmGiL92m" rel="noopener noreferrer nofollow" target="_blank"><sub>Movement Form</sub></a></s></em>
+</p>
+</li>
+</ul>
 <p></p>
