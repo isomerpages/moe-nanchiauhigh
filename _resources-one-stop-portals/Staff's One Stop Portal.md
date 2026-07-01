@@ -44,8 +44,13 @@ Staff submission) <strong><em>*New</em></strong>
 </p>
 </li>
 <li>
-<p><a href="https://www.google.com/url?q=http%3A%2F%2Fgo.gov.sg%2Fonleave&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1I1Y5PjygOP0tYdmGiL92m" rel="noopener noreferrer nofollow" target="_blank">Digital Staff Movement Form</a><strong><em> *For SLs only </em></strong>
+<p><a href="https://sites.google.com/moe.edu.sg/nchs-staffmovement/home" rel="noopener noreferrer nofollow" target="_blank">School Leaders Movement Chart</a>
 </p>
+</li>
+<li>
+<p><a href="https://www.google.com/url?q=http%3A%2F%2Fgo.gov.sg%2Fonleave&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1I1Y5PjygOP0tYdmGiL92m" rel="noopener noreferrer nofollow" target="_blank">School Leaders Movement Form</a>
+</p>
+<p></p>
 <p></p>
 </li>
 </ul>
@@ -189,11 +194,5 @@ Virtual School Library</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/technical%20and%20account%20issues%20chart%20june2023%20staff.png">
 </div>
-<ul>
-<li>
-<p><em><s><a href="https://sites.google.com/moe.edu.sg/nchs-staffmovement/home" rel="noopener noreferrer nofollow" target="_blank"><sub>Movement Chart</sub></a></s></em>
-</p>
 <p></p>
-</li>
-</ul>
 <p></p>
