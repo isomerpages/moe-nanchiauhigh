@@ -29,12 +29,10 @@ in their Mother Tongue Language</p>
 <br>Mr Tan Jia Hao (SH/CL)
 <br>Ms Ting Hann Sy
 <br>Miss Kim Lay Tin
-<br>Mdm Ye Bijiao
 <br>Mdm Zhang Chunyu
 <br>Mr Liu Zhenbo
 <br>Dr Wang Zhe
 <br>Mr Ji Wen
-<br>Mr Ng Jun Xiong
 <br>Ms Chan Siew Min
 <br>Ms Qu Mei
 <br>Ms Lau Shze Enn
